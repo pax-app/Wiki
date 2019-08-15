@@ -1,6 +1,15 @@
-- [Link1](www.google.com)
-  - [Link1.1](www.google.com)
-  - [Link1.2](www.google.com)
-  - [Link1.3](www.google.com)
-- [Link2](www.google.com)
-  - [Link2.1](www.google.com)
+- **Dinâmica e Seminário I**
+  - [exemplo](docs/dinamica-e-seminario-1/exemplo.md)
+  - [Link1.3](https://www.google.com)
+- **Dinâmica e Seminário II**
+  - [Link1.1](https://www.google.com)
+  - [Link1.3](https://www.google.com)
+- **Dinâmica e Seminário III**
+  - [Link1.1](https://www.google.com)
+  - [Link1.3](https://www.google.com)
+- **Dinâmica e Seminário IV-a**
+  - [Link1.1](https://www.google.com)
+  - [Link1.3](https://www.google.com)
+- **Dinâmica e Seminário IV-b**
+  - [Link1.1](https://www.google.com)
+  - [Link1.3](https://www.google.com)
