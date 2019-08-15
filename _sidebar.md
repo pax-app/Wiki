@@ -7,9 +7,11 @@
 - **Dinâmica e Seminário III**
   - [Link1.1](https://www.google.com)
   - [Link1.3](https://www.google.com)
-- **Dinâmica e Seminário IV-a**
+- **Dinâmica e Seminário IV-A**
   - [Link1.1](https://www.google.com)
   - [Link1.3](https://www.google.com)
-- **Dinâmica e Seminário IV-b**
+- **Dinâmica e Seminário IV-B**
   - [Link1.1](https://www.google.com)
   - [Link1.3](https://www.google.com)
+- **Iniciativas Extras**
+  - [Link1.1](https://www.google.com)
