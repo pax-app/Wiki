@@ -1,15 +1,16 @@
-- **Dinâmica e Seminário I**
-  - [exemplo](docs/dinamica-e-seminario-1/exemplo.md)
-  - [Link1.3](https://www.google.com)
-- **Dinâmica e Seminário II**
-  - [Link1.1](https://www.google.com)
-  - [Link1.3](https://www.google.com)
-- **Dinâmica e Seminário III**
-  - [Link1.1](https://www.google.com)
-  - [Link1.3](https://www.google.com)
-- **Dinâmica e Seminário IV-a**
-  - [Link1.1](https://www.google.com)
-  - [Link1.3](https://www.google.com)
-- **Dinâmica e Seminário IV-b**
-  - [Link1.1](https://www.google.com)
-  - [Link1.3](https://www.google.com)
+- [**Dinâmica e Seminário I**](docs/DS/dinamica-e-seminario-1/README.md)
+  - [Link](https://www.google.com)
+- [**Dinâmica e Seminário II**](docs/DS/dinamica-e-seminario-2/README.md)
+  - [Link](https://www.google.com)
+  - [Link](https://www.google.com)
+- [**Dinâmica e Seminário III**](docs/DS/dinamica-e-seminario-3/README.md)
+  - [Link](https://www.google.com)
+  - [Link](https://www.google.com)
+- [**Dinâmica e Seminário IV a**](docs/DS/dinamica-e-seminario-4-a/README.md)
+  - [Link](https://www.google.com)
+  - [Link](https://www.google.com)
+- [**Dinâmica e Seminário IV b**](docs/DS/dinamica-e-seminario-4-b/README.md)
+  - [Link](https://www.google.com)
+  - [Link](https://www.google.com)
+- [**Iniciativas Extras**](docs/iniciativas-extras/README.md)
+  - [Link](https://www.google.com)

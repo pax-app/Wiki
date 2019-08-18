@@ -1,0 +1,6 @@
+- [DS I](docs/DS/dinamica-e-seminario-1/README.md)
+- [DS II](docs/DS/dinamica-e-seminario-2/README.md)
+- [DS III](docs/DS/dinamica-e-seminario-3/README.md)
+- [DS IV a](docs/DS/dinamica-e-seminario-4-a/README.md)
+- [DS IV b](docs/DS/dinamica-e-seminario-4-b/README.md)
+- [Iniciativas Extras](docs/iniciativas-extras/README.md)
