@@ -1,5 +1,6 @@
 - [**Dinâmica e Seminário I**](docs/DS/dinamica-e-seminario-1/README.md)
   - [Rich Picture](docs/DS/dinamica-e-seminario-1/RichPicture.md)
+  - [Mapa Mental](docs/DS/dinamica-e-seminario-1/MapaMental.md)
   - [Entrevista](docs/DS/dinamica-e-seminario-1/Entrevista.md)
 - [**Dinâmica e Seminário II**](docs/DS/dinamica-e-seminario-2/README.md)
   - [Link](https://www.google.com)
