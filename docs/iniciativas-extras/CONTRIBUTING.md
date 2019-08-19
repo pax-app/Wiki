@@ -5,30 +5,30 @@
 Para contribuir com o projeto é muito fácil e cada pouquinho conta! Basta seguir os seguintes passos:
 
 * *Fork* do repositório (apenas para usuários externos)
-* Criar [*issues*](docs/iniciativas-extras/CONTRIBUTING.md#política-de-issues)
-* Criar [*branchs*](docs/iniciativas-extras/CONTRIBUTING.md#política-de-branches)
-* Seguir a política de [*commits*](docs/iniciativas-extras/CONTRIBUTING.md#política-de-commits)
-* Submeter [*Pull Request*](docs/iniciativas-extras/CONTRIBUTING.md#política-de-merges-e-pull-requests)
+* Criar [*issues*](CONTRIBUTING.md#política-de-issues)
+* Criar [*branchs*](CONTRIBUTING.md#política-de-branches)
+* Seguir a política de [*commits*](CONTRIBUTING.md#política-de-commits)
+* Submeter [*Pull Request*](CONTRIBUTING.md#política-de-merges-e-pull-requests)
 
 
 ### Política de Issues
 
 As *issues* devem possuir título, descrição, no mínimo um assinante responsável, *labels*,  *milestone*(a *sprint* que deve ser concluída).
 
-Para criação de issue o [template Issue](docs/iniciativas-extras/ISSUE_TEMPLATE.md) deve ser seguido.
+Para criação de issue o [template Issue](ISSUE_TEMPLATE.md) deve ser seguido.
 
 ### Política de Branches  
 
 #### *master*
 
 A branch *master* é a branch de produção, onde ficará a versão estável do projeto. Ela estará bloqueada para commits e para pushs.
-Veja a política de merges no tópico [Merges para *master*](docs/iniciativas-extras/CONTRIBUTING.md#merges-para-master).
+Veja a política de merges no tópico [Merges para *master*](CONTRIBUTING.md#merges-para-master).
 
 #### *development*
 
 A branch *development* é a branch de desenvolvimento, onde o trabalho das outras branchs será unificado e onde será criada uma versão estável para mesclar com a *master*.
 Assim como a *master* ela está bloqueada para commits e pushs.
-Veja a política de merges no tópico [Merges para development](docs/iniciativas-extras/CONTRIBUTING.md#merges-para-development)
+Veja a política de merges no tópico [Merges para development](CONTRIBUTING.md#merges-para-development)
 merges para *development*</a> .
 
 #### Nome das Branches  
@@ -96,9 +96,9 @@ HOTFIX #5 Atualizando guia de contribuição do projeto
 
 #### Pull Requests
 
-Pull requests devem ser feitos para a branch *master* seguindo as regras e os passos do tópico [*Merges para master*](docs/iniciativas-extras/CONTRIBUTING.md#merges-para-master). No conteúdo do pull request deve haver uma descrição clara do que foi feito.
+Pull requests devem ser feitos para a branch *master* seguindo as regras e os passos do tópico [*Merges para master*](CONTRIBUTING.md#merges-para-master). No conteúdo do pull request deve haver uma descrição clara do que foi feito.
 
-Deve ser seguido o [template Pull Request](docs/iniciativas-extras/PULL_REQUEST_TEMPLATE.md).
+Deve ser seguido o [template Pull Request](PULL_REQUEST_TEMPLATE.md).
 
 ##### Work in Progress
 
