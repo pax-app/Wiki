@@ -9,4 +9,7 @@
 # Assignees
 A issue deve ser atribuída a pelo menos um colaborador do projeto.
 
+# Critérios de Aceitação
+- [ ] 
+
 <!---Não esquecer de fazer as devidas referências no menu lateral direito--->
