@@ -3,6 +3,7 @@
   - [Benchmarking](docs/DS/dinamica-e-seminario-1/Benchmarking.md)
   - [Rich Picture](docs/DS/dinamica-e-seminario-1/RichPicture.md)
   - [Mapa Mental](docs/DS/dinamica-e-seminario-1/MapaMental.md)
+  - [Curva de Valor](docs/DS/dinamica-e-seminario-1/CurvadeValor.md)
   - [Entrevista](docs/DS/dinamica-e-seminario-1/Entrevista.md)
   - [Briefing](docs/DS/dinamica-e-seminario-1/Briefing.md)
 - [**Dinâmica e Seminário II**](docs/DS/dinamica-e-seminario-2/README.md)
