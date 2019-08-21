@@ -1,5 +1,6 @@
 - [**Dinâmica e Seminário I**](docs/DS/dinamica-e-seminario-1/README.md)
   - [Argumentação](docs/DS/dinamica-e-seminario-1/Argumentacao.md)
+  - [Benchmarking](docs/DS/dinamica-e-seminario-1/Benchmarking.md)
   - [Rich Picture](docs/DS/dinamica-e-seminario-1/RichPicture.md)
   - [Mapa Mental](docs/DS/dinamica-e-seminario-1/MapaMental.md)
   - [Entrevista](docs/DS/dinamica-e-seminario-1/Entrevista.md)
