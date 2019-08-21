@@ -5,9 +5,10 @@ O **Mapa Mental** é um poderoso método que visa auxiliar no armazenamento, org
 
 ## Tecnologias
 
-Para melhor visualizar as opções de tecnologias a serem empregadas no projeto e suas vantagens e desvantagens, foi elaborado um *Mapa Mental*  que fosse auxiliar na escolha do time.
+Para melhor visualizar as opções de tecnologias a serem empregadas no projeto e suas vantagens e desvantagens, foi elaborado um *Mapa Mental* que fosse auxiliar na escolha do time.
 
-![MM_Tecnologias_V1](../../../assets/MM_Tecnologias_V1.png)
+[<img src="../../../assets/MM_Tecnologias_V1.png">](https://coggle.it/diagram/XVmBLRWw0DJ-JnGy/t/tecnologias)
+Mapa mental realizado com a ferramenta Coggle e pode ser encontrado [aqui](https://drive.google.com/open?id=1dyNosB2fu78sD60NqvaN29aFuhgtPUJ6)
 
 # Referências
 
@@ -17,4 +18,5 @@ MATUDA, Danielle M.; BEGOSSO, Luiz C. Mapas Mentais na Engenharia de Requisitos.
 
 |   Data   |  Versão  |        Descrição       |          Autor(es)          |
 |:--------:|:--------:|:----------------------:|:---------------------------:|
-|18/08/2019|   0.1    |  Criação do documento |  Rogério Júnior  |
+|18/08/2019|   0.1    |  Criação do documento |  Rogério Júnior e Youssef Muhamad |
+|21/08/2019|   0.2    | Link da imagem com o software usado  |  Youssef Muhamad |
