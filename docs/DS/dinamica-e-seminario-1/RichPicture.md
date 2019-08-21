@@ -6,12 +6,12 @@ Um <i>rich picture</i> é um documento que é composto por representações de d
 
 ## Histórico de Revisões
 
-|   Data   |  Versão  |        Descrição       |          Autor(es)          |
-|:--------:|:--------:|:----------------------:|:---------------------------:|
-| 18/08/2019 |   0.1    |  Criação do documento |  Felipe Campos  |
-| 18/08/2019 | 0.2 | Adicionando descrição dos artefatos | Rogério Júnior |
-| 18/09/2018 | 1.0 | Adicionando primeira versão dos artefatos e autores | Rogério Júnior |
-|21/08/2019|   1.0    |  Arrumando detalhes do documentos |  Ésio Freitas  |
+|    Data    | Versão |                      Descrição                      |   Autor(es)    |
+| :--------: | :----: | :-------------------------------------------------: | :------------: |
+| 18/08/2019 |  0.1   |                Criação do documento                 | Felipe Campos  |
+| 18/08/2019 |  0.2   |         Adicionando descrição dos artefatos         | Rogério Júnior |
+| 18/09/2018 |  1.0   | Adicionando primeira versão dos artefatos e autores | Rogério Júnior |
+| 21/08/2019 |  1.0   |          Arrumando detalhes do documentos           |  Ésio Freitas  |
 
 ## Versões 1.0
 
@@ -82,4 +82,3 @@ As primeiras versões buscaram representar as visões de cada um dos membros com
 ## Referências
 
 MONK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning about Work Context. Methods and Tools, ACM 1072-5220/98/0300, pp. 21-30, April 1998.
-

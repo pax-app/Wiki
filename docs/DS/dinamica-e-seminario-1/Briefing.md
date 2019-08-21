@@ -2,11 +2,11 @@
 
 ## Sobre o produto
 
-Uma aplicação mobile que disponibiliza um conjunto abrangente de diversos serviços com propósito de  facilitar a comunicação entre prestador de serviço e contratante com foco em qualidade e segurança para ambos os tipos de usuário(contratado e contratante).
+Uma aplicação mobile que disponibiliza um conjunto abrangente de diversos serviços com propósito de facilitar a comunicação entre prestador de serviço e contratante com foco em qualidade e segurança para ambos os tipos de usuário(contratado e contratante).
 
 ## 1. Por que do produto?
 
-Em alguns momentos da vida necessitamos de serviços diversos(pintor, diarista, eletricista, arrumador de portão...etc). E para conseguir um desses serviço, precisamos entrar em contato com o prestador. Entretanto, sabemos que arranjar o contato de um desses trabalhadores é necessário pedir indicação para pessoas próximas ou fazer uma pesquisa pelo bairro para encontrar alguém disposto a realizar o serviço. Nesse contexto vimos  a necessidade de uma aplicação que, possibilite às pessoas encontrar, de uma forma mais fácil e abrangente, trabalhadores dispostos a realizar o serviço.
+Em alguns momentos da vida necessitamos de serviços diversos(pintor, diarista, eletricista, arrumador de portão...etc). E para conseguir um desses serviço, precisamos entrar em contato com o prestador. Entretanto, sabemos que arranjar o contato de um desses trabalhadores é necessário pedir indicação para pessoas próximas ou fazer uma pesquisa pelo bairro para encontrar alguém disposto a realizar o serviço. Nesse contexto vimos a necessidade de uma aplicação que, possibilite às pessoas encontrar, de uma forma mais fácil e abrangente, trabalhadores dispostos a realizar o serviço.
 
 Como o uso de celulares é mais conveniente para as pessoas, o uso desses sistemas para tal finalidade se mostra uma escolha mais inteligente pois permite melhor agilidade para o usuário.
 
@@ -22,7 +22,7 @@ A aplicação pode ser usada pelo indivíduo no celular, o que proporciona maior
 
 ## 4. Qual é a solução com maior impacto e menor esforço?
 
-A solução com o maior impacto é automatizar o processo já existente, da procura de serviços e comunicação entre as partes(contratante e contratado), unido com a possibilidade de avaliação do serviço prestado e certificado de segurança, que  proporciona melhor confiabilidade para os usuários.
+A solução com o maior impacto é automatizar o processo já existente, da procura de serviços e comunicação entre as partes(contratante e contratado), unido com a possibilidade de avaliação do serviço prestado e certificado de segurança, que proporciona melhor confiabilidade para os usuários.
 
 O menor esforço vem da portabilidade da aplicação e também da automatização do processo feito para procurar um serviço assim, permitindo que o usuário tenha o menor esforço possível para encontrar serviços.
 
@@ -36,6 +36,6 @@ Modelo de referência para a montagem do documento: <https://docs.google.com/doc
 
 ### Histórico de Revisões
 
-|   Data   |  Versão  |        Descrição       |          Autor(es)          |
-|:--------:|:--------:|:----------------------:|:---------------------------:|
-|20/08/2019|   0.1    |  Criação do documento |  Fabiana Luiza Vasconcelos Pfeilsticker Ribas  |
+|    Data    | Versão |      Descrição       |                  Autor(es)                   |
+| :--------: | :----: | :------------------: | :------------------------------------------: |
+| 20/08/2019 |  0.1   | Criação do documento | Fabiana Luiza Vasconcelos Pfeilsticker Ribas |
