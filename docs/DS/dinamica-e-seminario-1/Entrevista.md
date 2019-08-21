@@ -2,6 +2,16 @@
 
 A entrevista foi realizada para entender melhor os problemas e as necessidades de um possível usuário do aplicativo a ser desenvolvido pelo grupo. Com o resultado da entrevista, pudemos analisar o que é essencial para a aplicação ser efetiva e a priorização das funcionalidades a serem feitas.  
 
+## Histórico de Revisões
+
+|   Data   |  Versão  |        Descrição       |          Autor(es)          |
+|:--------:|:--------:|:----------------------:|:---------------------------:|
+|14/08/2019|   0.1    |  Criação da v1.0 do roteiro da entrevista |  Lucas Dutra  |
+|18/08/2019|   0.2    |  Criação da v2.0 do roteiro da entrevista |  Lucas Dutra  |
+|18/08/2019|   0.3    |  Realização de entrevistas |  Kaique Borges  |
+|18/08/2019|   1.0    |  Realização de entrevistas |  Lucas Dutra  |
+|21/08/2019|   1.1    |  Arrumando detalhes do documentos |  Ésio Freitas  |
+
 ## Roteiro da Entrevista v1.0
 
 ### Perguntas
@@ -98,11 +108,3 @@ O áudio dessa entrevista pode ser encontrado no nossos arquivos do Drive.
 
 **Feedback: muito necessária a prestação de serviços para idosos e seria perfeita para a realidade de muita gente que conheço.**
 
-### Histórico de Revisões
-
-|   Data   |  Versão  |        Descrição       |          Autor(es)          |
-|:--------:|:--------:|:----------------------:|:---------------------------:|
-|14/08/2019|   0.1    |  Criação da v1.0 do roteiro da entrevista |  Lucas Dutra  |
-|18/08/2019|   0.2    |  Criação da v2.0 do roteiro da entrevista |  Lucas Dutra  |
-|18/08/2019|   0.3    |  Realização de entrevistas |  Kaique Borges  |
-|18/08/2019|   1.0    |  Realização de entrevistas |  Lucas Dutra  |
