@@ -107,10 +107,7 @@ O áudio dessa entrevista pode ser encontrado no nossos arquivos do Drive.
 9. Um motivo seria a confibilidade no aplicativo, pois se esse app não forncece nenhuma funcionalidade como feedback de outros contratantes, baixa quantidade de ofertas ou não deixe claro a qualidade dos prestadores de serviços (Avaliação e comentários).
 
 **Feedback: muito necessária a prestação de serviços para idosos e seria perfeita para a realidade de muita gente que conheço.**
-<<<<<<< 9484b52c9602756ee40f08ca72421cfafefa472b
-=======
 
 ## Referências
 
 Materiais didáticos das aulas dos professores Milene Serrano e Mauricio Serrano
->>>>>>> Add Benchmarking docs

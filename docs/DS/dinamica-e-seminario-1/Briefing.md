@@ -1,8 +1,16 @@
-# Briefing
+# Briefing  
+
+O briefing é um documento que serve como um guia para a execução de um projeto. Ele contém uma série de informações como: dados sobre a empresa, o mercado em que ela atua, o público ao qual ela se direciona e os seus objetivos com o projeto. Assim, a equipe terá um direcionamento mais claro para a realização dos seus trabalhos.  
 
 ## Sobre o produto
 
 Uma aplicação mobile que disponibiliza um conjunto abrangente de diversos serviços com propósito de facilitar a comunicação entre prestador de serviço e contratante com foco em qualidade e segurança para ambos os tipos de usuário(contratado e contratante).
+
+## Histórico de Revisões
+
+|    Data    | Versão |      Descrição       |                  Autor(es)                   |
+| :--------: | :----: | :------------------: | :------------------------------------------: |
+| 20/08/2019 |  0.1   | Criação do documento | Fabiana Luiza Vasconcelos Pfeilsticker Ribas |
 
 ## 1. Por que do produto?
 
@@ -32,10 +40,6 @@ Por intermédio de reportes e feedbacks dos usuários, tanto contratante como co
 
 # Referências
 
+O que é briefing? Definição, importância e como fazer em 8 passos. Acessado 21/08/2019 em: <https://mindminers.com/blog/o-que-e-briefing/>
+
 Modelo de referência para a montagem do documento: <https://docs.google.com/document/d/1Ce_W5hReHlpsoIqiCrv84c7o8TK4QY2BpxQS9PnzjZc/edit>
-
-### Histórico de Revisões
-
-|    Data    | Versão |      Descrição       |                  Autor(es)                   |
-| :--------: | :----: | :------------------: | :------------------------------------------: |
-| 20/08/2019 |  0.1   | Criação do documento | Fabiana Luiza Vasconcelos Pfeilsticker Ribas |
