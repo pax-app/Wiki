@@ -10,7 +10,7 @@ Um <i>rich picture</i> é um documento que é composto por representações de d
 | :--------: | :----: | :-------------------------------------------------: | :------------: |
 | 18/08/2019 |  0.1   |                Criação do documento                 | Felipe Campos  |
 | 18/08/2019 |  0.2   |         Adicionando descrição dos artefatos         | Rogério Júnior |
-| 18/09/2018 |  1.0   | Adicionando primeira versão dos artefatos e autores | Rogério Júnior |
+| 18/08/2019 |  1.0   | Adicionando primeira versão dos artefatos e autores | Rogério Júnior |
 | 21/08/2019 |  1.0   |          Arrumando detalhes do documentos           |  Ésio Freitas  |
 
 ## Versões 1.0
