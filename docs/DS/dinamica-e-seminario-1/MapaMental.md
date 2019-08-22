@@ -18,4 +18,4 @@ Mapa mental confeccionado com a ferramenta Coggle e pode ser visto na integra no
 **Autor(es):** [Rogério Júnior](https://github.com/rogerioo) e [Youssef Muhamad](https://github.com/youssef-md).
 
 ## Referências
-MATUDA, Danielle M.; BEGOSSO, Luiz C. Mapas Mentais na Engenharia de Requisitos. A, Assis, SP - Brasil.
+* MATUDA, Danielle M.; BEGOSSO, Luiz C. Mapas Mentais na Engenharia de Requisitos. A, Assis, SP - Brasil.

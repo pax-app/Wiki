@@ -7,10 +7,13 @@ Curva de valor é um gráfico criado pelos autores W. Chan Kim e Renee Mauborgne
 |    Data    | Versão |      Descrição       |           Autor(es)            |
 | :--------: | :----: | :------------------: | :----------------------------: |
 | 21/08/2019 |  1.0   | Adicionando conteudo |          Ésio Freitas e Lucas Dutra       |
+| 22/08/2019 |  1.1   | Adicionando referencias |          Ésio Freitas      |
 
 ## Curva de Valor v1.0
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2frGdeLZbE8LW40KdEN60FD-kbLF4kz-IsGn4AVv6bC0TmvRmiHGdhUb1JL6HLKh3a9BWshFhYyOp/pubhtml?widget=true&amp;headers=false" width="100%" height="700px"></iframe>  
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2frGdeLZbE8LW40KdEN60FD-kbLF4kz-IsGn4AVv6bC0TmvRmiHGdhUb1JL6HLKh3a9BWshFhYyOp/pubhtml?widget=true&amp;headers=false" width="100%" height="700px"></iframe> 
+
+![curvaValor](../../../assets/oceano.jpg":no-zoom")
 
 **Autor(es):** [Esio Gustavo](https://github.com/EsioFreitas) e [Lucas Dutra](https://github.com/lucasdutraf).
 
@@ -38,4 +41,8 @@ A partir de análises das necessidades do público alvo, foi identificada a nece
 
 ## Referências
 
-Significado de Benchmarking. Acessado 21/08/2019 em: <https://www.significados.com.br/benchmarking/>
+* O Que é e Para Que Serve Uma Curva de Valor (Strategy Canvas)?. Acessado dia **20/08/2019** em: <https://blog.luz.vc/o-que-e/curva-de-valor-strategy-canvas/> 
+
+* Curva de Valor: Saiba como definir sua estratégia e se diferenciar da concorrência (garantido). Acessado dia **20/08/2019** em: <https://capitalsocial.cnt.br/curva-de-valor/> 
+
+* Curva de Valor: Construa a sua passo a passo. Acessado dia **20/08/2019** em: <https://blog.softensistemas.com.br/curva-de-valor/> 
