@@ -10,7 +10,9 @@ Curva de valor é um gráfico criado pelos autores W. Chan Kim e Renee Mauborgne
 
 ## Curva de Valor v1.0
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2frGdeLZbE8LW40KdEN60FD-kbLF4kz-IsGn4AVv6bC0TmvRmiHGdhUb1JL6HLKh3a9BWshFhYyOp/pubhtml?widget=true&amp;headers=false" width="100%" height="700px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2frGdeLZbE8LW40KdEN60FD-kbLF4kz-IsGn4AVv6bC0TmvRmiHGdhUb1JL6HLKh3a9BWshFhYyOp/pubhtml?widget=true&amp;headers=false" width="100%" height="700px"></iframe>  
+
+**Autor(es):** [Esio Gustavo](https://github.com/EsioFreitas) e [Lucas Dutra](https://github.com/lucasdutraf).
 
 ## Conclusões 
 

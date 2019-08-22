@@ -30,7 +30,10 @@ A entrevista foi realizada para entender melhor os problemas e as necessidades d
 
 7. A opinião de outros contratantes sobre um prestador de serviço é um ponto chave para você efetuar a contratação?
 
-8. Qual método de pagamento você costuma usar o prestador de serviço contratado?
+8. Qual método de pagamento você costuma usar para pagar o prestador de serviço contratado?  
+
+**Autor:** [Lucas Dutra](https://github.com/lucasdutraf).
+
 
 ## Roteiro da Entrevista v2.0
 
@@ -54,7 +57,10 @@ A entrevista foi realizada para entender melhor os problemas e as necessidades d
 
 9. Teria algum motivo para não usar um aplicativo que contrate prestadores de serviço? Quais?
 
-10. **Pergunta extra** (feita baseada nas respostas do entrevistado 1 e apenas realizada com o entrevistado 1 e 2, investigando uma possível oportunidade) - O fato de um prestador de serviços aceitar pagamento por cartão de crédito aumenta as suas chances de optar pelo mesmo?
+10. **Pergunta extra** (feita baseada nas respostas do entrevistado 1 e apenas realizada com o entrevistado 1 e 2, investigando uma possível oportunidade) - O fato de um prestador de serviços aceitar pagamento por cartão de crédito aumenta as suas chances de optar pelo mesmo?  
+
+**Autor(es):** [Esio Gustavo](https://github.com/EsioFreitas), [Lucas Dutra](https://github.com/lucasdutraf) e [Kaique Borges](https://github.com/kaiqueborges).
+
 
 ## Respostas com base no Roteiro da Entrevista v2.0
 

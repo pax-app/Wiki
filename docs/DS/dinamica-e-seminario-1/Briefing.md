@@ -36,7 +36,9 @@ O menor esforço vem da portabilidade da aplicação e também da automatizaçã
 
 ## 5. Como saber se a solução está funcionando?
 
-Por intermédio de reportes e feedbacks dos usuários, tanto contratante como contratado, com relação à facilidade de encontrar serviço, comunicação das partes envolvidas, qualidade do serviço, eventualidades durante a pertação e eficiência da aplicação.
+Por intermédio de reportes e feedbacks dos usuários, tanto contratante como contratado, com relação à facilidade de encontrar serviço, comunicação das partes envolvidas, qualidade do serviço, eventualidades durante a pertação e eficiência da aplicação.  
+  
+**Autora:** [Fabiana Luiza Vasconcelos Pfeilsticker Ribas](https://github.com/FabianaRibas).
 
 # Referências
 
