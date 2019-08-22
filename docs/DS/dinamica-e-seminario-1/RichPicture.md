@@ -81,9 +81,9 @@ As primeiras versões buscaram representar as visões de cada um dos membros com
 
 ## Versões 2.0
 
-A partir das versões produzidas individuamente, o time optou por buscar unificar as visões de todos os integrantes em relação à aplicação e gerar apenas um artefato que possuísse toda a idéia inicial que permeou a concepção da aplicação. 
+A partir das versões produzidas individuamente, o time optou por buscar unificar as visões de todos os integrantes em relação à aplicação e gerar apenas um artefato que possuísse toda a idéia inicial que permeou a concepção da aplicação.
 
-Outro ponto levantado foi a importância da visão dos dois grandes públicos do aplicativo: na forma como interagiriam com os usuários e como seria o fluxo de execução em ambos os casos; dessa forma foi optado por confeccionar dois *Rich Pictures* adicionais: um pela óptica do **Usuário** e outro para o **Prestador de Serviço**.
+Outro ponto levantado foi a importância da visão dos dois grandes públicos do aplicativo: na forma como interagiriam com os usuários e como seria o fluxo de execução em ambos os casos; dessa forma foi optado por confeccionar dois _Rich Pictures_ adicionais: um pela óptica do **Usuário** e outro para o **Prestador de Serviço**.
 
 ### RP Geral V1
 
@@ -99,4 +99,6 @@ Outro ponto levantado foi a importância da visão dos dois grandes públicos do
 
 ## Referências
 
-MONK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning about Work Context. Methods and Tools, ACM 1072-5220/98/0300, pp. 21-30, April 1998.
+- MONK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning about Work Context. Methods and Tools, ACM 1072-5220/98/0300, pp. 21-30, April 1998.
+
+* Rich Pictures. Acessado **20/08/2019** em: <https://www.betterevaluation.org/en/evaluation-options/richpictures>

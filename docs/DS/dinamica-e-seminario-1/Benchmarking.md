@@ -45,4 +45,5 @@ Benchmarking é um processo de comparação de produtos, serviços e práticas e
 
 ## Referências
 
-Significado de Benchmarking. Acessado 21/08/2019 em: <https://www.significados.com.br/benchmarking/>
+- Significado de Benchmarking. Acessado 21/08/2019 em: <https://www.significados.com.br/benchmarking/>
+- O que é Benchmarking e qual a sua importância para o Marketing Digital. Acessado **21/08/2019** em: <https://rockcontent.com/blog/benchmarking/>
