@@ -1,7 +1,5 @@
 # Planejamento Sprint ##
 
-***
-
 <p align="justify">
 Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas anteriores, buscando sempre linkar com aquilo que seja relevante às explicações.
 </p>
