@@ -99,6 +99,6 @@ Outro ponto levantado foi a importância da visão dos dois grandes públicos do
 
 ## Referências
 
-- MONK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning about Work Context. Methods and Tools, ACM 1072-5220/98/0300, pp. 21-30, April 1998.
+* MONK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning about Work Context. Methods and Tools, ACM 1072-5220/98/0300, pp. 21-30, April 1998.
 
 * Rich Pictures. Acessado **20/08/2019** em: <https://www.betterevaluation.org/en/evaluation-options/richpictures>

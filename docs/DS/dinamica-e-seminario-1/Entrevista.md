@@ -116,4 +116,4 @@ O áudio dessa entrevista pode ser encontrado no nossos arquivos do Drive.
 
 ## Referências
 
-Materiais didáticos das aulas dos professores Milene Serrano e Mauricio Serrano
+* Materiais didáticos das aulas dos professores Milene Serrano e Mauricio Serrano
