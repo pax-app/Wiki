@@ -78,5 +78,5 @@ Plataforma de trabalhos voluntários.
 
 ## Referências
 
-ACE-CAST: Uma Ferramenta de Apoio à Argumentação Colaborativa. André Cruz Alves Cavalcante. <br/>
-Materiais didáticos das aulas dos professores Milene Serrano e Mauricio Serrano
+* ACE-CAST: Uma Ferramenta de Apoio à Argumentação Colaborativa. André Cruz Alves Cavalcante. <br/>
+* Materiais didáticos das aulas dos professores Milene Serrano e Mauricio Serrano
