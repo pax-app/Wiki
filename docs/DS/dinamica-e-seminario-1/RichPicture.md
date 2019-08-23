@@ -114,7 +114,7 @@ Outro ponto levantado foi a importância da visão dos dois grandes públicos do
 
 ### RP Prestador Serviço V1
 
-![rp_prestador_servico](../../../assets/rich-pictures/rp_prestador_servico.png)
+![rp_prestador_servico](../../../assets/rich-pictures/rp_prestador_servico_v1.png)
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
