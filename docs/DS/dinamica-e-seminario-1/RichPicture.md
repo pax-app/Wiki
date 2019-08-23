@@ -101,13 +101,13 @@ Outro ponto levantado foi a importância da visão dos dois grandes públicos do
 
 ### RP Usuário V1
 
-![rp_usuario_v1](../../../assets/rp_usuario_v1.jpg":no-zoom")
+![rp_usuario_v1](../../../assets/rich-pictures/rp_usuario_v1.jpg)
 
 **Autor:** [Fabiana Ribas](https://github.com/FabianaRibas)
 
 ### RP Usuário V2
 
-![rp_usuario_v2](../../../assets/rp_usuario_v2.jpg":no-zoom")
+![rp_usuario_v2](../../../assets/rich-pictures/rp_usuario_v2.png)
 
 **Autor:** [Fabiana Ribas](https://github.com/FabianaRibas)
 
