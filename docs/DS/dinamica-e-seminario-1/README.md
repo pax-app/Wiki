@@ -17,3 +17,5 @@
 ### 7. [Entrevista](docs/DS/dinamica-e-seminario-1/Entrevista.md)
 
 ### 8. [Briefing](docs/DS/dinamica-e-seminario-1/Briefing.md)
+
+### 9. [Questionário](docs/DS/dinamica-e-seminario-1/AnaliseQuestionario.md)
