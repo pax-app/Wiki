@@ -12,6 +12,9 @@ Um <i>rich picture</i> é um documento que é composto por representações de d
 | 18/08/2019 |  0.2   |         Adicionando descrição dos artefatos         | Rogério Júnior |
 | 18/08/2019 |  1.0   | Adicionando primeira versão dos artefatos e autores | Rogério Júnior |
 | 21/08/2019 |  1.0   |          Arrumando detalhes do documentos           |  Ésio Freitas  |
+| 22/08/2019 |  1.1   |    Adicionando versões do richpicture do usuário    |  Fabiana Ribas |
+| 23/08/2019 |  1.2   |    Adicionando o richpicture do prestador de serviço    |  Youssef Muhamad |
+
 
 ## Versões 1.0
 
@@ -96,6 +99,24 @@ Outro ponto levantado foi a importância da visão dos dois grandes públicos do
 ![rp_geral_v2](../../../assets/rich-pictures/rp_geral_v2.png)
 
 **Autores:** [Rogério Júnior](https://github.com/rogerioo), [Esio Gustavo](https://github.com/EsioFreitas) e [Lucas Dutra](https://github.com/lucasdutraf)
+
+### RP Usuário V1
+
+![rp_usuario_v1](../../../assets/rich-pictures/rp_usuario_v1.jpg)
+
+**Autor:** [Fabiana Ribas](https://github.com/FabianaRibas)
+
+### RP Usuário V2
+
+![rp_usuario_v2](../../../assets/rich-pictures/rp_usuario_v2.png)
+
+**Autor:** [Fabiana Ribas](https://github.com/FabianaRibas)
+
+### RP Prestador Serviço V1
+
+![rp_prestador_servico](../../../assets/rich-pictures/rp_prestador_servico.png)
+
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 ## Referências
 
