@@ -11,7 +11,7 @@ O **Mapa Mental** é um poderoso método que visa auxiliar no armazenamento, org
 |21/08/2019|   1.0    |  Arrumando detalhes do documentos |  Ésio Freitas |
 
 ## Mapa Mental v1.0
-![MM_Tecnologias_V1](../../../assets/MM_Tecnologias_V1.png":no-zoom")
+![MM_Tecnologias_V1](../../../assets/MM_Tecnologias_V1.png)
 
 Mapa mental confeccionado com a ferramenta Coggle e pode ser visto na integra no [link](https://coggle.it/diagram/XVmBLRWw0DJ-JnGy/t/tecnologias) ou no [drive](https://drive.google.com/open?id=1dyNosB2fu78sD60NqvaN29aFuhgtPUJ6) do time
   
