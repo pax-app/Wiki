@@ -97,6 +97,18 @@ Outro ponto levantado foi a importância da visão dos dois grandes públicos do
 
 **Autores:** [Rogério Júnior](https://github.com/rogerioo), [Esio Gustavo](https://github.com/EsioFreitas) e [Lucas Dutra](https://github.com/lucasdutraf)
 
+### RP Usuário V1
+
+![rp_usuario_v1](../../../assets/rp_usuario_v1.jpg":no-zoom")
+
+**Autor:** [Fabiana Ribas](https://github.com/FabianaRibas)
+
+### RP Usuário V2
+
+![rp_usuario_v2](../../../assets/rp_usuario_v2.jpg":no-zoom")
+
+**Autor:** [Fabiana Ribas](https://github.com/FabianaRibas)
+
 ## Referências
 
 * MONK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning about Work Context. Methods and Tools, ACM 1072-5220/98/0300, pp. 21-30, April 1998.
