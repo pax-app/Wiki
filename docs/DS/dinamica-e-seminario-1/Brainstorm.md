@@ -11,11 +11,12 @@
 
 ## Metodologia
 ### Primeira Etapa - Elicitação de ideias
-O brainstorm foi realizado pelos membros do grupo para elicitação de funcionalidades importantes para o aplicativo a partir dos artefatos de elicitação anteriores. No inicio do brainstorm foram definidas duas métricas para nortar as funcionalidades: 
+O brainstorm foi realizado pelos membros do grupo para elicitação de funcionalidades importantes para o aplicativo a partir dos artefatos de elicitação anteriores. No inicio do brainstorm foram definidas duas métricas para nortear as funcionalidades: 
 * aplicativo seria focado no contrantante, isto é, em quem busca o serviço
 * Tanto o contratante como o contratado usarão o mesmo sistema, não haverá separação de apps.
 
 Com isso em vista os membros começaram a elicitar e explicar as funcionalidades que o app deveria ter, que foram:
+
 | Funcionalidade	| Observação	|		
 |---------------------------------------------------------|--------------------------------------------------------------------------------------------|				
 | Chat	| Chat para o prestador se comunicar com o contratante	|		
@@ -33,7 +34,7 @@ Com isso em vista os membros começaram a elicitar e explicar as funcionalidades
 | Categorização de serviços	| Serviços são categorizados por temas	|		
 | Nívels de complitude do perfil	| Gameficação para incentivar os usuários a preencherem completamente o perfil	|		
 | Ver prestadores de serviço no mapa	| Ver a localização dos prestadores de serviço	|		
-| Cadastro de pequenas empresas	| Cadastrar pequenas empresas prestadoras de serviço no app	|		
+| Cadastro de pequenas empresas	| Cadastrar pequenas empresas prestadoras de serviço no app	|
 
 
 ![Foto 1](https://i.imgur.com/MNNe0NA.png)
@@ -57,7 +58,7 @@ Após a elicitação inicial foi feito o merge de algumas funcionalidades em out
 |Prestador "Validado"                                   |Prestador de serviço com o perfil completo recebe um selo                                    |
 |Perfil "Normal" e "Premium" para prestadores de serviço|Prestador de serviço que paga taxa mensal recebe um selo                                     |
 |Categorização de serviços                              |Serviços são categorizados por temas                                                         |
-|Nívels de complitude do perfil                         |Gameficação para incentivar os usuários a preencherem completamente o perfil                 |
+|Nívels de complitude do perfil                         |Gamificação para incentivar os usuários a preencherem completamente o perfil                 |
 |Ver prestadores de serviço no mapa                     |Ver a localização dos prestadores de serviço                                                 |
 
 ![Imagem 2](https://i.imgur.com/7xJ0K7m.png)
