@@ -33,19 +33,19 @@ merges para *development*</a> .
 
 #### Nome das Branches  
 
-As branchs de desenvolvimento de features serão criadas a partir da branch *development* com a nomenclatura padrão `x_nome_da_issue`, onde o `x` representa o código de rastreio da issue.
+As branchs de desenvolvimento de features serão criadas a partir da branch *development* com a nomenclatura padrão da lingua inglesa `x_issue_name`, onde o `x` representa o código de rastreio da issue.
 
 ### Política de Commits
 
-Os commits devem ser feitos usando o parâmetro `-s` para indicar sua assinatura no commit.
+Os commits devem ser feitos usando o parâmetro `-s` para indicar sua assinatura no commit e em inglês.
 
 ```
 git commit -s
 ```
-A issue em questão deve ser citada no commit, para isso, basta adicionar `#<numero_da_issue>`.
+A issue em questão deve ser citada no commit, para isso, basta adicionar `#<issue_number>`.
 
 ```
- #5 Fazendo guia de contribuição
+ #5 Adding contribuition guide
 ```
 
 ** \*\*Por padrão, o caracter `#` define uma linha de comentário no arquivo da mensagem do commit. Para resolver este problema, use o commando:**
@@ -60,7 +60,7 @@ git commit -s
 ```
 Comentário do commit:
 ```
-#5 Fazendo guia de contribuição
+#5 Adding contribuition guide
 
 Signed-off-by: Alex Turner <alex.turner@gmail.com>
 ```
@@ -68,28 +68,25 @@ Signed-off-by: Alex Turner <alex.turner@gmail.com>
 Para que ambos envolvidos no commit sejam incluidos como contribuintes no gráfico de commits do GitHub, basta incluir a instrução `Co-authored-by:` na mensagem:
 
 ```
-#5 Fazendo guia de contribuição
+#5 Adding contribuition guide
 
 Signed-off-by: Alex Turner <alex.turner@gmail.com>
-Signed-off-by: Matthew Helders <matt.helders@gmail.com>
-
-Co-authored-by: Alex Turner <alex.turner@gmail.com>
 Co-authored-by: Matthew Helders <matt.helders@gmail.com>
 ```
 
 
-Para commits que encerram a resolução de uma issue, deve-se iniciar a mensagem do commit com `Fix #<numero_da_issue> <mensagem>`, para que a issue seja [encerrada automaticamente](https://help.github.com/articles/closing-issues-using-keywords/) quando mesclada na `master`.
+Para commits que encerram a resolução de uma issue, deve-se iniciar a mensagem do commit com `Fix #<issue_number> <mensagem>`, para que a issue seja [encerrada automaticamente](https://help.github.com/articles/closing-issues-using-keywords/) quando mesclada na `master`.
 
 Exemplo de comentário do commit:
 ```
-Fix #5 Finalizando guia de contribuição do projeto
+Fix #5 Setting project's contribuition guide
 ```
 
-Para commits que incluem uma pequena mudança em uma issue que já teve sua resolução encerrada, deve-se iniciar a mensagem do commit com `HOTFIX #<numero_da_issue> <mensagem>`
+Para commits que incluem uma pequena mudança em uma issue que já teve sua resolução encerrada, deve-se iniciar a mensagem do commit com `HOTFIX #<issue_number> <message>`
 
 Exemplo de comentário do commit:
 ```
-HOTFIX #5 Atualizando guia de contribuição do projeto
+HOTFIX #5 Updating project's contribuition guide
 ```
 
 ### Política de Merges e Pull Requests

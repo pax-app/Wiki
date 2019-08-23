@@ -24,7 +24,7 @@ Após isso, em uma segunda reunião presencial, houve a decisão final de qual d
 
 Também nessa reunião foi estabelecido um guideline de quais documentos de requisitos dos anteriormente selecionados provavelmente seriam os mais importantes para a ideia escolhida, incluindo um questionário que foi feito após a reunião para consultar o público alvo e sanar algumas dúvidas do grupo acerca da viabilidade da ideia, bem como levantamento inicial dos requisitos.
 
-_Rastros: Todo os detalhes desse processo descrito podem ser lidos nos documentos produzidos: [Reunião um](https://docs.google.com/document/d/1mPdpUIUu455wS6XcJD-qGZRmkjzdTD6SiCdKyf02ESU/edit?usp=sharing), [Reunião dois](https://docs.google.com/document/d/1lbO1BRXxl-Qj22furcVBQH6wrgzwcypEwon2kQYcBuA/edit?usp=sharing), [Argumentação acerda da escolha do tema](https://drive.google.com/open?id=11979BAs72G52WG8ErNNlIMTJlolvew54)._ 
+_Rastros: Todo os detalhes desse processo descrito podem ser lidos nos documentos produzidos: [Reunião um](https://docs.google.com/document/d/1mPdpUIUu455wS6XcJD-qGZRmkjzdTD6SiCdKyf02ESU/edit?usp=sharing), [Reunião dois](https://docs.google.com/document/d/1lbO1BRXxl-Qj22furcVBQH6wrgzwcypEwon2kQYcBuA/edit?usp=sharing), [Argumentação acerca da escolha do tema](https://drive.google.com/open?id=11979BAs72G52WG8ErNNlIMTJlolvew54)._ 
 
 
 ### Definições posteriores 
