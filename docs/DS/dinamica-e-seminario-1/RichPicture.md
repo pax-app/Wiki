@@ -21,61 +21,61 @@ As primeiras versões buscaram representar as visões de cada um dos membros com
 
 ### RP Gabriel V1
 
-![rp_albino_v1](../../../assets/rp_albino_v1.png":no-zoom")
+![rp_albino_v1](../../../assets/rich-pictures/rp_albino_v1.png)
 
 **Autor:** [Gabriel Albino](https://github.com/gabrielalbino)
 
 ### RP Ésio V1
 
-![rp_esio_v1](../../../assets/rp_esio_v1.png":no-zoom")
+![rp_esio_v1](../../../assets/rich-pictures/rp_esio_v1.png)
 
 **Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
 
 ### RP Rogério V1
 
-![rp_roger_v1](../../../assets/rp_roger_v1.jpg":no-zoom")
+![rp_roger_v1](../../../assets/rich-pictures/rp_roger_v1.jpg)
 
 **Autor:** [Rogério Júnior](https://github.com/rogerioo)
 
 ### RP Marcos V1
 
-![rp_marcos_v1](../../../assets/rp_marcos_v1.png":no-zoom")
+![rp_marcos_v1](../../../assets/rich-pictures/rp_marcos_v1.png)
 
 **Autor:** [Marcos Nery](https://github.com/MarcosNBJ)
 
 ### RP Kaique V1
 
-![rp_kaique_v1](../../../assets/rp_kaique_v1.png":no-zoom")
+![rp_kaique_v1](../../../assets/rich-pictures/rp_kaique_v1.png)
 
 **Autor:** [Kaique Borges](https://github.com/kaiqueborges)
 
 ### RP Lucas V1
 
-![rp_dutra_v1](../../../assets/rp_dutra_v1.jpg":no-zoom")
+![rp_dutra_v1](../../../assets/rich-pictures/rp_dutra_v1.jpg)
 
 **Autor:** [Lucas Dutra](https://github.com/lucasdutraf)
 
 ### RP Felipe V1
 
-![rp_fepas_v1](../../../assets/rp_fepas_v1.jpeg":no-zoom")
+![rp_fepas_v1](../../../assets/rich-pictures/rp_fepas_v1.jpeg)
 
 **Autor:** [Felipe Campos](https://github.com/fepas)
 
 ### RP Youssef V1
 
-![rp_youssef_v1](../../../assets/rp_youssef_v1.jpg":no-zoom")
+![rp_youssef_v1](../../../assets/rich-pictures/rp_youssef_v1.jpg)
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 ### RP Matheus V1
 
-![rp_matheus_v1](../../../assets/rp_matheus_v1.png":no-zoom")
+![rp_matheus_v1](../../../assets/rich-pictures/rp_matheus_v1.png)
 
 **Autor:** [Matheus Figueiredo](https://github.com/Matheusss03)
 
 ### RP Fabiana V1
 
-![rp_fabi_v1](../../../assets/rp_fabi_v1.jpeg":no-zoom")
+![rp_fabi_v1](../../../assets/rich-pictures/rp_fabi_v1.jpeg)
 
 **Autor:** [Fabiana Ribas](https://github.com/FabianaRibas)
 
@@ -87,13 +87,13 @@ Outro ponto levantado foi a importância da visão dos dois grandes públicos do
 
 ### RP Geral V1
 
-![rp_geral_v1](../../../assets/rp_geral_v1.png":no-zoom")
+![rp_geral_v1](../../../assets/rich-pictures/rp_geral_v1.png)
 
 **Autor:** [Rogério Júnior](https://github.com/rogerioo)
 
 ### RP Geral V2
 
-![rp_geral_v2](../../../assets/rp_geral_v2.png":no-zoom")
+![rp_geral_v2](../../../assets/rich-pictures/rp_geral_v2.png)
 
 **Autores:** [Rogério Júnior](https://github.com/rogerioo), [Esio Gustavo](https://github.com/EsioFreitas) e [Lucas Dutra](https://github.com/lucasdutraf)
 
