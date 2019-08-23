@@ -8,6 +8,7 @@
   - [Curva de Valor](docs/DS/dinamica-e-seminario-1/CurvadeValor.md)
   - [Entrevista](docs/DS/dinamica-e-seminario-1/Entrevista.md)
   - [Briefing](docs/DS/dinamica-e-seminario-1/Briefing.md)
+  - [Brainstorm](docs/DS/dinamica-e-seminario-1/Brainstorm.md)
 - [**Dinâmica e Seminário II**](docs/DS/dinamica-e-seminario-2/README.md)
   - [Link](https://www.google.com)
   - [Link](https://www.google.com)
