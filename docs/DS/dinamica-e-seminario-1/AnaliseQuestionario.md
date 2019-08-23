@@ -13,6 +13,8 @@ Como haviam algumas perguntas discursivas relacionada às opniões dos responden
 
 ## Resultados
 
+![Infographic](../../../assets/infographic.png)
+
 ### Utilização Prévia de Algum Aplicativo Fornecedor de Serviços
 
 Com as respostas foi gerado uma nuvem de palavras de todas as respostas:
