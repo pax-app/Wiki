@@ -9,11 +9,11 @@ Fazer a restrospectiva da *sprint* explicando de forma detalhada qual foi o resu
 | :-----: | :------: | :----: |
 
 
-Pontos Planejados Concluídos: 45
+Pontos Planejados Concluídos: 00
 
-Pontos de Dívida Concluídos:  3    
+Pontos de Dívida Concluídos:  0   
 
-Pontos Não Agregados: 1   
+Pontos Não Agregados: 0
 
 ## Riscos    
 Riscos encontrados durante a sprint.  
