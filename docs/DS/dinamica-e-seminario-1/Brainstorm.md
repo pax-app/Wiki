@@ -16,6 +16,7 @@ O brainstorm foi realizado pelos membros do grupo para elicitação de funcional
 * Tanto o contratante como o contratado usarão o mesmo sistema, não haverá separação de apps.
 
 Com isso em vista os membros começaram a elicitar e explicar as funcionalidades que o app deveria ter, que foram:
+
 | Funcionalidade	| Observação	|		
 |---------------------------------------------------------|--------------------------------------------------------------------------------------------|				
 | Chat	| Chat para o prestador se comunicar com o contratante	|		
@@ -33,7 +34,7 @@ Com isso em vista os membros começaram a elicitar e explicar as funcionalidades
 | Categorização de serviços	| Serviços são categorizados por temas	|		
 | Nívels de complitude do perfil	| Gameficação para incentivar os usuários a preencherem completamente o perfil	|		
 | Ver prestadores de serviço no mapa	| Ver a localização dos prestadores de serviço	|		
-| Cadastro de pequenas empresas	| Cadastrar pequenas empresas prestadoras de serviço no app	|		
+| Cadastro de pequenas empresas	| Cadastrar pequenas empresas prestadoras de serviço no app	|
 
 
 ![Foto 1](https://i.imgur.com/MNNe0NA.png)
