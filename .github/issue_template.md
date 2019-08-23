@@ -6,10 +6,7 @@
 - [ ] Task 2
 - [ ] Task 3
 
-# Assignees
-A issue deve ser atribuída a pelo menos um colaborador do projeto.
-
 # Critérios de Aceitação
-- [ ] 
+* Colococar artefato na Wiki
 
 <!---Não esquecer de fazer as devidas referências no menu lateral direito--->
