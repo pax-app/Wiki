@@ -25,11 +25,11 @@ O tempo de início máximo da *daily* é de **5 minutos** após o horário marca
 
 <table style="border-collapse:collapse;">
     <tr style="border:none;">
-        <td style="border:none;"> <img src="../../assets/icons/comunication/github.png" style="width:50px;height:50px"> </td>
-        <td style="border:none;"> <img src="../../assets/icons/comunication/zenhub.png" style="width:50px;height:50px"> </td> 
-        <td style="border:none;"> <img src="../../assets/icons/comunication/drive.png" style="width:50px;height:50px"> </td>
-        <td style="border:none;"> <img src="../../assets/icons/comunication/telegram.png" style="width:50px;height:50px"> </td>
-        <td style="border:none;"> <img src="../../assets/icons/comunication/hangouts.png" style="width:50px;height:50px"> </td>
+        <td style="border:none;"> <img src="assets/icons/comunication/github.png" style="width:50px;height:50px"> </td>
+        <td style="border:none;"> <img src="assets/icons/comunication/zenhub.png" style="width:50px;height:50px"> </td> 
+        <td style="border:none;"> <img src="assets/icons/comunication/drive.png" style="width:50px;height:50px"> </td>
+        <td style="border:none;"> <img src="assets/icons/comunication/telegram.png" style="width:50px;height:50px"> </td>
+        <td style="border:none;"> <img src="assets/icons/comunication/hangouts.png" style="width:50px;height:50px"> </td>
     </tr>
 </table>
 
