@@ -1,12 +1,13 @@
-# Planejamento Sprint ##
+# Planejamento Sprint X
 
 <p align="justify">
 Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas anteriores, buscando sempre linkar com aquilo que seja relevante às explicações.
 </p>
 
 
-## Tamanho da _Sprint_      
-**Início:** 00/00/0000   
+## Tamanho da _Sprint_ X      
+**Início:** 00/00/0000
+   
 **Término:** 00/00/0000   
 
 **Duração:** Sete dias   

@@ -22,4 +22,9 @@
   - [Link](https://www.google.com)
   - [Link](https://www.google.com)
 - [**Iniciativas Extras**](docs/iniciativas-extras/README.md)
-  - [Link](https://www.google.com)
+  - [Código de Conduta](docs/iniciativas-extras/CODE_OF_CONDUCT.md)
+  - [Guia de Contribuição](docs/iniciativas-extras/CONTRIBUTING.md)
+  - [Plano de Organização](docs/iniciativas-extras/Organizacao.md)
+  - [Template de Sprint Plaining](docs/iniciativas-extras/sprint_plaining_model.md)
+  - [Template de Sprint Review](docs/iniciativas-extras/sprint_review_model.md)
+

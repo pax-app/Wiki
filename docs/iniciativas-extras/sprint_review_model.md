@@ -1,8 +1,6 @@
-# Revisão Sprint ##
+# Revisão Sprint X
 
-<p align="justify">
-Explicar de forma detalhada qual foi o resultao da sprint, buscando sempre linkar com aquilo que seja relevante às explicações.
-</p>
+Fazer a restrospectiva da *sprint* explicando de forma detalhada qual foi o resultado e buscar sempre linkar com aquilo que seja relevante às explicações.
 
 ## Fechamento da _Sprint_     
 
@@ -11,22 +9,20 @@ Explicar de forma detalhada qual foi o resultao da sprint, buscando sempre linka
 | :-----: | :------: | :----: |
 
 
-Pontos Planejados Concluídos: 45     
+Pontos Planejados Concluídos: 45
+
 Pontos de Dívida Concluídos:  3    
+
 Pontos Não Agregados: 1   
 
 ## Riscos    
-<p align="justify">
-Riscos encontrados durante a sprint.
-</p>  
+Riscos encontrados durante a sprint.  
 
 | Risco | Grau  | Ação  |
 | :---: | :---: | :---: |
 
 ## Retrospectiva
-<p align="justify">
-Retrospectiva rápida sobre a sprint.
-</p>   
+Retrospectiva rápida sobre a sprint.   
 
 ### Pontos Positivos
 

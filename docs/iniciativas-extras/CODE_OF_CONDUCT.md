@@ -1,4 +1,4 @@
-# Código de conduta da comunidade Dulce-App
+# Código de Conduta da Organização
 
 ## Propósito
 <p align="justify">&emsp;&emsp;O projeto tem como pincipal premissa ser inclusivo, promovendo o crescimento individual e coletivo dos seus colaboradores por meio da convivência com as diferenças. Como tal, estamos empenhados em proporcionar um ambiente amigável, seguro e acolhedor para todos, independentemente de gênero, orientação sexual, etnia, status socioeconômico, religião ou quaisquer outros atributos e habilidades.</p>
