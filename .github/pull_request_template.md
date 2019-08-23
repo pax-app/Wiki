@@ -3,12 +3,15 @@ Breve descrição das atividades realizadas para conclusão da issue e outros po
 
 # Issue Relacionada
 
-resolve [#]()
+resolve #
+
+<!---Linkar todas as issues envolvidas no PR seguindo a estrutura resolve #1, pois quando o PR é aceito todas as issues são fechadas--->
 
 # Tipo de Mudanças
 
 - [ ] História de Usuário
 - [ ] Historia Técnica
+- [ ] Wiki
 
 # Responsáveis pela revisão
 
