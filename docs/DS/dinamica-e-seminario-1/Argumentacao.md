@@ -68,15 +68,16 @@ Plataforma de trabalhos voluntários.
 
 ### Argumentação V1
 
-![ArgV1](../../../assets/Artumentacaov1.png":no-zoom")
+![ArgV1](../../../assets/Artumentacaov1.png)
 
 ### Argumentação V2
 
-![ArgV1](../../../assets/Artumentacaov2.png":no-zoom")
+![ArgV1](../../../assets/Artumentacaov2.png)
 
 **Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
 
 ## Referências
 
-ACE-CAST: Uma Ferramenta de Apoio à Argumentação Colaborativa. André Cruz Alves Cavalcante. <br/>
-Materiais didáticos das aulas dos professores Milene Serrano e Mauricio Serrano
+* ACE-CAST: Uma Ferramenta de Apoio à Argumentação Colaborativa. André Cruz Alves Cavalcante. <br/>
+
+* Materiais didáticos das aulas dos professores Milene Serrano e Mauricio Serrano

@@ -42,6 +42,6 @@ Por intermédio de reportes e feedbacks dos usuários, tanto contratante como co
 
 # Referências
 
-O que é briefing? Definição, importância e como fazer em 8 passos. Acessado 21/08/2019 em: <https://mindminers.com/blog/o-que-e-briefing/>
+*O que é briefing? Definição, importância e como fazer em 8 passos. Acessado 21/08/2019 em: <https://mindminers.com/blog/o-que-e-briefing/>
 
-Modelo de referência para a montagem do documento: <https://docs.google.com/document/d/1Ce_W5hReHlpsoIqiCrv84c7o8TK4QY2BpxQS9PnzjZc/edit>
+*Modelo de referência para a montagem do documento: <https://docs.google.com/document/d/1Ce_W5hReHlpsoIqiCrv84c7o8TK4QY2BpxQS9PnzjZc/edit>

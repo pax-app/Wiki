@@ -1,4 +1,5 @@
 - [**Dinâmica e Seminário I**](docs/DS/dinamica-e-seminario-1/README.md)
+  - [Definições de Projeto](docs/DS/dinamica-e-seminario-1/DefinicoesDeProjeto.md)
   - [5W2H](docs/DS/dinamica-e-seminario-1/5W2H.md)
   - [Argumentação](docs/DS/dinamica-e-seminario-1/Argumentacao.md)
   - [Benchmarking](docs/DS/dinamica-e-seminario-1/Benchmarking.md)
@@ -7,6 +8,7 @@
   - [Curva de Valor](docs/DS/dinamica-e-seminario-1/CurvadeValor.md)
   - [Entrevista](docs/DS/dinamica-e-seminario-1/Entrevista.md)
   - [Briefing](docs/DS/dinamica-e-seminario-1/Briefing.md)
+  - [Brainstorm](docs/DS/dinamica-e-seminario-1/Brainstorm.md)
 - [**Dinâmica e Seminário II**](docs/DS/dinamica-e-seminario-2/README.md)
   - [Link](https://www.google.com)
   - [Link](https://www.google.com)
