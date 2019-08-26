@@ -75,3 +75,6 @@ Analisando a correlação entre sentimentos e produtividade, mesmo nos dias que 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkmreugxEeCvz7vA6DvWdZPITI3DHEceQe1YxgnDS8PCFgB7ZXbUJh--b5Sfm1KVFoWPPCRoqAnWgp/pubhtml?gid=0&single=true" width="100%" height="700px"></iframe>
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQc0fUk1XPc1xZp0cgnfcYU5CT0Do2hNvgCCW8HrlH4QBHtrLE7vOPHEFylxwO3Zwxe3zAhnpgugnh/pubhtml?gid=0&single=true" width="100%" height="700px"></iframe>
+
+
+*Autor:* **[Rogério Júnior](https://github.com/rogerioo)**

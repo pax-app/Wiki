@@ -39,3 +39,4 @@ Retrospectiva rápida sobre a sprint.
 ## Quadro de Sentimentos
 
 
+*Autor:* **[]()**

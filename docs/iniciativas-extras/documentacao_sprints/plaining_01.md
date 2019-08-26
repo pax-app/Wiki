@@ -50,7 +50,7 @@ Não houveram
 |:----------------:|:-----------:|
 | Documentação sprint 1 | 1 |
 
-<b>Total:7</b> 
+<b>Total: 1</b> 
 
 ***
 
