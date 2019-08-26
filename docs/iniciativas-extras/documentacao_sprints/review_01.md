@@ -1,6 +1,6 @@
 # Revisão Sprint 01
 <p align="justify">
-Trabalho muito satisfatório no qual foram entregues todas as issues bem antes do prazo definido, fato dado pelo <i>seminário 1</i> que estava marcado no calendário da disciplina e ocorreu na sexta-feira (23/08/2019). Todos os artefatos produzidos foram produzidos com qualidade e começaram a delimitar o escopo de atuação do projeto, fato ressaltado pela Profesora Milene durante a apresentação.
+Trabalho muito satisfatório no qual foram entregues todas as issues bem antes do prazo definido, fato dado pelo <i>seminário 1</i> que estava marcado no calendário da disciplina e ocorreu na sexta-feira (23/08/2019). Todos os artefatos foram produzidos com qualidade e começaram a delimitar o escopo de atuação do projeto, fato ressaltado pela Profesora Milene durante a apresentação.
 
 <i>Sprint</i> marcada por definições de escopo, para ter um direcionamento unificado e um guia claro de desenvolvimento, e no começo do processo de levantamento de requisitos, no qual algumas funcionalidades já foram levantadas, em cima de feedback de <i>stakeholders</i> (<a href="https://2019-2-arquitetura-e-desenho.github.io/Wiki/#/docs/DS/dinamica-e-seminario-1/AnaliseQuestionario">questionário</a>, <a href="https://2019-2-arquitetura-e-desenho.github.io/Wiki/#/docs/DS/dinamica-e-seminario-1/Entrevista">entrevistas</a>, time de desenvolvimento), e do <i>oceano azul</i>, documento que buscou diferenciar a aplicação dos concorrentes e inovar no meio de atuação.
 </p>
@@ -42,20 +42,36 @@ Riscos encontrados durante a sprint.
 | Ter dois aplicativos por conta de usuários com funções diferentes | Definição de escopo | Conversar com o time e a professora para ter um direcionamento | 
 
 # Retrospectiva
-Retrospectiva rápida sobre a sprint.   
+
+Com as percepções do time foram levantadas vários pontos positivos em relação ao trabalho do time, aos feedbacks da professora Milene e o andamento do projeto. Os dois pontos negativos levantados foram: a questão do horário das *Dailies*, que foi resolvido prontamente, e a questão do escopo muito abrangente que direcionou o planejamento da sprint seguinte.
+
+A metodologia usada para tais feedbacks foi o quadro de empatia: alguns pontos foram levantados para analisar aspectos positivos e negativos, e, dessa forma, pedido aos membros para que dessem sua opinião indo ao quadro para poder escrever. O quadro produzido está logo abaixo. Por conta da falta de legibilidade de alguns tópicos, os pontos elencado foram transcritos para os tópicos abaixo.
+
+![empatia01](../../../assets/gerencia/empatia01.jpeg)
 
 ## Pontos Positivos
 
-  - Ponto Positivo
-  - Ponto Positivo
-  - Ponto Positivo
-
+  - Organização
+  - Adiantados
+  - Comunicação
+  - Motivação do time
+  - Melhor apresentação da turma
+  - Bom feedback da professora
+  - Membros vendo videoaulas de Flutter
+  
 ## Pontos Negativos
 
-  - Ponto Negativo
-  - Ponto Negativo
-  - Ponto Negativo
+  - Horário da Daily
+  - Escopo muito grande do projeto
 
 ## Quadro de Sentimentos
 
+Foram mapeados os sentimentos dos membros do time, a produtividade indivual e a correlação entre as mesmas. A partir dos resultados gerados foi possível observar que o time teve uma alta produtividade, dado que os trabalhos começaram duas semanas antes do semestre letivo. 
 
+Analisando a correlação entre sentimentos e produtividade, mesmo nos dias que não os membros estavam bem, continuaram trabalhando e conseguiram entregar suas tarefas. O humor do time melhorou quando todas as tarefas haviam sido entregues. Os gráficos gerados estão elencados abaixo.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCi50PjVIcno1S4pHK7rwji2MFbxJF53iYGnTs7WUNLNvE27HHLNfFlsCh3wiNMZvseopMCvagD3-I/pubhtml" width="100%" height="700px"></iframe>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkmreugxEeCvz7vA6DvWdZPITI3DHEceQe1YxgnDS8PCFgB7ZXbUJh--b5Sfm1KVFoWPPCRoqAnWgp/pubhtml?gid=0&single=true" width="100%" height="700px"></iframe>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQc0fUk1XPc1xZp0cgnfcYU5CT0Do2hNvgCCW8HrlH4QBHtrLE7vOPHEFylxwO3Zwxe3zAhnpgugnh/pubhtml?gid=0&single=true" width="100%" height="700px"></iframe>

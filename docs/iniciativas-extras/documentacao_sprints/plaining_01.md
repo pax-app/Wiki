@@ -20,23 +20,23 @@ Não houveram, conforme explicado anteriormente
 
 ## Objetivos   
 
-|     _Issue_      |    Pontos   |
-|:----------------:|:-----------:|
-| Análise do questionário | 3 |
-| Versão 2.0 do Rich Picture gerall | 3 |
-| Rich Picture da visão do prestador de serviços | 3 |
-| Rich Picture da visão do contratante de serviços | 3 |
-| Organizar o brainstorming realizado em sala | 2 |
-| Unificar todos os 5W2H | 1 |
-| Organizar documentos na Wiki | 1 |
-| Documento de definição de projeto | 3 |
-| Oceano Azul | 2 |
-| Analise de Sentimentos | 1 |
-| Documento de Sprint Review e Sprint Planning | 1 |
-| Criar Código de Contribuição| 1 |
-| Infográfico | 2 |
-| Melhoria do Benchmarking | 2 |
-| Brainstorming de ideias para o aplicativo | 2 |
+|     _Issue_      |    Pontos   |     *Assign*     |
+|:----------------:|:-----------:|:----------------:|
+| Análise do questionário | 3 | [Matheus Figueiredo](https://github.com/Matheusss03) |
+| Versão 2.0 do Rich Picture gerall | 3 | [Rogério Júnior](https://github.com/rogerioo) |
+| Rich Picture da visão do prestador de serviços | 3 | [Youssef Muhamad](https://github.com/youssef-md) |
+| Rich Picture da visão do contratante de serviços | 3 | [Fabiana Ribas](https://github.com/FabianaRibas) |
+| Organizar o brainstorming realizado em sala | 2 | [Gabriel Albino](https://github.com/gabrielalbino) |
+| Unificar todos os 5W2H | 1 | [Kaique Borges](https://github.com/kaiqueborges) |
+| Organizar documentos na Wiki | 1 | [Rogério Júnior](https://github.com/rogerioo) |
+| Documento de definição de projeto | 3 | [Marcos Nery](https://github.com/MarcosNBJ) |
+| Oceano Azul | 2 | [Esio Gustavo](https://github.com/EsioFreitas) |
+| Analise de Sentimentos | 1 | [Matheus Figueiredo](https://github.com/Matheusss03) |
+| Documento de Sprint Review e Sprint Planning | 1 | [Rogério Júnior](https://github.com/rogerioo) |
+| Criar Código de Contribuição| 1 | [Felipe Campos](https://github.com/fepas) |
+| Infográfico | 2 | [Matheus Figueiredo](https://github.com/Matheusss03) |
+| Melhoria do Benchmarking | 2 | [Esio Gustavo](https://github.com/EsioFreitas) |
+| Brainstorming de ideias para o aplicativo | 2 | [Gabriel Albino](https://github.com/gabrielalbino) |
 
 <b>Total de pontos planejados: 31</b>  
 

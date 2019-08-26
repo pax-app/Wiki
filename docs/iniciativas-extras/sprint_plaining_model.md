@@ -18,8 +18,8 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 ## Objetivos   
 
-|     _Issue_      |    Pontos   |
-|:----------------:|:-----------:|
+|     _Issue_      |    Pontos   |     *Assign*     |
+|:----------------:|:-----------:|:----------------:|
 
 <b>Total de pontos planejados: ##</b>  
 
