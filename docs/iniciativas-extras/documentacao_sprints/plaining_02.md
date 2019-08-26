@@ -18,16 +18,18 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 ## Objetivos   
 
-|     _Issue_      |    Pontos   |
-|:----------------:|:-----------:|
-| Criar wireframe da aplicação |  |
-| Ideias de nome para aplicação |  |
-| Documento de Metodologias: definição e uso do time ||
-| Product Backlog ||
-| Documento de Arquitetura | |
-| NFR ||
-| Documento de Identidade Visual da Aplicação ||
-| Diagramas (BPMN) - Translate-me * ||
+|     _Issue_      |    Pontos   |     *Assign*     |
+|:----------------:|:-----------:|:----------------:|
+| Criar wireframe da aplicação | 3 | [Kaique Borges](https://github.com/kaiqueborges) e [Marcos Nery](https://github.com/MarcosNBJ) |
+| Documento de Metodologias: definição e uso do time | 2 | [Gabriel Albino](https://github.com/gabrielalbino) |
+| Product Backlog Completo | 8 | [Lucas Dutra](https://github.com/lucasdutraf) e [Esio Gustavo](https://github.com/EsioFreitas) |
+| Quadro de Conhecimento | - | [Fabiana Ribas](https://github.com/FabianaRibas) |
+| Glossário | 5 | [Marcos Nery](https://github.com/MarcosNBJ) e [Matheus Figueiredo](https://github.com/Matheusss03) |
+| Pesquisa de tecnologias | 5 | [Felipe Campos](https://github.com/fepas) |
+| Documento de Visão | 3 | [Marcos Nery](https://github.com/MarcosNBJ) |
+| NFR | 8 | [Rogério Júnior](https://github.com/rogerioo) e [Youssef Muhamad](https://github.com/youssef-md) |
+| Documento de Identidade Visual da Aplicação | 8 | [Fabiana Ribas](https://github.com/FabianaRibas), [Gabriel Albino](https://github.com/gabrielalbino) e [Youssef Muhamad](https://github.com/youssef-md) |
+| Diagramas (BPMN) - Translate-me * | 3 | [Matheus Figueiredo](https://github.com/Matheusss03)(definição) e todo o time|
 
 <b>Total de pontos planejados: ##</b>  
 
