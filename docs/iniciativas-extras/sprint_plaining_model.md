@@ -5,7 +5,7 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 </p>
 
 
-## Tamanho da _Sprint_ X      
+## Tamanho da Sprint X      
 **Início:** 00/00/0000
    
 **Término:** 00/00/0000   
@@ -18,8 +18,8 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 ## Objetivos   
 
-|     _Issue_      |    Pontos   |
-|:----------------:|:-----------:|
+|     _Issue_      |    Pontos   |     *Assign*     |
+|:----------------:|:-----------:|:----------------:|
 
 <b>Total de pontos planejados: ##</b>  
 
@@ -30,7 +30,7 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 <b>Total: ##</b> 
 
-### _Issues_ Acrescentadas Durante a _Sprint_  
+### Issues Acrescentadas Durante a Sprint  
 
 |     _Issue_      |    Pontos   |
 |:----------------:|:-----------:|
@@ -60,3 +60,5 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 - [Matheus Figueiredo](https://github.com/Matheusss03)
 - [Rogério Júnior](https://github.com/rogerioo)
 - [Youssef Muhamad](https://github.com/youssef-md)
+
+*Autor:* **[](https://github.com/)**

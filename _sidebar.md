@@ -21,4 +21,7 @@
   - [Sentimentos vs Produtividade](docs/iniciativas-extras/SentimentosProdutividade.md)
   - [Template de Sprint Plaining](docs/iniciativas-extras/sprint_plaining_model.md)
   - [Template de Sprint Review](docs/iniciativas-extras/sprint_review_model.md)
+  - [Documentação das Sprints](docs/iniciativas-extras/documentacao_sprints/README.md)
+    - [Planejamento Sprint 01](docs/iniciativas-extras/documentacao_sprints/plaining_01.md)
+    - [Review Sprint 01](docs/iniciativas-extras/documentacao_sprints/review_01.md)
 

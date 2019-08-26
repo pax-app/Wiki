@@ -4,3 +4,4 @@
 - [DS IV a](docs/DS/dinamica-e-seminario-4-a/README.md)
 - [DS IV b](docs/DS/dinamica-e-seminario-4-b/README.md)
 - [Iniciativas Extras](docs/iniciativas-extras/README.md)
+- [Sprints](docs/iniciativas-extras/documentacao_sprints/README.md)
