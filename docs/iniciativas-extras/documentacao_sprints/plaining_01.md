@@ -30,12 +30,12 @@ Não houveram, conforme explicado anteriormente
 | Unificar todos os 5W2H | 1 | [Kaique Borges](https://github.com/kaiqueborges) |
 | Organizar documentos na Wiki | 1 | [Rogério Júnior](https://github.com/rogerioo) |
 | Documento de definição de projeto | 3 | [Marcos Nery](https://github.com/MarcosNBJ) |
-| Oceano Azul | 2 | [Esio Gustavo](https://github.com/EsioFreitas) |
+| Oceano Azul | 2 | [Esio Gustavo](https://github.com/EsioFreitas) e [Lucas Dutra](https://github.com/lucasdutraf) |
 | Analise de Sentimentos | 1 | [Matheus Figueiredo](https://github.com/Matheusss03) |
 | Documento de Sprint Review e Sprint Planning | 1 | [Rogério Júnior](https://github.com/rogerioo) |
 | Criar Código de Contribuição| 1 | [Felipe Campos](https://github.com/fepas) |
 | Infográfico | 2 | [Matheus Figueiredo](https://github.com/Matheusss03) |
-| Melhoria do Benchmarking | 2 | [Esio Gustavo](https://github.com/EsioFreitas) |
+| Melhoria do Benchmarking | 2 | [Esio Gustavo](https://github.com/EsioFreitas) e  [Lucas Dutra](https://github.com/lucasdutraf) |
 | Brainstorming de ideias para o aplicativo | 2 | [Gabriel Albino](https://github.com/gabrielalbino) |
 
 <b>Total de pontos planejados: 31</b>  
