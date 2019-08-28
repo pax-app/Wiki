@@ -2,6 +2,15 @@
 
 Aqui estão listados termos que constituem um glossário, sendo estes termos específicos do contexto do domínio da aplicação. Para cada termo estão listadas as seguintes definições: 
 
+
+## Histórico de Revisões
+
+|    Data    | Versão |                Descrição                 |   Autor(es)   |
+| :--------: | :----: | :--------------------------------------: | :-----------: |
+| 27/08/2019 |  0.1   |  Abertura do documento, com descrição do conteúdo |  Marcos Nery  |
+| 27/08/2019 |  0.2   |  Inclusão de um template pros termos e histórico de revisão       |  Marcos Nery  |
+
+
 * Noção: significado do termo e contexto do mesmo
 * Impacto: ações que podem ser realizadas pelo sujeito referenciado pelo termo ou sobre ele
 * Sinônimos: outros termos que possuem os mesmos atributos deste
