@@ -9,8 +9,10 @@
 
 
 ## 1. Introdução
+Nesta introdução serão abordados tópicos referentes a uma visão geral do produto, definindo seu propósito, escopo, definições, acrônimos, abreviações e referências.
 
 ### 1.1 Finalidade
+Esse documento visa especificar todo o escopo de funcionamento da aplicação, deixando claro seu objetivo, a razão de sua necessidade e a forma como busca solucionar os problemas aos quais se propõe, deixando claro possíveis restrições. Dessa forma, sua principal utilidade objetiva também, ao esclarecer o que é o sistema para os desenvolvedores, clientes e usuários, estabelecer entre os mesmos um alinhamento de ideias.
 
 ### 1.2 Escopo
 
