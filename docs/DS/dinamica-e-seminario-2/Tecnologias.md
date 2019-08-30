@@ -9,8 +9,8 @@
 
 ## Backend
 
-* [Python](./Python.md)
-* [Node.js](./Node.md)
+* [Python](docs/DS/dinamica-e-seminario-2/Python.md)
+* [Node.js](docs/DS/dinamica-e-seminario-2/Node.md)
 
 ### Avaliação em Funcionalidade - Backend
 
