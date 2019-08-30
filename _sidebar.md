@@ -12,6 +12,7 @@
   - [Brainstorm](docs/DS/dinamica-e-seminario-1/Brainstorm.md)
 - [**Dinâmica e Seminário II**](docs/DS/dinamica-e-seminario-2/README.md)
   - [Tecnologias](docs/DS/dinamica-e-seminario-2/Tecnologias.md)
+  - [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md)
 - [**Dinâmica e Seminário III**](docs/DS/dinamica-e-seminario-3/README.md)
 - [**Dinâmica e Seminário IV a**](docs/DS/dinamica-e-seminario-4-a/README.md)
 - [**Dinâmica e Seminário IV b**](docs/DS/dinamica-e-seminario-4-b/README.md)
