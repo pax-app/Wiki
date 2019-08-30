@@ -7,6 +7,8 @@
 |:---:|:---:|:---:|:--:|
 | 27/08/2018 |   0.1  | Abertura do documento| Marcos Nery |
 | 28/08/2018 |   0.4  | Preenchimento dos tópicos 1 e 4| Marcos Nery|
+| 28/08/2018 |   0.5  | Preenchimento do tópico 3| Marcos Nery|
+
 
 ## 1. Introdução
 Nesta introdução serão abordados tópicos referentes a uma visão geral do produto, definindo seu propósito, escopo, definições, acrônimos, abreviações e referências.
@@ -55,18 +57,48 @@ Esse documento visa especificar todo o escopo de funcionamento da aplicação, d
 
 ## 3. Perfil dos usuários
 
+### 3.1 Prestador de serviços
+|||
+|:--:|:-:|
+|Representante|Profissionais independentes|
+|Descrição|Pessoas que prestam algum serviço de forma independente, sem vínculo trabalhista|
+|Tipo|Usuário final de qualquer grau de conhecimento técnico|
+|Responsabilidades|Cadastrar um perfil, que incluí algumas informações pessoais além do cadastro dos tipos de serviço que tal profissional realiza, negociar pelo chat do aplicativo os trâmites referentes a um trabalho com o seu cliente após contatado, realizar o trabalho, e então receber através do app o seu pagamento.|
+|Críterios de sucesso|Ter a ajuda da plataforma para ser contactado por consumidores interessados no seu serviço, conseguir se comunicar eficiêntemente com o cliente através da plataforma, conseguir receber através do app o pagamento feito pelo cliente.|
 
+### 3.2 Consumidor de serviços
+|||
+|:--:|:-:|
+|Representante|Consumidores de serviços gerais|
+|Descrição|Pessoas cujas necessidades diárias as levem a precisar da contratação de um serviço qualquer|
+|Tipo|Usuário final de qualquer grau de conhecimento técnico|
+|Responsabilidades|Cadastrar um perfil com algumas informações básicas sobre sí, escolher na plataforma um profissional que preste o serviço no qual ele está interessado, negociar os trâmites envolvidos na prestação do serviço através do chat na plataforma e realizar o pagamento após o cumprimento do mesmo.|
+|Críterios de sucesso|Conseguir achar um profissional que preste o serviço desejado, ter variabilidade de escolhas possíveis, conseguir se comunicar com o contratado através da aplicação, realizar o pagamento através do meio mais conveniente.|
 
 
 ### 3.3 Ambiente do Usuário
 
+A aplicação tem como alvo dispositivos mobile cujo sistema operacional operante é o Android.
 
+### 3.6 Principais Necessidades dos Usuários
 
+#### 3.6.1 Usuário consumidor de serviços
+ 
+|Necessidade|Prioridade|Solução Atual|Soluções Propostas|
+|:--:|:--:|:--:|:--:|
+|Buscar por um prestador de determinado serviço|Alta|Pedir indicações, pesquisar manualmente em jornais/listas/internet|Compilado na aplicação de prestadores de serviços gerais disponíveis na área/horário que poderão ser escolhidos pelo consumidor.|
+|Conseguir se comunicar com o prestador contratado|Alta|Utilizar meios de comunicação pessoais, como aplicativos de mensagens instantâneas, ou então ligando diretamente para o prestador.|Chat dentro do próprio aplicativo|
+|Realizar o pagamento através do aplicativo|Alta|Pagar em dinheiro ou depender do prestador possuír maquina de cartão de crédito|Mecanismos dentro do aplicativo pelos quais o usuário consumidor paga da forma que preferir e o dinheiro vai para a conta do contratado|
+|Avaliar o prestador contratado e ver as avaliações do mesmo|Alta|Perguntar, quando possível, para pessoas que tenham contratado o profissional como foi a experiência|Sistema de avaliações no aplicativo pelo qual o consumidor pode avaliar o contratado|
 
-### 3.5 Perfis dos Usuários
+#### 3.6.2 Usuário prestador de serviços
 
-
-### 3.6 Principais Necessidades dos Usuários ou dos Envolvidos
+|Necessidade|Prioridade|Solução Atual|Soluções Propostas|
+|:--:|:--:|:--:|:--:|
+|Cadastrar os serviços prestados para ser encontrado pelos interessados|Alta|Anunciar seus serviços por meio de jornais/panfletos/internet/etc|Perfil com os serviços prestados no aplicativo, que terá visibilidade e poderá ser contratado por qualquer consumidor interessado na área que use o aplicativo|
+|Conseguir se comunicar com o seu contratante|Alta|Utilizar meios de comunicação pessoais, como aplicativos de mensagens instantâneas, ou então ligando diretamente para o cliente.|Chat dentro do próprio aplicativo|
+|Receber pagamento através do aplicativo|Alta|Aceitar apenas dinheiro ou alugar uma máquina de cartão de crédito ou qualquer serviço de terceiros que permita receber os pagamentos por cartão|Mecanismos dentro do aplicativo pelos quais o usuário paga da forma que preferir e o dinheiro vai para a conta do contratado|
+|Avaliar o contratante|Alta|Comentar com pessoas do meio de trabalho como foi a experiência com determinado consumidor|Sistema de avaliações no aplicativo pelo qual o prestador pode avaliar o consumidor|
 
 
 ### 3.7 Alternativas e Concorrências
