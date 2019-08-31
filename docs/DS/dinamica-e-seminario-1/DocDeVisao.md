@@ -10,6 +10,7 @@
 | 28/08/2018 |   0.5  | Preenchimento do tópico 3| Marcos Nery|
 | 28/08/2018 |   0.6  | Preenchimento do tópico 1.3| Marcos Nery|
 | 29/08/2018 |   0.8  | Preenchimento dos tópicos 1.2, 1.4 e 1.5| Marcos Nery|
+| 30/08/2018 |   1.0  | Preenchendo tópico 4, de visão de produto| Marcos Nery|
 
 
 ## 1. Introdução
@@ -116,11 +117,24 @@ A aplicação tem como alvo dispositivos mobile cujo sistema operacional operant
 Para um melhor comparativo entre os concorrentes e soluções alternativas para cada um dos problemas aos quais a aplicação se propõe a resolver foi feito um Benchmarking, que pode ser visto [aqui](Benchmarking.md).
 
 
-## 4. Visão Geral do Produto
+## 4. Visão Geral dos recursos do produto 
 
-### 4.1 Perspectiva do Produto
+### 4.1 Cadastro de perfil
 
+Ambos os tipos de usuário devem cadastrar um perfil para acessar a plataforma. Nesse perfil constam algumas informações básicas do usuário e sua avaliação. No caso do perfil de prestador de serviço além disso podem ser encontrados também os serviços que aquele prestador realiza e um histórico de trabalhos realizados. 
 
-### 4.2 Resumo dos Recursos
+### 4.2 Pesquisa por serviços 
 
-## 5. Licenciamento
+No sistema há um recurso pelo qual o usuário consumidor poderá pesquisar pelo serviço que quer consumir, gerando listas de prestadores realizando aquele serviço na área. Essa lista pode ser ordenada por caracteristicas como preço ou avaliação e o usuário também pode navegar por categorias de serviço.
+
+### 4.3 Chat 
+
+Ao escolher um prestador de serviço existe na aplicação um chat para que o consumidor e o prestador do serviço possam conversar e negociar quaisquer trâmites necessários para o serviço.
+
+### 4.4 Pagamento in-app
+
+O consumidor poderá pela própria aplicação realizar o pagamento pelo trabalho contratado, que será então depositado na conta do prestador.
+
+### 4.5 Sistema de avaliação
+
+Existe na aplicação um sistema de feedback avaliativo, pelo qual tanto o prestador quanto o consumidor do serviço poderão se avaliar após a realização do serviço contratado. Dessa forma, ambos os tipos de usuário terão uma classificação baseada nas avaliações que receberam.
