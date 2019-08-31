@@ -11,6 +11,7 @@
 | 28/08/2018 |   0.6  | Preenchimento do tópico 1.3| Marcos Nery|
 | 29/08/2018 |   0.8  | Preenchimento dos tópicos 1.2, 1.4 e 1.5| Marcos Nery|
 | 30/08/2018 |   1.0  | Preenchendo tópico 4, de visão de produto| Marcos Nery|
+| 30/08/2018 |   1.1  | Correções ortográficas| Marcos Nery|
 
 
 ## 1. Introdução
@@ -21,18 +22,18 @@ Esse documento visa especificar todo o escopo de funcionamento da aplicação, d
 
 ### 1.2 Escopo
 
-O Pax é uma aplicação que visa ajudar peessoas a resolverem alguns dos seus problemas diários que requerem a contratação de serviços. Sendo estes de habilitação técnica elevada, como os realizados por um eletricista ou encanador, ou mesmo coisas simples como alguém para passear com os cachorros. 
+O Pax é uma aplicação que visa ajudar pessoas a resolverem alguns dos seus problemas diários que requerem a contratação de serviços. Sendo estes de habilitação técnica elevada, como os realizados por um eletricista ou encanador, ou mesmo coisas simples como alguém para passear com os cachorros. 
 
-Qualquer indivíduo que realize de forma autonoma algum tipo de trabalho pode se cadastrar no aplicativo e oferecer nele seus serviços, para que então os usuários que procuram contratar esses serviços possam contata-los e pela própria aplicação fechar negócio.
+Qualquer indivíduo que realize de forma autônoma algum tipo de trabalho pode se cadastrar no aplicativo e oferecer nele seus serviços, para que então os usuários que procuram contratar esses serviços possam contata-los e pela própria aplicação fechar negócio.
 
 
 ### 1.3 Não Escopo
 
-Não cabe a aplicação estabelecer os parâmetros para como um determinado serviço deverá ser realizado. Também fogem do escopo da aplicação coisas como serviços por agendamento. O corpo alvo de prestadores de serviço é de trabalhadores sem vinculo empregaticio, sendo assim, também não é visado o atendimento das necessidades de empresas.
+Não cabe a aplicação estabelecer os parâmetros para como um determinado serviço deverá ser realizado. Também fogem do escopo da aplicação coisas como serviços por agendamento. O corpo alvo de prestadores de serviço é de trabalhadores sem vinculo empregatício, sendo assim, também não é visado o atendimento das necessidades de empresas.
 
 ### 1.4 Definições, Acrônimos e Abreviações
 
-Para conhecer mais profundamente algumas definições terminológicas referentes ao escopo do projeto, pode ser checaco o [glossário](Glossario.md).
+Para conhecer mais profundamente algumas definições terminológicas referentes ao escopo do projeto, pode ser checado o [glossário](Glossario.md).
 
 ### 1.5 Visão Geral
 
@@ -43,7 +44,7 @@ Nessa Wiki podem ser encontrados muitos documentos que definem cada uma das fren
 
 ### 2.1 Oportunidade de Negócios
 
-É grande a demanda diária das pessoas pelo consumo de serviços gerais, tais como um encanador, alguém para fazer manutenção de equipamentos eletrônicos ou até mesmo alguém ara passear com os cachorros. Além disso, o mercado de trabalho informal no Brasil é expressivo, chegando a um total de mais de 39 milhões de trabalhadores de acordo com o IBGE, muitos destes profissionais independentes não tem um meio fácil para chegar aos seus clientes e divulgar seus serviços. Partindo de necessidades como essas, a aplicação aqui descrita busca servir de meio entre prestador e consumidor de serviço para que estes negociem os trâmites do trabalho a ser realizado, dando ao consumidor as facilidades que ele precisa para achar um prestador para o serviço que ele deseja consumir.
+É grande a demanda diária das pessoas pelo consumo de serviços gerais, tais como um encanador, alguém para fazer manutenção de equipamentos eletrônicos ou até mesmo alguém para passear com os cachorros. Além disso, o mercado de trabalho informal no Brasil é expressivo, chegando a um total de mais de 39 milhões de trabalhadores de acordo com o IBGE, muitos destes profissionais independentes não tem um meio fácil para chegar aos seus clientes e divulgar seus serviços. Partindo de necessidades como essas, a aplicação aqui descrita busca servir de meio entre prestador e consumidor de serviço para que estes negociem os trâmites do trabalho a ser realizado, dando ao consumidor as facilidades que ele precisa para achar um prestador para o serviço que ele deseja consumir.
 
 ### 2.2 Descrição do Problema
 
@@ -62,7 +63,7 @@ Nessa Wiki podem ser encontrados muitos documentos que definem cada uma das fren
 |Carência|Algo que conecte os profissionais que prestam um serviço as pessoas que podem consumi-lo|
 |Solução|Um aplicativo mobile que permite ao usuário pesquisar por um profissional que preste um serviço do qual a mesma necessite e então ajuda os dois lados a cuidar dos trâmites presentes na negociação e realização do serviço.|
 |Descrição da solução|Um profissional pode através do aplicativo cadastrar seus serviços, para que então um usuário consumidor possa acha-lo ao pesquisar por um prestador daquele serviço. Depois disso, ao escolher sua opção, o consumidor e o prestador tem recursos como chat na aplicação para negociarem os trâmites do trabalho. É feito também através do aplicativo o pagamento.|
-|Diferenciais|Robusto sistema de busca e filtragem dos profissionais, pagamento dentro do app, chat entre as duas partes, mecânismos para validar a autenticidade do profissional.|
+|Diferenciais|Robusto sistema de busca e filtragem dos profissionais, pagamento dentro do app, chat entre as duas partes, mecanismos para validar a autenticidade do profissional.|
 
 
 
@@ -75,7 +76,7 @@ Nessa Wiki podem ser encontrados muitos documentos que definem cada uma das fren
 |Descrição|Pessoas que prestam algum serviço de forma independente, sem vínculo trabalhista|
 |Tipo|Usuário final de qualquer grau de conhecimento técnico|
 |Responsabilidades|Cadastrar um perfil, que incluí algumas informações pessoais além do cadastro dos tipos de serviço que tal profissional realiza, negociar pelo chat do aplicativo os trâmites referentes a um trabalho com o seu cliente após contatado, realizar o trabalho, e então receber através do app o seu pagamento.|
-|Críterios de sucesso|Ter a ajuda da plataforma para ser contactado por consumidores interessados no seu serviço, conseguir se comunicar eficiêntemente com o cliente através da plataforma, conseguir receber através do app o pagamento feito pelo cliente.|
+|Críterios de sucesso|Ter a ajuda da plataforma para ser contatado por consumidores interessados no seu serviço, conseguir se comunicar eficientemente com o cliente através da plataforma, conseguir receber através do app o pagamento feito pelo cliente.|
 
 ### 3.2 Consumidor de serviços
 |||
@@ -99,7 +100,7 @@ A aplicação tem como alvo dispositivos mobile cujo sistema operacional operant
 |:--:|:--:|:--:|:--:|
 |Buscar por um prestador de determinado serviço|Alta|Pedir indicações, pesquisar manualmente em jornais/listas/internet|Compilado na aplicação de prestadores de serviços gerais disponíveis na área/horário que poderão ser escolhidos pelo consumidor.|
 |Conseguir se comunicar com o prestador contratado|Alta|Utilizar meios de comunicação pessoais, como aplicativos de mensagens instantâneas, ou então ligando diretamente para o prestador.|Chat dentro do próprio aplicativo|
-|Realizar o pagamento através do aplicativo|Alta|Pagar em dinheiro ou depender do prestador possuír maquina de cartão de crédito|Mecanismos dentro do aplicativo pelos quais o usuário consumidor paga da forma que preferir e o dinheiro vai para a conta do contratado|
+|Realizar o pagamento através do aplicativo|Alta|Pagar em dinheiro ou depender do prestador possuir maquina de cartão de crédito|Mecanismos dentro do aplicativo pelos quais o usuário consumidor paga da forma que preferir e o dinheiro vai para a conta do contratado|
 |Avaliar o prestador contratado e ver as avaliações do mesmo|Alta|Perguntar, quando possível, para pessoas que tenham contratado o profissional como foi a experiência|Sistema de avaliações no aplicativo pelo qual o consumidor pode avaliar o contratado|
 
 #### 3.6.2 Usuário prestador de serviços
@@ -125,7 +126,7 @@ Ambos os tipos de usuário devem cadastrar um perfil para acessar a plataforma. 
 
 ### 4.2 Pesquisa por serviços 
 
-No sistema há um recurso pelo qual o usuário consumidor poderá pesquisar pelo serviço que quer consumir, gerando listas de prestadores realizando aquele serviço na área. Essa lista pode ser ordenada por caracteristicas como preço ou avaliação e o usuário também pode navegar por categorias de serviço.
+No sistema há um recurso pelo qual o usuário consumidor poderá pesquisar pelo serviço que quer consumir, gerando listas de prestadores realizando aquele serviço na área. Essa lista pode ser ordenada por características como preço ou avaliação e o usuário também pode navegar por categorias de serviço.
 
 ### 4.3 Chat 
 
