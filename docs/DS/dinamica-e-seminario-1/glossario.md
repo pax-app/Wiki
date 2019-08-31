@@ -9,6 +9,7 @@ Aqui estão listados termos que constituem um glossário, sendo estes termos esp
 | :--------: | :----: | :--------------------------------------: | :-----------: |
 | 27/08/2019 |  0.1   |  Abertura do documento, com descrição do conteúdo |  Marcos Nery  |
 | 27/08/2019 |  0.2   |  Inclusão de um template pros termos e histórico de revisão       |  Marcos Nery  |
+| 30/08/2019 |  1.0   |  Inclusão dos termos G1 e G2     |  Marcos Nery  |
 <br>
 
 Para cada termo estão listadas as seguintes definições: 
@@ -16,14 +17,16 @@ Para cada termo estão listadas as seguintes definições:
 * Noção: significado do termo e contexto do mesmo
 * Impacto: ações que podem ser realizadas pelo sujeito referenciado pelo termo ou sobre ele
 * Sinônimos: outros termos que possuem os mesmos atributos deste
-* Classificação: se o termo se refere a um objeto, verbo ou estado. Verbo para os termos que indicam ações, estado para os que indicam alguma condição temporária, e objeto para aqueles que não se encaixam em nenhum dos dois casos anteriores e se referem a um sujeito qualquer.
+* Classificação: se o termo se refere a um sujeito, objeto, verbo ou estado. Sujeito para os que se referem a atores que podem realizar ações, verbo para os termos que indicam ações, estado para os que indicam alguma condição temporária, e objeto para aqueles que não se encaixam em nenhum dos dois casos anteriores.
 
 Para facilitar a visibilidade de cada uma dessas informações para cada termo, será usado o seguinte template tabular:
 
 ### G0
 
 |**Título do termo aqui**|
-|--|
+|:--:|
+|**Classificação**|
+| |
 |**Noção**|
 | |
 | Noção do termo aqui|
@@ -31,5 +34,46 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |  |
 | Impacto do termo aqui|
 |**Sinônimos**|
-|  |
-| Sinônimos aqui |
+| Sinônimos |
+
+### G1 - V1
+
+|**Prestador de serviços**|
+|:--:|
+|**Classificação**|
+| Sujeito |
+|**Noção**|
+|- Profissional que presta serviços sem vínculo empregatício|
+|- Pessoa que presta um serviço qualquer de forma autônoma, de coisas mais especializadas como um eletricista até coisas mais simples como dog walker|
+|**Impacto** |
+|- Um prestador de serviço pode cadastrar seu perfil na aplicação|
+|- Um prestador de serviço pode cadastrar seus serviços prestados no perfil|
+|- Um prestador de serviço pode aceitar ou recusar uma negociação com um consumidor|
+|- Um prestador de serviço pode estabelecer o range inicial de preço do seu serviço|
+|- Um prestador de serviço pode validar seu perfil na plataforma|
+|- Um prestador de serviços pode negociar via chat com um consumidor acerca de um serviço a ser contratado|
+|- Um prestador de serviços pode receber pela aplicação o pagamento por um serviço prestado|
+|- Um prestador de serviços pode avaliar um consumidor ao qual prestou serviços|
+|**Sinônimos**|
+|Autônomo|
+
+### G2 - V1
+
+|**Consumidor de serviços**|
+|:--:|
+|**Classificação**|
+| Sujeito |
+|**Noção**|
+|- Usuário do app que busca consumir algum serviço|
+|- Pessoa que por uma necessidade qualquer do dia-a-dia utiliza a aplicação para procurar e contratar um determinado prestador de serviço|
+|**Impacto** |
+|- Um consumidor de serviços pode cadastrar seu perfil na aplicação|
+|- Um consumidor de serviços pode pesquisar por prestadores oferecendo um determinado serviço|
+|- Um consumidor de serviços pode tentar contratar um prestador de serviços escolhido|
+|- Um consumidor de serviços pode negociar via chat com um prestador acerca de um serviço a ser contratado|
+|- Um consumidor de serviços pode realizar pelo app o pagamento de um serviço consumido|
+|- Um consumidor de serviços pode avaliar um prestador do qual contratou serviços|
+|**Sinônimos**|
+|-|
+
+
