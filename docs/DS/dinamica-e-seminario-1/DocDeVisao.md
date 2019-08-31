@@ -9,6 +9,7 @@
 | 28/08/2018 |   0.4  | Preenchimento dos tópicos 1 e 4| Marcos Nery|
 | 28/08/2018 |   0.5  | Preenchimento do tópico 3| Marcos Nery|
 | 28/08/2018 |   0.6  | Preenchimento do tópico 1.3| Marcos Nery|
+| 29/08/2018 |   0.8  | Preenchimento dos tópicos 1.2, 1.4 e 1.5| Marcos Nery|
 
 
 ## 1. Introdução
@@ -19,17 +20,23 @@ Esse documento visa especificar todo o escopo de funcionamento da aplicação, d
 
 ### 1.2 Escopo
 
+O Pax é uma aplicação que visa ajudar peessoas a resolverem alguns dos seus problemas diários que requerem a contratação de serviços. Sendo estes de habilitação técnica elevada, como os realizados por um eletricista ou encanador, ou mesmo coisas simples como alguém para passear com os cachorros. 
+
+Qualquer indivíduo que realize de forma autonoma algum tipo de trabalho pode se cadastrar no aplicativo e oferecer nele seus serviços, para que então os usuários que procuram contratar esses serviços possam contata-los e pela própria aplicação fechar negócio.
+
+
 ### 1.3 Não Escopo
 
 Não cabe a aplicação estabelecer os parâmetros para como um determinado serviço deverá ser realizado. Também fogem do escopo da aplicação coisas como serviços por agendamento. O corpo alvo de prestadores de serviço é de trabalhadores sem vinculo empregaticio, sendo assim, também não é visado o atendimento das necessidades de empresas.
 
 ### 1.4 Definições, Acrônimos e Abreviações
 
+Para conhecer mais profundamente algumas definições terminológicas referentes ao escopo do projeto, pode ser checaco o [glossário](Glossario.md).
 
-### 1.5 Referências
+### 1.5 Visão Geral
 
+Nessa Wiki podem ser encontrados muitos documentos que definem cada uma das frentes envolvidas nesse projeto, bem como aprofundamentos dentro dos seus objetivos e recursos. Neste documento, alguns pontos principais acerca da descrição do problema em sí, do público alvo, e de visão de produto poderão ser encontrados nos tópicos seguintes.
 
-### 1.6 Visão Geral
 
 ## 2. Posicionamento
 
