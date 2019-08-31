@@ -8,6 +8,7 @@
 | 27/08/2018 |   0.1  | Abertura do documento| Marcos Nery |
 | 28/08/2018 |   0.4  | Preenchimento dos tópicos 1 e 4| Marcos Nery|
 | 28/08/2018 |   0.5  | Preenchimento do tópico 3| Marcos Nery|
+| 28/08/2018 |   0.6  | Preenchimento do tópico 1.3| Marcos Nery|
 
 
 ## 1. Introdução
@@ -19,6 +20,8 @@ Esse documento visa especificar todo o escopo de funcionamento da aplicação, d
 ### 1.2 Escopo
 
 ### 1.3 Não Escopo
+
+Não cabe a aplicação estabelecer os parâmetros para como um determinado serviço deverá ser realizado. Também fogem do escopo da aplicação coisas como serviços por agendamento. O corpo alvo de prestadores de serviço é de trabalhadores sem vinculo empregaticio, sendo assim, também não é visado o atendimento das necessidades de empresas.
 
 ### 1.4 Definições, Acrônimos e Abreviações
 
@@ -102,6 +105,8 @@ A aplicação tem como alvo dispositivos mobile cujo sistema operacional operant
 
 
 ### 3.7 Alternativas e Concorrências
+
+Para um melhor comparativo entre os concorrentes e soluções alternativas para cada um dos problemas aos quais a aplicação se propõe a resolver foi feito um Benchmarking, que pode ser visto [aqui](Benchmarking.md).
 
 
 ## 4. Visão Geral do Produto
