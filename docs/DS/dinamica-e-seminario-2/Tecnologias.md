@@ -4,20 +4,16 @@ Esse documento serve como analise das tecnologias que vamos usar e como chegamos
 
 ## Histórico de Revisões
 
-|    Data    | Versão |      Descrição      |    Autor(es)    |
-| :--------: | :----: | :-----------------: | :-------------: |
-| 22/08/2019 |  1.0   | Criando o documento | Matheus Pimenta |
+|    Data    | Versão |       Descrição       |   Autor(es)   |
+| :--------: | :----: | :-------------------: | :-----------: |
+| 22/08/2019 |  1.0   |  Criando o documento  | Felipe Campos |
+| 01/09/2019 |  1.2   | Adicionando conclusão | Esio Freitas  |
 
-## FrontEnd
-
-- Flutter
-- React Native
-
-### Analise FrontEnd
+## Analise FrontEnd
 
 [Flutter vs React Native – what to choose in 2019?](https://www.thedroidsonroids.com/blog/flutter-vs-react-native-what-to-choose-in-2019)
 
-## Backend
+## Analise Backend
 
 - [Python](docs/DS/dinamica-e-seminario-2/Python.md)
 - [Node.js](docs/DS/dinamica-e-seminario-2/Node.md)
@@ -31,3 +27,21 @@ Esse documento serve como analise das tecnologias que vamos usar e como chegamos
 | Avaliação       | \*     |      |
 | Recomendação    | \*     |      |
 | Localização     | \*     | \*   |
+
+## Conclusão
+
+Por motivos de maior desenpenho, curva de aprendizado e gosto dos desenvolvedores em aprender uma nova tecnologia, a tecnologia escolhida para o frontend foi o [Flutter](https://flutter.dev/).
+E por motivos de desenpenho, escabilidade e vasto materia disponível, a tecnologia escolhida para o backtend foi o [Express](https://expressjs.com/pt-br/).
+
+## Referências
+
+- Flask vs. Django: Why Flask Might Be Better. Acessado dia 22/08/2019. Em: <https://www.codementor.io/garethdwyer/flask-vs-django-why-flask-might-be-better-4xs7mdf8v>
+- Python - Wikipedia. Acessado dia 22/08/2019. Em: <https://pt.wikipedia.org/wiki/Python>
+- Django. Acessado dia 22/08/2019. Em: <https://www.djangoproject.com/>
+- Flask - Wikipedia. Acessado dia 22/08/2019. Em: <https://pt.wikipedia.org/wiki/Flask_(framework_web)>
+- 10 node frameworks to use in 2019 - Wikipedia. Acessado dia 22/08/2019. Em: <https://scotch.io/bar-talk/10-node-frameworks-to-use-in-2019>
+- Koa - Wikipedia. Acessado dia 22/08/2019. Em: <https://koajs.com/>
+- Express - Wikipedia. Acessado dia 22/08/2019. Em: <https://expressjs.com/>
+- Adonis - Wikipedia. Acessado dia 22/08/2019. Em: <https://adonisjs.com/>
+- Node.js - Wikipedia. Acessado dia 22/08/2019. Em: <https://nodejs.org/en/>
+- Node - Wikipedia - Wikipedia. Acessado dia 22/08/2019. Em: <https://pt.wikipedia.org/wiki/Node.js>
