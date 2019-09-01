@@ -31,7 +31,7 @@ Esse documento serve como analise das tecnologias que vamos usar e como chegamos
 ## Conclusão
 
 Por motivos de maior desenpenho, curva de aprendizado e gosto dos desenvolvedores em aprender uma nova tecnologia, a tecnologia escolhida para o frontend foi o [Flutter](https://flutter.dev/).
-E por motivos de desenpenho, escabilidade e vasto materia disponível, a tecnologia escolhida para o backtend foi o [Express](https://expressjs.com/pt-br/).
+E por motivos de desenpenho, escabilidade e vasto materia disponível, a tecnologia escolhida para o backtend foi o
 
 ## Referências
 
