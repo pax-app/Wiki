@@ -12,7 +12,7 @@ Aqui estão listados termos que constituem um glossário, sendo estes termos esp
 | 30/08/2019 |  1.0   |  Inclusão dos termos G1 e G2     |  Marcos Nery  |
 | 30/08/2019 |  1.1   |  Inclusão dos termos G3    |  Marcos Nery  |
 | 30/08/2019 |  1.2   |  Inclusão do termo G4    |  Marcos Nery  |
-
+| 01/09/2019 |  1.3   |   Detalhes arrumados    |  Marcos Nery  |
 
 <br>
 
@@ -41,10 +41,10 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |  Sinônimos |
 
 ### G1 - V1
+<h3 style="text-align: left;">Serviço</h3>
 
-|**Serviço**|
-|:--:|
 |**Classificação**|
+|:--|
 | Objeto |
 |**Noção**|
 | |
@@ -59,10 +59,10 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 
 ### G2 - V1
 
-|**Prestador de serviços**|
-|:--:|
-|**Classificação**|
+<h3 style="text-align: left;">Classificação</h3>
+
 | Sujeito |
+|:--:|
 |**Noção**|
 |- Usuário que utiliza a aplicação com finalidade de oferecer seus serviços para contratação|
 |- Profissional que presta serviços sem vínculo empregatício|
@@ -81,9 +81,10 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 
 ### G3 - V1
 
-|**Consumidor de serviços**|
-|:--:|
+<h3 style="text-align: left;">Consumidor de serviços</h3>
+
 |**Classificação**|
+|:--:|
 | Sujeito |
 |**Noção**|
 |- Usuário do app que busca consumir algum serviço|
@@ -101,9 +102,10 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 
 ### G4 - V1
 
-|**Prestador validado**|
-|:--:|
+<h3 style="text-align: left;">Prestador validado</h3>
+
 |**Classificação**|
+|:--:|
 | Estado |
 |**Noção**|
 |- Usuário prestador que preencheu todos os campos do perfil e teve toda sua documentação validada|
