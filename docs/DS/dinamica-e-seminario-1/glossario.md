@@ -1,6 +1,6 @@
 # Glossário
 
-Aqui estão listados termos que constituem um glossário, sendo estes termos específicos do contexto do domínio da aplicação. 
+Aqui estão listados termos que constituem um glossário, sendo estes termos específicos do contexto do domínio da aplicação. Dito isso, algumas das definições a seguir diferem significativamente das definições para as mesmas palavras que poderiam ser encontradas em um dicionário, pois aqui estão definidas no contexto do aplicativo.
 
 
 ## Histórico de Revisões
@@ -38,6 +38,23 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 
 ### G1 - V1
 
+|**Serviço**|
+|:--:|
+|**Classificação**|
+| Objeto |
+|**Noção**|
+| |
+|- Qualquer tipo de função que pode ser desempenhada por aluém|
+|- Trabalho de qualquer nível de complexidade, podendo partir de atividades simples como Dog walker até atividades mais complexas como eletricista ou pintor.|
+|- Se divide em várias áreas e categorias|
+|**Impacto** |
+|- Um serviço pode ser realizado por um prestador|
+|- Um serviço pode ser cadastrado por um prestador em seu perfil como um dos seus serviços disponíveis |
+|**Sinônimos**|
+| - |
+
+### G2 - V1
+
 |**Prestador de serviços**|
 |:--:|
 |**Classificação**|
@@ -57,7 +74,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |**Sinônimos**|
 |Autônomo|
 
-### G2 - V1
+### G3 - V1
 
 |**Consumidor de serviços**|
 |:--:|
