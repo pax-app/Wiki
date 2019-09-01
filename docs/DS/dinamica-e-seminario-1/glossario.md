@@ -10,6 +10,10 @@ Aqui estão listados termos que constituem um glossário, sendo estes termos esp
 | 27/08/2019 |  0.1   |  Abertura do documento, com descrição do conteúdo |  Marcos Nery  |
 | 27/08/2019 |  0.2   |  Inclusão de um template pros termos e histórico de revisão       |  Marcos Nery  |
 | 30/08/2019 |  1.0   |  Inclusão dos termos G1 e G2     |  Marcos Nery  |
+| 30/08/2019 |  1.1   |  Inclusão dos termos G3    |  Marcos Nery  |
+| 30/08/2019 |  1.2   |  Inclusão do termo G4    |  Marcos Nery  |
+
+
 <br>
 
 Para cada termo estão listadas as seguintes definições: 
@@ -60,6 +64,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |**Classificação**|
 | Sujeito |
 |**Noção**|
+|- Usuário que utiliza a aplicação com finalidade de oferecer seus serviços para contratação|
 |- Profissional que presta serviços sem vínculo empregatício|
 |- Pessoa que presta um serviço qualquer de forma autônoma, de coisas mais especializadas como um eletricista até coisas mais simples como dog walker|
 |**Impacto** |
@@ -94,3 +99,19 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |-|
 
 
+### G4 - V1
+
+|**Prestador validado**|
+|:--:|
+|**Classificação**|
+| Estado |
+|**Noção**|
+|- Usuário prestador que preencheu todos os campos do perfil e teve toda sua documentação validada|
+|- Usuário prestador que tem no seu perfil um indicativo especial que indica que ele é validado pela aplicação|
+|**Impacto** |
+|- Para se tornar validado um prestador deve preencher todos os campos do seu perfil e ter toda a sua documentação aprovada|
+|- Qualquer prestador pode tentar preencher os requisitos acima para se tornar validado|
+|- Um prestador validado pode perder sua validação caso não mantenha seu perfil devidamente atualizado|
+|- Um usuário consumidor pode filtrar sua pesquisa para mostrar apenas prestadores validados|
+|**Sinônimos**|
+|- Prestador verificado|
