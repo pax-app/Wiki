@@ -1,5 +1,6 @@
 # Documento de Visão
 
+O documento de visão captura restrições de design e requisitos de alto nível para que o cliente possa compreender o sistema que será desenvolvido. Seu objetivo é fornecer uma visão ampla do produto que se pretende desenvolver, sem se aprofundar em detalhes.
 
 ## Histórico de Revisão
 
@@ -12,7 +13,7 @@
 | 29/08/2018 |   0.8  | Preenchimento dos tópicos 1.2, 1.4 e 1.5| Marcos Nery|
 | 30/08/2018 |   1.0  | Preenchendo tópico 4, de visão de produto| Marcos Nery|
 | 30/08/2018 |   1.1  | Correções ortográficas| Marcos Nery|
-
+| 01/09/2018 |   1.2 | Adicionando explicação do documento| Esio Freitas|
 
 ## 1. Introdução
 Nesta introdução serão abordados tópicos referentes a uma visão geral do produto, definindo seu propósito, escopo, definições, acrônimos, abreviações e referências.
