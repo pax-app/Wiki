@@ -1,5 +1,13 @@
 # Estudo das Tecnologias
 
+Esse documento serve como analise das tecnologias que vamos usar e como chegamos nessa conclusão.
+
+## Histórico de Revisões
+
+|    Data    | Versão |      Descrição      |    Autor(es)    |
+| :--------: | :----: | :-----------------: | :-------------: |
+| 22/08/2019 |  1.0   | Criando o documento | Matheus Pimenta |
+
 ## FrontEnd
 
 - Flutter
