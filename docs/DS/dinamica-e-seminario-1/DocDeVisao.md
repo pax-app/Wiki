@@ -92,9 +92,9 @@ Nessa Wiki podem ser encontrados muitos documentos que definem cada uma das fren
 
 A aplicação tem como alvo dispositivos mobile cujo sistema operacional operante é o Android.
 
-### 3.6 Principais Necessidades dos Usuários
+### 3.4 Principais Necessidades dos Usuários
 
-#### 3.6.1 Usuário consumidor de serviços
+#### 3.4.1 Usuário consumidor de serviços
  
 |Necessidade|Prioridade|Solução Atual|Soluções Propostas|
 |:--:|:--:|:--:|:--:|
@@ -103,7 +103,7 @@ A aplicação tem como alvo dispositivos mobile cujo sistema operacional operant
 |Realizar o pagamento através do aplicativo|Alta|Pagar em dinheiro ou depender do prestador possuir maquina de cartão de crédito|Mecanismos dentro do aplicativo pelos quais o usuário consumidor paga da forma que preferir e o dinheiro vai para a conta do contratado|
 |Avaliar o prestador contratado e ver as avaliações do mesmo|Alta|Perguntar, quando possível, para pessoas que tenham contratado o profissional como foi a experiência|Sistema de avaliações no aplicativo pelo qual o consumidor pode avaliar o contratado|
 
-#### 3.6.2 Usuário prestador de serviços
+#### 3.4.2 Usuário prestador de serviços
 
 |Necessidade|Prioridade|Solução Atual|Soluções Propostas|
 |:--:|:--:|:--:|:--:|
@@ -113,7 +113,7 @@ A aplicação tem como alvo dispositivos mobile cujo sistema operacional operant
 |Avaliar o contratante|Alta|Comentar com pessoas do meio de trabalho como foi a experiência com determinado consumidor|Sistema de avaliações no aplicativo pelo qual o prestador pode avaliar o consumidor|
 
 
-### 3.7 Alternativas e Concorrências
+### 3.5 Alternativas e Concorrências
 
 Para um melhor comparativo entre os concorrentes e soluções alternativas para cada um dos problemas aos quais a aplicação se propõe a resolver foi feito um Benchmarking, que pode ser visto [aqui](Benchmarking.md).
 
