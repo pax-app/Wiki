@@ -11,6 +11,7 @@
   - [Mapa Mental](docs/DS/dinamica-e-seminario-1/MapaMental.md)
   - [Brainstorm](docs/DS/dinamica-e-seminario-1/Brainstorm.md)
 - [**Dinâmica e Seminário II**](docs/DS/dinamica-e-seminario-2/README.md)
+  - [NFR](docs/DS/dinamica-e-seminario-2/nfr.md)
 - [**Dinâmica e Seminário III**](docs/DS/dinamica-e-seminario-3/README.md)
 - [**Dinâmica e Seminário IV a**](docs/DS/dinamica-e-seminario-4-a/README.md)
 - [**Dinâmica e Seminário IV b**](docs/DS/dinamica-e-seminario-4-b/README.md)
