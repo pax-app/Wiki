@@ -1,6 +1,6 @@
 # Estudo das Tecnologias
 
-Com o viés de definição da arquitetura do projeto, este documento, que se basea no [mapa de mental tecnologias](../dinamica-e-seminario-1/MapaMental.md) e nas preferências do *time*, visa entender mais afundo as benefícios e desvantagens de cada uma das tecnologias e como elas influência nas funcionalidades mais importantes do projeto de forma a conseguir eleger a que seja mais adequada.
+Com o viés de definição da arquitetura do projeto, este documento, que se basea no [mapa mental de tecnologias](docs/DS/dinamica-e-seminario-1/MapaMental) e nas preferências do *time*, visa entender mais afundo as benefícios e desvantagens de cada uma das tecnologias e como elas influência nas funcionalidades mais importantes do projeto de forma a conseguir eleger a que seja mais adequada.
 
 ## Histórico de Revisões
 
