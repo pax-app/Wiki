@@ -13,6 +13,7 @@
 - [**Dinâmica e Seminário II**](docs/DS/dinamica-e-seminario-2/README.md)
   - [Tecnologias](docs/DS/dinamica-e-seminario-2/Tecnologias.md)
   - [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md)
+  - [NFR](docs/DS/dinamica-e-seminario-2/nfr.md)
 - [**Dinâmica e Seminário III**](docs/DS/dinamica-e-seminario-3/README.md)
 - [**Dinâmica e Seminário IV a**](docs/DS/dinamica-e-seminario-4-a/README.md)
 - [**Dinâmica e Seminário IV b**](docs/DS/dinamica-e-seminario-4-b/README.md)
@@ -27,4 +28,3 @@
   - [Documentação das Sprints](docs/iniciativas-extras/documentacao_sprints/README.md)
     - [Planejamento Sprint 01](docs/iniciativas-extras/documentacao_sprints/plaining_01.md)
     - [Review Sprint 01](docs/iniciativas-extras/documentacao_sprints/review_01.md)
-
