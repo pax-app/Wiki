@@ -19,6 +19,7 @@
 - [**Iniciativas Extras**](docs/iniciativas-extras/README.md)
   - [Código de Conduta](docs/iniciativas-extras/CODE_OF_CONDUCT.md)
   - [Guia de Contribuição](docs/iniciativas-extras/CONTRIBUTING.md)
+  - [Guia de Estilo](docs/iniciativas-extras/style_guide.md)
   - [Plano de Organização](docs/iniciativas-extras/Organizacao.md)
   - [Sentimentos vs Produtividade](docs/iniciativas-extras/SentimentosProdutividade.md)
   - [Template de Sprint Plaining](docs/iniciativas-extras/sprint_plaining_model.md)
