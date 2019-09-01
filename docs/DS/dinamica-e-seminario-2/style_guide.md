@@ -11,4 +11,4 @@ O guia de estilo serve como um guia visual e ajuda a manter o projeto consistent
 
 ## Documento
 
-![styleguide](../../../assets/styleguide.png)
+<img src="../../../assets/styleguide.png" alt="Style Guide">
