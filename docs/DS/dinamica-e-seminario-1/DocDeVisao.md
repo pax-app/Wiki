@@ -33,7 +33,7 @@ Não cabe a aplicação estabelecer os parâmetros para como um determinado serv
 
 ### 1.4 Definições, Acrônimos e Abreviações
 
-Para conhecer mais profundamente algumas definições terminológicas referentes ao escopo do projeto, pode ser checado o [glossário](Glossario.md).
+Para conhecer mais profundamente algumas definições terminológicas referentes ao escopo do projeto, pode ser checado o [glossário](glossario.md).
 
 ### 1.5 Visão Geral
 

@@ -41,14 +41,6 @@ Com o início da disciplina e a ideia já mais amadurecida, o grupo pôde coleta
 
 Todos esses documentos, assim como alguns outros abordando outros pontos, podem ser acessados por meio da barra lateral nessa Wiki.
 
-Além disso, para facilitar o fechamento de escopo, também foi realizado um Brainstorm presencial acerca de quais seriam as features mais importantes da aplicação, as quais estariam inclusas no MVP. Primeiro, por meio do Brainstorm, foram reunidas todas as ideias de features amadurecidas até então, e logo após isso cada membro votou nas três que achava mais importantes e naquela que achava menos relevante. Os membros definidos como *Project Owners* tiveram um voto com mais peso, que são representados por formas circulares, enquanto os votos normais são representados por estrelas e as features menos relevantes pela letra "X".
+Além disso, para facilitar o fechamento de escopo, também foi realizado um Brainstorm presencial acerca de quais seriam as features mais importantes da aplicação, as quais estariam inclusas no MVP, o mesmo pode ser visto [aqui](Brainstorm.md).
 
-
-#### Brainstorm com as ideias de features
-![Brainstorm inicial](../../../assets/brainstormInicial.PNG)
-
-#### Votação inicial 
-![Brainstorm pt2](../../../assets/brainstormPt2.PNG)
-
-#### Features que ficaram
-![Brainstorm pt3](../../../assets/brainstormPt3.PNG)
+Por fim, em resultado de todos estes processos, foi definida uma versão inicial para a ideia do projeto abordando o escopo escolhido e quais os recursos incluidos em tal solução. No [documento de visão](DocDeVisao.md) é possível compreender todos esses pontos.
