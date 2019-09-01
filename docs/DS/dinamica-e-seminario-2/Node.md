@@ -62,14 +62,3 @@ Koa é um novo framework Web projetado pela equipe por trás do Express, que vis
 ### Contras
 
 - Focado em aplicações mais simples
-
----
-
-Referências
-
-- [10 node frameworks to use in 2019](https://scotch.io/bar-talk/10-node-frameworks-to-use-in-2019)
-- [Koa](https://koajs.com/)
-- [Express](https://expressjs.com/)
-- [Adonis](https://adonisjs.com/)
-- [Node.js](https://nodejs.org/en/)
-- [Node - Wikipedia](https://pt.wikipedia.org/wiki/Node.js)

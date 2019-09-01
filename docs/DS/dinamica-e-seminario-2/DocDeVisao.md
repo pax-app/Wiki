@@ -34,7 +34,7 @@ Não cabe a aplicação estabelecer os parâmetros para como um determinado serv
 
 ### 1.4 Definições, Acrônimos e Abreviações
 
-Para conhecer mais profundamente algumas definições terminológicas referentes ao escopo do projeto, pode ser checado o [glossário](glossario.md).
+Para conhecer mais profundamente algumas definições terminológicas referentes ao escopo do projeto, pode ser checado o [glossário](docs/DS/dinamica-e-seminario-2/glossario.md).
 
 ### 1.5 Visão Geral
 
@@ -116,7 +116,7 @@ A aplicação tem como alvo dispositivos mobile cujo sistema operacional operant
 
 ### 3.5 Alternativas e Concorrências
 
-Para um melhor comparativo entre os concorrentes e soluções alternativas para cada um dos problemas aos quais a aplicação se propõe a resolver foi feito um Benchmarking, que pode ser visto [aqui](Benchmarking.md).
+Para um melhor comparativo entre os concorrentes e soluções alternativas para cada um dos problemas aos quais a aplicação se propõe a resolver foi feito um Benchmarking, que pode ser visto [aqui](docs/DS/dinamica-e-seminario-1/Benchmarking.md).
 
 
 ## 4. Visão Geral dos recursos do produto 
