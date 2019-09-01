@@ -11,6 +11,7 @@
   - [Mapa Mental](docs/DS/dinamica-e-seminario-1/MapaMental.md)
   - [Brainstorm](docs/DS/dinamica-e-seminario-1/Brainstorm.md)
 - [**Dinâmica e Seminário II**](docs/DS/dinamica-e-seminario-2/README.md)
+  - [Metodologias](docs/DS/dinamica-e-seminario-2/metodologia.md)
   - [Documento de Visão](docs/DS/dinamica-e-seminario-2/DocDeVisao.md)
   - [Tecnologias](docs/DS/dinamica-e-seminario-2/Tecnologias.md)
   - [Glossario](docs/DS/dinamica-e-seminario-2/glossario.md)
