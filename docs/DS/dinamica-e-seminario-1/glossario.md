@@ -27,18 +27,18 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 
 ### G0
 
-|**Título do termo aqui**|
+|**Título do termo**|
 |:--:|
 |**Classificação**|
-| |
+| Sujeito/Objeto/Verbo/Estado |
 |**Noção**|
-| |
-| Noção do termo aqui|
+| - Noção parte 1|
+| - Noção parte 2|
 |**Impacto** |
-|  |
-| Impacto do termo aqui|
+| - Impacto 1 |
+| - Impacto 2|
 |**Sinônimos**|
-| Sinônimos |
+|  Sinônimos |
 
 ### G1 - V1
 
@@ -48,7 +48,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | Objeto |
 |**Noção**|
 | |
-|- Qualquer tipo de função que pode ser desempenhada por aluém|
+|- Qualquer tipo de função que pode ser desempenhada por alguém|
 |- Trabalho de qualquer nível de complexidade, podendo partir de atividades simples como Dog walker até atividades mais complexas como eletricista ou pintor.|
 |- Se divide em várias áreas e categorias|
 |**Impacto** |
