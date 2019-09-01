@@ -12,7 +12,7 @@ Aqui estão listados termos que constituem um glossário, sendo estes termos esp
 | 30/08/2019 |  1.0   |  Inclusão dos termos G1 e G2     |  Marcos Nery  |
 | 30/08/2019 |  1.1   |  Inclusão dos termos G3    |  Marcos Nery  |
 | 30/08/2019 |  1.2   |  Inclusão do termo G4    |  Marcos Nery  |
-| 01/09/2019 |  1.3   |   Detalhes arrumados    |  Marcos Nery  |
+| 01/09/2019 |  1.3   |   Detalhes arrumados    |  Esio Freitas  |
 
 <br>
 
