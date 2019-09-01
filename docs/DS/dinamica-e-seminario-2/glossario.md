@@ -28,7 +28,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 ### G0
 
 |**Título do termo**|
-|:--:|
+|:--|
 |**Classificação**|
 | Sujeito/Objeto/Verbo/Estado |
 |**Noção**|
@@ -62,7 +62,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 <h3 style="text-align: left;">Classificação</h3>
 
 | Sujeito |
-|:--:|
+|:--|
 |**Noção**|
 |- Usuário que utiliza a aplicação com finalidade de oferecer seus serviços para contratação|
 |- Profissional que presta serviços sem vínculo empregatício|
@@ -84,7 +84,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 <h3 style="text-align: left;">Consumidor de serviços</h3>
 
 |**Classificação**|
-|:--:|
+|:--|
 | Sujeito |
 |**Noção**|
 |- Usuário do app que busca consumir algum serviço|
@@ -105,7 +105,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 <h3 style="text-align: left;">Prestador validado</h3>
 
 |**Classificação**|
-|:--:|
+|:--|
 | Estado |
 |**Noção**|
 |- Usuário prestador que preencheu todos os campos do perfil e teve toda sua documentação validada|
