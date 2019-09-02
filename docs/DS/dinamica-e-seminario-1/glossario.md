@@ -12,6 +12,7 @@ Aqui estão listados termos que constituem um glossário, sendo estes termos esp
 | 30/08/2019 |  1.0   |  Inclusão dos termos G1 e G2     |  Marcos Nery  |
 | 30/08/2019 |  1.1   |  Inclusão dos termos G3    |  Marcos Nery  |
 | 30/08/2019 |  1.2   |  Inclusão do termo G4    |  Marcos Nery  |
+| 01/09/2019 |  1.3   |  Inclusão dos termos G5 a G7    |  Matheus Figueiredo  |
 
 
 <br>
@@ -47,7 +48,6 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |**Classificação**|
 | Objeto |
 |**Noção**|
-| |
 |- Qualquer tipo de função que pode ser desempenhada por alguém|
 |- Trabalho de qualquer nível de complexidade, podendo partir de atividades simples como Dog walker até atividades mais complexas como eletricista ou pintor.|
 |- Se divide em várias áreas e categorias|
@@ -115,3 +115,49 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |- Um usuário consumidor pode filtrar sua pesquisa para mostrar apenas prestadores validados|
 |**Sinônimos**|
 |- Prestador verificado|
+
+### G5 - V1
+
+|**Pagamento**|
+|:--:|
+|**Classificação**|
+| Verbo |
+|**Noção**|
+| - Ação realizada pelo consumidor de serviços para o prestador de serviços após a execução do serviço|
+| - É recebido pelo prestador de serviços após realizar um serviço e o consumidor de serviço constatar a realização do mesmo|
+|**Impacto** |
+| - O pagamento pode ser realizado no aplicativo|
+| - O pagamento poderá ser feito por cartão de crédito ou dinheiro|
+| - O pagamento poderá ser combinado entre consumidor de serviço e prestador de serviço através do aplicativo|
+|**Sinônimos**|
+|  - |
+
+### G6 - V1
+
+|**Avaliação**|
+|:--:|
+|**Classificação**|
+| Verbo |
+|**Noção**|
+| - É a avaliação do serviço feito pelo prestador de serviço que poderá ser realizada pelo consumidor de serviços no aplicativo após a execução do mesmo|
+|**Impacto** |
+| - A avaliação será feita no sistema de estrelas, de 0 a 5|
+| - Cada prestador de serviços terá, em seu perfil, um indicativo estatístico médio feito das avaliações recebidas|
+|**Sinônimos**|
+|  - |
+
+
+### G7 - V1
+
+|**Chat**|
+|:--:|
+|**Classificação**|
+| Objeto |
+|**Noção**|
+| - Funcionalidade do aplicativo que servirá como meio de comunicação entre consumidor de serviços e prestador de serviços|
+|**Impacto** |
+| - O *chat* ficará disponível para utilização após a confirmação do serviço por ambas as partes|
+| - O *chat* poderá ser utilizado para que o preço e outros detalhes do serviço sejam estabelecidos|
+| - O *chat* contará com um início automatizado que definirá os principais detalhes do serviço |
+|**Sinônimos**|
+|  - |
