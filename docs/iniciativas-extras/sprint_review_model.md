@@ -2,7 +2,7 @@
 
 Fazer a restrospectiva da *sprint* explicando de forma detalhada qual foi o resultado e buscar sempre linkar com aquilo que seja relevante às explicações.
 
-## Fechamento da _Sprint_     
+## Fechamento da Sprint     
 
 
 | _Issue_ | _Status_ | Pontos |
@@ -18,24 +18,25 @@ Pontos Não Agregados: 0
 ## Riscos    
 Riscos encontrados durante a sprint.  
 
-| Risco | Grau  | Ação  |
+| Risco | Prevenção  | Ação  |
 | :---: | :---: | :---: |
 
-## Retrospectiva
+# Retrospectiva
 Retrospectiva rápida sobre a sprint.   
 
-### Pontos Positivos
+## Pontos Positivos
 
   - Ponto Positivo
   - Ponto Positivo
   - Ponto Positivo
 
-### Pontos Negativos
+## Pontos Negativos
 
   - Ponto Negativo
   - Ponto Negativo
   - Ponto Negativo
 
-### Quadro de Sentimentos
+## Quadro de Sentimentos
 
 
+*Autor:* **[]()**

@@ -1,7 +1,15 @@
 # Dinámica e Seminário II
 
-!> Mensagem para obs
+### 1. [Documento de Visão](docs/DS/dinamica-e-seminario-2/DocDeVisao.md)
 
-### 1.  [Artefato 1](https://google.com)
-### 2.  [Artefato 2](https://google.com)
-### 3.  [Artefato 3](https://google.com)
+### 2. [Tecnologias](docs/DS/dinamica-e-seminario-2/Tecnologias.md)
+
+### 3. [Glossário](docs/DS/dinamica-e-seminario-2/glossario.md)
+
+### 4. [NFR](docs/DS/dinamica-e-seminario-2/nfr.md)
+
+### 5. [User flows e Wireframes](docs/DS/dinamica-e-seminario-2/wireframes.md)
+
+### 6. [Guia de Estilo](docs/DS/dinamica-e-seminario-2/style_guide.md)
+
+### 7. [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md)
