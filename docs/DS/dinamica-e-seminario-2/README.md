@@ -8,6 +8,8 @@
 
 ### 4. [NFR](docs/DS/dinamica-e-seminario-2/nfr.md)
 
-### 5. [Guia de Estilo](docs/DS/dinamica-e-seminario-2/style_guide.md)
+### 5. [User flows e Wireframes](docs/DS/dinamica-e-seminario-2/wireframes.md)
 
-### 6. [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md)
+### 6. [Guia de Estilo](docs/DS/dinamica-e-seminario-2/style_guide.md)
+
+### 7. [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md)
