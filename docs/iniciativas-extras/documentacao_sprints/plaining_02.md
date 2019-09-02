@@ -1,14 +1,16 @@
-# Planejamento Sprint X
+# Planejamento Sprint 02
 
 <p align="justify">
-Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas anteriores, buscando sempre linkar com aquilo que seja relevante às explicações.
+Com o objetivo de começar a definir mellhor as funcionalidade da aplicação, o time optou por começar a modelar o requisitos funcionais e não funcionais de forma que estes pudessem refletir o escopo de atuação e guiassem a *pipeline* de desenvolvimento. Por fim, como parte essêncial do processo de identificação de um produto em um mercado, criar a identidade visual da aplicação de forma que seja embasada em fatores que possam dar destaque a aplicação.
+
+Concomitantemente com a preocupação relalcionado ao 
 </p>
 
 
-## Tamanho da Sprint X      
-**Início:** 00/00/0000
+## Tamanho da Sprint 02      
+**Início:** 26/08/2019
    
-**Término:** 00/00/0000   
+**Término:** 01/09/2019  
 
 **Duração:** Sete dias   
 
@@ -20,7 +22,7 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 |     _Issue_      |    Pontos   |     *Assign*     |
 |:----------------:|:-----------:|:----------------:|
-| Criar wireframe da aplicação | 3 | [Kaique Borges](https://github.com/kaiqueborges) e [Marcos Nery](https://github.com/MarcosNBJ) |
+| Criar wireframe da aplicação | 3 | [Gabriel Albino](https://github.com/gabrielalbino), [Esio Gustavo](https://github.com/EsioFreitas) e [Kaique Borges](https://github.com/kaiqueborges) |
 | Documento de Metodologias: definição e uso do time | 2 | [Gabriel Albino](https://github.com/gabrielalbino) |
 | Product Backlog Completo | 8 | [Lucas Dutra](https://github.com/lucasdutraf) e [Esio Gustavo](https://github.com/EsioFreitas) |
 | Quadro de Conhecimento | - | [Fabiana Ribas](https://github.com/FabianaRibas) |
