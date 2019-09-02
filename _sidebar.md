@@ -16,6 +16,7 @@
   - [Tecnologias](docs/DS/dinamica-e-seminario-2/Tecnologias.md)
   - [Glossario](docs/DS/dinamica-e-seminario-2/glossario.md)
   - [NFR](docs/DS/dinamica-e-seminario-2/nfr.md)
+  - [User flows e Wireframes](docs/DS/dinamica-e-seminario-2/wireframes.md)
   - [Guia de Estilo](docs/DS/dinamica-e-seminario-2/style_guide.md)
   - [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md)
 - [**Dinâmica e Seminário III**](docs/DS/dinamica-e-seminario-3/README.md)
