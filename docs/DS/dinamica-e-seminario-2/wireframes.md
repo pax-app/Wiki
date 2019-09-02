@@ -1,6 +1,8 @@
-# Wireframes
+# User Flows e Wireframes
 
-Aqui estão listados os fluxos principais de uso da aplicação e também os wireframes das telas baseadas nesse fluxo. A intenção aqui é ter uma visão mais clara de como será aplicação baseada nas tarefas que os usuários querem executar.
+**User flow** é um gráfico que representa os fluxos de interações que um usuário executa em uma aplicação. É utilizado para documentar e mapear as interações com o produto com o intuito analisá-las e melhorá-las, para que o usuário tenha a melhor experiência possível com o app.
+
+**Wireframe** é uma ilustração que representa uma página em uma aplicação. É utilizado para mostrar os elementos de uma página sem se preocupar com conteúdo e identidade visual.
 
 
 ## Histórico de Revisões
@@ -13,7 +15,9 @@ Aqui estão listados os fluxos principais de uso da aplicação e também os wir
 
 Baseados nos artefatos de elicitação (entrevistas, resultados do questionário, etc.) fluxos de uso da aplicação foram criados - ainda que de forma superficial - os fluxos de uso para cada tipo de usuário do Pax. A intenção aqui é ilustrar graficamente a navegação no aplicativo para facilitar na concepção e criação das telas do MVP.
 
-## Fluxos de uso
+![FluxosV1](../../../assets/fluxosV1.png)
+
+## Wireframes
 
 Baseados nos fluxos acima, algumas telas principais foram propostas para que os usuários consigam concluir seus objetivos com o app. Os wireframes são representações de baixa fidelidade das telas da aplicação, a ideia é, com o tempo, evoluí-los e aumentar a fidelidade até chegarmos num protótipo.
 
