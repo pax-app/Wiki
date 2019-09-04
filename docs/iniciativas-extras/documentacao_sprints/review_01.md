@@ -5,8 +5,7 @@ Trabalho muito satisfatório no qual foram entregues todas as issues bem antes d
 <i>Sprint</i> marcada por definições de escopo, para ter um direcionamento unificado e um guia claro de desenvolvimento, e no começo do processo de levantamento de requisitos, no qual algumas funcionalidades já foram levantadas, em cima de feedback de <i>stakeholders</i> (<a href="https://2019-2-arquitetura-e-desenho.github.io/Wiki/#/docs/DS/dinamica-e-seminario-1/AnaliseQuestionario">questionário</a>, <a href="https://2019-2-arquitetura-e-desenho.github.io/Wiki/#/docs/DS/dinamica-e-seminario-1/Entrevista">entrevistas</a>, time de desenvolvimento), e do <i>oceano azul</i>, documento que buscou diferenciar a aplicação dos concorrentes e inovar no meio de atuação.
 </p>
 
-## Fechamento da Sprint     
-
+## Fechamento da Sprint 01    
 
 | _Issue_ | _Status_ | Pontos |
 | :-----: | :------: | :----: |
