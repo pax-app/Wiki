@@ -77,9 +77,9 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |- Um [prestador](#G2-V1) de [serviço](#G1-V1) pode aceitar ou recusar uma negociação com um [consumidor](#G3-V1)|
 |- Um [prestador](#G2-V1) de [serviço](#G1-V1) pode estabelecer o range inicial de preço do seu [serviço](#G1-V1)|
 |- Um [prestador](#G2-V1) de [serviço](#G1-V1) pode validar seu perfil na plataforma|
-|- Um [prestador](#G2-V1) de [serviços](#G1-V1) pode negociar via chat com um [consumidor](#G3-V1) acerca de um [serviço](#G1-V1) a ser contratado|
-|- Um [prestador](#G2-V1) de [serviços](#G1-V1) pode receber pela aplicação o pagamento por um [serviço](#G1-V1) prestado|
-|- Um [prestador](#G2-V1) de [serviços](#G1-V1) pode avaliar um [consumidor](#G3-V1) ao qual prestou [serviços](#G1-V1)|
+|- Um [prestador](#G2-V1) de [serviços](#G1-V1) pode negociar via [chat](#G7-V1) com um [consumidor](#G3-V1) acerca de um [serviço](#G1-V1) a ser contratado|
+|- Um [prestador](#G2-V1) de [serviços](#G1-V1) pode receber pela aplicação o [pagamento](#G5-V1) por um [serviço](#G1-V1) prestado|
+|- Um [prestador](#G2-V1) de [serviços](#G1-V1) pode [avaliar](#G6-V1) um [consumidor](#G3-V1) ao qual prestou [serviços](#G1-V1)|
 |**Sinônimos**|
 |Autônomo|
 
@@ -97,9 +97,9 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |- Um [consumidor](#G3-V1) de [serviços](#G1-V1) pode cadastrar seu perfil na aplicação|
 |- Um [consumidor](#G3-V1) de [serviços](#G1-V1) pode pesquisar por [prestador](#G2-V1)es oferecendo um determinado [serviço](#G1-V1)|
 |- Um [consumidor](#G3-V1) de [serviços](#G1-V1) pode tentar contratar um [prestador](#G2-V1) de [serviços](#G1-V1) escolhido|
-|- Um [consumidor](#G3-V1) de [serviços](#G1-V1) pode negociar via chat com um [prestador](#G2-V1) acerca de um [serviço](#G1-V1) a ser contratado|
-|- Um [consumidor](#G3-V1) de [serviços](#G1-V1) pode realizar pelo app o pagamento de um [serviço](#G1-V1) consumido|
-|- Um [consumidor](#G3-V1) de [serviços](#G1-V1) pode avaliar um [prestador](#G2-V1) do qual contratou [serviços](#G1-V1)|
+|- Um [consumidor](#G3-V1) de [serviços](#G1-V1) pode negociar via [chat](#G7-V1) com um [prestador](#G2-V1) acerca de um [serviço](#G1-V1) a ser contratado|
+|- Um [consumidor](#G3-V1) de [serviços](#G1-V1) pode realizar pelo app o [pagamento](#G5-V1) de um [serviço](#G1-V1) consumido|
+|- Um [consumidor](#G3-V1) de [serviços](#G1-V1) pode [avaliar](#G6-V1) um [prestador](#G2-V1) do qual contratou [serviços](#G1-V1)|
 |**Sinônimos**|
 |-|
 
@@ -133,9 +133,9 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | - Ação realizada pelo [consumidor](#G3-V1) de [serviços](#G1-V1) para o [prestador](#G2-V1) de [serviços](#G1-V1) após a execução do [serviço](#G1-V1)|
 | - É recebido pelo [prestador](#G2-V1) de [serviços](#G1-V1) após realizar um [serviço](#G1-V1) e o [consumidor](#G3-V1) de [serviço](#G1-V1) constatar a realização do mesmo|
 |**Impacto** |
-| - O pagamento pode ser realizado no aplicativo|
-| - O pagamento poderá ser feito por cartão de crédito ou dinheiro|
-| - O pagamento poderá ser combinado entre [consumidor](#G3-V1) de [serviço](#G1-V1) e [prestador](#G2-V1) de [serviço](#G1-V1) através do aplicativo|
+| - O [pagamento](#G5-V1) pode ser realizado no aplicativo|
+| - O [pagamento](#G5-V1) poderá ser feito por cartão de crédito ou dinheiro|
+| - O [pagamento](#G5-V1) poderá ser combinado entre [consumidor](#G3-V1) de [serviço](#G1-V1) e [prestador](#G2-V1) de [serviço](#G1-V1) através do aplicativo|
 |**Sinônimos**|
 |  - |
 
@@ -165,8 +165,8 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |**Noção**|
 | - Funcionalidade do aplicativo que servirá como meio de comunicação entre [consumidor](#G3-V1) de [serviços](#G1-V1) e [prestador](#G2-V1) de [serviços](#G1-V1)|
 |**Impacto** |
-| - O *chat* ficará disponível para utilização após a confirmação do [serviço](#G1-V1) por ambas as partes|
-| - O *chat* poderá ser utilizado para que o preço e outros detalhes do [serviço](#G1-V1) sejam estabelecidos|
-| - O *chat* contará com um início automatizado que definirá os principais detalhes do [serviço](#G1-V1) |
+| - O *[chat](#G7-V1)* ficará disponível para utilização após a confirmação do [serviço](#G1-V1) por ambas as partes|
+| - O *[chat](#G7-V1)* poderá ser utilizado para que o preço e outros detalhes do [serviço](#G1-V1) sejam estabelecidos|
+| - O *[chat](#G7-V1)* contará com um início automatizado que definirá os principais detalhes do [serviço](#G1-V1) |
 |**Sinônimos**|
 |  - |
