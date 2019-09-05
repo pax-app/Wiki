@@ -1,11 +1,11 @@
-# Léxicos 
+# léxicos 
 
 Aqui estão listados os léxicos, sendo estes termos específicos do contexto do domínio da aplicação. Dito isso, algumas das definições a seguir diferem significativamente das definições para as mesmas palavras que poderiam ser encontradas em um dicionário, pois aqui estão definidas no contexto do aplicativo.
 
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                Descrição                 |   Autor(es)   |
+|    Data    | versão |                Descrição                 |   Autor(es)   |
 | :--------: | :----: | :--------------------------------------: | :-----------: |
 | 27/08/2019 |  0.1   |  Abertura do documento, com descrição do conteúdo |  Marcos Nery  |
 | 27/08/2019 |  0.2   |  Inclusão de um template pros termos e histórico de revisão       |  Marcos Nery  |
@@ -16,7 +16,7 @@ Aqui estão listados os léxicos, sendo estes termos específicos do contexto do
 | 02/09/2019 |  1.4   |   Inclusão dos termos L5, L6 e L7    |  Matheus Figueiredo  |
 | 02/09/2019 |  1.5   |  Evolução do documento de glossário para léxico   |  Marcos Nery  |
 | 04/09/2019 |  1.6   |  Atualização dos termos L5-L7   |  Marcos Nery  |
-| 04/09/2019 |  1.7   |  Atualizando os IDs para formato de Léxico   |  Marcos Nery  |
+| 04/09/2019 |  1.7   |  Atualizando os IDs para formato de léxico   |  Marcos Nery  |
 | 04/09/2019 |  1.8   |  Inclusão do termo L8   |  Marcos Nery  |
 | 05/09/2019 |  2.0   |  Refinamento dos termos   |  Marcos Nery  |
 
@@ -37,17 +37,17 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |**Título do termo**|
 |:--|
 |**Classificação**|
-| Sujeito/Objeto/Verbo/Estado |
+| Sujeito/Objeto/verbo/Estado |
 |**Noção**|
 | - Noção parte 1|
 | - Noção parte 2|
 |**Impacto** |
 | - Impacto 1 |
-| - Impacto 2|
+| - Impacto 2 ...|
 |**Sinônimos**|
 |  Sinônimos |
 
-### L1 - V1
+### L1 - v1
 <h3 style="text-align: left;">Serviço</h3>
 
 |**Classificação**|
@@ -59,110 +59,110 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |- Trabalho de qualquer nível de complexidade, podendo partir de atividades simples como Dog walker até atividades mais complexas como eletricista ou pintor.|
 |- Se divide em várias áreas e categorias|
 |**Impacto** |
-|- Um [serviço](#L1-V1) pode ser realizado por um [prestador](#L2-V1)|
-|- Um [serviço](#L1-V1) pode ser cadastrado por um [prestador](#L2-V1) em seu perfil como um dos seus [serviços](#L1-V1) disponíveis |
+|- Um [serviço](#l1-v1) pode ser realizado por um [prestador](#l2-v1)|
+|- Um [serviço](#l1-v1) pode ser cadastrado por um [prestador](#l2-v1) em seu perfil como um dos seus [serviços](#l1-v1) disponíveis |
 |**Sinônimos**|
 | - |
 
-### L2 - V1
+### L2 - v1
 
-<h3 style="text-align: left;">Prestador de [serviços](#L1-V1)</h3>
+<h3 style="text-align: left;">Prestador de serviço</h3>
 
 |**Classificação**|
 |:--|
 | Sujeito |
 |**Noção**|
-|- Usuário que utiliza a aplicação com finalidade de oferecer seus [serviços](#L1-V1) para contratação|
-|- Profissional que presta [serviços](#L1-V1) sem vínculo empregatício|
-|- Pessoa que presta um [serviço](#L1-V1) qualquer de forma autônoma, de coisas mais especializadas como um eletricista até coisas mais simples como dog walker|
+|- Usuário que utiliza a aplicação com finalidade de oferecer seus [serviços](#l1-v1) para contratação|
+|- Profissional que presta [serviços](#l1-v1) sem vínculo empregatício|
+|- Pessoa que presta um [serviço](#l1-v1) qualquer de forma autônoma, de coisas mais especializadas como um eletricista até coisas mais simples como dog walker|
 |**Impacto** |
-|- Um [prestador](#L2-V1) de [serviço](#L1-V1) pode cadastrar seu perfil na aplicação|
-|- Um [prestador](#L2-V1) de [serviço](#L1-V1) pode cadastrar seus [serviços](#L1-V1) prestados no perfil|
-|- Um [prestador](#L2-V1) de [serviço](#L1-V1) pode aceitar ou recusar uma negociação com um [consumidor](#L3-V1)|
-|- Um [prestador](#L2-V1) de [serviço](#L1-V1) pode estabelecer o range inicial de preço do seu [serviço](#L1-V1)|
-|- Um [prestador](#L2-V1) de [serviço](#L1-V1) pode validar seu perfil na plataforma|
-|- Um [prestador](#L2-V1) de [serviços](#L1-V1) pode negociar via [chat](#L7-V1) com um [consumidor](#L3-V1) acerca de um [serviço](#L1-V1) a ser contratado|
-|- Um [prestador](#L2-V1) de [serviços](#L1-V1) pode receber pela aplicação o [pagamento](#L5-V1) por um [serviço](#L1-V1) prestado|
-|- Um [prestador](#L2-V1) de [serviços](#L1-V1) pode [avaliar](#L6-V1) um [consumidor](#L3-V1) ao qual prestou [serviços](#L1-V1)|
+|- Um [prestador](#l2-v1) de [serviço](#l1-v1) pode cadastrar seu perfil na aplicação|
+|- Um [prestador](#l2-v1) de [serviço](#l1-v1) pode cadastrar seus [serviços](#l1-v1) prestados no perfil|
+|- Um [prestador](#l2-v1) de [serviço](#l1-v1) pode aceitar ou recusar uma negociação com um [consumidor](#l3-v1)|
+|- Um [prestador](#l2-v1) de [serviço](#l1-v1) pode estabelecer o range inicial de preço do seu [serviço](#l1-v1)|
+|- Um [prestador](#l2-v1) de [serviço](#l1-v1) pode validar seu perfil na plataforma|
+|- Um [prestador](#l2-v1) de [serviços](#l1-v1) pode negociar via [chat](#l7-v1) com um [consumidor](#l3-v1) acerca de um [serviço](#l1-v1) a ser contratado|
+|- Um [prestador](#l2-v1) de [serviços](#l1-v1) pode receber pela aplicação o [pagamento](#l5-v1) por um [serviço](#l1-v1) prestado|
+|- Um [prestador](#l2-v1) de [serviços](#l1-v1) pode [avaliar](#l6-v1) um [consumidor](#l3-v1) ao qual prestou [serviços](#l1-v1)|
 |**Sinônimos**|
 |Autônomo|
 
-### L3 - V1
+### L3 - v1
 
-<h3 style="text-align: left;">Consumidor de [serviços](#L1-V1)</h3>
+<h3 style="text-align: left;">Consumidor de serviços </h3>
 
 |**Classificação**|
 |:--|
 | Sujeito |
 |**Noção**|
-|- Usuário do app que busca consumir algum [serviço](#L1-V1)|
-|- Pessoa que por uma necessidade qualquer do dia-a-dia utiliza a aplicação para procurar e contratar um determinado [prestador](#L2-V1) de [serviço](#L1-V1)|
+|- Usuário do app que busca consumir algum [serviço](#l1-v1)|
+|- Pessoa que por uma necessidade qualquer do dia-a-dia utiliza a aplicação para procurar e contratar um determinado [prestador](#l2-v1) de [serviço](#l1-v1)|
 |**Impacto** |
-|- Um [consumidor](#L3-V1) de [serviços](#L1-V1) pode cadastrar seu perfil na aplicação|
-|- Um [consumidor](#L3-V1) de [serviços](#L1-V1) pode pesquisar por [prestador](#L2-V1)es oferecendo um determinado [serviço](#L1-V1)|
-|- Um [consumidor](#L3-V1) de [serviços](#L1-V1) pode tentar contratar um [prestador](#L2-V1) de [serviços](#L1-V1) escolhido|
-|- Um [consumidor](#L3-V1) de [serviços](#L1-V1) pode negociar via [chat](#L7-V1) com um [prestador](#L2-V1) acerca de um [serviço](#L1-V1) a ser contratado|
-|- Um [consumidor](#L3-V1) de [serviços](#L1-V1) pode realizar pelo app o [pagamento](#L5-V1) de um [serviço](#L1-V1) consumido|
-|- Um [consumidor](#L3-V1) de [serviços](#L1-V1) pode [avaliar](#L6-V1) um [prestador](#L2-V1) do qual contratou [serviços](#L1-V1)|
+|- Um [consumidor](#l3-v1) de [serviços](#l1-v1) pode cadastrar seu perfil na aplicação|
+|- Um [consumidor](#l3-v1) de [serviços](#l1-v1) pode pesquisar por [prestador](#l2-v1)es oferecendo um determinado [serviço](#l1-v1)|
+|- Um [consumidor](#l3-v1) de [serviços](#l1-v1) pode tentar contratar um [prestador](#l2-v1) de [serviços](#l1-v1) escolhido|
+|- Um [consumidor](#l3-v1) de [serviços](#l1-v1) pode negociar via [chat](#l7-v1) com um [prestador](#l2-v1) acerca de um [serviço](#l1-v1) a ser contratado|
+|- Um [consumidor](#l3-v1) de [serviços](#l1-v1) pode realizar pelo app o [pagamento](#l5-v1) de um [serviço](#l1-v1) consumido|
+|- Um [consumidor](#l3-v1) de [serviços](#l1-v1) pode [avaliar](#l6-v1) um [prestador](#l2-v1) do qual contratou [serviços](#l1-v1)|
 |**Sinônimos**|
 |-|
 
 
-### L4 - V1
+### L4 - v1
 
-<h3 style="text-align: left;">[Prestador](#L2-V1) validado</h3>
+<h3 style="text-align: left;">Prestador validado</h3>
 
 |**Classificação**|
 |:--|
 | Estado |
 |**Noção**|
-|- Usuário [prestador](#L2-V1) que preencheu todos os campos do perfil e teve toda sua documentação validada|
-|- Usuário [prestador](#L2-V1) que tem no seu perfil um indicativo especial que indica que ele é validado pela aplicação|
+|- Usuário [prestador](#l2-v1) que preencheu todos os campos do perfil e teve toda sua documentação validada|
+|- Usuário [prestador](#l2-v1) que tem no seu perfil um indicativo especial que indica que ele é validado pela aplicação|
 |**Impacto** |
-|- Para se tornar validado um [prestador](#L2-V1) deve preencher todos os campos do seu perfil e ter toda a sua documentação aprovada|
-|- Qualquer [prestador](#L2-V1) pode tentar preencher os requisitos acima para se tornar validado|
-|- Um [prestador](#L2-V1) validado pode perder sua validação caso não mantenha seu perfil devidamente atualizado|
-|- Um usuário [consumidor](#L3-V1) pode filtrar sua pesquisa para mostrar apenas [prestador](#L2-V1)es validados|
+|- Para se tornar validado um [prestador](#l2-v1) deve preencher todos os campos do seu perfil e ter toda a sua documentação aprovada|
+|- Qualquer [prestador](#l2-v1) pode tentar preencher os requisitos acima para se tornar validado|
+|- Um [prestador](#l2-v1) validado pode perder sua validação caso não mantenha seu perfil devidamente atualizado|
+|- Um usuário [consumidor](#l3-v1) pode filtrar sua pesquisa para mostrar apenas [prestador](#l2-v1)es validados|
 |**Sinônimos**|
-|- [prestador](#L2-V1) verificado|
+|- [prestador](#l2-v1) verificado|
 
-### L5 - V1
+### L5 - v1
 
 <h3 style="text-align: left;">Pagamento</h3>
 
 |**Classificação**|
 |:--|
-| Verbo |
+| verbo |
 |**Noção**|
-| - Ação realizada pelo [consumidor](#L3-V1) de [serviços](#L1-V1) para o [prestador](#L2-V1) de [serviços](#L1-V1) após a execução do [serviço](#L1-V1)|
-| - É recebido pelo [prestador](#L2-V1) de [serviços](#L1-V1) após realizar um [serviço](#L1-V1) e o [consumidor](#L3-V1) de [serviço](#L1-V1) constatar a realização do mesmo|
+| - Ação realizada pelo [consumidor](#l3-v1) de [serviços](#l1-v1) para o [prestador](#l2-v1) de [serviços](#l1-v1) após a execução do [serviço](#l1-v1)|
+| - É recebido pelo [prestador](#l2-v1) de [serviços](#l1-v1) após realizar um [serviço](#l1-v1) e o [consumidor](#l3-v1) de [serviço](#l1-v1) constatar a realização do mesmo|
 |**Impacto** |
 | - O pagamento pode ser realizado no aplicativo|
 | - O pagamento poderá ser feito por cartão de crédito ou dinheiro|
-| - O valor a ser pago poderá ser combinado entre [consumidor](#L3-V1) e [prestador](#L2-V1) de [serviço](#L1-V1) através do [pax](#L8-V1), pelo chat do aplicativo|
+| - O valor a ser pago poderá ser combinado entre [consumidor](#l3-v1) e [prestador](#l2-v1) de [serviço](#l1-v1) através do [pax](#l8-v1), pelo chat do aplicativo|
 |**Sinônimos**|
 |  - |
 
-### L6 - V1
+### L6 - v1
 
 <h3 style="text-align: left;">Avaliação</h3>
 
 |**Classificação**|
 |:--|
-| Verbo |
+| verbo |
 |**Noção**|
-| - Pode ser uma avaliação de um [serviço](#L1-V1) prestado ou de um [prestador](#L2-V1)/[consumidor](#L3-V1)|
+| - Pode ser uma avaliação de um [serviço](#l1-v1) prestado ou de um [prestador](#l2-v1)/[consumidor](#l3-v1)|
 | - É representada por um sistema de estrelas, indo de 0 a 5 estrelas sendo 0 a pior nota e 5 a melhor|
 | - Em adição as estrelas pode ser enviado um comentário|
 |**Impacto** |
-| - Cada [prestador](#L2-V1) de [serviços](#L1-V1) terá, em seu perfil, um indicativo estatístico médio feito das avaliações recebidas, tanto para sua pessoa quanto pros seus serviços prestados|
-| - Cada [consumidor](#L3-V1) tem em seu perfil um indicativo estatístico médio feito das avaliações recebidas |
-| - Após o serviço ser realizado pelo [prestador](#L2-V1), o [consumidor](#L3-V1) poderá então avalia-lo e avaliar o [serviço](#L1-V1) realizado, assim como o [prestador](#L2-V1) poderá avalia-lo|
+| - Cada [prestador](#l2-v1) de [serviços](#l1-v1) terá, em seu perfil, um indicativo estatístico médio feito das avaliações recebidas, tanto para sua pessoa quanto pros seus serviços prestados|
+| - Cada [consumidor](#l3-v1) tem em seu perfil um indicativo estatístico médio feito das avaliações recebidas |
+| - Após o serviço ser realizado pelo [prestador](#l2-v1), o [consumidor](#l3-v1) poderá então avalia-lo e avaliar o [serviço](#l1-v1) realizado, assim como o [prestador](#l2-v1) poderá avalia-lo|
 |**Sinônimos**|
 |  - |
 
 
-### L7 - V1
+### L7 - v1
 
 <h3 style="text-align: left;">Chat</h3>
 
@@ -170,19 +170,19 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |:--|
 | Objeto |
 |**Noção**|
-| - Funcionalidade do aplicativo que servirá como meio de comunicação entre [consumidor](#L3-V1) de [serviços](#L1-V1) e [prestador](#L2-V1) de [serviços](#L1-V1)|
+| - Funcionalidade do aplicativo que servirá como meio de comunicação entre [consumidor](#l3-v1) de [serviços](#l1-v1) e [prestador](#l2-v1) de [serviços](#l1-v1)|
 | - Chat com funcionalidades básicas de troca de mensagens|
-| - Pela tela do chat também são acessadas as funcionalidades de negociação do [pax](#L8-V1)|
+| - Pela tela do chat também são acessadas as funcionalidades de negociação do [pax](#l8-v1)|
 |**Impacto** |
-| - Pelo chat o usuário [consumidor](#L3-V1) pode contatar um [prestador](#L2-V1) para requisitar a realização de um [serviço](#L1-V1)|
-| - O chat poderá ser utilizado para que o preço e outros detalhes do [serviço](#L1-V1) sejam estabelecidos entre as duas partes|
-| - Pelo chat é enviado o [pax](#L8-V1) criado pelo [prestador](#L2-V1) para o [consumidor](#L3-V1)|
+| - Pelo chat o usuário [consumidor](#l3-v1) pode contatar um [prestador](#l2-v1) para requisitar a realização de um [serviço](#l1-v1)|
+| - O chat poderá ser utilizado para que o preço e outros detalhes do [serviço](#l1-v1) sejam estabelecidos entre as duas partes|
+| - Pelo chat é enviado o [pax](#l8-v1) criado pelo [prestador](#l2-v1) para o [consumidor](#l3-v1)|
 |**Sinônimos**|
 |  - |
 
 
 
-### L8 - V1
+### L8 - v1
 
 <h3 style="text-align: left;">Pax</h3>
 
@@ -191,11 +191,11 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | Objeto |
 |**Noção**|
 | - É um termo no calendário maia que se refere a tempo de plantio, portanto remetendo a troca de um esforço por uma recompensa, motivo pelo qual foi escolhido como nome para a aplicação|
-| - É também o nome dado a o contrato firmado e documentado na aplicação entre o [consumidor](#L3-V1) e o [prestador](#L2-V1) de [serviço](#L1-V1). No qual constam coisas como a descrição do [serviço](#L1-V1) a ser prestado e o valor a ser pago.|
+| - É também o nome dado a o contrato firmado e documentado na aplicação entre o [consumidor](#l3-v1) e o [prestador](#l2-v1) de [serviço](#l1-v1). No qual constam coisas como a descrição do [serviço](#l1-v1) a ser prestado e o valor a ser pago.|
 |**Impacto** |
-| - O pax é criado pelo [prestador](#L2-V1) quando este recebe do usuário [consumidor](#L3-V1) um convite pelo [chat](#L7-V1) para realizar um [serviço](#L1-V1). |
+| - O pax é criado pelo [prestador](#l2-v1) quando este recebe do usuário [consumidor](#l3-v1) um convite pelo [chat](#l7-v1) para realizar um [serviço](#l1-v1). |
 | - O consumidor recebe dentro do chat o pax criado pelo prestador e pode confirma-lo ou não|
-| - Caso o pax seja confirmado se inicia o fluxo de realização do [serviço](#L1-V1)|
+| - Caso o pax seja confirmado se inicia o fluxo de realização do [serviço](#l1-v1)|
 | - Caso o pax seja negado as duas partes podem tentar, caso queiram, negociar novamente e editar ou criar um novo pax|
 |**Sinônimos**|
 |  contrato |
