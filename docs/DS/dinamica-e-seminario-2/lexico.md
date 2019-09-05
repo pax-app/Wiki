@@ -16,8 +16,9 @@ Aqui estão listados os léxicos, sendo estes termos específicos do contexto do
 | 02/09/2019 |  1.4   |   Inclusão dos termos L5, L6 e L7    |  Matheus Figueiredo  |
 | 02/09/2019 |  1.5   |  Evolução do documento de glossário para léxico   |  Marcos Nery  |
 | 04/09/2019 |  1.6   |  Atualização dos termos L5-L7   |  Marcos Nery  |
-| 04/09/2019 |  1.6   |  Atualizando os IDs para formato de Léxico   |  Marcos Nery  |
-| 04/09/2019 |  1.6   |  Inclusão do termo L8   |  Marcos Nery  |
+| 04/09/2019 |  1.7   |  Atualizando os IDs para formato de Léxico   |  Marcos Nery  |
+| 04/09/2019 |  1.8   |  Inclusão do termo L8   |  Marcos Nery  |
+| 05/09/2019 |  2.0   |  Refinamento dos termos   |  Marcos Nery  |
 
 
 <br>
@@ -136,9 +137,9 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | - Ação realizada pelo [consumidor](#L3-V1) de [serviços](#L1-V1) para o [prestador](#L2-V1) de [serviços](#L1-V1) após a execução do [serviço](#L1-V1)|
 | - É recebido pelo [prestador](#L2-V1) de [serviços](#L1-V1) após realizar um [serviço](#L1-V1) e o [consumidor](#L3-V1) de [serviço](#L1-V1) constatar a realização do mesmo|
 |**Impacto** |
-| - O [pagamento](#L5-V1) pode ser realizado no aplicativo|
-| - O [pagamento](#L5-V1) poderá ser feito por cartão de crédito ou dinheiro|
-| - O [pagamento](#L5-V1) poderá ser combinado entre [consumidor](#L3-V1) de [serviço](#L1-V1) e [prestador](#L2-V1) de [serviço](#L1-V1) através do [chat](#L7-V1) do aplicativo|
+| - O pagamento pode ser realizado no aplicativo|
+| - O pagamento poderá ser feito por cartão de crédito ou dinheiro|
+| - O valor a ser pago poderá ser combinado entre [consumidor](#L3-V1) e [prestador](#L2-V1) de [serviço](#L1-V1) através do [pax](#L8-V1), pelo chat do aplicativo|
 |**Sinônimos**|
 |  - |
 
@@ -152,6 +153,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |**Noção**|
 | - Pode ser uma avaliação de um [serviço](#L1-V1) prestado ou de um [prestador](#L2-V1)/[consumidor](#L3-V1)|
 | - É representada por um sistema de estrelas, indo de 0 a 5 estrelas sendo 0 a pior nota e 5 a melhor|
+| - Em adição as estrelas pode ser enviado um comentário|
 |**Impacto** |
 | - Cada [prestador](#L2-V1) de [serviços](#L1-V1) terá, em seu perfil, um indicativo estatístico médio feito das avaliações recebidas, tanto para sua pessoa quanto pros seus serviços prestados|
 | - Cada [consumidor](#L3-V1) tem em seu perfil um indicativo estatístico médio feito das avaliações recebidas |
@@ -170,10 +172,11 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |**Noção**|
 | - Funcionalidade do aplicativo que servirá como meio de comunicação entre [consumidor](#L3-V1) de [serviços](#L1-V1) e [prestador](#L2-V1) de [serviços](#L1-V1)|
 | - Chat com funcionalidades básicas de troca de mensagens|
+| - Pela tela do chat também são acessadas as funcionalidades de negociação do [pax](#L8-V1)|
 |**Impacto** |
-| - O *[chat](#L7-V1)* ficará disponível para utilização após a confirmação do [serviço](#L1-V1) por ambas as partes|
-| - O *[chat](#L7-V1)* poderá ser utilizado para que o preço e outros detalhes do [serviço](#L1-V1) sejam estabelecidos|
-| - O *[chat](#L7-V1)* contará com um início automatizado que definirá os principais detalhes do [serviço](#L1-V1) |
+| - Pelo chat o usuário [consumidor](#L3-V1) pode contatar um [prestador](#L2-V1) para requisitar a realização de um [serviço](#L1-V1)|
+| - O chat poderá ser utilizado para que o preço e outros detalhes do [serviço](#L1-V1) sejam estabelecidos entre as duas partes|
+| - Pelo chat é enviado o [pax](#L8-V1) criado pelo [prestador](#L2-V1) para o [consumidor](#L3-V1)|
 |**Sinônimos**|
 |  - |
 
