@@ -17,6 +17,7 @@ Aqui estão listados os léxicos, sendo estes termos específicos do contexto do
 | 02/09/2019 |  1.5   |  Evolução do documento de glossário para léxico   |  Marcos Nery  |
 | 04/09/2019 |  1.6   |  Atualização dos termos L5-L7   |  Marcos Nery  |
 | 04/09/2019 |  1.6   |  Atualizando os IDs para formato de Léxico   |  Marcos Nery  |
+| 04/09/2019 |  1.6   |  Inclusão do termo L8   |  Marcos Nery  |
 
 
 <br>
@@ -175,3 +176,23 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | - O *[chat](#L7-V1)* contará com um início automatizado que definirá os principais detalhes do [serviço](#L1-V1) |
 |**Sinônimos**|
 |  - |
+
+
+
+### L8 - V1
+
+<h3 style="text-align: left;">Pax</h3>
+
+|**Classificação**|
+|:--|
+| Objeto |
+|**Noção**|
+| - É um termo no calendário maia que se refere a tempo de plantio, portanto remetendo a troca de um esforço por uma recompensa, motivo pelo qual foi escolhido como nome para a aplicação|
+| - É também o nome dado a o contrato firmado e documentado na aplicação entre o [consumidor](#L3-V1) e o [prestador](#L2-V1) de [serviço](#L1-V1). No qual constam coisas como a descrição do [serviço](#L1-V1) a ser prestado e o valor a ser pago.|
+|**Impacto** |
+| - O pax é criado pelo [prestador](#L2-V1) quando este recebe do usuário [consumidor](#L3-V1) um convite pelo [chat](#L7-V1) para realizar um [serviço](#L1-V1). |
+| - O consumidor recebe dentro do chat o pax criado pelo prestador e pode confirma-lo ou não|
+| - Caso o pax seja confirmado se inicia o fluxo de realização do [serviço](#L1-V1)|
+| - Caso o pax seja negado as duas partes podem tentar, caso queiram, negociar novamente e editar ou criar um novo pax|
+|**Sinônimos**|
+|  contrato |
