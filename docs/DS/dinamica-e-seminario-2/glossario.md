@@ -15,6 +15,7 @@ Aqui estão listados os léxicos, sendo estes termos específicos do contexto do
 | 01/09/2019 |  1.3   |   Detalhes arrumados    |  Esio Freitas  |
 | 02/09/2019 |  1.4   |   Inclusão dos termos G5, G6 e G7    |  Matheus Figueiredo  |
 | 02/09/2019 |  1.5   |  Evolução do documento de glossário para léxico   |  Marcos Nery  |
+| 04/09/2019 |  1.6   |  Atualização dos termos G5-G7   |  Marcos Nery  |
 
 
 <br>
@@ -135,7 +136,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |**Impacto** |
 | - O [pagamento](#G5-V1) pode ser realizado no aplicativo|
 | - O [pagamento](#G5-V1) poderá ser feito por cartão de crédito ou dinheiro|
-| - O [pagamento](#G5-V1) poderá ser combinado entre [consumidor](#G3-V1) de [serviço](#G1-V1) e [prestador](#G2-V1) de [serviço](#G1-V1) através do aplicativo|
+| - O [pagamento](#G5-V1) poderá ser combinado entre [consumidor](#G3-V1) de [serviço](#G1-V1) e [prestador](#G2-V1) de [serviço](#G1-V1) através do [chat](#G7-V1) do aplicativo|
 |**Sinônimos**|
 |  - |
 
@@ -147,10 +148,12 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |:--|
 | Verbo |
 |**Noção**|
-| - É a avaliação do [serviço](#G1-V1) feito pelo [prestador](#G2-V1) de [serviço](#G1-V1) que poderá ser realizada pelo [consumidor](#G3-V1) de [serviços](#G1-V1) no aplicativo após a execução do mesmo|
+| - Pode ser uma avaliação de um [serviço](#G1-V1) prestado ou de um [prestador](#G2-V1)/[consumidor](#G3-V1)|
+| - É representada por um sistema de estrelas, indo de 0 a 5 estrelas sendo 0 a pior nota e 5 a melhor|
 |**Impacto** |
-| - A avaliação será feita no sistema de estrelas, de 0 a 5|
-| - Cada [prestador](#G2-V1) de [serviços](#G1-V1) terá, em seu perfil, um indicativo estatístico médio feito das avaliações recebidas|
+| - Cada [prestador](#G2-V1) de [serviços](#G1-V1) terá, em seu perfil, um indicativo estatístico médio feito das avaliações recebidas, tanto para sua pessoa quanto pros seus serviços prestados|
+| - Cada [consumidor](#G3-V1) tem em seu perfil um indicativo estatístico médio feito das avaliações recebidas |
+| - Após o serviço ser realizado pelo [prestador](#G2-V1), o [consumidor](#G3-V1) poderá então avalia-lo e avaliar o [serviço](#G1-V1) realizado, assim como o [prestador](#G2-V1) poderá avalia-lo|
 |**Sinônimos**|
 |  - |
 
@@ -164,6 +167,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | Objeto |
 |**Noção**|
 | - Funcionalidade do aplicativo que servirá como meio de comunicação entre [consumidor](#G3-V1) de [serviços](#G1-V1) e [prestador](#G2-V1) de [serviços](#G1-V1)|
+| - Chat com funcionalidades básicas de troca de mensagens|
 |**Impacto** |
 | - O *[chat](#G7-V1)* ficará disponível para utilização após a confirmação do [serviço](#G1-V1) por ambas as partes|
 | - O *[chat](#G7-V1)* poderá ser utilizado para que o preço e outros detalhes do [serviço](#G1-V1) sejam estabelecidos|
