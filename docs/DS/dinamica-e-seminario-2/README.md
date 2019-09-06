@@ -4,7 +4,7 @@
 
 ### 2. [Tecnologias](docs/DS/dinamica-e-seminario-2/Tecnologias.md)
 
-### 3. [Glossário](docs/DS/dinamica-e-seminario-2/glossario.md)
+### 3. [Léxicos](docs/DS/dinamica-e-seminario-2/lexico.md)
 
 ### 4. [NFR](docs/DS/dinamica-e-seminario-2/nfr.md)
 
