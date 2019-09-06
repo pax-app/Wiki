@@ -1,8 +1,6 @@
 # Planejamento Sprint 03
 
-<p align="justify">
-Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas anteriores, buscando sempre linkar com aquilo que seja relevante às explicações.
-</p>
+Sprint marcada pela definição e documentação das metodologias adotadas pelo *time*, pela finalização do [*backlog*](docs/DS/dinamica-e-seminario-2/Backlog.md) e melhoramento do [*wireframe*](docs/DS/dinamica-e-seminario-2/wireframes.md).
 
 
 ## Tamanho da Sprint X      
