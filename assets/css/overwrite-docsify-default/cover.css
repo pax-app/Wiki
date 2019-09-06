@@ -14,6 +14,15 @@
   font-size: 2rem !important;
 }
 
+.cover-main span {
+  position: absolute;
+  width: 92%;
+  height: .3rem;
+  background-color: #78AA43;
+  bottom: 0;
+  margin-bottom: -.2rem;
+}
+
 .cover-main p {
   text-align: center;
   display: flex;

@@ -8,6 +8,7 @@
 
 .app-nav ul li a {
   padding: .4rem .8rem;
+  letter-spacing: .5px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
