@@ -4,7 +4,7 @@
 
 Cada *sprint* possui duração de 7 dias, iniciando na segunda-feira, e finalizando no domingo.
 
-As reuniões de *sprint plaining* e *sprint review* ocorrem todas segunda-feiras as 12 horas no cointainer ITRAC na FGA e sendo guiadas pelos rituais do *SCRUM*, especialmente o *timebox* . 
+As reuniões de *sprint plaining* e *sprint review* ocorrem todas segunda-feiras as 12 horas no cointainer ITRAC na FGA e sendo guiadas pelos rituais do *SCRUM*, especialmente o *timebox*. 
 
 ## Daily Meeting
 

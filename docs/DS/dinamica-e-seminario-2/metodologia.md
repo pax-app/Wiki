@@ -8,7 +8,7 @@ Esse documenta visa documentar todas as decisões que foram tomadas acerca da me
 
 ## Plano de comunicação
 
-A equipe utiliza a funcionalidade de gupos do Telegram para se comunicar e realizar as dailys.
+A equipe utiliza a funcionalidade de gupos do Telegram para se comunicar e realizar as Dailies.
 
 Mais informações sobre o plano e comunicação do time pode ser encontrado em [Plano de Organização](docs/iniciativas-extras/Organizacao.md)
 
@@ -30,9 +30,9 @@ O sprint-planning será feito segunda-feira, onde as issues priorizadas para a s
 
 O sprint-review será feito segunda-feira, onde serão contabilizados os pontos realizados e os pontos de divida técnica. Também serão feitas perguntas sobre a sprint, como pontos falhos e pontos a melhorar.
 
-#### Dailys
+#### Dailies
 
-As Dailys são realizadas diariamente pelo telegram, exceto segunda-feira, pois serão realizadas presencialmente.
+As Dailies são realizadas diariamente pelo telegram, exceto segunda-feira, pois serão realizadas presencialmente.
 
 | Dia     | Hora     | Tipo       | Local           |
 | ------- | -------- | ---------- | --------------- |
@@ -58,3 +58,7 @@ A equipe utiliza do pareamento definido no XP para nivelar o conhecimento do tim
 #### Quadro de conhecimentos
 
 Uma tabela com os conhecimentos de cada um do time foi feita e será utilizada para definir as duplas do pareamento, melhorando o aproveitamento da prática.
+
+#### Pair Programming  
+
+Para otimização da produtividade da equipe e gestão do conhecimento, faremos uso da programação em pares.  

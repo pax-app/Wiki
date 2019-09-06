@@ -10,7 +10,7 @@
 Para poder realizar uma análise e acompanhamento dos membros durante o desenvolvimento do projeto, será feito uma análise de **Sentimentos X Produtividade**. Um dos objetos de estudo de *Jeff Sutherland* em **Scrum - A arte de fazer o dobro do trabalho na metade do tempo** é a relação direta entre o humor dos integrantes de uma equipe de trabalho e a sua produtividade.
 
 Para que isso ocorra, será seguida a seguinte metodologia:
-* Durante as *Dailys*, duas respostas extras (além das padrões) terão que ser respondidas pelos participantes:
+* Durante as *Dailies*, duas respostas extras (além das padrões) terão que ser respondidas pelos participantes:
   1. Qual seu sentimento hoje? (seguindo a tabela abaixo)
 
   ![Imgur](https://i.imgur.com/A0OjoLP.png)

@@ -191,7 +191,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | Objeto |
 |**Noção**|
 | - É um termo no calendário maia que se refere a tempo de plantio, portanto remetendo a troca de um esforço por uma recompensa, motivo pelo qual foi escolhido como nome para a aplicação|
-| - É também o nome dado a o contrato firmado e documentado na aplicação entre o [consumidor](#l3) e o [prestador](#l2) de [serviço](#l1). No qual constam coisas como a descrição do [serviço](#l1) a ser prestado e o valor a ser pago.|
+| - É também o nome dado ao contrato firmado e documentado na aplicação entre o [consumidor](#l3) e o [prestador](#l2) de [serviço](#l1). No qual constam coisas como a descrição do [serviço](#l1) a ser prestado e o valor a ser pago.|
 |**Impacto** |
 | - O pax é criado pelo [prestador](#l2) quando este recebe do usuário [consumidor](#l3) um convite pelo [chat](#l7) para realizar um [serviço](#l1). |
 | - O consumidor recebe dentro do chat o pax criado pelo prestador e pode confirma-lo ou não|
