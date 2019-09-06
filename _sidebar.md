@@ -14,7 +14,7 @@
   - [Metodologias](docs/DS/dinamica-e-seminario-2/metodologia.md)
   - [Documento de Visão](docs/DS/dinamica-e-seminario-2/DocDeVisao.md)
   - [Tecnologias](docs/DS/dinamica-e-seminario-2/Tecnologias.md)
-  - [Glossario](docs/DS/dinamica-e-seminario-2/glossario.md)
+  - [Léxicos](docs/DS/dinamica-e-seminario-2/lexico.md)
   - [NFR](docs/DS/dinamica-e-seminario-2/nfr.md)
   - [User flows e Wireframes](docs/DS/dinamica-e-seminario-2/wireframes.md)
   - [Guia de Estilo](docs/DS/dinamica-e-seminario-2/style_guide.md)
