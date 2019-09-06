@@ -9,49 +9,60 @@ Para realizar a disciplina de *Arquitetura e Desenho de Software* foi decidido r
 |    Data    | Versão |      Descrição       |                  Autor(es)                   |
 | :--------: | :----: | :------------------: | :------------------------------------------: |
 | 06/09/2019 |  0.1   | Criação do documento | Fabiana Pfeilsticker Ribas e Matheus Pimenta |
-| 06/09/2019 |  0.2   | Adição dos diagramas | Matheus Pimenta e Fabiana Pfeilsticker Ribas |
+| 06/09/2019 |  1.0   | Adição dos diagramas | Matheus Pimenta e Fabiana Pfeilsticker Ribas |
+| 06/09/2019 |  1.1   | Colocando autores    | Rogério Júnior                               |
 
-## Modelagens
+## Versões 1.0
 
 ### Modelagem Geral - PAX
 
 ![Imgur](https://i.imgur.com/Pb9osAK.png)
-Versão: 1.0
+
+Autores: [Fabiana Ribas](https://github.com/FabianaRibas) e [Matheus Figueiredo](https://github.com/Matheusss03)
 
 ### Processo - Elaboração Inicial de Artefatos
 
 ![Imgur](https://i.imgur.com/LAdF3JN.png)
-Versão: 1.0
+
+Autores: [Fabiana Ribas](https://github.com/FabianaRibas) e [Matheus Figueiredo](https://github.com/Matheusss03)
 
 ### Subprocesso - Definição de Projeto
 
 ![Imgur](https://i.imgur.com/AOsK4aI.png)
-Versão: 1.0
+
+Autores: [Fabiana Ribas](https://github.com/FabianaRibas) e [Matheus Figueiredo](https://github.com/Matheusss03)
 
 ### Processo - Definição de Metodologias e Abordagens
 
 ![Imgur](https://i.imgur.com/LsfiOxS.png)
-Versão: 1.0
+
+Autores: [Fabiana Ribas](https://github.com/FabianaRibas) e [Matheus Figueiredo](https://github.com/Matheusss03)
 
 ### Subprocesso - Metodologia de Desenvolvimento
 
 ![Imgur](https://i.imgur.com/wK23YOr.png)
-Versão: 1.0
+
+Autores: [Fabiana Ribas](https://github.com/FabianaRibas) e [Matheus Figueiredo](https://github.com/Matheusss03)
 
 ### Subprocesso - Planejamento da Sprint
 
 ![Imgur](https://i.imgur.com/Ex63cBc.png)
-Versão: 1.0
+
+Autores: [Fabiana Ribas](https://github.com/FabianaRibas) e [Matheus Figueiredo](https://github.com/Matheusss03)
 
 ### Subprocesso - Retrospectiva da Sprint
 
 ![Imgur](https://i.imgur.com/2rEAt2k.png)
-Versão: 1.0
+
+Autores: [Fabiana Ribas](https://github.com/FabianaRibas) e [Matheus Figueiredo](https://github.com/Matheusss03)
 
 ### Suprocesso - Review da Sprint
 
 <<<<<<< HEAD
-![Imgur](https://i.imgur.com/a6tDtcU.png)Versão: 1.0
-=======
-![Imgur](https://i.imgur.com/a6tDtcU.png)Versão: 1.0
->>>>>>> 4824b4427e4aed9eedd4f35afb96fb4bd0f6dbe3
+![Imgur](https://i.imgur.com/a6tDtcU.png)
+
+Autores: [Fabiana Ribas](https://github.com/FabianaRibas) e [Matheus Figueiredo](https://github.com/Matheusss03)
+
+## Referências
+
+- 
