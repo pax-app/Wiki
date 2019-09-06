@@ -1,3 +1,7 @@
+<a href="/">
+    <img src="/assets/assets/pax-full-black-font.svg" class="sidebar-pax-logo">
+</a>
+
 - [**Dinâmica e Seminário I**](docs/DS/dinamica-e-seminario-1/README.md)
   - [Definições de Projeto](docs/DS/dinamica-e-seminario-1/DefinicoesDeProjeto.md)
   - [Argumentação](docs/DS/dinamica-e-seminario-1/Argumentacao.md)

@@ -1,0 +1,24 @@
+.app-nav {
+  color: #78AA43;
+}
+
+.github-corner {
+  display: none;
+}
+
+.app-nav ul li a {
+  padding: .4rem .8rem;
+  letter-spacing: .5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  transition: all .25s;
+  border: 1.2px solid rgba(120, 170, 67, .3);
+  border-radius: .2rem;
+}
+
+.app-nav ul li a:hover {
+  border: 1px solid rgba(120, 170, 67, .8);
+  background-color: #78AA43;
+  color: white;
+}
