@@ -14,4 +14,4 @@
 
 ### 7. [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md)
 
-### 8. [Diagramas BPMN](docs/DS/dinamica-e-seminario-2/Diagramas.md)
+### 8. [Modelagem BPMN](docs/DS/dinamica-e-seminario-2/Diagramas.md)
