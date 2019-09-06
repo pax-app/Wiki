@@ -18,6 +18,7 @@
   - [Definição de Metodologias](docs/DS/dinamica-e-seminario-2/metodologia.md)
   - [Modelagem BPMN](docs/DS/dinamica-e-seminario-2/Diagramas.md)
   - [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md)
+  - [Priorização](docs/DS/dinamica-e-seminario-2/priorizacao.md)
   - [NFR](docs/DS/dinamica-e-seminario-2/nfr.md)
   - [Léxicos](docs/DS/dinamica-e-seminario-2/lexico.md)
   - [Documento de Visão](docs/DS/dinamica-e-seminario-2/DocDeVisao.md)

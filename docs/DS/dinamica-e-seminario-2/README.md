@@ -6,17 +6,16 @@
 
 ### 3. [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md)
 
-### 4. [NFR](docs/DS/dinamica-e-seminario-2/nfr.md)
+### 4. [Priorização](docs/DS/dinamica-e-seminario-2/priorizacao.md)
 
-### 5. [Léxicos](docs/DS/dinamica-e-seminario-2/lexico.md)
+### 5. [NFR](docs/DS/dinamica-e-seminario-2/nfr.md)
 
-### 6. [Documento de Visão](docs/DS/dinamica-e-seminario-2/DocDeVisao.md)
+### 6. [Léxicos](docs/DS/dinamica-e-seminario-2/lexico.md)
 
-### 7. [Tecnologias](docs/DS/dinamica-e-seminario-2/Tecnologias.md)
+### 7. [Documento de Visão](docs/DS/dinamica-e-seminario-2/DocDeVisao.md)
 
-### 8. [Guia de Estilo](docs/DS/dinamica-e-seminario-2/style_guide.md)
+### 8. [Tecnologias](docs/DS/dinamica-e-seminario-2/Tecnologias.md)
 
-### 9. [User flows e Wireframes](docs/DS/dinamica-e-seminario-2/wireframes.md)
+### 9. [Guia de Estilo](docs/DS/dinamica-e-seminario-2/style_guide.md)
 
-
-
+### 10. [User flows e Wireframes](docs/DS/dinamica-e-seminario-2/wireframes.md)  
