@@ -1,0 +1,21 @@
+.cover {
+  background: #201F20 !important;
+}
+
+.cover-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.cover-main p {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.cover-main p img {
+  width: 18rem;
+  height: 18rem;
+}
