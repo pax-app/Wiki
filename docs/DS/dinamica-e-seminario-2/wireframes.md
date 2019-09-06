@@ -19,103 +19,103 @@ Baseados nos artefatos de elicitação (entrevistas, resultados do questionário
 
 ![FluxoV2](../../../assets/fluxoV2.png)
 
-## Wireframes V1.0
+### Versões 1.0
 
 Baseados nos fluxos acima, algumas telas principais foram propostas para que os usuários consigam concluir seus objetivos com o app. Os wireframes são representações de baixa fidelidade das telas da aplicação, a ideia é, com o tempo, evoluí-los e aumentar a fidelidade até chegarmos num protótipo.
 
-### Categorias de serviços
+#### Categorias de serviços
 
 ![CategoriasServicosV1](../../../assets/wireframes/CategoriasServicos.png)
 
-### Lista de ocupações
+#### Lista de ocupações
 
 ![ListaOcupacoesV1](../../../assets/wireframes/ListaOcupacoes.png)
 
-### Lista de profissionais
+#### Lista de profissionais
 
 ![ListaProfissionaisV1](../../../assets/wireframes/ListaProfissionais.png)
 
-### Filtrar resultados
+#### Filtrar resultados
 
 ![FiltrarResultadosV1](../../../assets/wireframes/FiltrarResultados.png)
 
-### Perfil do profissional
+#### Perfil do profissional
 
 ![PerfilProfissionalV1](../../../assets/wireframes/PerfilProfissional.png)
 
-### Chat
+#### Chat
 
 ![ChatV1](../../../assets/wireframes/Chat.png)
 
-### Serviço
+#### Serviço
 
 ![ServicoV1](../../../assets/wireframes/Servico.png)
 
-### Criar ordem de serviço
+#### Criar ordem de serviço
 
 ![CriarPaxV1](../../../assets/wireframes/CriarPax.png)
 
-### Ordens de serviço
+#### Ordens de serviço
 
 ![OrdensServiçoV1](../../../assets/wireframes/OrdensServico.png)
 
-### Serviços prestados
+#### Serviços prestados
 
 ![ServicosPrestadosV1](../../../assets/wireframes/ServicosPrestados.png)
 
-### Serviços contratados
+#### Serviços contratados
 
 ![ServicosContratadosV1](../../../assets/wireframes/ServicosContratados.png)
 
-### Avaliar serviço
+#### Avaliar serviço
 
 ![AvaliarServicoV1](../../../assets/wireframes/AvaliarServico.png)
 
-### Enviar resultados do serviço
+#### Enviar resultados do serviço
 
 ![ResultadosServicoV1](../../../assets/wireframes/ResultadosServico.png)
 
 **Autor:** [Kaique Borges](https://github.com/kaiqueborges)
 
-### Menu Lateral do usuário
+#### Menu Lateral do usuário
 
 ![MenuDoUsuario](../../../assets/wireframes/MenuDoUsuario.png)
 
-### Tela de informações sobre o registro de prestador de serviço
+#### Tela de informações sobre o registro de prestador de serviço
 
 ![TelaInstrucoesCadastroPrestador](../../../assets/wireframes/TelaInstrucoesCadastroPrestador.png)
 
-### Tela para o prestador de serviços preencher as informações
+#### Tela para o prestador de serviços preencher as informações
 
 ![FormularioPrestador](../../../assets/wireframes/FormularioPrestador.png)
 
-### Tela de informes finais para o prestador
+#### Tela de informes finais para o prestador
 
 ![TelaInformacoesPrestador](../../../assets/wireframes/TelaInformacoesPrestador.png)
 
-### Tela de sucesso para cadastro de prestador de serviços
+#### Tela de sucesso para cadastro de prestador de serviços
 
 ![TelaCadastroSucessoPrestador](../../../assets/wireframes/TelaCadastroSucessoPrestador.png)
 
-### Menu visivel para o prestador de serviços
+#### Menu visivel para o prestador de serviços
 
 ![MenuPrestador](../../../assets/wireframes/MenuPrestador.png)
 
-### Menu do prestador de serviços
+#### Menu do prestador de serviços
 
 ![MenuPrestadorAberto](../../../assets/wireframes/MenuPrestadorAberto.png)
 
 **Autor:** [Gabriel Albino](https://github.com/gabrielalbino)
 
-### Home e perfil de usuário 
+#### Home e perfil de usuário 
 
 ![home](../../../assets/wireframes/esio1.jpg)
 
-### Contato, chat e pagamento
+#### Contato, chat e pagamento
 
 ![home](../../../assets/wireframes/esio2.jpg)
 
-### Contrato, serviço e perfil user
+#### Contrato, serviço e perfil user
 
 ![home](../../../assets/wireframes/esio3.jpg)
 

@@ -58,7 +58,6 @@ Autores: [Fabiana Ribas](https://github.com/FabianaRibas) e [Matheus Figueiredo]
 
 ### Suprocesso - Review da Sprint
 
-<<<<<<< HEAD
 ![Imgur](https://i.imgur.com/a6tDtcU.png)
 
 Autores: [Fabiana Ribas](https://github.com/FabianaRibas) e [Matheus Figueiredo](https://github.com/Matheusss03)

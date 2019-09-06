@@ -17,7 +17,7 @@ Este <i>Framework</i> oferece uma estrutura de representação e registro do <i>
 ## Versão 1.0
 
 <p style="align: justify">
-A primeira versão do documento foi pensando principalmente em cima da *ISO 9241* e das *Heurísticas de Nielsen* que estabelecem diretrizes para a usabilidade de aplicações. Este foi o principal foco dessa versão no qual já foi possível modelar os requisitos funcionais guiados pelo requisitos não funcionais.
+A primeira versão do documento foi pensando principalmente em cima da <i>ISO 9241</i> e das <i>Heurísticas de Nielsen</i> que estabelecem diretrizes para a usabilidade de aplicações. Este foi o principal foco dessa versão no qual já foi possível modelar os requisitos funcionais guiados pelo requisitos não funcionais.
 
 O <i>iframe</i> possui três formatos separados para melhor visualização do <i>NFR</i> : a modelagem, as interferências e as propagações.
 
