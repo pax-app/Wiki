@@ -4,7 +4,7 @@
 
 ### 2. [Tecnologias](docs/DS/dinamica-e-seminario-2/Tecnologias.md)
 
-### 3. [Glossário](docs/DS/dinamica-e-seminario-2/glossario.md)
+### 3. [Léxicos](docs/DS/dinamica-e-seminario-2/lexico.md)
 
 ### 4. [NFR](docs/DS/dinamica-e-seminario-2/nfr.md)
 
@@ -13,3 +13,5 @@
 ### 6. [Guia de Estilo](docs/DS/dinamica-e-seminario-2/style_guide.md)
 
 ### 7. [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md)
+
+### 8. [Diagramas BPMN](docs/DS/dinamica-e-seminario-2/Diagramas.md)
