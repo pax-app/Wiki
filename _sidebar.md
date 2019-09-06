@@ -1,5 +1,5 @@
-<a href="/">
-    <img src="/assets/assets/pax-full-black-font.svg" class="sidebar-pax-logo">
+<a href="/Wiki/#/">
+    <img src="assets/assets/pax-full-black-font.svg" class="sidebar-pax-logo">
 </a>
 
 - [**Dinâmica e Seminário I**](docs/DS/dinamica-e-seminario-1/README.md)
