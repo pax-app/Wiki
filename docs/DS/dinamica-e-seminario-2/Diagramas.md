@@ -50,4 +50,8 @@ Versão: 1.0
 
 ### Suprocesso - Review da Sprint
 
+<<<<<<< HEAD
 ![Imgur](https://i.imgur.com/a6tDtcU.png)Versão: 1.0
+=======
+![Imgur](https://i.imgur.com/a6tDtcU.png)Versão: 1.0
+>>>>>>> 4824b4427e4aed9eedd4f35afb96fb4bd0f6dbe3
