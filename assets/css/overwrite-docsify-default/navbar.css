@@ -2,6 +2,10 @@
   color: #78AA43;
 }
 
+.github-corner {
+  display: none;
+}
+
 .app-nav ul li a {
   padding: .4rem .8rem;
   display: flex;

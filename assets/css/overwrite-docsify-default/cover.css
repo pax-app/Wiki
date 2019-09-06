@@ -7,12 +7,11 @@
   flex-direction: column;
   justify-content: center;
   align-content: center;
- 
 }
 
-.cover-main span { 
-  color: white;
-  font-size: 1.9rem;
+.cover-main h1 { 
+  color: white !important;
+  font-size: 2rem !important;
 }
 
 .cover-main p {
