@@ -14,7 +14,7 @@
 
 ## Fluxos de uso
 
-Baseados nos artefatos de elicitação (entrevistas, resultados do questionário, etc.) um fluxo de uso da aplicação foi criado seguindo a notação [BPNM](https://pt.wikipedia.org/wiki/Business_Process_Model_and_Notation). A intenção aqui é ilustrar graficamente a navegação no aplicativo para facilitar na concepção e criação das telas do MVP.
+Baseados nos artefatos de elicitação (entrevistas, resultados do questionário, etc.) um fluxo de uso da aplicação foi criado seguindo a notação [BPMN](https://pt.wikipedia.org/wiki/Business_Process_Model_and_Notation). A intenção aqui é ilustrar graficamente a navegação no aplicativo para facilitar na concepção e criação das telas do MVP.
 
 ![FluxoV2](../../../assets/fluxoV2.png)
 
