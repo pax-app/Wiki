@@ -5,7 +5,8 @@ Trabalho muito satisfatório no qual foram entregues todas as issues bem antes d
 <i>Sprint</i> marcada por definições de escopo, para ter um direcionamento unificado e um guia claro de desenvolvimento, e no começo do processo de levantamento de requisitos, no qual algumas funcionalidades já foram levantadas, em cima de feedback de <i>stakeholders</i> (<a href="https://2019-2-arquitetura-e-desenho.github.io/Wiki/#/docs/DS/dinamica-e-seminario-1/AnaliseQuestionario">questionário</a>, <a href="https://2019-2-arquitetura-e-desenho.github.io/Wiki/#/docs/DS/dinamica-e-seminario-1/Entrevista">entrevistas</a>, time de desenvolvimento), e do <i>oceano azul</i>, documento que buscou diferenciar a aplicação dos concorrentes e inovar no meio de atuação.
 </p>
 
-## Fechamento da Sprint 01    
+## Fechamento da Sprint     
+
 
 | _Issue_ | _Status_ | Pontos |
 | :-----: | :------: | :----: |
@@ -65,15 +66,15 @@ A metodologia usada para tais feedbacks foi o quadro de empatia: alguns pontos f
 
 ## Quadro de Sentimentos
 
-Foram mapeados os sentimentos dos membros do time, a produtividade individual e a correlação entre as mesmas. A partir dos resultados gerados foi possível observar que o time teve uma alta produtividade, dado que os trabalhos começaram duas semanas antes do semestre letivo. 
+Foram mapeados os sentimentos dos membros do time, a produtividade indivual e a correlação entre as mesmas. A partir dos resultados gerados foi possível observar que o time teve uma alta produtividade, dado que os trabalhos começaram duas semanas antes do semestre letivo. 
 
 Analisando a correlação entre sentimentos e produtividade, mesmo nos dias que não os membros estavam bem, continuaram trabalhando e conseguiram entregar suas tarefas. O humor do time melhorou quando todas as tarefas haviam sido entregues. Os gráficos gerados estão elencados abaixo.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCi50PjVIcno1S4pHK7rwji2MFbxJF53iYGnTs7WUNLNvE27HHLNfFlsCh3wiNMZvseopMCvagD3-I/pubchart?oid=238042475&format=interactive" width="100%" height="700px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCi50PjVIcno1S4pHK7rwji2MFbxJF53iYGnTs7WUNLNvE27HHLNfFlsCh3wiNMZvseopMCvagD3-I/pubhtml" width="100%" height="700px"></iframe>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkmreugxEeCvz7vA6DvWdZPITI3DHEceQe1YxgnDS8PCFgB7ZXbUJh--b5Sfm1KVFoWPPCRoqAnWgp/pubchart?oid=595382317&format=interactive" width="100%" height="700px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkmreugxEeCvz7vA6DvWdZPITI3DHEceQe1YxgnDS8PCFgB7ZXbUJh--b5Sfm1KVFoWPPCRoqAnWgp/pubhtml?gid=0&single=true" width="100%" height="700px"></iframe>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQc0fUk1XPc1xZp0cgnfcYU5CT0Do2hNvgCCW8HrlH4QBHtrLE7vOPHEFylxwO3Zwxe3zAhnpgugnh/pubchart?oid=1244284395&format=interactive" width="100%" height="700px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQc0fUk1XPc1xZp0cgnfcYU5CT0Do2hNvgCCW8HrlH4QBHtrLE7vOPHEFylxwO3Zwxe3zAhnpgugnh/pubhtml?gid=0&single=true" width="100%" height="700px"></iframe>
 
 
 *Autor:* **[Rogério Júnior](https://github.com/rogerioo)**
