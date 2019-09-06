@@ -1,4 +1,2 @@
-![](assets/assets/pax-full-logo.png)
-
-## Precisa de um serviço e não quer enrolação?
-## peça um PAX!
+![](assets/assets/pax-full-logo.svg)
+# Peça um serviço de forma rápida e com qualidade

@@ -7,6 +7,12 @@
   flex-direction: column;
   justify-content: center;
   align-content: center;
+ 
+}
+
+.cover-main span { 
+  color: white;
+  font-size: 1.9rem;
 }
 
 .cover-main p {
@@ -16,6 +22,7 @@
 }
 
 .cover-main p img {
-  width: 18rem;
-  height: 18rem;
+  width: 16rem;
+  height: 16rem;
+  margin-top: 4rem;
 }
