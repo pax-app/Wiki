@@ -18,3 +18,5 @@ Por esse motivos usamos o backlog para direcionar o desenvolvimento da aplicaç�
 ## Referências
 
 - Optimizing Product Backlog Refinement. Acessad em 30/08/2019. Em: <https://www.scrum.org/resources/blog/optimizing-product-backlog-refinement>
+
+- A arte de fazer o dobro na metade do tempo. Scrum.  
