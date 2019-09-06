@@ -39,3 +39,5 @@
   - [Documentação das Sprints](docs/iniciativas-extras/documentacao_sprints/README.md)
     - [Planejamento Sprint 01](docs/iniciativas-extras/documentacao_sprints/plaining_01.md)
     - [Review Sprint 01](docs/iniciativas-extras/documentacao_sprints/review_01.md)
+    - [Planejamento Sprint 02](docs/iniciativas-extras/documentacao_sprints/plaining_02.md)
+    - [Review Sprint 02](docs/iniciativas-extras/documentacao_sprints/review_02.md)
