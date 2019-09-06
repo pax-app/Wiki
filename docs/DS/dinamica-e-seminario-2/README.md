@@ -13,3 +13,5 @@
 ### 6. [Guia de Estilo](docs/DS/dinamica-e-seminario-2/style_guide.md)
 
 ### 7. [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md)
+
+### 8. [Diagramas BPMN](docs/DS/dinamica-e-seminario-2/Diagramas.md)
