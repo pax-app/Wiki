@@ -19,11 +19,9 @@
   - [User flows e Wireframes](docs/DS/dinamica-e-seminario-2/wireframes.md)
   - [Guia de Estilo](docs/DS/dinamica-e-seminario-2/style_guide.md)
   - [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md)
-<<<<<<< HEAD
+  - [Priorização](docs/DS/dinamica-e-seminario-2/priorizacao.md)
   - [Diagramas BPMN](docs/DS/dinamica-e-seminario-2/Diagramas.md)
-=======
   - [Modelagem BPNM](docs/DS/dinamica-e-seminario-2/Diagramas.md)
->>>>>>> 4824b4427e4aed9eedd4f35afb96fb4bd0f6dbe3
 - [**Dinâmica e Seminário III**](docs/DS/dinamica-e-seminario-3/README.md)
 - [**Dinâmica e Seminário IV a**](docs/DS/dinamica-e-seminario-4-a/README.md)
 - [**Dinâmica e Seminário IV b**](docs/DS/dinamica-e-seminario-4-b/README.md)
