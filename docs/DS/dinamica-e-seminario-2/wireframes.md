@@ -10,8 +10,9 @@
 | :--------: | :----: | :------------------------------------------------------------: | :------------: |
 | 01/09/2019 |  1.0   |     Criação do documento e adição dos primeiros artefatos      | Kaique Borges  |
 | 02/09/2019 | 1.0.1  | Adição de telas faltantes e ajustes na formatação do documento | Gabriel Albino |
-| 05/09/2019 | 1.0.1  |                   Adição de telas faltantes                    |  Esio Freitas  |
+| 05/09/2019 | 1.0.2  |                   Adição de telas faltantes                    |  Esio Freitas  |
 | 05/09/2019 |  1.5   |          Adição da V2 do fluxo - usando notação BPMN           | Kaique Borges  |
+| 05/09/2019 |  2.0   |          Adição da Feature FE01 do Wireframe com fluxos           | Gabriel Albino e Youssef Muhamad |
 
 ## Fluxos de uso
 
@@ -120,6 +121,15 @@ Baseados nos fluxos acima, algumas telas principais foram propostas para que os 
 ![home](../../../assets/wireframes/esio3.jpg)
 
 **Autor:** [Esio Freitas](https://github.com/EsioFreitas)
+
+
+## Wireframe com fluxo entre as telas
+O Wireframe a seguir tem como finalidade condensar todos os artefatos e brainstorms que a equipe produziu. Este artefato se provou necessário já que até então tínhamos bastante dúvidas de como seria o funcionamento de uma determinada feature e se ela teria um nível de usabilidade aceitável para o usuário final. Portanto, este documento está separado nas features presentes no [backlog v2](docs/DS/dinamica-e-seminario-2/Backlog.md#versão-20).
+
+### Feature 01 v1
+![](../../../assets/wireframes/wireframe-fluxos/FE01v1.png)
+**Autor**: [Gabriel Albino](https://github.com/gabrielalbino)
+
 
 ## Referências
 

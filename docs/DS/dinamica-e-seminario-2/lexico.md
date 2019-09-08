@@ -129,7 +129,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 ### L5 
 
 <h3 style="text-align: left;">Pagamento</h3>
-
+t
 |**Classificação**|
 |:--|
 | verbo |
