@@ -1,6 +1,4 @@
-# Brainstorm
-
-
+# Brainstorming
 
 ## Histórico de Revisões
 
