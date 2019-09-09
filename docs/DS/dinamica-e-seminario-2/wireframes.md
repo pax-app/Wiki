@@ -10,8 +10,16 @@
 | :--------: | :----: | :------------------------------------------------------------: | :------------: |
 | 01/09/2019 |  1.0   |     Criação do documento e adição dos primeiros artefatos      | Kaique Borges  |
 | 02/09/2019 | 1.0.1  | Adição de telas faltantes e ajustes na formatação do documento | Gabriel Albino |
-| 05/09/2019 | 1.0.1  |                   Adição de telas faltantes                    |  Esio Freitas  |
+| 05/09/2019 | 1.0.2  |                   Adição de telas faltantes                    |  Esio Freitas  |
 | 05/09/2019 |  1.5   |          Adição da V2 do fluxo - usando notação BPMN           | Kaique Borges  |
+| 08/09/2019 |  2.0   |          Adição da Feature FE01 do Wireframe com fluxos           | Gabriel Albino |
+| 08/09/2019 |  2.1   |          Adição da v2 da Feature FE01 do Wireframe com fluxos           | Youssef Muhamad |
+| 08/09/2019 |  2.2   |          Adição da Feature FE02 do Wireframe com fluxos           | Gabriel Albino |
+| 08/09/2019 |  2.3   |          Adição da v2 da Feature FE02 do Wireframe com fluxos           | Youssef Muhamad |
+| 08/09/2019 |  2.4   |          Adição da Feature FE03 do Wireframe com fluxos           | Youssef Muhamad |
+| 08/09/2019 |  2.5   |          Adição da Feature FE04 do Wireframe com fluxos           | Youssef Muhamad |
+| 08/09/2019 |  2.6   |          Adição da Feature FE06 do Wireframe com fluxos           | Gabriel Albino |
+| 08/09/2019 |  2.7   |          Adição da Feature FE08 do Wireframe com fluxos           | Gabriel Albino |
 
 ## Fluxos de uso
 
@@ -120,6 +128,39 @@ Baseados nos fluxos acima, algumas telas principais foram propostas para que os 
 ![home](../../../assets/wireframes/esio3.jpg)
 
 **Autor:** [Esio Freitas](https://github.com/EsioFreitas)
+
+
+## Wireframe com fluxo entre as telas
+O Wireframe a seguir tem como finalidade condensar todos os artefatos e brainstorms que a equipe produziu. Este artefato se provou necessário já que até então tínhamos bastante dúvidas de como seria o funcionamento de uma determinada feature e se ela teria um nível de usabilidade aceitável para o usuário final. Portanto, este documento está separado nas features presentes no [backlog v2](docs/DS/dinamica-e-seminario-2/Backlog.md#versão-20) e está disponível [neste Figma](https://www.figma.com/file/cmUWUCrBPoO11hGFuuNu7z/Wireframe-TOP?node-id=0%3A1) para a realização de testes de usabilidade.
+
+### Feature 01 v1
+![](../../../assets/wireframes/wireframe-fluxos/FE01v1.png)
+**Autor**: [Gabriel Albino](https://github.com/gabrielalbino)
+
+### Feature 01 v2
+![](../../../assets/wireframes/wireframe-fluxos/FE01v2.png)
+**Autor**: [Youssef Muhamad](https://github.com/youssef-md)
+
+### Feature 02 v1
+![](../../../assets/wireframes/wireframe-fluxos/FE02v1.png)
+**Autor**: [Gabriel Albino](https://github.com/gabrielalbino)
+
+### Feature 02 v2
+![](../../../assets/wireframes/wireframe-fluxos/FE02v2.png)
+**Autor**: [Youssef Muhamad](https://github.com/youssef-md)
+
+### Feature 03 v1
+![](../../../assets/wireframes/wireframe-fluxos/FE03v1.png)
+**Autor**: [Youssef Muhamad](https://github.com/youssef-md)
+
+### Feature 04 v1
+![](../../../assets/wireframes/wireframe-fluxos/FE04v1.png)
+**Autor**: [Youssef Muhamad](https://github.com/youssef-md)
+
+### Feature 06 + Feature 08 v1
+![](../../../assets/wireframes/wireframe-fluxos/FE06+FE08v1.png)
+**Autor**: [Gabriel Albino](https://github.com/gabrielalbino)
+
 
 ## Referências
 
