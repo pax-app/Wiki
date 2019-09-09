@@ -16,6 +16,8 @@
 | 08/09/2019 |  2.1   |          Adição da v2 da Feature FE01 do Wireframe com fluxos           | Youssef Muhamad |
 | 08/09/2019 |  2.2   |          Adição da Feature FE02 do Wireframe com fluxos           | Gabriel Albino |
 | 08/09/2019 |  2.3   |          Adição da v2 da Feature FE02 do Wireframe com fluxos           | Youssef Muhamad |
+| 08/09/2019 |  2.4   |          Adição da Feature FE03 do Wireframe com fluxos           | Youssef Muhamad |
+| 08/09/2019 |  2.5   |          Adição da Feature FE04 do Wireframe com fluxos           | Youssef Muhamad |
 
 ## Fluxos de uso
 
@@ -148,6 +150,11 @@ O Wireframe a seguir tem como finalidade condensar todos os artefatos e brainsto
 ### Feature 03 v1
 ![](../../../assets/wireframes/wireframe-fluxos/FE03v1.png)
 **Autor**: [Youssef Muhamad](https://github.com/youssef-md)
+
+### Feature 04 v1
+![](../../../assets/wireframes/wireframe-fluxos/FE04v1.png)
+**Autor**: [Youssef Muhamad](https://github.com/youssef-md)
+
 
 ## Referências
 
