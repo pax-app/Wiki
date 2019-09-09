@@ -145,6 +145,10 @@ O Wireframe a seguir tem como finalidade condensar todos os artefatos e brainsto
 ![](../../../assets/wireframes/wireframe-fluxos/FE02v2.png)
 **Autor**: [Youssef Muhamad](https://github.com/youssef-md)
 
+### Feature 03 v1
+![](../../../assets/wireframes/wireframe-fluxos/FE03v1.png)
+**Autor**: [Youssef Muhamad](https://github.com/youssef-md)
+
 ## Referências
 
 - [Entrevistas](/docs/DS/dinamica-e-seminario-1/Entrevista.md)
