@@ -24,7 +24,7 @@
   - [Documento de Visão](docs/DS/dinamica-e-seminario-2/DocDeVisao.md)
   - [Tecnologias](docs/DS/dinamica-e-seminario-2/Tecnologias.md)
   - [Guia de Estilo](docs/DS/dinamica-e-seminario-2/style_guide.md)
-  - [User flows e Wireframes](docs/DS/dinamica-e-seminario-2/wireframes.md)
+  - [Protótipos de Baixa Fidelidade](docs/DS/dinamica-e-seminario-2/PrototipoBaixaFidelidade.md)
 - [**Dinâmica e Seminário III**](docs/DS/dinamica-e-seminario-3/README.md)
     - [Protótipo de Média Fidelidade](docs/DS/dinamica-e-seminario-3/PrototipoMediaFidelidade.md)
 - [**Dinâmica e Seminário IV a**](docs/DS/dinamica-e-seminario-4-a/README.md)

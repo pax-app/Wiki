@@ -14,36 +14,39 @@ O **Protótipo de Média Fidelidade** é um pouco mais refinado que o de baixa f
 | 08/09/2019 |  1.7   |          Adição da Feature FE08 do protótipo com fluxos                 | Gabriel Albino |
 
 
-O Protótipo a seguir tem como finalidade condensar todos os artefatos e brainstorms que a equipe produziu. Este artefato se provou necessário já que até então tínhamos bastante dúvidas de como seria o funcionamento de uma determinada feature e se ela teria um nível de usabilidade aceitável para o usuário final. Portanto, este documento está separado nas features presentes no [backlog v2](docs/DS/dinamica-e-seminario-2/Backlog.md#versão-20) e está disponível [neste Figma](https://www.figma.com/file/cmUWUCrBPoO11hGFuuNu7z/Prot%C3%B3tipo-de-Baixa-Fidelidade?node-id=0%3A1) para a realização de testes de usabilidade.
+O Protótipo a seguir tem como finalidade condensar todos os artefatos e brainstorms que a equipe produziu. Este artefato se provou necessário já que até então tínhamos bastante dúvidas de como seria o funcionamento de uma determinada feature e se ela teria um nível de usabilidade aceitável para o usuário final. Portanto, este documento está separado nas features presentes no [backlog v2](docs/DS/dinamica-e-seminario-2/Backlog.md#versão-20) e está disponível [neste Figma](https://www.figma.com/file/cmUWUCrBPoO11hGFuuNu7z/Prot%C3%B3tipo-de-M%C3%A9dia-Fidelidade?node-id=0%3A1) para a realização de testes de usabilidade.
 
 ### Feature 01 v1
-![](../../../assets/prototipo-baixo-nivel/FE01v1.png)
+![](../../../assets/prototipo-medio-nivel/FE01v1.png)
 **Autor**: [Gabriel Albino](https://github.com/gabrielalbino)
 
 ### Feature 01 v2
-![](../../../assets/prototipo-baixo-nivel/FE01v2.png)
+![](../../../assets/prototipo-medio-nivel/FE01v2.png)
 **Autor**: [Youssef Muhamad](https://github.com/youssef-md)
 
 ### Feature 02 v1
-![](../../../assets/prototipo-baixo-nivel/FE02v1.png)
+![](../../../assets/prototipo-medio-nivel/FE02v1.png)
 **Autor**: [Gabriel Albino](https://github.com/gabrielalbino)
 
 ### Feature 02 v2
-![](../../../assets/prototipo-baixo-nivel/FE02v2.png)
+![](../../../assets/prototipo-medio-nivel/FE02v2.png)
 **Autor**: [Youssef Muhamad](https://github.com/youssef-md)
 
 ### Feature 03 v1
-![](../../../assets/prototipo-baixo-nivel/FE03v1.png)
+![](../../../assets/prototipo-medio-nivel/FE03v1.png)
 **Autor**: [Youssef Muhamad](https://github.com/youssef-md)
 
 ### Feature 04 v1
-![](../../../assets/prototipo-baixo-nivel/FE04v1.png)
+![](../../../assets/prototipo-medio-nivel/FE04v1.png)
 **Autor**: [Youssef Muhamad](https://github.com/youssef-md)
 
 ### Feature 06 + Feature 08 v1
-![](../../../assets/prototipo-baixo-nivel/FE06+FE08v1.png)
+![](../../../assets/prototipo-medio-nivel/FE06+FE08v1.png)
 **Autor**: [Gabriel Albino](https://github.com/gabrielalbino)
 
 ### Referências:
 
-* [Protótipos de Baixa Fidelidade](docs/DS/dinamica-e-seminario-2/PrototipoBaixaFidelidade)
+- [Protótipos de Baixa Fidelidade](docs/DS/dinamica-e-seminario-2/PrototipoBaixaFidelidade.md)
+- Protótipos de baixa, média e alta fidelidade. Acessado dia **09/09/2019** em: <http://jeffersonalex.com.br/design/prototipos-de-baixa-media-e-alta-fidelidade/>
+- Baixa, média ou alta fidelidade? Conheça as diferenças entre os tipos de protótipos.
+. Acessado dia **09/09/2019** em: <https://dextra.com.br/pt/baixa-media-ou-alta-fidelidade-conheca-as-diferencas-entre-os-tipos-de-prototipos/>

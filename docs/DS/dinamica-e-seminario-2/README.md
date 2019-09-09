@@ -18,4 +18,4 @@
 
 ### 9. [Guia de Estilo](docs/DS/dinamica-e-seminario-2/style_guide.md)
 
-### 10. [User flows e Wireframes](docs/DS/dinamica-e-seminario-2/wireframes.md)  
+### 10. [Protótipos de Baixa Fidelidade](docs/DS/dinamica-e-seminario-2/PrototipoBaixaFidelidade.md)
