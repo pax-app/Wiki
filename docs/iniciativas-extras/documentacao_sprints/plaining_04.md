@@ -20,26 +20,23 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 |     _Issue_      |    Pontos   |     *Assign*     |
 |:----------------:|:-----------:|:----------------:|
-| Diagrama de Classes ||
-| Diagramas de Banco de Dados (MER, DER, DL) ||
-| Diagrama de Classes com Bancos *unigrade ||
-| Diagrama de Casos de Uso ||
-| Diagrama de Pacotes ||
-| Diagrama de Sequência ||
-| Diagrama de Implantação ||
-| Diagrama de Atividades ||
-| Protótipo de Alto Nível (Wireframe, Backlog V2, NFR) ||
-| Testes de Usabilidade com Protótipo de Alto Nível ||
-| Manual de Identidade Visual ||
+| Diagrama de Classes BackEnd | 8 | Kaique |
+| Diagrama de Classes FrontEnd | 8 | Fepas |
+| Diagramas de Banco de Dados (MER, DER, DL) | 8 | Dutra e Youssef |
+| Diagrama de Casos de Uso | 8 | Marcos e Rogério |
+| Diagrama de Pacotes | 5 | Esio |
+| Diagrama de Sequência | 8 | Mateus |
+| Diagrama de Estados | 5 | Fabiana |
+| Manual de Identidade Visual | 3 | Albino |
 
 <b>Total de pontos planejados: ##</b>  
 
 ### Dívida    
 
-|     _Issue_      |    Pontos   |
-|:----------------:|:-----------:|
-| Teste de usabilidade com Wireframe | 5 |
-| Documento de Arquitetura V0 | 3 |
+|     _Issue_      |    Pontos   |     *Assign*     |
+|:----------------:|:-----------:|:----------------:|
+| Teste de usabilidade com Wireframe | 5 | Youssef e Esio |
+| Documento de Arquitetura V0 | 3 | Fepas e Marcos |
 
 <b>Total: ##</b> 
 
