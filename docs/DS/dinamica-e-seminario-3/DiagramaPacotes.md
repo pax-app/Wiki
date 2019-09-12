@@ -13,6 +13,8 @@ Nos últimos tempos, surgem sistemas cada vez mais complexos, com estruturas de 
 
 O front-end será inteiramente construído com a framework Flutter em Dart. Segue a estrutura de pacotes da aplicação:
 
+![front](../../../assets/pacotesFront.png)
+
 **Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
 
 ## Back-end
