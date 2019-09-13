@@ -32,6 +32,7 @@
     - [Diagrama de Estados](docs/DS/dinamica-e-seminario-3/DiagramaEstados.md)
     - [Documento de Arquitetura](docs/DS/dinamica-e-seminario-3/DocumentoDeArquitetura.md)
     - [Diagramas de Banco de Dados](docs/DS/dinamica-e-seminario-3/DiagramasBancoDeDados.md)
+    - [Testes de Usabilidade no Wireframe](docs/DS/dinamica-e-seminario-3/TesteDeUsabilidadeWireframe.md)
 - [**Dinâmica e Seminário IV a**](docs/DS/dinamica-e-seminario-4-a/README.md)
 - [**Dinâmica e Seminário IV b**](docs/DS/dinamica-e-seminario-4-b/README.md)
 - [**Gerência**](docs/iniciativas-extras/README.md)
