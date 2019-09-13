@@ -1,6 +1,6 @@
 # Planejamento Sprint 03
 
-Sprint marcada pela definição e documentação das metodologias adotadas pelo *time*, pela finalização do [*backlog*](docs/DS/dinamica-e-seminario-2/Backlog.md) e melhoramento do [*wireframe*](docs/DS/dinamica-e-seminario-2/wireframes.md).
+Sprint marcada pela definição e documentação das metodologias adotadas pelo *time*, pela finalização do [*backlog*](docs/DS/dinamica-e-seminario-2/Backlog.md) e melhoramento do [*wireframe*](docs/DS/dinamica-e-seminario-3/PrototipoMediaFidelidade.md).
 
 
 ## Tamanho da Sprint 03      
