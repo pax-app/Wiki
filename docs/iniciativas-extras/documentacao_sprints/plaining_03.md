@@ -48,7 +48,7 @@ Não houveram dívidas
 
 ***
 
-<div style="text-align: center"> Total de pontos da <i>sprint</i>: 48 </div> <br>
+<div style="text-align: center"> Total de pontos da <i>sprint</i>: 49 </div> <br>
 
 <!---Colocar no link abaixo as issues alocadas no milestone da Sprint--->
 > [_Sprint_ _Backlog_](https://github.com/pax-app/Wiki/milestone/3?closed=1)  

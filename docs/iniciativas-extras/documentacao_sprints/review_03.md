@@ -41,13 +41,13 @@ Um ponto que chama atenção é o cansaço quase que unanime por parte dos membr
 
 ### Quadro de Sentimentos
 
-Ao avançar do semestre, é possível perceber que o time teve uma uma semana de sentimentos variados, mas conseguiu equilibrar seus outros afazeres e manter o ritmo de trabalho do projetos. Os sentimentos voltaram a ser positivos a medida que o trabalho foi sendo finalizando, mostrando que a equipe tende a ficar feliz com o trabalho entregue, o que é um ponto excelente.
+Como mencionado anteriormente, o cansaço dos membros foi um ponto forte na *sprint*, contudo as atividades continuaram a ser entregues em um bom ritmo de trabalho. Um ponto positivo a ser considerado, é que mesmo cansados, o time consegue trabalhar bem e a conclusão de tarefas os deixa satisfeitos.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCi50PjVIcno1S4pHK7rwji2MFbxJF53iYGnTs7WUNLNvE27HHLNfFlsCh3wiNMZvseopMCvagD3-I/pubchart?oid=150859943&format=interactive" width="100%" height="700px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCi50PjVIcno1S4pHK7rwji2MFbxJF53iYGnTs7WUNLNvE27HHLNfFlsCh3wiNMZvseopMCvagD3-I/pubchart?oid=398813935&format=interactive" width="100%" height="700px"></iframe>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkmreugxEeCvz7vA6DvWdZPITI3DHEceQe1YxgnDS8PCFgB7ZXbUJh--b5Sfm1KVFoWPPCRoqAnWgp/pubchart?oid=493641808&format=interactive" width="100%" height="700px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkmreugxEeCvz7vA6DvWdZPITI3DHEceQe1YxgnDS8PCFgB7ZXbUJh--b5Sfm1KVFoWPPCRoqAnWgp/pubchart?oid=1935748383&format=interactive" width="100%" height="700px"></iframe>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQc0fUk1XPc1xZp0cgnfcYU5CT0Do2hNvgCCW8HrlH4QBHtrLE7vOPHEFylxwO3Zwxe3zAhnpgugnh/pubchart?oid=1432784227&format=interactive" width="100%" height="700px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQc0fUk1XPc1xZp0cgnfcYU5CT0Do2hNvgCCW8HrlH4QBHtrLE7vOPHEFylxwO3Zwxe3zAhnpgugnh/pubchart?oid=22123328&format=interactive" width="100%" height="700px"></iframe>
 
 
 *Autor:* **[Rogério Júnior](https://github.com/rogerioo)**
