@@ -9,6 +9,23 @@ Teste de usabilidade é uma técnica de pesquisa utilizada para avaliar um produ
 | 13/09/2019     |       0.1       |             Introdução sobre testes de usabilidade           |     Youssef Muhamad      |
 | 13/09/2019     |       0.2       |             Adicionando as referências           |     Ésio Freitas e Youssef Muhamad      |
 
+## Tarefas a Serem Avaliadas
+
+* Ver informações sobre a aplicação
+* Facilidade de avaliação de serviço
+* Facilidade de reportar um serviço
+* Cadastrar um usuário 
+* Torná-se um prestador de serviço
+* Solicitar um serviço
+* Contratar um serviço
+
+## Usuários 
+
+### Idade
+
+### Gênero
+
+### Uso de aplicativos de tercerização de atividades
 
 ## Referências
 - Teste de usabilidade: o que é e para que serve? Acessado dia **13/09/2019** em: <https://brasil.uxdesign.cc/teste-de-usabilidade-o-que-%C3%A9-e-para-que-serve-de3622e4298b>
