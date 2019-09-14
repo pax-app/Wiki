@@ -7,6 +7,8 @@ Nos últimos tempos, surgem sistemas cada vez mais complexos, com estruturas de 
 | Data | Versão | Descrição | Autor(es) |
 | :--: | :----: | :-------: | :-------: |
 | 12/09/2017     |  1.0       |  Criação do documento         |      Ésio Freitas     |
+| 13/09/2017     |  1.1       |  Adicionando pacote do backend         |      Ésio Freitas     |
+
 
 
 ## Front-end
