@@ -25,7 +25,13 @@ O back-end será construído por serviços feitos com o microframework Flask em 
 
 ### Serviços em Flask
 
-![front](../../../assets/pacotesBack.png)
+![front](../../../assets/pacotesBackFlask.png)
+
+**Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
+
+### Serviços em NodeJs
+
+![front](../../../assets/pacotesBackNode.png)
 
 **Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
 
@@ -34,3 +40,5 @@ O back-end será construído por serviços feitos com o microframework Flask em 
 - Diagramas Estruturais da UML: Diagrama de Pacotes. Acessado em 12/09/2019. Em: <http://micreiros.com/diagrama-de-pacotes/>
 
 - Diagrama de Pacotes. Acessado em 12/09/2019. Em: <https://homepages.dcc.ufmg.br/~amendes/GlossarioUML/glossario/conteudo/pacotes/diagrama_de_pacotes.htm>  
+
+* Flutter: Code Organization. Acessado em 14/09/2019. em: <https://medium.com/flutter-community/flutter-code-organization-de3a4c219149>
