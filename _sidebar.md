@@ -42,3 +42,5 @@
     - [Review Sprint 01](docs/iniciativas-extras/documentacao_sprints/review_01.md)
     - [Planejamento Sprint 02](docs/iniciativas-extras/documentacao_sprints/plaining_02.md)
     - [Review Sprint 02](docs/iniciativas-extras/documentacao_sprints/review_02.md)
+    - [Planejamento Sprint 03](docs/iniciativas-extras/documentacao_sprints/plaining_03.md)
+    - [Review Sprint 03](docs/iniciativas-extras/documentacao_sprints/review_03.md)
