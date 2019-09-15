@@ -1,6 +1,6 @@
 # Diagrama de Pacotes
 
-Nos últimos tempos, surgem sistemas cada vez mais complexos, com estruturas de classes imensas e arquiteturas de camadas muito divididas. Para evitar com que o software se torne tão complexo ao ponto de se perder o “controle”, houve-se a necessidade de quebrar um grande complexo em menores partes de menor complexidade, principalmente para um entendimento mais fácil de quem irá desenvolver e dar manutenção nessas aplicações. Uma das formas eh por diagrama de pecotes que têm como conceito agrupadores lógicos de pedaços dos sistemas (nível superior) com dependência entre eles (interação de pacotes), ou seja, pacotes podem depender de outros pacotes
+Nos últimos tempos, surgem sistemas cada vez mais complexos, com estruturas de classes imensas e arquiteturas de camadas muito divididas. Para evitar com que o software se torne tão complexo ao ponto de se perder o “controle”, houve-se a necessidade de quebrar um grande complexo projeto em menores partes de menor complexidade, principalmente para um entendimento mais fácil de quem irá desenvolver e dar manutenção. Uma das formas é por diagrama de pecotes que têm como conceito agrupadores lógicos de pedaços dos sistemas (nível superior) com dependência entre eles (interação de pacotes), ou seja, pacotes podem depender de outros pacotes
 
 ## Histórico de Revisões
 
