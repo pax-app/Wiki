@@ -10,6 +10,7 @@ Todo documento deve ter um texto explicando o que é ele e pq fizemos
 |   11/09/2019  | 0.1    |  Entidades iniciais                   |       Lucas Dutra, Youssef Muhamad e Rogério Júnior    |
 |   12/09/2019  | 0.2    |  Atributos iniciais                   |        Lucas Dutra, Youssef Muhamad e Rogério Júnior    |
 |   12/09/2019  | 0.3    |  Relacionamentos iniciais                   |        Lucas Dutra, Youssef Muhamad e Rogério Júnior    |
+|   14/09/2019  | 0.4    |  Melhorando a entidade ADDRESS para seguir o modelo de filtragem pelo CEP                  |        Youssef Muhamad    |
 
 ## MER(Modelo Entidade Relacionamento)
 
@@ -27,9 +28,9 @@ Todo documento deve ter um texto explicando o que é ele e pq fizemos
 
 ### Atributos:
 
-* USER ( <u>user_id</u>, name, last_name, email, cpf, password, status, url_avatar, id_avaliacao )
+* USER ( <u>user_id</u>, name, email, cpf, password, status, url_avatar, id_avaliacao )
   * PROVIDER( provider_id, rg( issuing_organ, state, number, uf ), url_rg_selfie, bio )
-* ADDRESS ( <u>id_address</u>, cep, street, number, uf, county, complement, reference_point )
+* ADDRESS ( <u>id_address</u>, cep, street, neighborhood, city, state, complement, reference_point )
 * RATING ( <u>rating_id</u>, user_id, charisma_rating, commentary )
   * SERVICE_RATING ( service_rating )
 * PAX ( <u>id_pax</u>, price, status, name, description, place, date )
@@ -50,4 +51,5 @@ Todo documento deve ter um texto explicando o que é ele e pq fizemos
 
 ## Referências
 
-- Suas referencias OBRIGATORIO
+
+- Preenchimento de endereço via CEP com Javascript. Acessado dia **014/09/2019** em: <https://viacep.com.br/exemplo/javascript/>
