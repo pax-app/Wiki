@@ -30,7 +30,7 @@ O **ME-R** é um modelo conceitual utilizado na *Engenharia de Software* para de
     * PROVIDER
   * ADDRESS
   * RATING
-    * SERVICE_RATING
+    * SERVICE
   * PAX
   * REPORT
   * PROVIDER_CATEGORY
