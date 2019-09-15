@@ -11,6 +11,7 @@ Todo documento deve ter um texto explicando o que é ele e pq fizemos
 |   12/09/2019  | 0.2    |  Atributos iniciais                   |        Lucas Dutra, Youssef Muhamad e Rogério Júnior    |
 |   12/09/2019  | 0.3    |  Relacionamentos iniciais                   |        Lucas Dutra, Youssef Muhamad e Rogério Júnior    |
 |   14/09/2019  | 0.4    |  Melhorando a entidade ADDRESS para seguir o modelo de filtragem pelo CEP                  |        Youssef Muhamad    |
+|   14/09/2019  | 0.5    |  v1 dos relacionamentos                  |       Rogério Júnior e Youssef Muhamad    |
 
 ## MER(Modelo Entidade Relacionamento)
 
@@ -30,24 +31,46 @@ Todo documento deve ter um texto explicando o que é ele e pq fizemos
 
 * USER ( <u>user_id</u>, name, email, cpf, password, status, url_avatar, id_avaliacao )
   * PROVIDER( provider_id, rg( issuing_organ, state, number, uf ), url_rg_selfie, bio )
-* ADDRESS ( <u>id_address</u>, cep, street, neighborhood, city, state, complement, reference_point )
+* ADDRESS ( <u>address_id</u>, cep, street, neighborhood, city, state, complement, reference_point )
 * RATING ( <u>rating_id</u>, user_id, charisma_rating, commentary )
-  * SERVICE_RATING ( service_rating )
-* PAX ( <u>id_pax</u>, price, status, name, description, place, date )
-* REPORT ( <u>id_report</u>, status, { photos } )
-* PROVIDER_CATEGORY ( <u>id_provider_category</u>, name )
-* GENERAL_CATEGORY ( <u>id_general_category</u>, name )
-* CHAT ( <u>chat_id</u>, message )
+  * SERVICE ( <u>service_id</u>, service_rating )
+* PAX ( <u>id_pax</u>, user_id, provider_id, address_id, price, status, name, description, date )
+* REPORT ( <u>id_report</u>, user_id, pax_id, status, { photos } )
+* PROVIDER_CATEGORY ( <u>provider_category_id</u>, name )
+* GENERAL_CATEGORY ( <u>general_category_id</u>, name )
+* CHAT ( <u>chat_id</u>, user_id, provider_id , message )
 
 
 ### Relacionamentos:
 
-* USER - has - ADDRESS
-  * Um USER pode possuir um ou vários ADDRESS(es) e um ADDRESS pode ser de um ou vários USER(s)
+* USER - livesIn - ADDRESS
+  * Um USER pode possuir um ou vários ADDRESS(es) e um ADDRESS pode ser de um ou vários USER(s).
   * Cardinalidade: **N  : M**
 * USER - has - RATING
-  * Um USER pode possuir vários ADDRESS(es) e um ADDRESS pode ser de um ou vários USER(s)
+  * Um USER pode possuir vários RATING(s) e um RATING pode ser de um USER.
+  * Cardinalidade: **1  : N**
+* PROVIDER - has - RATING_SERVICE
+  * Um PROVIDER possuir vários RATING_SERVICE(es) e um RATING_SERVICE é de um único PROVIDER.
+  * Cardinalidade: **1  : N**
+* PAX - has - ADRESS
+  * Um PAX possui um único ADDRESS(es) e um ADDRESS pode ser de vários PAX(es)
+  * Cardinalidade: **1  : N**
+* REPORT - reports - PAX
+  * Um REPORT reporta um único PAX(es) e um PAX é reportado por um único REPORT.
+  * Cardinalidade: **1  : 1**
+* PROVIDER - works - PROVIDER_CATEGORY
+  * Um PROVIDER trabalha com um ou vários PROVIDER_CATEGORY(ies) e um PROVIDER_CATEGORY é trabalhado por um ou vários PROVIDER(s).
   * Cardinalidade: **N  : M**
+* GENERAL_CATEGORY - contain - PROVIDER_CATEGORY
+  * Um GENERAL_CATEGORY contém um ou vários PROVIDER_CATEGORY(ies) e um PROVIDER_CATEGORY está contido em um único GENERAL_CATEGORY.
+  * Cardinalidade: **N  : 1**
+* USER - participate - CHAT
+  * Um USER participa de um ou vários CHAT(s) e um CHAT tem a participação de somente um USER.
+  * Cardinalidade: **N  : 1**
+* PROVIDER - participate - CHAT
+  * Um PROVIDER participa de um ou vários CHAT(s) e um CHAT tem a participação de somente um PROVIDER.
+  * Cardinalidade: **N  : 1**
+
 
 ## Referências
 
