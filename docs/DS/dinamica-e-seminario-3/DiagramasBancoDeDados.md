@@ -17,6 +17,7 @@ O **ME-R** é um modelo conceitual utilizado na *Engenharia de Software* para de
 |   15/09/2019  | 0.6    |  Corrigindo Cardinalidades e adicionando relacionamentos faltantes                   |   Rogério Júnior e Youssef Muhamad  |
 |   15/09/2019  | 0.7    |  Revisão Geral e atualizações nos atributos das entidade               |   Rogério Júnior e Youssef Muhamad  |
 |   15/09/2019  | 0.8    |  Adicionando DE-R e DL V1              |   Rogério Júnior e Youssef Muhamad  |
+|   15/09/2019  | 0.9    |  Corrigindo leitura das cardinalidades        |   Rogério Júnior e Youssef Muhamad  |
 |   15/09/2019  | 1.0    |  Adicionando descrição do documento e referências             |   Rogério Júnior e Youssef Muhamad  |
 
 ## Versão 1.0
@@ -55,19 +56,19 @@ O **ME-R** é um modelo conceitual utilizado na *Engenharia de Software* para de
     * Cardinalidade: **N  : M**
   * USER - has - RATING
     * Um USER pode possuir vários RATING(s) e um RATING é de somente um USER.
-    * Cardinalidade: **N  : 1**
+    * Cardinalidade: **1 : N**
   * USER - participates - PAX
     * Um USER participa de um ou vários PAX(es) e um PAX tem a participação de somente um USER
-    * Cardinalidade: **N  : 1**
+    * Cardinalidade: **1 : N**
   * PROVIDER - participates - PAX
     * Um PROVIDER participa de um ou vários PAX(es) e um PAX tem a participação de somente um PROVIDER
-    * Cardinalidade: **N  : 1**
+    * Cardinalidade: **1 : N**
   * PROVIDER - has - RATING_SERVICE
     * Um PROVIDER pode possuir vários RATING_SERVICE(es) e um RATING_SERVICE é de um único PROVIDER.
-    * Cardinalidade: **N  : 1**
+    * Cardinalidade: **1 : N**
   * PAX - has - ADDRESS
     * Um PAX possui um único ADDRESS(es) e um ADDRESS pode ser de vários PAX(es)
-    * Cardinalidade: **1  : N**
+    * Cardinalidade: **N : 1**
   * REPORT - reports - PAX
     * Um REPORT reporta um único PAX(es) e um PAX é reportado por um único REPORT.
     * Cardinalidade: **1  : 1**
@@ -76,19 +77,19 @@ O **ME-R** é um modelo conceitual utilizado na *Engenharia de Software* para de
     * Cardinalidade: **N  : M**
   * GENERAL_CATEGORY - contains - PROVIDER_CATEGORY
     * Um GENERAL_CATEGORY contém um ou vários PROVIDER_CATEGORY(ies) e um PROVIDER_CATEGORY está contido em um único GENERAL_CATEGORY.
-    * Cardinalidade: **N  : 1**
+    * Cardinalidade: **1 : N**
   * USER - participates - CHAT
     * Um USER participa de um ou vários CHAT(s) e um CHAT tem a participação de somente um USER.
-    * Cardinalidade: **N  : 1**
+    * Cardinalidade: **1 : N**
   * PROVIDER - participates - CHAT
     * Um PROVIDER participa de um ou vários CHAT(s) e um CHAT tem a participação de somente um PROVIDER.
-    * Cardinalidade: **N  : 1**
+    * Cardinalidade: **1 : N**
   * PROVIDER - does - RATING
     * Um PROVIDER faz um ou vários RATING(s) e um RATING é feito por somente um PROVIDER.
-    * Cardinalidade: **N  : 1**
+    * Cardinalidade: **1 : N**
   * USER - does - RATING_SERVICE
     * Um USER faz um ou vários RATING_SERVICE(s) e um RATING_SERVICE é feito por somente um USER.
-    * Cardinalidade: **N  : 1**
+    * Cardinalidade: **1 : N**
 
 ### Diagrama Entidade-Relacionamento(DE-R)
 
@@ -104,4 +105,4 @@ O **ME-R** é um modelo conceitual utilizado na *Engenharia de Software* para de
 
 - **Preenchimento de endereço via CEP com Javascript**. Disponível em: <https://viacep.com.br/exemplo/javascript/>. Acesso: 15 set. 2019.
 - **Introdução ao Modelo de Dados e seus Níveis de Abstração**.Disponível em: <http://spaceprogrammer.com/bd/introducao-ao-modelo-de-dados-e-seus-niveis-de-abstracao/>. Acesso: 15 set. 2019.
-- RODRIGUES, Joel. **Modelo Entidade Relacionamento (MER) e Diagrama Entidade-Relacionamento (DER)** Disponível em: <https://www.devmedia.com.br/modelo-entidade-relacionamento-mer-e-diagrama-entidade-relacionamento-der/14332>.. Acesso: 15 set. 2019.
+- RODRIGUES, Joel. **Modelo Entidade Relacionamento (MER) e Diagrama Entidade-Relacionamento (DER)** Disponível em: <https://www.devmedia.com.br/modelo-entidade-relacionamento-mer-e-diagrama-entidade-relacionamento-der/14332>. Acesso: 15 set. 2019.
