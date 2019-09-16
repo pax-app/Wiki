@@ -1,10 +1,9 @@
-# Arquitetura V 0.0.0
+# Documento de Arquitetura
 
 Este documento visa especificar de forma básica alguns tópicos referentes ao Documento de Arquitetura que será desenvolvido no decorrer da disciplina.
 
 ## Histórico de Revisões
 
-<<<<<<< HEAD
 |    Data    | Versão |                    Descrição                    |   Autor(es)   |
 | :--------: | :----: | :---------------------------------------------: | :-----------: |
 | 08/09/2019 |  0.1   |              Criação do documento               | Felipe Campos |
@@ -67,7 +66,7 @@ Modelo de representação dos serviços implementados e as interações estabele
 
 * **Microsserviços**   
 
-<p style="text-align:justify">&emsp;&emsp;A arquitetura de microsserviços é uma abordagem que desmembra uma aplicação única em blocos de pequenos serviços independentes. Esses serviços executam o seu próprio processo e se comunicam, muitas vezes, por meio de métodos HTTP.</p>
+<p style="text-align:justify">&emsp;&emsp;A arquitetura de microsserviços é uma abordagem que desmembra uma aplicação única em blocos de pequenos serviços independentes. Esses serviços executam o seu próprio processo e se comunicam, muitas vezes, por meio de métodos HTTP. A divisão dos serviços neste projeto foi feita levando em conta a abordagem de sub-domínios, técnica que leva em conta o ponto de vista de negócio para estabelecer a distribução de responsabilidades entre os serviços.</p>
 <p style="text-align:justify">&emsp;&emsp;No <i>software</i> descrito neste documento os módulos serão:
 <ul>
   <li><b>User</b>, bloco responsável por toda interação do usuário, como login, registro; </li> 
@@ -88,7 +87,7 @@ Modelo de representação dos serviços implementados e as interações estabele
 ### 2.4 Diagrama de Arquitetura
 
 #### Diagrama de Arquitetura v1.0
-![Diagrama de Arquitetura](../../../assets/arquitetura/representacao_v1.jpg)
+![Diagrama de Arquitetura](../../../assets/arquitetura/representacao_v1.png)
 
 ## 3. Restrições e Metas Arquiteturais
 
@@ -118,4 +117,9 @@ Modelo de representação dos serviços implementados e as interações estabele
 - Flask - The Pallets Project. Acessado em: 15/09/2019. <https://palletsprojects.com/p/flask/>
 - O que é node.js. Acessado em: 15/09/2019. <http://nodebr.com/o-que-e-node-js/>
 - PostgreSQL. Acessado em: 15/09/2019. <https://www.postgresql.org/>
+- Pattern: Decompose by subdomain. Acessado em: 13/09/2019. <https://microservices.io/patterns/decomposition/decompose-by-subdomain.html>
+- Top 5 software architecture patterns how make right choice. Acessado em: 13/09/2019. <https://techbeacon.com/app-dev-testing/top-5-software-architecture-patterns-how-make-right-choice>
+- 10 common software architectural patterns in a nutshell. Acessado em: 13/09/2019. <https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013>
+- Microservice architecture. Acessado em: 13/09/2019. <https://microservices.io/index.html>
+
 
