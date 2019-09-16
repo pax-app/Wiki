@@ -12,6 +12,7 @@ Este documento visa especificar de forma básica alguns tópicos referentes ao D
 | 15/09/2019 |  0.4   |     Inserindo descrições dos microsserviços     |  Lucas Dutra  |
 | 15/09/2019 |  0.5   | Atualizando estrutura do documento e descrições | Felipe Campos |
 | 15/09/2019 |  0.6   | Arrumando linkagem para o Léxico "Pax"          | Rogério Júnior |
+| 15/09/2019 |  0.7   | Adição da visão de casos de uso                 | Marcos Nery |
 
 
 ## 1. Introdução
@@ -110,6 +111,33 @@ Modelo de representação dos serviços implementados e as interações estabele
 |   Linguagem   |      A aplicação será desenvolvida em português do Brasil      |
 |    Equipe     |             A equipe possui apenas 10 integrantes              |
 |     Prazo     | O escopo proposto deve ser terminado até o final da disciplina |
+
+
+## 4. Visão de Casos de Uso
+
+Abaixo segue o diagrama com os casos de uso da aplicação, visando expor os caso de uso do sistema através da representação de cada um dos atores envolvidos no seu uso.
+
+### 4.1 Atores envolvidos
+
+#### 4.1.1 Usuário consumidor de serviços
+
+<p style="text-align:justify">&emsp;&emsp;Como definido no Léxico [L3](../dinamica-e-seminario-2/lexico.md#L3), é o usuário que utiliza o aplicativo com a finalidade de consumir algum dos serviços gerais oferecidos.</p>
+
+#### 4.1.2 Usuário prestador de serviços
+
+<p style="text-align:justify">&emsp;&emsp;Como definido no Léxico [L2](../dinamica-e-seminario-2/lexico.md#L2), é o usuário que utiliza o aplicativo com a finalidade de se colocar a disposição para ser contratado para realizar algum serviço.</p>
+
+#### 4.1.3 Serviço de Suporte do PAX 
+
+<p style="text-align:justify">&emsp;&emsp;Equipe interna responsável por prestar suporte aos usuários do aplicativo solucionando problemas que possam aparecer durante a realização de um serviço. Sendo estes portanto os responsáveis por tomar medidas mediante a reclamações feitas por usuários acerca de inconvenientes de quaisquer categorias dentro do fluxo da prestação/contratação de um serviço.</p>
+
+#### 4.1.4 Serviço bancário externo
+
+<p style="text-align:justify">&emsp;&emsp;Organizações bancarias responsáveis pelo processamento dos pagamentos feitos pelo aplicativo.</p>
+
+### 4.2 Diagrama
+
+![CasosDeUso](../../../assets/arquitetura/PAXCasosDeUsoV2.png)
 
 
 ## Referências 
