@@ -121,11 +121,11 @@ Abaixo segue o diagrama com os casos de uso da aplicação, visando expor os cas
 
 #### 4.1.1 Usuário consumidor de serviços
 
-<p style="text-align:justify">&emsp;&emsp;Como definido no Léxico [L3](../dinamica-e-seminario-2/lexico.md#L3), é o usuário que utiliza o aplicativo com a finalidade de consumir algum dos serviços gerais oferecidos.</p>
+Como definido no Léxico [L3](../dinamica-e-seminario-2/lexico.md#L3), é o usuário que utiliza o aplicativo com a finalidade de consumir algum dos serviços gerais oferecidos.
 
 #### 4.1.2 Usuário prestador de serviços
 
-<p style="text-align:justify">&emsp;&emsp;Como definido no Léxico [L2](../dinamica-e-seminario-2/lexico.md#L2), é o usuário que utiliza o aplicativo com a finalidade de se colocar a disposição para ser contratado para realizar algum serviço.</p>
+Como definido no Léxico [L2](../dinamica-e-seminario-2/lexico.md#L2), é o usuário que utiliza o aplicativo com a finalidade de se colocar a disposição para ser contratado para realizar algum serviço.
 
 #### 4.1.3 Serviço de Suporte do PAX 
 
