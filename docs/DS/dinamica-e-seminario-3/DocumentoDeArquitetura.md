@@ -11,6 +11,7 @@ Este documento visa especificar de forma básica alguns tópicos referentes ao D
 | 15/09/2019 |  0.3   | Atualizando descrição dos frameworks utilizados |  Lucas Dutra  |
 | 15/09/2019 |  0.4   |     Inserindo descrições dos microsserviços     |  Lucas Dutra  |
 | 15/09/2019 |  0.5   | Atualizando estrutura do documento e descrições | Felipe Campos |
+| 15/09/2019 |  0.6   | Arrumando linkagem para o Léxico "Pax"          | Rogério Júnior |
 
 
 ## 1. Introdução
@@ -71,9 +72,9 @@ Modelo de representação dos serviços implementados e as interações estabele
 <ul>
   <li><b>User</b>, bloco responsável por toda interação do usuário, como login, registro; </li> 
   <li><b>Rating</b>, responsável pelo tratamento e armazenamento das avaliações entre usuários da aplicação; </li>
-  <li><b>Pax</b>, responsável por gerenciar os <a href="../dinamica-e-seminario-2/lexico.md">pax</a> feitos entre consumidor de serviços e prestador de serviços;</li>
-  <li><b>Payment</b>, responsável por efetuar e gerenciar os pagamentos realizados após o <a href="../dinamica-e-seminario-2/lexico.md">pax</a> concluído; </li>
-  <li><b>Report</b>, bloco responsável pela interação de reports que podem ser feitos ao <a href="../dinamica-e-seminario-2/lexico.md">pax</a> necessário; </li>
+  <li><b>Pax</b>, responsável por gerenciar os <a href="#/docs/DS/dinamica-e-seminario-2/lexico.md?id=l8">pax</a> feitos entre consumidor de serviços e prestador de serviços;</li>
+  <li><b>Payment</b>, responsável por efetuar e gerenciar os pagamentos realizados após o <a href="#/docs/DS/dinamica-e-seminario-2/lexico.md?id=l8">pax</a> concluído; </li>
+  <li><b>Report</b>, bloco responsável pela interação de reports que podem ser feitos ao <a href="#/docs/DS/dinamica-e-seminario-2/lexico.md?id=l8">pax</a> necessário; </li>
   <li><b>Chat</b>,  será um serviço responsável por estabelecer e orquestrar a comunicação por chat entre dois usuários; </li>
   <li><b>Category</b>,  será um serviço responsável por armazenar e gerenciar as categorias de serviço disponíveis na aplicação; </li>
   <li><b>Gateway</b>, serviço responsável por intermediar a comunicação entre o Back-end e o Front-end.</li>
