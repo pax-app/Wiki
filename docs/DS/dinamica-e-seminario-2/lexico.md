@@ -5,20 +5,20 @@ Aqui estão listados os léxicos, sendo estes termos específicos do contexto do
 
 ## Histórico de Revisões
 
-|    Data    | versão |                Descrição                 |   Autor(es)   |
-| :--------: | :----: | :--------------------------------------: | :-----------: |
-| 27/08/2019 |  0.1   |  Abertura do documento, com descrição do conteúdo |  Marcos Nery  |
-| 27/08/2019 |  0.2   |  Inclusão de um template pros termos e histórico de revisão       |  Marcos Nery  |
-| 30/08/2019 |  1.0   |  Inclusão dos termos L1 e L2     |  Marcos Nery  |
-| 30/08/2019 |  1.1   |  Inclusão dos termos L3    |  Marcos Nery  |
-| 30/08/2019 |  1.2   |  Inclusão do termo L4    |  Marcos Nery  |
-| 01/09/2019 |  1.3   |   Detalhes arrumados    |  Esio Freitas  |
-| 02/09/2019 |  1.4   |   Inclusão dos termos L5, L6 e L7    |  Matheus Figueiredo  |
-| 02/09/2019 |  1.5   |  Evolução do documento de glossário para léxico   |  Marcos Nery  |
-| 04/09/2019 |  1.6   |  Atualização dos termos L5-L7   |  Marcos Nery  |
-| 04/09/2019 |  1.7   |  Atualizando os IDs para formato de léxico   |  Marcos Nery  |
-| 04/09/2019 |  1.8   |  Inclusão do termo L8   |  Marcos Nery  |
-| 05/09/2019 |  2.0   |  Refinamento dos termos   |  Marcos Nery  |
+|    Data    | versão |                         Descrição                          |     Autor(es)      |
+| :--------: | :----: | :--------------------------------------------------------: | :----------------: |
+| 27/08/2019 |  0.1   |      Abertura do documento, com descrição do conteúdo      |    Marcos Nery     |
+| 27/08/2019 |  0.2   | Inclusão de um template pros termos e histórico de revisão |    Marcos Nery     |
+| 30/08/2019 |  1.0   |                Inclusão dos termos L1 e L2                 |    Marcos Nery     |
+| 30/08/2019 |  1.1   |                   Inclusão dos termos L3                   |    Marcos Nery     |
+| 30/08/2019 |  1.2   |                    Inclusão do termo L4                    |    Marcos Nery     |
+| 01/09/2019 |  1.3   |                     Detalhes arrumados                     |    Esio Freitas    |
+| 02/09/2019 |  1.4   |              Inclusão dos termos L5, L6 e L7               | Matheus Figueiredo |
+| 02/09/2019 |  1.5   |       Evolução do documento de glossário para léxico       |    Marcos Nery     |
+| 04/09/2019 |  1.6   |                Atualização dos termos L5-L7                |    Marcos Nery     |
+| 04/09/2019 |  1.7   |         Atualizando os IDs para formato de léxico          |    Marcos Nery     |
+| 04/09/2019 |  1.8   |                    Inclusão do termo L8                    |    Marcos Nery     |
+| 05/09/2019 |  2.0   |                   Refinamento dos termos                   |    Marcos Nery     |
 
 
 <br>
@@ -129,7 +129,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 ### L5 
 
 <h3 style="text-align: left;">Pagamento</h3>
-t
+
 |**Classificação**|
 |:--|
 | verbo |
