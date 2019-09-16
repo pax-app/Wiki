@@ -27,6 +27,7 @@
   - [Protótipos de Baixa Fidelidade](docs/DS/dinamica-e-seminario-2/PrototipoBaixaFidelidade.md)
 - [**Dinâmica e Seminário III**](docs/DS/dinamica-e-seminario-3/README.md)
     - [Protótipo de Média Fidelidade](docs/DS/dinamica-e-seminario-3/PrototipoMediaFidelidade.md)
+    - [Diagramas de Banco de Dados](docs/DS/dinamica-e-seminario-3/DiagramasBancoDeDados.md)
     - [Diagrama de Pacotes](docs/DS/dinamica-e-seminario-3/DiagramaPacotes.md)
     - [Documento de Arquitetura](docs/DS/dinamica-e-seminario-3/DocumentoDeArquitetura.md)
 - [**Dinâmica e Seminário IV a**](docs/DS/dinamica-e-seminario-4-a/README.md)

@@ -4,10 +4,14 @@ Este documento visa especificar de forma básica alguns tópicos referentes ao D
 
 ## Histórico de Revisões
 
-|    Data    | Versão |             Descrição              |   Autor(es)   |
-| :--------: | :----: | :--------------------------------: | :-----------: |
-| 08/09/2019 |  0.1   |        Criação do documento        | Felipe Campos |
-| 15/09/2019 |  0.3   | Atualizando estrutura do documento | Felipe Campos |
+<<<<<<< HEAD
+|    Data    | Versão |                    Descrição                    |   Autor(es)   |
+| :--------: | :----: | :---------------------------------------------: | :-----------: |
+| 08/09/2019 |  0.1   |              Criação do documento               | Felipe Campos |
+| 15/09/2019 |  0.2   |        Adição do Diagrama de arquitetura        |  Lucas Dutra  |
+| 15/09/2019 |  0.3   | Atualizando descrição dos frameworks utilizados |  Lucas Dutra  |
+| 15/09/2019 |  0.4   |     Inserindo descrições dos microsserviços     |  Lucas Dutra  |
+| 15/09/2019 |  0.5   | Atualizando estrutura do documento e descrições | Felipe Campos |
 
 
 ## 1. Introdução
@@ -30,7 +34,8 @@ Modelo de representação dos serviços implementados e as interações estabele
 
 * **Flutter**      
 
-<p style="text-align:justify">&emsp;&emsp;Flutter é um SDK de código aberto criado pelo Google para o desenvolvimento de aplicativos para Android, iOS, Desktop ou Web.</p> 
+<p style="text-align:justify">&emsp;&emsp;<i>Flutter</i> é o kit de ferramentas de interface do usuário do Google para criar aplicativos belos e compilados nativamente para dispositivos móveis, Web e desktop a partir de uma única base de código. É um framework que possui como linguagem base o <i>Dart</i> </p> 
+
 
 ### 2.1.2 Back End
 
@@ -40,13 +45,13 @@ Modelo de representação dos serviços implementados e as interações estabele
 
 * **Express**        
 
-<p style="text-align:justify">&emsp;&emsp;O Express é um framework para aplicações web em Node.js. Pequeno e flexível, fornecendo um conjunto robusto de recursos para aplicativos web e mobile.</p>
+<p style="text-align:justify">&emsp;&emsp;O <i>Express</i> é um framework para aplicações web em Node.js. Pequeno e flexível, fornecendo um conjunto robusto de recursos para aplicativos web e mobile.</p>
 
 ### 2.1.2 Banco de dados
 
 * **PostgreSQL** 
 
-<p style="text-align:justify">&emsp;&emsp;PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.</p>
+<p style="text-align:justify">&emsp;&emsp;<i>PostgreSQL</i> é um poderoso sistema de banco de dados relacional de objetos de código aberto, com mais de 30 anos de desenvolvimento ativo, que ganhou uma forte reputação de confiabilidade, robustez de recursos e desempenho.</p>
 
 * **Firebase** 
 
@@ -65,13 +70,13 @@ Modelo de representação dos serviços implementados e as interações estabele
 <p style="text-align:justify">&emsp;&emsp;A arquitetura de microsserviços é uma abordagem que desmembra uma aplicação única em blocos de pequenos serviços independentes. Esses serviços executam o seu próprio processo e se comunicam, muitas vezes, por meio de métodos HTTP.</p>
 <p style="text-align:justify">&emsp;&emsp;No <i>software</i> descrito neste documento os módulos serão:
 <ul>
-  <li><b>User</b>, bloco responsável por toda interação do usuário, como login, registro;
-  <li><b>Rating</b>, bloco responsável pelo sistema de avaliação; </li>
-  <li><b>Pax</b>, bloco responsável pelos contratos cliente-prestador;</li>
-  <li><b>Payment</b>, bloco responsável por gerenciar as necessidades de pagamento; </li>
-  <li><b>Report</b>, bloco responsável por gerenciar o sistema de reportes dos usuários; </li>
-  <li><b>Chat</b>, bloco responsável pelo chat entre cliente-prestador.</li>
-  <li><b>Category</b>, bloco reponsável pela categorização de prestadores.</li>
+  <li><b>User</b>, bloco responsável por toda interação do usuário, como login, registro; </li> 
+  <li><b>Rating</b>, responsável pelo tratamento e armazenamento das avaliações entre usuários da aplicação; </li>
+  <li><b>Pax</b>, responsável por gerenciar os <a href="../dinamica-e-seminario-2/lexico.md">pax</a> feitos entre consumidor de serviços e prestador de serviços;</li>
+  <li><b>Payment</b>, responsável por efetuar e gerenciar os pagamentos realizados após o <a href="../dinamica-e-seminario-2/lexico.md">pax</a> concluído; </li>
+  <li><b>Report</b>, bloco responsável pela interação de reports que podem ser feitos ao <a href="../dinamica-e-seminario-2/lexico.md">pax</a> necessário; </li>
+  <li><b>Chat</b>,  será um serviço responsável por estabelecer e orquestrar a comunicação por chat entre dois usuários; </li>
+  <li><b>Category</b>,  será um serviço responsável por armazenar e gerenciar as categorias de serviço disponíveis na aplicação; </li>
   <li><b>Gateway</b>, serviço responsável por intermediar a comunicação entre o Back-end e o Front-end.</li>
 </ul>
 </p>
@@ -109,7 +114,8 @@ Modelo de representação dos serviços implementados e as interações estabele
 
 ## Referências 
 
-
-
-
+- Flutter. Acessado em: 15/09/2019. <https://flutter.dev/>
+- Flask - The Pallets Project. Acessado em: 15/09/2019. <https://palletsprojects.com/p/flask/>
+- O que é node.js. Acessado em: 15/09/2019. <http://nodebr.com/o-que-e-node-js/>
+- PostgreSQL. Acessado em: 15/09/2019. <https://www.postgresql.org/>
 
