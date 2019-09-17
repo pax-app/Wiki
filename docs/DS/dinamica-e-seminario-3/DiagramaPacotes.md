@@ -23,9 +23,16 @@ O front-end será inteiramente construído com a framework Flutter em Dart. Segu
 
 O back-end será construído por serviços feitos com o microframework Flask em Python juntamente com serviços feitos com Express em NodeJs. Segue a estrutura de pacotes da aplicação:
 
-### Serviços em Flask
+### Serviços em Flask V1
 
 ![front](../../../assets/pacotesBackFlask.png)
+
+**Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
+
+
+### Serviços em Flask V2
+
+![front](../../../assets/pacotesBackFlask2.png)
 
 **Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
 
