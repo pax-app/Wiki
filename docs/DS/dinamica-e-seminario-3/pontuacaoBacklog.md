@@ -1,4 +1,4 @@
-# Nome do documento
+# Pontuação de Backlog
 
 Para saber dificuldade e importancia para uma equipe, é importante pontuar o backlog.
 Essa pontuação é feita de maneira pessoal e unica para equipe. A pontuação auxilia os desenvolvedores a estimar dificuldade e tempo de uma atividade em uma spint.
@@ -7,7 +7,7 @@ Essa pontuação é feita de maneira pessoal e unica para equipe. A pontuação 
 
 | Data | Versão | Descrição | Autor(es) |
 | :--: | :----: | :-------: | :-------: |
-|   18/09/2019   |    0.1    |   Adicionando o documento   |   Ésio Freitas        |
+|   18/09/2019   |    1.0   |   Adicionando o documento   |   Ésio Freitas        |
 
 ## Pré-Pontuação
 
