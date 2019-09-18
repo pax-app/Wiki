@@ -26,5 +26,3 @@ Em reunião, o grupo discutiu e decidiu a pontuação final, levantando a opini�
 - 5 Passos para estimar seu backlog em menos de 1 hora. Acessado em 17/09/2019. Em <https://www.culturaagil.com.br/5-passos-para-estimar-seu-backlog-em-menos-de-1-hora/>
 
 * Scrum e Planning Poker: Análise de estimativa de software. Acessado em 17/08/2019. Em <https://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019>
-
-*
