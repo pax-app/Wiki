@@ -14,9 +14,16 @@ A técnica é muito simples: para cada requisito ou item do seu backlog, você d
 | **Could**  | São desejáveis, mas não são necessários (do ponto de vista estratégico) e podem melhorar a experiência e satisfação do cliente com algum esforço de desenvolvimento                           |
 | **Would**  | Tem a concordância dos interessados que são itens menos críticos, com menor retorno sobre investimento ou não adequados para serem realizados durante algum período de tempo.                 |
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRYjPM8UFErbIToZGTv-g06Q88MgsrDoHPTMMV1Xz-vZqTeUjHSS-dJjKlsDOSHakha0_QakMzbRRZ/pubhtml?widget=true&amp;headers=false" width="150px" height="500px"></iframe>
+### V1
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRYjPM8UFErbIToZGTv-g06Q88MgsrDoHPTMMV1Xz-vZqTeUjHSS-dJjKlsDOSHakha0_QakMzbRRZ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="150px" height="500px"></iframe>
 
 **Autor(es):** [Esio Gustavo](https://github.com/EsioFreitas) e [Lucas Dutra](https://github.com/lucasdutraf).
+
+## V2 
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRYjPM8UFErbIToZGTv-g06Q88MgsrDoHPTMMV1Xz-vZqTeUjHSS-dJjKlsDOSHakha0_QakMzbRRZ/pubhtml?gid=606731818&amp;single=true&amp;widget=true&amp;headers=false" width="150px" height="500px"></iframe>
+
+**Autor(es):** [Esio Gustavo](https://github.com/EsioFreitas) e [Gabriel Albino](https://github.com/gabrielalbino).
 
 ## Referências
 
