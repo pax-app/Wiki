@@ -1,7 +1,7 @@
 # Pontuação de Backlog
 
 Para saber dificuldade e importancia para uma equipe, é importante pontuar o backlog.
-Essa pontuação é feita de maneira pessoal e unica para equipe. A pontuação auxilia os desenvolvedores a estimar dificuldade e tempo de uma atividade em uma spint.
+Essa pontuação é feita de maneira pessoal e única para equipe. A pontuação auxilia os desenvolvedores a estimar dificuldade e tempo de uma atividade em uma _sprint_.
 
 ## Histórico de Revisões
 
