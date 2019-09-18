@@ -34,14 +34,22 @@ Primeira versão do diagrama
 
 ![CasosDeUsoV1](../../../assets/arquitetura/PAXCasosDeUsoV0.png)
 
+**Autor:** [Marcos Nery](https://github.com/marcosnbj)
 
 ### DCU-V2
 Adição de relação entre usuário prestador e usuário consumidor e de outros dois atores do sistema, além de um outro caso de uso.
 
 ![CasosDeUsoV2](../../../assets/arquitetura/PAXCasosDeUsoV1.png)
 
+**Autor:** [Marcos Nery](https://github.com/marcosnbj)
 
 ### DCU-V3
 Numeração dos casos de uso.
 
 ![CasosDeUsoV3](../../../assets/arquitetura/PAXCasosDeUsoV2.png)
+
+**Autor:** [Marcos Nery](https://github.com/marcosnbj)
+
+## Referências
+
+* UML Use Case Diagrams. Acessado em 15/09/2019. Em: https://www.uml-diagrams.org/use-case-diagrams.html
