@@ -8,8 +8,6 @@ Na Programação Orientada a Objetos, classes são fundamentais para a execuçã
 | :--------: | :----: | :-------------------------------: | :-----------: |
 | 16/09/2017 |  0.5   | Adição da v0 do diagrama Back-end | Kaique Borges |
 
-
-
 ## Back-end
 
 O back-end será construído por serviços feitos com o microframework Flask em Python juntamente com serviços feitos com Express em NodeJs.
