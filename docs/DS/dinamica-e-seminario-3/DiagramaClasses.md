@@ -1,4 +1,4 @@
-# Diagrama de Pacotes
+# Diagrama de Classes
 
 Na Programação Orientada a Objetos, classes são fundamentais para a execução do paradigma. A UML criou o Diagrama de Classes para facilitar a compreensão e desenho do software, mostrando as suas propriedades, métodos e relacionamentos.
 
