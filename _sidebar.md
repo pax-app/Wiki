@@ -31,6 +31,7 @@
     - [Diagrama de Pacotes](docs/DS/dinamica-e-seminario-3/DiagramaPacotes.md)
     - [Diagrama de Estados](docs/DS/dinamica-e-seminario-3/DiagramaEstados.md)
     - [Documento de Arquitetura](docs/DS/dinamica-e-seminario-3/DocumentoDeArquitetura.md)
+    - [Testes de Usabilidade](docs/DS/dinamica-e-seminario-3/TesteDeUsabilidadeWireframe.md)
 - [**Dinâmica e Seminário IV a**](docs/DS/dinamica-e-seminario-4-a/README.md)
 - [**Dinâmica e Seminário IV b**](docs/DS/dinamica-e-seminario-4-b/README.md)
 - [**Gerência**](docs/iniciativas-extras/README.md)
