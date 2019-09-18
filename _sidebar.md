@@ -30,6 +30,7 @@
     - [Diagramas de Banco de Dados](docs/DS/dinamica-e-seminario-3/DiagramasBancoDeDados.md)
     - [Diagrama de Pacotes](docs/DS/dinamica-e-seminario-3/DiagramaPacotes.md)
     - [Diagrama de Estados](docs/DS/dinamica-e-seminario-3/DiagramaEstados.md)
+    - [Pontuação do Backlog](docs/DS/dinamica-e-seminario-3/PontuacaoBacklog.md)
     - [Documento de Arquitetura](docs/DS/dinamica-e-seminario-3/DocumentoDeArquitetura.md)
     - [Testes de Usabilidade](docs/DS/dinamica-e-seminario-3/TesteDeUsabilidadeWireframe.md)
     - [Diagrama de Sequência](docs/DS/dinamica-e-seminario-3/DiagramaSequencia.md)

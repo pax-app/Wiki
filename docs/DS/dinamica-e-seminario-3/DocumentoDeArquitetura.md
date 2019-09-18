@@ -86,9 +86,9 @@ Modelo de representação dos serviços implementados e as interações estabele
 
 <p style="text-align:justify">&emsp;&emsp;Comunicação entre os serviços será feita por meio de uma <i>API Gateway</i>, a qual será responsável por fazer o intermédio entre os microsserviços por meio de métodos do protocolo HTTP. </p>
 
-### 2.4 Diagrama de Arquitetura
+### 2.4 Diagrama de contexto
 
-#### Diagrama de Arquitetura v1.0
+#### Diagrama de contexto v1.0
 ![Diagrama de Arquitetura](../../../assets/arquitetura/representacao_v1.png)
 
 ## 3. Restrições e Metas Arquiteturais
