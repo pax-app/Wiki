@@ -32,6 +32,7 @@
     - [Diagrama de Estados](docs/DS/dinamica-e-seminario-3/DiagramaEstados.md)
     - [Documento de Arquitetura](docs/DS/dinamica-e-seminario-3/DocumentoDeArquitetura.md)
     - [Testes de Usabilidade](docs/DS/dinamica-e-seminario-3/TesteDeUsabilidadeWireframe.md)
+    - [Diagrama de Sequência](docs/DS/dinamica-e-seminario-3/DiagramaSequencia.md)
 - [**Dinâmica e Seminário IV a**](docs/DS/dinamica-e-seminario-4-a/README.md)
 - [**Dinâmica e Seminário IV b**](docs/DS/dinamica-e-seminario-4-b/README.md)
 - [**Gerência**](docs/iniciativas-extras/README.md)
@@ -48,3 +49,4 @@
     - [Review Sprint 02](docs/iniciativas-extras/documentacao_sprints/review_02.md)
     - [Planejamento Sprint 03](docs/iniciativas-extras/documentacao_sprints/plaining_03.md)
     - [Review Sprint 03](docs/iniciativas-extras/documentacao_sprints/review_03.md)
+    
