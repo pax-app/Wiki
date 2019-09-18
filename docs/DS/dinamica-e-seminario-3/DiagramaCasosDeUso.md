@@ -7,6 +7,7 @@ Abaixo segue o diagrama com os casos de uso da aplicação, visando expor alguns
 | Data | Versão | Descrição | Autor(es) |
 | :--: | :----: | :-------: | :-------: |
 | 18/09/2017     |  1.0       |  Criação do documento         |      Marcos Nery    |
+| 18/09/2017     |  1.1       |  Adição de novas versões do diagrama       |      Marcos Nery    |
 
 
 ### Descrição dos atores envolvidos
@@ -27,6 +28,20 @@ Como definido no Léxico [L2](../dinamica-e-seminario-2/lexico.md#L2), é o usu�
 
 <p style="text-align:justify">&emsp;&emsp;Organizações bancarias responsáveis pelo processamento dos pagamentos feitos pelo aplicativo.</p>
 
-### DCU-V1
 
-![CasosDeUso](../../../assets/arquitetura/PAXCasosDeUsoV2.png)
+### DCU-V1
+Primeira versão do diagrama
+
+![CasosDeUsoV1](../../../assets/arquitetura/PAXCasosDeUsoV0.png)
+
+
+### DCU-V2
+Adição de relação entre usuário prestador e usuário consumidor e de outros dois atores do sistema, além de um outro caso de uso.
+
+![CasosDeUsoV2](../../../assets/arquitetura/PAXCasosDeUsoV1.png)
+
+
+### DCU-V3
+Numeração dos casos de uso.
+
+![CasosDeUsoV3](../../../assets/arquitetura/PAXCasosDeUsoV2.png)
