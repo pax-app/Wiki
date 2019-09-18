@@ -45,6 +45,7 @@
   - [Template de Sprint Plaining](docs/iniciativas-extras/sprint_plaining_model.md)
   - [Template de Sprint Review](docs/iniciativas-extras/sprint_review_model.md)
   - [Documentação das Sprints](docs/iniciativas-extras/documentacao_sprints/README.md)
+<<<<<<< HEAD
     - [Planejamento Sprint 01](docs/iniciativas-extras/documentacao_sprints/plaining_01.md)
     - [Review Sprint 01](docs/iniciativas-extras/documentacao_sprints/review_01.md)  
     - [Planejamento Sprint 02](docs/iniciativas-extras/documentacao_sprints/plaining_02.md)  
@@ -53,3 +54,13 @@
     - [Review Sprint 03](docs/iniciativas-extras/documentacao_sprints/review_03.md)  
     - [Planejamento Sprint 04](docs/iniciativas-extras/documentacao_sprints/plaining_04.md)  
     - [Review Sprint 04](docs/iniciativas-extras/documentacao_sprints/review_04.md)
+=======
+  - [Planejamento Sprint 01](docs/iniciativas-extras/documentacao_sprints/plaining_01.md)
+  - [Review Sprint 01](docs/iniciativas-extras/documentacao_sprints/review_01.md)  
+  - [Planejamento Sprint 02](docs/iniciativas-extras/documentacao_sprints/plaining_02.md)  
+  - [Review Sprint 02](docs/iniciativas-extras/documentacao_sprints/review_02.md)  
+  - [Planejamento Sprint 03](docs/iniciativas-extras/documentacao_sprints/plaining_03.md)  
+  - [Review Sprint 03](docs/iniciativas-extras/documentacao_sprints/review_03.md)  
+  - [Planejamento Sprint 04](docs/iniciativas-extras/documentacao_sprints/plaining_04.md)  
+  - [Review Sprint 04](docs/iniciativas-extras/documentacao_sprints/review_04.md)
+>>>>>>> 3ad5d1677555b4520a742b9d4e7419a1f2203e58
