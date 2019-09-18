@@ -5,5 +5,4 @@
 ### 3.  [Diagrama de Pacotes](docs/DS/dinamica-e-seminario-3/DiagramaPacotes.md)
 ### 4.  [Diagrama de Estados](docs/DS/dinamica-e-seminario-3/DiagramaEstados.md)
 ### 5.  [Documento de Arquitetura](docs/DS/dinamica-e-seminario-3/DocumentoDeArquitetura.md)
-
-### 5.  [Documento de Teste de Usabilidade](docs/DS/dinamica-e-seminario-3/TesteDeUsabilidadeWireframe.md)
+### 6.  [Teste de Usabilidade](docs/DS/dinamica-e-seminario-3/TesteDeUsabilidadeWireframe.md)
