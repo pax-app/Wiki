@@ -14,6 +14,8 @@
 
 ### 7. [Pontuação do Backlog](docs/DS/dinamica-e-seminario-3/PontuacaoBacklog.md)
 
-### 8. [Teste de Usabilidade](docs/DS/dinamica-e-seminario-3/TesteDeUsabilidadeWireframe.md)
+### 8. [Manual de Identidade Visual](docs/DS/dinamica-e-seminario-3/ManualIdentidadeVisual.md)
 
-### 9. [Diagrama de Sequência](docs/DS/dinamica-e-seminario-3/DiagramaSequencia.md)
+### 9. [Teste de Usabilidade](docs/DS/dinamica-e-seminario-3/TesteDeUsabilidadeWireframe.md)
+
+### 10. [Diagrama de Sequência](docs/DS/dinamica-e-seminario-3/DiagramaSequencia.md)
