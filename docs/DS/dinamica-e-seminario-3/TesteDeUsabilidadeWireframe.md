@@ -23,9 +23,16 @@ Teste de usabilidade é uma técnica de pesquisa utilizada para avaliar um produ
 
 ### Idade
 
+![front](../../../assets/teste-usabilidade/users.png)
+
 ### Gênero
 
+![front](../../../assets/teste-usabilidade/genero.png)
+
 ### Uso de aplicativos que terceirizam atividades
+
+
+![front](../../../assets/teste-usabilidade/graf1.png)
 
 ## Cenário
 
