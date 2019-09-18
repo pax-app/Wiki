@@ -11,7 +11,7 @@
 
 ## Pareamentos   
 
-- Listar pareamentos e link para issues
+- [Lucas Dutra](https://github.com/lucasdutraf), [Rogério Júnior](https://github.com/rogerioo) e [Youssef Muhamad](https://github.com/youssef-md)
 
 ## Objetivos   
 
