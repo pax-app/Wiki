@@ -33,6 +33,7 @@
   - [Diagrama de Classes](docs/DS/dinamica-e-seminario-3/DiagramaClasses.md)
   - [Documento de Arquitetura](docs/DS/dinamica-e-seminario-3/DocumentoDeArquitetura.md)
   - [Pontuação do Backlog](docs/DS/dinamica-e-seminario-3/PontuacaoBacklog.md)
+  - [Manual de Identidade Visual](docs/DS/dinamica-e-seminario-3/ManualIdentidadeVisual.md)
   - [Testes de Usabilidade](docs/DS/dinamica-e-seminario-3/TesteDeUsabilidadeWireframe.md)
   - [Diagrama de Sequência](docs/DS/dinamica-e-seminario-3/DiagramaSequencia.md)
 - [**Dinâmica e Seminário IV a**](docs/DS/dinamica-e-seminario-4-a/README.md)
