@@ -24,7 +24,7 @@ O **ME-R** é um modelo conceitual utilizado na *Engenharia de Software* para de
 |   18/09/2019  | 1.3    |  Mudando o nome de RATING para REVIEW e adicionando a FK do destinatário do review             |   Rogério Júnior e Youssef Muhamad|
 |   18/09/2019  | 1.4    |  Melhorando os nomes das colunas das tabelas para uma melhor semântica             |   Rogério Júnior e Youssef Muhamad|
 |   18/09/2019  | 1.5    |  Adicionando os novos relacionamentos CHAT - has - MESSAGES e PAX - references - CHAT             |   Rogério Júnior e Youssef Muhamad|
-|   18/09/2019  | 1.6    |  Versão 2 do Diagrama Entidade Relacionamento             |   Rogério Júnior e Youssef Muhamad|
+|   18/09/2019  | 2.0    |  Versão 2 do documento, com novos MER, DER e DL             |   Rogério Júnior e Youssef Muhamad|
 
 
 ## Versão 2.0
@@ -51,9 +51,9 @@ O **ME-R** é um modelo conceitual utilizado na *Engenharia de Software* para de
     * PROVIDER( provider_id, rg( issuing_organ, state, number ), url_rg_photo, bio )
   * ADDRESS ( <u>address_id</u>, cep, street, neighborhood, city, state, number, complement, reference_point )
   * REVIEW ( <u>review_id</u>, evaluated_id, evaluator_id, charisma_rate, commentary )
-    * SERVICE ( <u>service_id</u>, evaluated_id, evaluator_id, service_rate )
+    * SERVICE ( <u>review_service_id</u>, evaluated_id, evaluator_id, service_rate )
   * PAX ( <u>pax_id</u>, user_id, provider_id, chat_id, address_id, price, status, name, description, date )
-  * REPORT ( <u>report_id</u>, user_id, pax_id, status, { photos } )
+  * REPORT ( <u>report_id</u>, user_id, pax_id, status, description, { photo } )
   * PROVIDER_CATEGORY ( <u>provider_category_id</u>, name )
   * GENERAL_CATEGORY ( <u>general_category_id</u>, name )
   * CHAT ( <u>chat_id</u>, user_id, provider_id  )
@@ -109,11 +109,11 @@ O **ME-R** é um modelo conceitual utilizado na *Engenharia de Software* para de
 
 ### Diagrama Entidade-Relacionamento(DE-R)
 
-![Conceitual_V1](../../../assets/database/Conceitual_Pax_v2.png)
+![Conceitual_V2](../../../assets/database/Conceitual_Pax_v2.png)
 
 ### Diagrama Lógico (DL)
 
-![Logico_V1](../../../assets/database/Logico_Pax_v1.png)
+![Logico_V2](../../../assets/database/Logico_Pax_v2.png)
 
 ---
 
