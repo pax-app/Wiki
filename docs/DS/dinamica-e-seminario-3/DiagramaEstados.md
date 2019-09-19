@@ -2,7 +2,7 @@
 
 Diagrama de estado é definido como um diagrama que descreve os eventos do comportamento de um sistema. Diagramas de estado são utilizadas especificamente para definir o comportamento dependente do estado ou o comportamento que varia de acordo com o estado em que está o elemento do modelo.
 
-Por ser um diagrama que descreve os diversos estados que algumas partes do sistema podem assumir, a equipe optou por fazer os diagramas de estados do sistema de chat e pagamento, onde haverá maior mudança de estados.
+Por ser um diagrama que descreve os diversos estados que algumas partes do sistema podem assumir, a equipe optou por fazer os diagramas de estados do sistema de chat e do pagamento, onde haverá maior mudança de estados.
 
 ## Histórico de Revisões
 
@@ -13,10 +13,11 @@ Por ser um diagrama que descreve os diversos estados que algumas partes do siste
 |   16/09/2019   |    1.2    |   Adicionando diagramas v1.0        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
 |   19/09/2019   |    1.3    |   Atualizando diagrama chat v2.0        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
 |   19/09/2019   |    1.4    |   Atualizando diagrama payment v2.0        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
+|   19/09/2019   |    1.5    |   Revisão de texto        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
 
 ## Diagramas
 
-Os diagramas de estados do chat e do modulo de pagamento foram feitas a partir do [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md) definido. Segue abaixo os diagramas de estados do chat e do pagamento:
+Os diagramas de estados do módulo de chat e do módulo de pagamento foram feitas a partir do [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md) definido. Segue abaixo os diagramas de estados do chat e do pagamento:
 
 ### Versão 2.0
 
