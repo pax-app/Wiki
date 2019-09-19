@@ -8,7 +8,12 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | :--: | :----: | :-------: | :-------: |
 |   19/09/2019    |   0.0     |    Adição do documento inicial com a referência da introdução  |      Youssef Muhamad |
 
+### Login
+![Login](../../../assets/prototipo-alto-nivel/login.png)
+### Login com Fluxo
+![Login](../../../assets/prototipo-alto-nivel/login-fluxo.png)
 
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 ## Referências
 
