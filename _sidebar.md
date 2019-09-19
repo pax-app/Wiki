@@ -38,6 +38,7 @@
   - [Diagrama de Casos De Uso](docs/DS/dinamica-e-seminario-3/DiagramaCasosDeUso.md)
   - [Manual de Identidade Visual](docs/DS/dinamica-e-seminario-3/ManualIdentidadeVisual.md)
   - [Testes de Usabilidade](docs/DS/dinamica-e-seminario-3/TesteDeUsabilidadeWireframe.md)
+  - [Protótipo de Alta Fidelidade](docs/DS/dinamica-e-seminario-3/PrototipoAltaFidelidade.md)
   - [Pontuação do Backlog](docs/DS/dinamica-e-seminario-3/PontuacaoBacklog.md)
   - [Roadmap do Produto](docs/DS/dinamica-e-seminario-3/Roadmap.md)
 - [**Dinâmica e Seminário IV a**](docs/DS/dinamica-e-seminario-4-a/README.md)

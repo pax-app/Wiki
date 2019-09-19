@@ -23,6 +23,8 @@
 
 ### 11. [Teste de Usabilidade](docs/DS/dinamica-e-seminario-3/TesteDeUsabilidadeWireframe.md)
 
-### 12. [Pontuação do Backlog](docs/DS/dinamica-e-seminario-3/PontuacaoBacklog.md)
+### 12. [Protótipo de Alta Fidelidade](docs/DS/dinamica-e-seminario-3/PrototipoAltaFidelidade.md)
 
-### 13. [Roadmap do Produto](docs/DS/dinamica-e-seminario-3/Roadmap.md)
+### 13. [Pontuação do Backlog](docs/DS/dinamica-e-seminario-3/PontuacaoBacklog.md)
+
+### 14. [Roadmap do Produto](docs/DS/dinamica-e-seminario-3/Roadmap.md)
