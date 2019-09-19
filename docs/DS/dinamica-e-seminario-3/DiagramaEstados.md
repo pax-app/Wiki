@@ -11,6 +11,8 @@ Por ser um diagrama que descreve os diversos estados que algumas partes do siste
 |   16/09/2019   |    1.0    |   Criação da pagina        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
 |   16/09/2019   |    1.1    |   Adicionando textos        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
 |   16/09/2019   |    1.2    |   Adicionando diagramas v1.0        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
+|   19/09/2019   |    1.3    |   Atualizando diagrama chat v2.0        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
+
 
 ## Diagramas
 
