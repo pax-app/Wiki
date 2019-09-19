@@ -12,11 +12,23 @@ Por ser um diagrama que descreve os diversos estados que algumas partes do siste
 |   16/09/2019   |    1.1    |   Adicionando textos        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
 |   16/09/2019   |    1.2    |   Adicionando diagramas v1.0        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
 |   19/09/2019   |    1.3    |   Atualizando diagrama chat v2.0        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
-
+|   19/09/2019   |    1.4    |   Atualizando diagrama payment v2.0        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
 
 ## Diagramas
 
 Os diagramas de estados do chat e do modulo de pagamento foram feitas a partir do [Backlog](docs/DS/dinamica-e-seminario-2/Backlog.md) definido. Segue abaixo os diagramas de estados do chat e do pagamento:
+
+### Versão 2.0
+
+![front](../../../assets/Diagrama_de_estados_chat_v2.png)
+
+**Autor:** [Fabiana Ribas](https://github.com/FabianaRibas)
+
+### Versão 2.0
+
+![front](../../../assets/Diagrama_de_estados_payment_v2.png)
+
+**Autor:** [Fabiana Ribas](https://github.com/FabianaRibas)
 
 ### Versão 1.0
 
