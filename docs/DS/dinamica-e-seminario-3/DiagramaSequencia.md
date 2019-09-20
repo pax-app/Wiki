@@ -5,7 +5,7 @@ O diagrama de sequência é uma das soluções que a UML oferece, de maneira *di
 ## Histórico de Revisões
 |      Data     | Versão | Descrição                             | Autor(es) |
 | :--: | :----: | :-------: | :-------: |
-|   16/09/2019  | 1.0     |  Adicionando estrutura incial e Diagrama V1 do fluxo de Login                              |       Matheus Pimenta    |
+|   16/09/2019  | 1.0     |  Adicionando estrutura inicial e Diagrama V1 do fluxo de Login                              |       Matheus Pimenta    |
 |   19/09/2019  | 2.0     |  Atualizando diagrama de Login e adicionando diagrama de Chat                             |       Matheus Pimenta    |
 
 ## Login
@@ -22,7 +22,7 @@ Autor: [Matheus Figueiredo](https://github.com/Matheusss03)
 Autor: [Matheus Figueiredo](https://github.com/Matheusss03)
 
 ## Chat
-Detalha como funcionará o sistema de *chat* do sistema, mostrando a relação e particição dos atores envolvidos: **Consumidor de Serviços** e **Prestador de Serviços**.
+Detalha como funcionará o sistema de *chat* do sistema, mostrando a relação e participação dos atores envolvidos: **Consumidor de Serviços** e **Prestador de Serviços**.
 
 ### Versão 1.0
 
