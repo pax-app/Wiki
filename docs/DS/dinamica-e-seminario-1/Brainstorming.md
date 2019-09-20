@@ -1,13 +1,16 @@
 # Brainstorming
 
+*Brainstorming* é uma técnica utilizada para estimular o surgimento de soluções criativas. A partir do compartilhamento de muitas ideias, é possível filtrar os insights mais valiosos e aplicar melhorias em diversos setores de um empreendimento.
+
 ## Histórico de Revisões
 
 |    Data    | Versão |                Descrição                 |   Autor(es)   |
 | :--------: | :----: | :--------------------------------------: | :-----------: |
 | 22/08/2019 |  1.0   | Adicionado V1 da documentação do brainstorm |  Gabriel Albino  |
-
+| 20/09/2019 |  1.1   | Adicionando e formatando referências ABNT | Rogério Júnior |
 
 ## Metodologia
+
 ### Primeira Etapa - Elicitação de ideias
 O brainstorm foi realizado pelos membros do grupo para elicitação de funcionalidades importantes para o aplicativo a partir dos artefatos de elicitação anteriores. No inicio do brainstorm foram definidas duas métricas para nortear as funcionalidades: 
 * aplicativo seria focado no contrantante, isto é, em quem busca o serviço
@@ -96,7 +99,7 @@ A tabela com o resultado final e as justificativas encontram-se abaixo:
 * O sistema deve ter uma lista de serviços disponíveis para contratação
 * O sistema deve ter um sistema de avaliação em estrelas
 * O sistema deve possuir um sistema para usuários reportaram serviços contratados ou prestados
-* O sistema deverá exibir os pretadores de serviço com boa avaliação e próximos com prioridade
+* O sistema deverá exibir os prestadores de serviço com boa avaliação e próximos com prioridade
 * O sistema deverá permitir com que o usuário marque um serviço como favorito
 * O sistema deverá ter a lista de serviços prestados ou contratados anteriormente, assim como sua avaliação.
 * O sistema deverá possuir uma lista com todos os prestadores de serviço cadastrados
@@ -107,3 +110,7 @@ A tabela com o resultado final e as justificativas encontram-se abaixo:
 * O sistema deverá organizar os serviços prestados por categoria.
 * O sistema deverá ter gameficação para incentivar o usuário a preencher todas as informações do perfil
 * O sistema deverá exibir a localização do prestador de serviço
+
+## References
+
+- WOEBCKEN, Cayo. **O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes**. [S. l.], 10 jul. 2019. Disponível em: https://rockcontent.com/blog/brainstorming/. Acesso em: 21 ago. 2019.
