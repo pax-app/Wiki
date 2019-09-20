@@ -11,7 +11,8 @@ Para realizar a disciplina de _Arquitetura e Desenho de Software_ foi decidido r
 | 06/09/2019 |  0.1   |            Criação do documento             | Fabiana Pfeilsticker Ribas e Matheus Pimenta |
 | 06/09/2019 |  1.0   |            Adição dos diagramas             | Matheus Pimenta e Fabiana Pfeilsticker Ribas |
 | 06/09/2019 |  1.1   |              Colocando autores              |                Rogério Júnior                |
-| 05/09/2019 |  1.2   | Adição da V2 do fluxo - usando notação BPMN |                Kaique Borges                 |
+| 05/09/2019 |  1.2   | Adição da V2 do fluxo - usando notação BPMN |                Kaique Borges                 |    
+| 19/09/2019 |  2.0   |     Adicionando Diagrama de Processo de Modelagem UML    |         Matheus Pimenta      |
 
 ## Versões 1.0
 
@@ -62,6 +63,12 @@ Autores: [Fabiana Ribas](https://github.com/FabianaRibas) e [Matheus Figueiredo]
 ![Imgur](https://i.imgur.com/a6tDtcU.png)
 
 Autores: [Fabiana Ribas](https://github.com/FabianaRibas) e [Matheus Figueiredo](https://github.com/Matheusss03)
+
+## Processo - Definir Modelagem UML
+
+![Imgur](https://i.imgur.com/4nswLVC.png)
+
+Autor: [Matheus Figueiredo]([Imgur](https://i.imgur.com/4nswLVC.png))
 
 ### User flow
 
