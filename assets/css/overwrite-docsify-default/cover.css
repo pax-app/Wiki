@@ -2,6 +2,10 @@
   background: #201F20 !important;
 }
 
+.cover.show {
+  border-bottom: .2rem solid #78AA43;
+}
+
 .cover-main {
   display: flex;
   flex-direction: column;
@@ -12,15 +16,6 @@
 .cover-main h1 { 
   color: white !important;
   font-size: 2rem !important;
-}
-
-.cover-main span {
-  position: absolute;
-  width: 92%;
-  height: .3rem;
-  background-color: #78AA43;
-  bottom: 0;
-  margin-bottom: -.2rem;
 }
 
 .cover-main p {
