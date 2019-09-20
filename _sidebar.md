@@ -31,6 +31,7 @@
   - [Diagrama de Pacotes](docs/DS/dinamica-e-seminario-3/DiagramaPacotes.md)
   - [Diagrama de Estados](docs/DS/dinamica-e-seminario-3/DiagramaEstados.md)
   - [Diagrama de Classes](docs/DS/dinamica-e-seminario-3/DiagramaClasses.md)
+  - [Diagrama de Implantação](docs/DS/dinamica-e-seminario-3/DiagramaImplantacao.md)
   - [Documento de Arquitetura](docs/DS/dinamica-e-seminario-3/DocumentoDeArquitetura.md)
   - [Pontuação do Backlog](docs/DS/dinamica-e-seminario-3/PontuacaoBacklog.md)
   - [Manual de Identidade Visual](docs/DS/dinamica-e-seminario-3/ManualIdentidadeVisual.md)

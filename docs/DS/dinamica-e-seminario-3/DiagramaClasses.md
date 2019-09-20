@@ -13,27 +13,27 @@ Na Programação Orientada a Objetos, classes são fundamentais para a execuçã
 
 O back-end será construído por serviços feitos com o microframework Flask em Python juntamente com serviços feitos com Express em NodeJs. Cada um dos microsserviços tem um diagrama correspondente.
 
-### Pax
+### Pax v1
 
 ![front](../../../assets/arquitetura/diagrama_classes/DiagramaPax.jpg)
 
-### Chat
+### Chat v1
 
 ![front](../../../assets/arquitetura/diagrama_classes/DiagramaChat.jpeg)
 
-### Reports
+### Reports v1
 
 ![front](../../../assets/arquitetura/diagrama_classes/DiagramaReport.jpeg)
 
-### Reviews
+### Reviews v1
 
 ![front](../../../assets/arquitetura/diagrama_classes/DiagramaReview.jpeg)
 
-### User
+### User v1
 
 ![front](../../../assets/arquitetura/diagrama_classes/DiagramaUser.jpeg)
 
-### Category
+### Category v1
 
 ![front](../../../assets/arquitetura/diagrama_classes/DiagramaCategory.jpeg)
 
