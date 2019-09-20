@@ -36,9 +36,15 @@ O back-end será construído por serviços feitos com o microframework Flask em 
 
 **Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
 
-### Serviços em NodeJs
+### Serviços em NodeJs V1
 
 ![front](../../../assets/pacotesBackNode.png)
+
+**Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
+
+### Serviços em NodeJs V2
+
+![front](../../../assets/pacotesBackNodeV2.png)
 
 **Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
 
