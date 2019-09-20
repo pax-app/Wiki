@@ -12,8 +12,9 @@
 ## Metodologia
 
 ### Primeira Etapa - Elicitação de ideias
-O brainstorm foi realizado pelos membros do grupo para elicitação de funcionalidades importantes para o aplicativo a partir dos artefatos de elicitação anteriores. No inicio do brainstorm foram definidas duas métricas para nortear as funcionalidades: 
-* aplicativo seria focado no contrantante, isto é, em quem busca o serviço
+O brainstorm foi realizado pelos membros do grupo para elicitação de funcionalidades importantes para o aplicativo a partir dos artefatos de elicitação anteriores. No inicio do brainstorm foram definidas duas métricas para nortear as funcionalidades:
+
+* Aplicativo seria focado no contrantante, isto é, em quem busca o serviço
 * Tanto o contratante como o contratado usarão o mesmo sistema, não haverá separação de apps.
 
 Com isso em vista os membros começaram a elicitar e explicar as funcionalidades que o app deveria ter, que foram:
