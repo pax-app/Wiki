@@ -10,7 +10,7 @@
 
 ### 5. [Diagrama de Classes](docs/DS/dinamica-e-seminario-3/DiagramaClasses.md)
 
-### 6. [Diagrama de Classes](docs/DS/dinamica-e-seminario-3/DiagramaClasses.md)
+### 6. [Diagrama de Implantação](docs/DS/dinamica-e-seminario-3/DiagramaImplantacao.md)
 
 ### 7. [Documento de Arquitetura](docs/DS/dinamica-e-seminario-3/DocumentoDeArquitetura.md)
 
