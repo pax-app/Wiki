@@ -31,4 +31,4 @@ O <i>iframe</i> possui três formatos separados para melhor visualização do <i
 
 - ISO (1997). ISO 9241-11: Ergonomic requirements for office work with visual display terminals (VDTs). Part 11 — Guidelines for specifying and measuring usability. Gènève: International Organisation for Standardisation.
 
-- NIELSEN, Jakob. 10 Usability Heuristics for User Interface Design. 24 abr. 1994. Disponível em: https://www.nngroup.com/articles/ten-usability-heuristics/. Acesso em: 1 set. 2019.
+- NIELSEN, Jakob. **10 Usability Heuristics for User Interface Design**. 24 abr. 1994. Disponível em: https://www.nngroup.com/articles/ten-usability-heuristics/. Acesso em: 1 set. 2019.
