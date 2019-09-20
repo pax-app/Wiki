@@ -2,9 +2,10 @@
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                Descrição                 |   Autor(es)   |
-| :--------: | :----: | :--------------------------------------: | :-----------: |
+|    Data    | Versão |                Descrição                                |     Autor(es)     |
+| :--------: | :----: | :-----------------------------------------------------: | :---------------: |
 | 22/08/2019 |  1.0   | Adicionado V1 da documentação de análise do questionário|  Matheus Pimenta  |
+| 20/09/2019 |  1.1   | Formatando referências ABNT                             | Rogério Júnior |
 
 ## Metodologia
 Para que a ideia do projeto tivesse uma validação com os usuários, foi feito uma pesquisa psobre o tema. 
@@ -59,4 +60,6 @@ Os principais pontos levantados foram:
 * Sincronização com outras plataformas
 * Disponibilização da cobertura geográfica do atendimento de cada prestador
 
+## Referências
 
+- Questionário aplicado via Google Forms. Disponível em: <https://docs.google.com/spreadsheets/d/1eKw9FJd3L1wtE7eTgT3Gu39j_WVf2qr_eimgQxKHKvc/edit?usp=sharing>. Acesso em: 22/08/2019.
