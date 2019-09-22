@@ -30,6 +30,7 @@
   - [Documento de Arquitetura](docs/DS/dinamica-e-seminario-3/DocumentoDeArquitetura.md)
   - [Diagramas de Banco de Dados](docs/DS/dinamica-e-seminario-3/DiagramasBancoDeDados.md)
   - [Diagrama de Pacotes](docs/DS/dinamica-e-seminario-3/DiagramaPacotes.md)
+  - [Diagrama de Contexto](docs/DS/dinamica-e-seminario-3/DiagramaContexto.md)
   - [Diagrama de Estados](docs/DS/dinamica-e-seminario-3/DiagramaEstados.md)
   - [Diagrama de Implantação](docs/DS/dinamica-e-seminario-3/DiagramaImplantacao.md)
   - [Diagrama de Classes](docs/DS/dinamica-e-seminario-3/DiagramaClasses.md)

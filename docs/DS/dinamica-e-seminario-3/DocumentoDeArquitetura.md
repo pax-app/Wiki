@@ -89,11 +89,7 @@ Modelo de representação dos serviços implementados e as interações estabele
 
 ### 2.4 Diagrama de contexto
 
-#### Diagrama de contexto v2.0
-![Diagrama de Arquitetura](../../../assets/arquitetura/representacao_v2.png)
-
-#### Diagrama de contexto v1.0
-![Diagrama de Arquitetura](../../../assets/arquitetura/representacao_v1.png)
+![Diagrama de Arquitetura](../../../assets/DiagramaContextoV2.png)
 
 ## 3. Restrições e Metas Arquiteturais
 
