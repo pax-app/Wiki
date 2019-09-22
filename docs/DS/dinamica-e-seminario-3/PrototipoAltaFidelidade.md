@@ -6,8 +6,11 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 
 | Data            | Versão    |              Descrição            |    Autor(es) |
 | :--: | :----: | :-------: | :-------: |
-|   19/09/2019    |   0.0     |    Adição do documento inicial com a referência da introdução  |      Youssef Muhamad |
-|   20/09/2019    |   0.1     |    Adição do fluxo de login, cadastro e recuperação de senha  |      Youssef Muhamad |
+|   19/09/2019    |   0.0     |    Adição do documento inicial com a referência da introdução   |      Youssef Muhamad |
+|   20/09/2019    |   0.1     |    Adição do fluxo de login, cadastro e recuperação de senha    |      Youssef Muhamad |
+|   20/09/2019    |   0.2     |    Código para botão principal e do input com borda             |      Youssef Muhamad |
+
+!> O presente protótipo pode ser acessado  [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
 ### Login v1
 <img src="../../../assets/prototipo-alto-nivel/login.png">
