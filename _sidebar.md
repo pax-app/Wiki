@@ -38,6 +38,7 @@
   - [Manual de Identidade Visual](docs/DS/dinamica-e-seminario-3/ManualIdentidadeVisual.md)
   - [Testes de Usabilidade](docs/DS/dinamica-e-seminario-3/TesteDeUsabilidadeWireframe.md)
   - [Pontuação do Backlog](docs/DS/dinamica-e-seminario-3/PontuacaoBacklog.md)
+  - [Roadmap do Produto](docs/DS/dinamica-e-seminario-3/Roadmap.md)
 - [**Dinâmica e Seminário IV a**](docs/DS/dinamica-e-seminario-4-a/README.md)
 - [**Dinâmica e Seminário IV b**](docs/DS/dinamica-e-seminario-4-b/README.md)
 - [**Gerência**](docs/iniciativas-extras/README.md)

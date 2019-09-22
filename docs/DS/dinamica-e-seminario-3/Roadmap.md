@@ -8,6 +8,11 @@ O roadmap de produto é um plano que combina os objetivos do negócio, as necess
 | :--: | :----: | :-------: | :-------: |
 |  22/09/2019    |    1.0    |   Criação do documento        |    Ésio Freitas       |
 
+
+
+
+![roadmap](../../../assets/roadmap.png )
+
 Todos documentos devem ter os autores registrados
 **Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
 
