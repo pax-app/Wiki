@@ -7,11 +7,35 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | Data            | Versão    |              Descrição            |    Autor(es) |
 | :--: | :----: | :-------: | :-------: |
 |   19/09/2019    |   0.0     |    Adição do documento inicial com a referência da introdução  |      Youssef Muhamad |
+|   20/09/2019    |   0.1     |    Adição do fluxo de login, cadastro e recuperação de senha  |      Youssef Muhamad |
 
-### Login
-![Login](../../../assets/prototipo-alto-nivel/login.png)
-### Login com Fluxo
-![Login](../../../assets/prototipo-alto-nivel/login-fluxo.png)
+### Login v1
+<img src="../../../assets/prototipo-alto-nivel/login.png">
+
+### Login com Fluxo v1
+<img src="../../../assets/prototipo-alto-nivel/login-fluxo.png">
+
+#### Código para o botão principal
+<!-- o JS é só pra deixar colorido -->
+```js 
+RaisedButton(
+  child: Text("Entrar"),
+  onPressed: () {},
+  shape: RoundedRectangleBorder(
+      borderRadius: new BorderRadius.circular(30.0),
+  ),
+)
+```
+
+#### Código para o input com borda
+```js
+TextField(
+  decoration: new InputDecoration(
+    labelText: 'Email',
+    border: const OutlineInputBorder(),
+  ),
+),
+```
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
