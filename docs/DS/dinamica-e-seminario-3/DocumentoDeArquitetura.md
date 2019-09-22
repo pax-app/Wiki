@@ -13,6 +13,7 @@ Este documento visa especificar de forma básica alguns tópicos referentes ao D
 | 15/09/2019 |  0.5   | Atualizando estrutura do documento e descrições | Felipe Campos |
 | 15/09/2019 |  0.6   | Arrumando linkagem para o Léxico "Pax"          | Rogério Júnior |
 | 15/09/2019 |  0.7   | Adição da visão de casos de uso                 | Marcos Nery |
+| 21/09/2019 |  0.8   | v2 do diagrama de contexto dos microsserviços   | Youssef Muhamad e Lucas Dutra |
 
 
 ## 1. Introdução
@@ -87,6 +88,9 @@ Modelo de representação dos serviços implementados e as interações estabele
 <p style="text-align:justify">&emsp;&emsp;Comunicação entre os serviços será feita por meio de uma <i>API Gateway</i>, a qual será responsável por fazer o intermédio entre os microsserviços por meio de métodos do protocolo HTTP. </p>
 
 ### 2.4 Diagrama de contexto
+
+#### Diagrama de contexto v2.0
+![Diagrama de Arquitetura](../../../assets/arquitetura/representacao_v2.png)
 
 #### Diagrama de contexto v1.0
 ![Diagrama de Arquitetura](../../../assets/arquitetura/representacao_v1.png)
