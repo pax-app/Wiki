@@ -14,13 +14,13 @@ Em desenvolvimento de sistemas, ele é considerado o diagrama de fluxo de dados 
 
 ![roadmap](../../../assets/DiagramaContextoV1.png )
 
-**Autor:** [Lucas Dutra](https://github.com/lucasdutraf).
+**Autor:** [Lucas Dutra](https://github.com/lucasdutraf) e [Youssef Muhamad](https://github.com/youssef-md).
 
 ## Diagrama de contexto V2
 
 ![roadmap](../../../assets/DiagramaContextoV2.png )
 
-**Autor:** [Lucas Dutra](https://github.com/lucasdutraf).
+**Autor:** [Lucas Dutra](https://github.com/lucasdutraf) e [Youssef Muhamad](https://github.com/youssef-md).
 
 ## Referências
 
