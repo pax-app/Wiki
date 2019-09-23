@@ -10,6 +10,7 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 |   20/09/2019    |   0.1     |    Adição do fluxo de login, cadastro e recuperação de senha    |      Youssef Muhamad |
 |   20/09/2019    |   0.2     |    Código para botão principal e do input com borda             |      Youssef Muhamad |
 |   20/09/2019    |   0.3     |    Home e Adição de endereço na mesma com fluxo e código para alguns elementos             |      Youssef Muhamad |
+|   20/09/2019    |   0.4     |    Seleção de prestador de serviços da área de Assistência Técnica                         |      Youssef Muhamad |
 
 !> O presente protótipo pode ser acessado  [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -67,11 +68,18 @@ showModalBottomSheet(
   context: context,
   builder: (_) => SeuWidgetAqui()
 );
-
-
 ```
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
+### Escolher Prestador da seção de Assistência Técnica v1
+<img src="../../../assets/prototipo-alto-nivel/escolher-prestador-assistencia-tecnica.png">
+
+### Escolher Prestador da seção de Assistência Técnica com Fluxo v1
+<img src="../../../assets/prototipo-alto-nivel/escolher-prestador-assistencia-tecnica-fluxo.png">
+
+
+
 
 ## Referências
 
