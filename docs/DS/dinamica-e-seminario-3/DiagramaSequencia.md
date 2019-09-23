@@ -6,7 +6,8 @@ O diagrama de sequência é uma das soluções que a UML oferece, de maneira *di
 |      Data     | Versão | Descrição                             | Autor(es) |
 | :--: | :----: | :-------: | :-------: |
 |   16/09/2019  | 1.0     |  Adicionando estrutura inicial e Diagrama V1 do fluxo de Login                              |       Matheus Pimenta    |
-|   19/09/2019  | 2.0     |  Atualizando diagrama de Login e adicionando diagrama de Chat                             |       Matheus Pimenta    |
+|   19/09/2019  | 1.1     |  Atualizando diagrama de Login e adicionando diagrama de Chat                             |       Matheus Pimenta    |
+| 22/09/2019 |  1.2   |         Formatando referências ABNT         |                 Rogério Júnior               |
 
 ## Login
 Detalha como funcionará o módulo de *login* do sistema, mostrando as categorias de **usuários** que uma pessoa pode representar dentro do aplicativo.
@@ -31,4 +32,4 @@ Autor: [Matheus Figueiredo](https://github.com/Matheusss03)
 
 ## Referências
 
-* O QUE é um diagrama de sequência UML?. [S. l.]: Lucidchart, 2019?. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-sequencia-uml. Acesso em: 16 set. 2019.
+* **O que é um diagrama de sequência UML?**. [S. l.]. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-sequencia-uml. Acesso em: 16 set. 2019.

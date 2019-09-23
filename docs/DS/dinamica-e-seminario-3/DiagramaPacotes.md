@@ -8,8 +8,7 @@ Nos últimos tempos, surgem sistemas cada vez mais complexos, com estruturas de 
 | :--: | :----: | :-------: | :-------: |
 | 12/09/2017     |  1.0       |  Criação do documento         |      Ésio Freitas     |
 | 13/09/2017     |  1.1       |  Adicionando pacote do backend         |      Ésio Freitas     |
-
-
+| 22/09/2019 |  1.2   |         Formatando referências ABNT         |                 Rogério Júnior               |
 
 ## Front-end
 
@@ -50,8 +49,6 @@ O back-end será construído por serviços feitos com o microframework Flask em 
 
 ## Referências
 
-- Diagramas Estruturais da UML: Diagrama de Pacotes. Acessado em 12/09/2019. Em: <http://micreiros.com/diagrama-de-pacotes/>
+- ALDRICH, Conner. **Flutter**: Code Organization. [S. l.], 2019. Disponível em: https://medium.com/flutter-community/flutter-code-organization-de3a4c219149. Acesso em: 16 set. 2019.
 
-- Diagrama de Pacotes. Acessado em 12/09/2019. Em: <https://homepages.dcc.ufmg.br/~amendes/GlossarioUML/glossario/conteudo/pacotes/diagrama_de_pacotes.htm>  
-
-* Flutter: Code Organization. Acessado em 14/09/2019. em: <https://medium.com/flutter-community/flutter-code-organization-de3a4c219149>
+- ZANANDREA, Pietro. **Diagramas Estruturais da UML**: Diagrama de Pacotes. [S. l.], 2006. Disponível em: http://micreiros.com/diagrama-de-pacotes/. Acesso em: 12 set. 2019.

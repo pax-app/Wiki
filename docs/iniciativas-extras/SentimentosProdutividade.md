@@ -5,6 +5,7 @@
 |    Data    | Versão |                Descrição                 |   Autor(es)   |
 | :--------: | :----: | :--------------------------------------: | :-----------: |
 | 22/08/2019 |  1.0   | Adicionado V1 da documentação de análise|  Matheus Pimenta  |
+| 22/09/2019 |  1.1   | Formatando referências ABNT             |  Rogério Júnior   |
 
 ## Metodologia
 Para poder realizar uma análise e acompanhamento dos membros durante o desenvolvimento do projeto, será feito uma análise de **Sentimentos X Produtividade**. Um dos objetos de estudo de *Jeff Sutherland* em **Scrum - A arte de fazer o dobro do trabalho na metade do tempo** é a relação direta entre o humor dos integrantes de uma equipe de trabalho e a sua produtividade.
@@ -37,4 +38,4 @@ Para que isso ocorra, será seguida a seguinte metodologia:
 ![](https://i.imgur.com/8cV355c.png)
 
 ## Referências
-* Livro - Scrum - A arte de fazer o dobro do trabalho na metade do tempo. Acessado 22/08/2019 em: <https://files.comunidades.net/magosidrakyan/a_arte_de_fazer_o_dobro__Jeff_Sutherland.pdf>
+* SUTHERLAND, Jeff. **Scrum**: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo. 2. ed. [S. l.]: LeYa, 2013. 240 p. ISBN 8544104517.

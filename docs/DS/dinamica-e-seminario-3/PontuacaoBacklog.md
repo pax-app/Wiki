@@ -8,6 +8,7 @@ Essa pontuação é feita de maneira pessoal e única para equipe. A pontuação
 | Data | Versão | Descrição | Autor(es) |
 | :--: | :----: | :-------: | :-------: |
 |   18/09/2019   |    1.0   |   Adicionando o documento   |   Ésio Freitas        |
+| 22/09/2019 |  1.1   |         Formatando referências ABNT         |                 Rogério Júnior               |
 
 ## Pré-Pontuação
 
@@ -23,6 +24,6 @@ Em reunião, o grupo discutiu e decidiu a pontuação final, levantando a opini�
 
 ## Referências
 
-- 5 Passos para estimar seu backlog em menos de 1 hora. Acessado em 17/09/2019. Em <https://www.culturaagil.com.br/5-passos-para-estimar-seu-backlog-em-menos-de-1-hora/>
+- BERNARDO, Kleber. **5 Passos para estimar seu backlog em menos de 1 hora**. [S. l.], 2016. Disponível em: https://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019. Acesso em: 18 set. 2019.
 
-* Scrum e Planning Poker: Análise de estimativa de software. Acessado em 17/08/2019. Em <https://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019>
+- **Scrum e Planning Poker**: Análise de estimativa de software. [S. l.], 2014. Disponível em: https://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019. Acesso em: 18 set. 2019.

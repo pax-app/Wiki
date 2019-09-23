@@ -201,6 +201,6 @@ O **ME-R** é um modelo conceitual utilizado na *Engenharia de Software* para de
 ## Referências
 
 
+- **Introdução ao Modelo de Dados e seus Níveis de Abstração**. Disponível em: <http://spaceprogrammer.com/bd/introducao-ao-modelo-de-dados-e-seus-niveis-de-abstracao/>. Acesso: 15 set. 2019.
 - **Preenchimento de endereço via CEP com Javascript**. Disponível em: <https://viacep.com.br/exemplo/javascript/>. Acesso: 15 set. 2019.
-- **Introdução ao Modelo de Dados e seus Níveis de Abstração**.Disponível em: <http://spaceprogrammer.com/bd/introducao-ao-modelo-de-dados-e-seus-niveis-de-abstracao/>. Acesso: 15 set. 2019.
 - RODRIGUES, Joel. **Modelo Entidade Relacionamento (MER) e Diagrama Entidade-Relacionamento (DER)** Disponível em: <https://www.devmedia.com.br/modelo-entidade-relacionamento-mer-e-diagrama-entidade-relacionamento-der/14332>. Acesso: 15 set. 2019.

@@ -14,6 +14,7 @@ Por ser um diagrama que descreve os diversos estados que algumas partes do siste
 |   19/09/2019   |    1.3    |   Atualizando diagrama chat v2.0        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
 |   19/09/2019   |    1.4    |   Atualizando diagrama payment v2.0        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
 |   19/09/2019   |    1.5    |   Revisão de texto        |    Fabiana Luiza Vasconcelos Pfeilsticker Ribas       |
+| 22/09/2019 |  1.6   |         Formatando referências ABNT         |                 Rogério Júnior               |
 
 ## Diagramas
 
@@ -45,6 +46,6 @@ Os diagramas de estados do módulo de chat e do módulo de pagamento foram feita
 
 ## Referências
 
-- Diagrama de Pacotes. Acessado em 13/09/2019. Em: <https://www.uml-diagrams.org/state-machine-diagrams.html>
+- IBM. **Diagrama de Estados**. [S. l.], 2006. Disponível em: http://mds.cultura.gov.br/core.base_rup/guidances/guidelines/statechart_diagram_640B5D0B.html. Acesso em: 13 set. 2019.
 
-- Diagrama de Pacotes. Acessado em 13/09/2019. Em:<http://mds.cultura.gov.br/core.base_rup/guidances/guidelines/statechart_diagram_640B5D0B.html>
+- UML. **State Machine Diagrams**. [S. l.], 2019. Disponível em: https://www.uml-diagrams.org/state-machine-diagrams.html. Acesso em: 13 set. 2019.
