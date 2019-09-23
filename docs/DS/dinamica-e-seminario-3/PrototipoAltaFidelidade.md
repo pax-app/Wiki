@@ -4,28 +4,33 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 
 ## Histórico de Revisões
 
-| Data            | Versão    |              Descrição            |    Autor(es) |
-| :--: | :----: | :-------: | :-------: |
-|   19/09/2019    |   0.0     |    Adição do documento inicial com a referência da introdução   |      Youssef Muhamad |
-|   20/09/2019    |   0.1     |    Adição do fluxo de login, cadastro e recuperação de senha    |      Youssef Muhamad |
-|   20/09/2019    |   0.2     |    Código para botão principal e do input com borda             |      Youssef Muhamad |
-|   21/09/2019    |   0.3     |    Home e Adição de endereço na mesma com fluxo                 |      Youssef Muhamad |
-|   21/09/2019    |   0.4     |    Código para o Card e o Modal Sheet                           |      Youssef Muhamad |
-|   22/09/2019    |   0.5     |    Seleção de prestador de serviços da área de Assistência Técnica                         |      Youssef Muhamad |
-|   22/09/2019    |   0.6     |    Seleção de prestador de serviços da área de Reforma                         |      Youssef Muhamad |
-|   23/09/2019    |   0.7     |    Meus Chats com Fluxo                         |      Youssef Muhamad |
+|    Data    | Versão |                            Descrição                            |    Autor(es)    |
+| :--------: | :----: | :-------------------------------------------------------------: | :-------------: |
+| 19/09/2019 |  0.0   |   Adição do documento inicial com a referência da introdução    | Youssef Muhamad |
+| 20/09/2019 |  0.1   |    Adição do fluxo de login, cadastro e recuperação de senha    | Youssef Muhamad |
+| 20/09/2019 |  0.2   |        Código para botão principal e do input com borda         | Youssef Muhamad |
+| 21/09/2019 |  0.3   |          Home e Adição de endereço na mesma com fluxo           | Youssef Muhamad |
+| 21/09/2019 |  0.4   |               Código para o Card e o Modal Sheet                | Youssef Muhamad |
+| 22/09/2019 |  0.5   | Seleção de prestador de serviços da área de Assistência Técnica | Youssef Muhamad |
+| 22/09/2019 |  0.6   |       Seleção de prestador de serviços da área de Reforma       | Youssef Muhamad |
+| 23/09/2019 |  0.7   |                      Meus Chats com Fluxo                       | Youssef Muhamad |
+| 23/09/2019 |  0.8   |                   Reportar Serviço com Fluxo                    | Gabriel Albino  |
 
-!> O presente protótipo pode ser acessado  [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
+!> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
 ### Login v1
+
 <img src="../../../assets/prototipo-alto-nivel/login.png">
 
 ### Login com Fluxo v1
+
 <img src="../../../assets/prototipo-alto-nivel/login-fluxo.png">
 
 #### Código para o botão principal
+
 <!-- o JS é só pra deixar colorido -->
-```js 
+
+```js
 RaisedButton(
   child: Text("Entrar"),
   onPressed: () {},
@@ -36,6 +41,7 @@ RaisedButton(
 ```
 
 #### Código para o input com borda
+
 ```js
 TextField(
   decoration: new InputDecoration(
@@ -44,16 +50,19 @@ TextField(
   ),
 ),
 ```
+
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
-
 ### Home e Adição de Endereço v1
+
 <img src="../../../assets/prototipo-alto-nivel/add-endereco.png">
 
 ### Home e Adição de Endereço com Fluxo v1
+
 <img src="../../../assets/prototipo-alto-nivel/add-endereco-fluxo.png">
 
-#### Código para um Card 
+#### Código para um Card
+
 ```js
 Card(
   elevation: 5,
@@ -65,24 +74,28 @@ Card(
 ```
 
 #### Função para o Bottom Sheet Modal
+
 ```js
 showModalBottomSheet(
   context: context,
   builder: (_) => SeuWidgetAqui()
 );
 ```
+
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
-
 ### Escolher Prestador da Seção de Assistência Técnica v1
+
 <img src="../../../assets/prototipo-alto-nivel/escolher-prestador-assistencia-tecnica.png">
 
 ### Escolher Prestador da Seção de Assistência Técnica com Fluxo v1
+
 <img src="../../../assets/prototipo-alto-nivel/escolher-prestador-assistencia-tecnica-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 #### Código para o Dialog
+
 ```js
 RaisedButton(
   child: Text('Dialog'),
@@ -101,25 +114,28 @@ RaisedButton(
 ),
 ```
 
+### Escolher Prestador da Seção de Reforma v1
 
-### Escolher Prestador da Seção de Reforma  v1
 <img src="../../../assets/prototipo-alto-nivel/escolher-prestador-reforma.png">
 
 ### Escolher Prestador da Seção de Reforma com Fluxo v1
+
 <img src="../../../assets/prototipo-alto-nivel/escolher-prestador-reforma-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 ### Meus Chats v1
+
 <img src="../../../assets/prototipo-alto-nivel/meus-chats.png">
 
 ### Meus Chats com Fluxo v1
+
 <img src="../../../assets/prototipo-alto-nivel/meus-chats-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
-
 #### Código para o Toast
+
 ```js
 Builder(
   builder: (context) => RaisedButton(
@@ -138,7 +154,15 @@ Builder(
 )
 ```
 
+### Reportar Serviço v1
 
+<img src="../../../assets/prototipo-alto-nivel/reportar-servico.png">
+
+### Reportar Serviço com Fluxo v1
+
+<img src="../../../assets/prototipo-alto-nivel/reportar-servico-fluxo.png">
+
+**Autor:** [Gabriel Albino](https://github.com/gabrielalbino)
 
 ## Referências
 
