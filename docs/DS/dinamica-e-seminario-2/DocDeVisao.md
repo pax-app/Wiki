@@ -13,7 +13,8 @@ O documento de visão captura restrições de design e requisitos de alto nível
 | 29/08/2018 |   0.8  | Preenchimento dos tópicos 1.2, 1.4 e 1.5| Marcos Nery|
 | 30/08/2018 |   1.0  | Preenchendo tópico 4, de visão de produto| Marcos Nery|
 | 30/08/2018 |   1.1  | Correções ortográficas| Marcos Nery|
-| 01/09/2018 |   1.2 | Adicionando explicação do documento| Esio Freitas|
+| 01/09/2018 |   1.2  | Adicionando explicação do documento| Esio Freitas|
+| 22/09/2019 |  1.3   | Formatando referências ABNT | Rogério Júnior |
 
 ## 1. Introdução
 Nesta introdução serão abordados tópicos referentes a uma visão geral do produto, definindo seu propósito, escopo, definições, acrônimos, abreviações e referências.
@@ -140,3 +141,7 @@ O consumidor poderá pela própria aplicação realizar o pagamento pelo trabalh
 ### 4.5 Sistema de avaliação
 
 Existe na aplicação um sistema de feedback avaliativo, pelo qual tanto o prestador quanto o consumidor do serviço poderão se avaliar após a realização do serviço contratado. Dessa forma, ambos os tipos de usuário terão uma classificação baseada nas avaliações que receberam.
+
+## Referências
+
+- IBM. **Documento de Visão**. [S. l.]. Disponível em: https://www.ibm.com/support/knowledgecenter/pt-br/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html. Acesso em: 5 set. 2019.

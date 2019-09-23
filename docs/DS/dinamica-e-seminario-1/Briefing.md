@@ -43,4 +43,4 @@ Por intermédio de reportes e feedbacks dos usuários, tanto contratante como co
 
 ## Referências
 
-- MATHIAS, Lucas. O que é briefing?: Definição, importância e como fazer em 8 passos. [S. l.], 6 ago. 2018. Disponível em: https://mindminers.com/blog/o-que-e-briefing/. Acesso em: 21 ago. 2019.
+- MATHIAS, Lucas. **O que é briefing?**: Definição, importância e como fazer em 8 passos. [S. l.], 6 ago. 2018. Disponível em: https://mindminers.com/blog/o-que-e-briefing/. Acesso em: 21 ago. 2019.
