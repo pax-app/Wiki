@@ -17,8 +17,12 @@
 
 ### 8. [Diagrama de Caso de Uso](docs/DS/dinamica-e-seminario-3/DiagramaCasosDeUso.md)
 
-### 9. [Manual de Identidade Visual](docs/DS/dinamica-e-seminario-3/ManualIdentidadeVisual.md)
+### 9. [Diagrama de Contexto](docs/DS/dinamica-e-seminario-3/DiagramaContexto.md)
 
-### 10. [Teste de Usabilidade](docs/DS/dinamica-e-seminario-3/TesteDeUsabilidadeWireframe.md)
+### 10. [Manual de Identidade Visual](docs/DS/dinamica-e-seminario-3/ManualIdentidadeVisual.md)
 
-### 11. [Pontuação do Backlog](docs/DS/dinamica-e-seminario-3/PontuacaoBacklog.md)
+### 11. [Teste de Usabilidade](docs/DS/dinamica-e-seminario-3/TesteDeUsabilidadeWireframe.md)
+
+### 12. [Pontuação do Backlog](docs/DS/dinamica-e-seminario-3/PontuacaoBacklog.md)
+
+### 13. [Roadmap do Produto](docs/DS/dinamica-e-seminario-3/Roadmap.md)
