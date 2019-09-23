@@ -15,6 +15,7 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | 22/09/2019 |  0.6   |       Seleção de prestador de serviços da área de Reforma       | Youssef Muhamad |
 | 23/09/2019 |  0.7   |                      Meus Chats com Fluxo                       | Youssef Muhamad |
 | 23/09/2019 |  0.8   |                   Reportar Serviço com Fluxo                    | Gabriel Albino  |
+| 23/09/2019 | 0.8.1  |                 Histórico de serviços com Fluxo                 | Gabriel Albino  |
 
 !> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -161,6 +162,16 @@ Builder(
 ### Reportar Serviço com Fluxo v1
 
 <img src="../../../assets/prototipo-alto-nivel/reportar-servico-fluxo.png">
+
+**Autor:** [Gabriel Albino](https://github.com/gabrielalbino)
+
+### Histórico de Serviços v1
+
+<img src="../../../assets/prototipo-alto-nivel/historico-servicos.png">
+
+### Histórico de Serviços com Fluxo v1
+
+<img src="../../../assets/prototipo-alto-nivel/historico-servicos-fluxo.png">
 
 **Autor:** [Gabriel Albino](https://github.com/gabrielalbino)
 
