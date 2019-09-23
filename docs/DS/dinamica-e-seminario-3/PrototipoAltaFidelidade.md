@@ -16,7 +16,7 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | 23/09/2019 |  0.7   |                      Meus Chats com Fluxo                          | Youssef Muhamad |
 | 23/09/2019 |  0.8   |                   Reportar Serviço com Fluxo v1                    | Gabriel Albino  |
 | 23/09/2019 |  0.9   |                 Histórico de serviços com Fluxo v1                 | Gabriel Albino  |
-| 23/09/2019 |  1.0   |     v2 da seleção de prestador de serviço em geral     | Youssef Muhamad  |
+| 23/09/2019 |  1.0   |     v2 da seleção de prestador de serviço em geral                 | Youssef Muhamad  |
 
 !> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -52,8 +52,8 @@ TextField(
   ),
 ),
 ```
-
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
 
 ### Home e Adição de Endereço v1
 
@@ -83,12 +83,12 @@ showModalBottomSheet(
   builder: (_) => SeuWidgetAqui()
 );
 ```
-
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
-### Escolher Prestador da Seção de Assistência Técnica v2
 
-<img src="../../../assets/prototipo-alto-nivel/escolher-prestador-assistencia-tecnicav2.png">
+### Escolher Prestador de Serviços v2
+
+<img src="../../../assets/prototipo-alto-nivel/escolher-prestadorv2.png">
 
 !> Remoção da palavra 'Preço' antecedendo o valor nos cards dos prestadores
 
@@ -98,15 +98,14 @@ showModalBottomSheet(
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
-### Escolher Prestador da Seção de Assistência Técnica v1
 
-<img src="../../../assets/prototipo-alto-nivel/escolher-prestador-assistencia-tecnicav1.png">
+### Escolher Prestador de Serviços v1
 
-### Escolher Prestador da Seção de Assistência Técnica com Fluxo v1
+<img src="../../../assets/prototipo-alto-nivel/escolher-prestadorv1.png">
 
-<img src="../../../assets/prototipo-alto-nivel/escolher-prestador-assistencia-tecnica-fluxo.png">
+### Escolher Prestador de Serviços com Fluxo v1
 
-**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+<img src="../../../assets/prototipo-alto-nivel/escolher-prestador-fluxo.png">
 
 #### Código para o Dialog
 
@@ -127,16 +126,8 @@ RaisedButton(
   },
 ),
 ```
-
-### Escolher Prestador da Seção de Reforma v1
-
-<img src="../../../assets/prototipo-alto-nivel/escolher-prestador-reforma.png">
-
-### Escolher Prestador da Seção de Reforma com Fluxo v1
-
-<img src="../../../assets/prototipo-alto-nivel/escolher-prestador-reforma-fluxo.png">
-
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
 
 ### Meus Chats v1
 
@@ -145,8 +136,6 @@ RaisedButton(
 ### Meus Chats com Fluxo v1
 
 <img src="../../../assets/prototipo-alto-nivel/meus-chats-fluxo.png">
-
-**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 #### Código para o Toast
 
@@ -167,6 +156,8 @@ Builder(
   ),
 )
 ```
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
 
 ### Reportar Serviço v1
 
