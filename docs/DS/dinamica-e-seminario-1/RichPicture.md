@@ -15,6 +15,41 @@ Um <i>rich picture</i> é um documento que é composto por representações de d
 | 22/08/2019 |  1.1   |    Adicionando versões do richpicture do usuário    |  Fabiana Ribas |
 | 23/08/2019 |  1.2   |    Adicionando o richpicture do prestador de serviço    |  Youssef Muhamad |
 
+## Versões 2.0
+
+A partir das versões produzidas individuamente, o time optou por buscar unificar as visões de todos os integrantes em relação à aplicação e gerar apenas um artefato que possuísse toda a idéia inicial que permeou a concepção da aplicação.
+
+Outro ponto levantado foi a importância da visão dos dois grandes públicos do aplicativo: na forma como interagiriam com os usuários e como seria o fluxo de execução em ambos os casos; dessa forma foi optado por confeccionar dois _Rich Pictures_ adicionais: um pela óptica do **Usuário** e outro para o **Prestador de Serviço**.
+
+### RP Geral V2
+
+![rp_geral_v2](../../../assets/rich-pictures/rp_geral_v2.png)
+
+**Autores:** [Rogério Júnior](https://github.com/rogerioo), [Esio Gustavo](https://github.com/EsioFreitas) e [Lucas Dutra](https://github.com/lucasdutraf)
+
+### RP Geral V1
+
+![rp_geral_v1](../../../assets/rich-pictures/rp_geral_v1.png)
+
+**Autor:** [Rogério Júnior](https://github.com/rogerioo)
+
+### RP Usuário V2
+
+![rp_usuario_v2](../../../assets/rich-pictures/rp_usuario_v2.png)
+
+**Autor:** [Fabiana Ribas](https://github.com/FabianaRibas)
+
+### RP Usuário V1
+
+![rp_usuario_v1](../../../assets/rich-pictures/rp_usuario_v1.jpg)
+
+**Autor:** [Fabiana Ribas](https://github.com/FabianaRibas)
+
+### RP Prestador Serviço V1
+
+![rp_prestador_servico](../../../assets/rich-pictures/rp_prestador_servico_v1.png)
+
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 ## Versões 1.0
 
@@ -81,42 +116,6 @@ As primeiras versões buscaram representar as visões de cada um dos membros com
 ![rp_fabi_v1](../../../assets/rich-pictures/rp_fabi_v1.jpeg)
 
 **Autor:** [Fabiana Ribas](https://github.com/FabianaRibas)
-
-## Versões 2.0
-
-A partir das versões produzidas individuamente, o time optou por buscar unificar as visões de todos os integrantes em relação à aplicação e gerar apenas um artefato que possuísse toda a idéia inicial que permeou a concepção da aplicação.
-
-Outro ponto levantado foi a importância da visão dos dois grandes públicos do aplicativo: na forma como interagiriam com os usuários e como seria o fluxo de execução em ambos os casos; dessa forma foi optado por confeccionar dois _Rich Pictures_ adicionais: um pela óptica do **Usuário** e outro para o **Prestador de Serviço**.
-
-### RP Geral V1
-
-![rp_geral_v1](../../../assets/rich-pictures/rp_geral_v1.png)
-
-**Autor:** [Rogério Júnior](https://github.com/rogerioo)
-
-### RP Geral V2
-
-![rp_geral_v2](../../../assets/rich-pictures/rp_geral_v2.png)
-
-**Autores:** [Rogério Júnior](https://github.com/rogerioo), [Esio Gustavo](https://github.com/EsioFreitas) e [Lucas Dutra](https://github.com/lucasdutraf)
-
-### RP Usuário V1
-
-![rp_usuario_v1](../../../assets/rich-pictures/rp_usuario_v1.jpg)
-
-**Autor:** [Fabiana Ribas](https://github.com/FabianaRibas)
-
-### RP Usuário V2
-
-![rp_usuario_v2](../../../assets/rich-pictures/rp_usuario_v2.png)
-
-**Autor:** [Fabiana Ribas](https://github.com/FabianaRibas)
-
-### RP Prestador Serviço V1
-
-![rp_prestador_servico](../../../assets/rich-pictures/rp_prestador_servico_v1.png)
-
-**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 ## Referências
 

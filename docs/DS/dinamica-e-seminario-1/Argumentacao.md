@@ -67,13 +67,15 @@ App pra idosos;
 Plataforma de trabalhos voluntários.
 **ganhou:** Rappi de serviços;
 
-### Argumentação V1
-
-![ArgV1](../../../assets/Artumentacaov1.png)
-
 ### Argumentação V2
 
 ![ArgV1](../../../assets/Artumentacaov2.png)
+
+**Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
+
+### Argumentação V1
+
+![ArgV1](../../../assets/Artumentacaov1.png)
 
 **Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
 

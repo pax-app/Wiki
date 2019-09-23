@@ -12,29 +12,6 @@ A entrevista foi realizada para entender melhor os problemas e as necessidades d
 | 18/08/2019 |  1.0   |        Realização de entrevistas         |  Lucas Dutra  |
 | 21/08/2019 |  1.1   |     Arrumando detalhes do documentos     | Ésio Freitas  |
 
-## Roteiro da Entrevista v1.0
-
-### Perguntas
-
-1. Qual meio você geralmente utiliza para contratar prestadores de serviços?
-
-2. Com qual frequência você costuma contratar prestadores de serviço?
-
-3. Você já se deparou com algum empecilho na hora de estabelecer esse tipo de contato? Se sim, qual?
-
-4. Como você custuma verificar se o serviço da pessoa contratado é de boa qualidade?
-
-5. Existe algum critério para contratar um prestador de serviços?
-
-6. Você utilizaria uma plataforma para contratar prestadores de serviços baseado na sua necessidade?
-
-7. A opinião de outros contratantes sobre um prestador de serviço é um ponto chave para você efetuar a contratação?
-
-8. Qual método de pagamento você costuma usar para pagar o prestador de serviço contratado?  
-
-**Autor:** [Lucas Dutra](https://github.com/lucasdutraf).
-
-
 ## Roteiro da Entrevista v2.0
 
 ### Perguntas
@@ -61,6 +38,27 @@ A entrevista foi realizada para entender melhor os problemas e as necessidades d
 
 **Autor(es):** [Esio Gustavo](https://github.com/EsioFreitas), [Lucas Dutra](https://github.com/lucasdutraf) e [Kaique Borges](https://github.com/kaiqueborges).
 
+## Roteiro da Entrevista v1.0
+
+### Perguntas
+
+1. Qual meio você geralmente utiliza para contratar prestadores de serviços?
+
+2. Com qual frequência você costuma contratar prestadores de serviço?
+
+3. Você já se deparou com algum empecilho na hora de estabelecer esse tipo de contato? Se sim, qual?
+
+4. Como você custuma verificar se o serviço da pessoa contratado é de boa qualidade?
+
+5. Existe algum critério para contratar um prestador de serviços?
+
+6. Você utilizaria uma plataforma para contratar prestadores de serviços baseado na sua necessidade?
+
+7. A opinião de outros contratantes sobre um prestador de serviço é um ponto chave para você efetuar a contratação?
+
+8. Qual método de pagamento você costuma usar para pagar o prestador de serviço contratado?  
+
+**Autor:** [Lucas Dutra](https://github.com/lucasdutraf).
 
 ## Respostas com base no Roteiro da Entrevista v2.0
 
