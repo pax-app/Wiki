@@ -17,6 +17,7 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | 23/09/2019 |  0.8   |                   Reportar Serviço com Fluxo v1                    | Gabriel Albino  |
 | 23/09/2019 |  0.9   |                 Histórico de serviços com Fluxo v1                 | Gabriel Albino  |
 | 23/09/2019 |  1.0   |     v2 da seleção de prestador de serviço em geral                 | Youssef Muhamad  |
+| 23/09/2019 |  1.1   |     v2 do 'Meus Chats'                                               | Youssef Muhamad  |
 
 !> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -128,10 +129,17 @@ RaisedButton(
 ```
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
+### Meus Chats v2
+
+<img src="../../../assets/prototipo-alto-nivel/meus-chatsv2.png">
+
+!> Melhorando a previsibilidade do sistema, alertando o usuário da ação
+
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 ### Meus Chats v1
 
-<img src="../../../assets/prototipo-alto-nivel/meus-chats.png">
+<img src="../../../assets/prototipo-alto-nivel/meus-chatsv1.png">
 
 ### Meus Chats com Fluxo v1
 
