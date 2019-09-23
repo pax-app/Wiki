@@ -17,7 +17,8 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | 23/09/2019 |  0.8   |                   Reportar Serviço com Fluxo v1                    | Gabriel Albino  |
 | 23/09/2019 |  0.9   |                 Histórico de serviços com Fluxo v1                 | Gabriel Albino  |
 | 23/09/2019 |  1.0   |     v2 da seleção de prestador de serviço em geral                 | Youssef Muhamad  |
-| 23/09/2019 |  1.1   |     v2 do 'Meus Chats'                                               | Youssef Muhamad  |
+| 23/09/2019 |  1.1   |     v2 do 'Meus Chats'                                             | Youssef Muhamad  |
+| 23/09/2019 |  1.2   |     v2 do Histórico de Contratações                                | Youssef Muhamad  |
 
 !> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -166,6 +167,32 @@ Builder(
 ```
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
+### Histórico de Serviços v2
+
+<img src="../../../assets/prototipo-alto-nivel/historico-servicosv2.png">
+
+### Histórico de Serviços com Fluxo v2
+
+<img src="../../../assets/prototipo-alto-nivel/historico-servicos-fluxov2.png">
+
+!> Padronização do sistema com Chat v2, alertando usuário para agir com cautela
+
+!> Melhoria do espaço negativo do card de contratações
+
+!> Melhorando o botão de 'DETALHES' para não prender a visão do usuário
+
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
+
+### Histórico de Serviços v1
+
+<img src="../../../assets/prototipo-alto-nivel/historico-servicosv1.png">
+
+### Histórico de Serviços com Fluxo v1
+
+<img src="../../../assets/prototipo-alto-nivel/historico-servicos-fluxov1.png">
+
+**Autor:** [Gabriel Albino](https://github.com/gabrielalbino)
 
 ### Reportar Serviço v1
 
@@ -177,15 +204,6 @@ Builder(
 
 **Autor:** [Gabriel Albino](https://github.com/gabrielalbino)
 
-### Histórico de Serviços v1
-
-<img src="../../../assets/prototipo-alto-nivel/historico-servicos.png">
-
-### Histórico de Serviços com Fluxo v1
-
-<img src="../../../assets/prototipo-alto-nivel/historico-servicos-fluxo.png">
-
-**Autor:** [Gabriel Albino](https://github.com/gabrielalbino)
 
 ## Referências
 
