@@ -82,6 +82,25 @@ showModalBottomSheet(
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
+#### Código para o Dialog
+```js
+RaisedButton(
+  child: Text('Dialog'),
+  onPressed: () {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(15),
+        ),
+        title: Text('Apagar Chat', textAlign: TextAlign.center),
+        content: Text('O resto vai aqui...'),
+      ),
+    );
+  },
+),
+```
+
 
 ### Escolher Prestador da Seção de Reforma  v1
 <img src="../../../assets/prototipo-alto-nivel/escolher-prestador-reforma.png">
@@ -98,6 +117,27 @@ showModalBottomSheet(
 <img src="../../../assets/prototipo-alto-nivel/meus-chats-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
+
+#### Código para o Toast
+```js
+Builder(
+  builder: (context) => RaisedButton(
+    child: Text('TOAST'),
+    onPressed: () {
+      Scaffold.of(context).showSnackBar(SnackBar(
+        content: const Text('Sou um Toast'),
+        action: SnackBarAction(
+          label: 'DESFAZER',
+          textColor: Colors.green,
+          onPressed: () {},
+        ),
+      ));
+    },
+  ),
+)
+```
+
 
 
 ## Referências
