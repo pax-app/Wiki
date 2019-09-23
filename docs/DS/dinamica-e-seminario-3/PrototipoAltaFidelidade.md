@@ -9,8 +9,9 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 |   19/09/2019    |   0.0     |    Adição do documento inicial com a referência da introdução   |      Youssef Muhamad |
 |   20/09/2019    |   0.1     |    Adição do fluxo de login, cadastro e recuperação de senha    |      Youssef Muhamad |
 |   20/09/2019    |   0.2     |    Código para botão principal e do input com borda             |      Youssef Muhamad |
-|   20/09/2019    |   0.3     |    Home e Adição de endereço na mesma com fluxo e código para alguns elementos             |      Youssef Muhamad |
-|   20/09/2019    |   0.4     |    Seleção de prestador de serviços da área de Assistência Técnica                         |      Youssef Muhamad |
+|   21/09/2019    |   0.3     |    Home e Adição de endereço na mesma com fluxo e código para alguns elementos             |      Youssef Muhamad |
+|   22/09/2019    |   0.4     |    Seleção de prestador de serviços da área de Assistência Técnica                         |      Youssef Muhamad |
+|   22/09/2019    |   0.5     |    Seleção de prestador de serviços da área de Reforma                         |      Youssef Muhamad |
 
 !> O presente protótipo pode ser acessado  [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -41,7 +42,6 @@ TextField(
   ),
 ),
 ```
-
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
@@ -69,8 +69,8 @@ showModalBottomSheet(
   builder: (_) => SeuWidgetAqui()
 );
 ```
-
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
 
 ### Escolher Prestador da Seção de Assistência Técnica v1
 <img src="../../../assets/prototipo-alto-nivel/escolher-prestador-assistencia-tecnica.png">
@@ -78,6 +78,16 @@ showModalBottomSheet(
 ### Escolher Prestador da Seção de Assistência Técnica com Fluxo v1
 <img src="../../../assets/prototipo-alto-nivel/escolher-prestador-assistencia-tecnica-fluxo.png">
 
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
+
+### Escolher Prestador da Seção de Reforma  v1
+<img src="../../../assets/prototipo-alto-nivel/escolher-prestador-reforma.png">
+
+### Escolher Prestador da Seção de Reforma com Fluxo v1
+<img src="../../../assets/prototipo-alto-nivel/escolher-prestador-reforma-fluxo.png">
+
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
 
