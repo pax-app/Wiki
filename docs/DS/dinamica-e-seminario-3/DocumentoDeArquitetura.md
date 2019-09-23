@@ -14,7 +14,7 @@ Este documento visa especificar de forma básica alguns tópicos referentes ao D
 | 15/09/2019 |  0.6   | Arrumando linkagem para o Léxico "Pax"          | Rogério Júnior |
 | 15/09/2019 |  0.7   | Adição da visão de casos de uso                 | Marcos Nery |
 | 21/09/2019 |  0.8   | v2 do diagrama de contexto dos microsserviços   | Youssef Muhamad e Lucas Dutra |
-
+| 22/09/2019 |  0.9   |         Formatando referências ABNT         |                 Rogério Júnior               |
 
 ## 1. Introdução
 
@@ -142,13 +142,11 @@ Como definido no Léxico [L2](../dinamica-e-seminario-2/lexico.md#L2), é o usu�
 
 ## Referências 
 
-- Flutter. Acessado em: 15/09/2019. <https://flutter.dev/>
-- Flask - The Pallets Project. Acessado em: 15/09/2019. <https://palletsprojects.com/p/flask/>
-- O que é node.js. Acessado em: 15/09/2019. <http://nodebr.com/o-que-e-node-js/>
-- PostgreSQL. Acessado em: 15/09/2019. <https://www.postgresql.org/>
-- Pattern: Decompose by subdomain. Acessado em: 13/09/2019. <https://microservices.io/patterns/decomposition/decompose-by-subdomain.html>
-- Top 5 software architecture patterns how make right choice. Acessado em: 13/09/2019. <https://techbeacon.com/app-dev-testing/top-5-software-architecture-patterns-how-make-right-choice>
-- 10 common software architectural patterns in a nutshell. Acessado em: 13/09/2019. <https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013>
-- Microservice architecture. Acessado em: 13/09/2019. <https://microservices.io/index.html>
-
-
+- DONG, Tao. **Flutter**. [S. l.], 2019. Disponível em: https://medium.com/flutter. Acesso em: 15 set. 2019.
+- **FLASK (FRAMEWORK WEB)**. In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2019. Disponível em: <https://pt.wikipedia.org/w/index.php?title=Flask_(framework_web)&oldid=55329171>. Acesso em: 15 set. 2019.
+- MALLAWAARACHCHI, Vijini. **10 Common Software Architectural Patterns in a nutshell**. [S. l.], 2017. Disponível em: https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013. Acesso em: 15 set. 2019.
+- **NODE.JS**. In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2019. Disponível em: <https://pt.wikipedia.org/w/index.php?title=Node.js&oldid=55592828>. Acesso em: 15 set. 2019.
+- PANT, Prabhu. **A complete guide to PostgreSQL**. [S. l.], 2018. Disponível em: https://medium.com/@heyPrabhu/a-complete-guide-to-postgresql-e4d1cefb9866. Acesso em: 15 set. 2019.
+- RICHARDSON, Chris. **Pattern**: Decompose by subdomain. [S. l.]. Disponível em: https://microservices.io/patterns/decomposition/decompose-by-subdomain.html. Acesso em: 15 set. 2019.
+- RICHARDSON, Chris. **What are microservices?**. [S. l.]. Disponível em: https://microservices.io/index.html. Acesso em: 15 set. 2019.
+- WAYNER, Peter. **The top 5 software architecture patterns**: how to make the right choice. [S. l.]. Disponível em: https://techbeacon.com/app-dev-testing/top-5-software-architecture-patterns-how-make-right-choice. Acesso em: 15 set. 2019.

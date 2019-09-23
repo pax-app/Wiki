@@ -19,7 +19,7 @@ Aqui estão listados os léxicos, sendo estes termos específicos do contexto do
 | 04/09/2019 |  1.7   |         Atualizando os IDs para formato de léxico          |    Marcos Nery     |
 | 04/09/2019 |  1.8   |                    Inclusão do termo L8                    |    Marcos Nery     |
 | 05/09/2019 |  2.0   |                   Refinamento dos termos                   |    Marcos Nery     |
-
+| 22/09/2019 |  2.1   |                Formatando referências ABNT                 |  Rogério Júnior    |
 
 <br>
 
@@ -199,3 +199,8 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | - Caso o pax seja negado as duas partes podem tentar, caso queiram, negociar novamente e editar ou criar um novo pax|
 |**Sinônimos**|
 |  contrato |
+
+## Referências
+
+- LEITE, Julia Cesar Sampaio do Prado; FRANCO, Ana Paula M. A Strategy for Conceptual Model Acquisition. **[1993] Proceedings of the IEEE International Symposium on Requirements Engineering**, San Diego, CA, USA, USA, p. 243-246, 6 ago. 2002. Disponível em: http://www-di.inf.puc-rio.br/~julio/Slct-pub/lel.pdf. Acesso em: 5 set. 2019.
+- SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

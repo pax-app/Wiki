@@ -6,8 +6,8 @@ Na Programação Orientada a Objetos, classes são fundamentais para a execuçã
 
 |    Data    | Versão |             Descrição             |   Autor(es)   |
 | :--------: | :----: | :-------------------------------: | :-----------: |
-| 16/09/2017 |  0.5   | Adição da v0 do diagrama Back-end | Kaique Borges |
-| 19/09/2017 |  1.0   |     Divisão de microsserviços     | Kaique Borges |
+| 16/09/2017 |  1.0   | Adição da v0 do diagrama Back-end | Kaique Borges |
+| 22/09/2019 |  1.1   |         Formatando referências ABNT         |                 Rogério Júnior               |
 
 ## Back-end
 
@@ -41,4 +41,4 @@ O back-end será construído por serviços feitos com o microframework Flask em 
 
 ## Referências
 
-- Orientações básicas na elaboração de um diagrama de classes. Acessado em 16/09/2019. Em: <https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224>
+- DEVMEDIA. **Orientações básicas na elaboração de um diagrama de classes**. [S. l.], 2019. Disponível em: https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224. Acesso em: 16 set. 2019.

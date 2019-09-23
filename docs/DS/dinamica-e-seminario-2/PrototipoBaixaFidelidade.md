@@ -11,6 +11,7 @@ O **Protótipo de Baixa Fidelidade** simula algumas características do projeto,
 | 05/09/2019 | 1.0.2  |                     Adição de telas faltantes                      |  Esio Freitas   |
 | 09/09/2019 |  1.1   | Condensando os protótipos em uma só imagem para compactar a página | Youssef Muhamad |
 | 09/09/2019 |  1.2   |                      Adicionando referências                       | Youssef Muhamad |
+| 22/09/2019 |  1.3   |                     Formatando referências ABNT                    | Rogério Júnior  |
 
 ### Home e perfil de usuário
 
@@ -42,10 +43,9 @@ Baseados nos fluxos acima, algumas telas principais foram propostas para que os 
 
 ## Referências
 
+- ALEX, Jefferson. **Protótipos de baixa, média e alta fidelidade**. [S. l.], 2017. Disponível em: http://jeffersonalex.com.br/design/prototipos-de-baixa-media-e-alta-fidelidade/. Acesso em: 9 set. 2019.
+- FRANCISCO, Tatiane. **Baixa, média ou alta fidelidade?**. [S. l.], 2019. Disponível em: https://dextra.com.br/pt/baixa-media-ou-alta-fidelidade-conheca-as-diferencas-entre-os-tipos-de-prototipos/. Acesso em: 9 set. 2019.
 - [Entrevistas](/docs/DS/dinamica-e-seminario-1/Entrevista.md)
 - [Questionário](/docs/DS/dinamica-e-seminario-1/AnaliseQuestionario.md)
 - [Rich Pictures](/docs/DS/dinamica-e-seminario-1/RichPicture.md)
 - [Backlog](/docs/DS/dinamica-e-seminario-2/Backlog.md)
-- Protótipos de baixa, média e alta fidelidade. Acessado dia **09/09/2019** em: <http://jeffersonalex.com.br/design/prototipos-de-baixa-media-e-alta-fidelidade/>
-- Baixa, média ou alta fidelidade? Conheça as diferenças entre os tipos de protótipos.
-  . Acessado dia **09/09/2019** em: <https://dextra.com.br/pt/baixa-media-ou-alta-fidelidade-conheca-as-diferencas-entre-os-tipos-de-prototipos/>

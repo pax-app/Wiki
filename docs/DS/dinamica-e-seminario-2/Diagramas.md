@@ -11,8 +11,8 @@ Para realizar a disciplina de _Arquitetura e Desenho de Software_ foi decidido r
 | 06/09/2019 |  0.1   |            Criação do documento             | Fabiana Pfeilsticker Ribas e Matheus Pimenta |
 | 06/09/2019 |  1.0   |            Adição dos diagramas             | Matheus Pimenta e Fabiana Pfeilsticker Ribas |
 | 06/09/2019 |  1.1   |              Colocando autores              |                Rogério Júnior                |
-| 05/09/2019 |  1.2   | Adição da V2 do fluxo - usando notação BPMN |                Kaique Borges                 |    
-| 19/09/2019 |  2.0   |     Adicionando Diagrama de Processo de Modelagem UML    |         Matheus Pimenta      |
+| 05/09/2019 |  1.2   | Adição da V2 do fluxo - usando notação BPMN |                Kaique Borges                 |
+| 22/09/2019 |  1.3   |         Formatando referências ABNT         |                 Rogério Júnior               |
 
 ## Versões 1.0
 
@@ -78,4 +78,5 @@ Autor: [Matheus Figueiredo]([Imgur](https://i.imgur.com/4nswLVC.png))
 
 ## Referências
 
--
+- FLOWERS, Robert; EDEKI, Charles. Business Process Modeling Notation. **International Journal of Computer Science and Mobile Computing**, [s. l.], v. 2, p. 35 – 40, 1 mar. 2013. Disponível em: https://pdfs.semanticscholar.org/5ef9/417be5caaebd3e2a2445e2262968c19d3976.pdf. Acesso em: 5 set. 2019.
+- TRIBUNAL DE CONTAS DA UNIÃO. **Curso de Mapeamento de Processos de Trabalho com BPMN e Bizagi**. [S. l.: s. n.], 2013.

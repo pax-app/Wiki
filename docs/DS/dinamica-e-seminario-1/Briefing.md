@@ -10,7 +10,8 @@ Uma aplicação mobile que disponibiliza um conjunto abrangente de diversos serv
 
 |    Data    | Versão |      Descrição       |                  Autor(es)                   |
 | :--------: | :----: | :------------------: | :------------------------------------------: |
-| 20/08/2019 |  0.1   | Criação do documento | Fabiana Luiza Vasconcelos Pfeilsticker Ribas |
+| 20/08/2019 |  1.0   | Criação do documento | Fabiana Luiza Vasconcelos Pfeilsticker Ribas |
+| 20/09/2019 |  1.1   | Formatando referências ABNT | Rogério Júnior |
 
 ## 1. Por que do produto?
 
@@ -40,8 +41,6 @@ Por intermédio de reportes e feedbacks dos usuários, tanto contratante como co
   
 **Autora:** [Fabiana Luiza Vasconcelos Pfeilsticker Ribas](https://github.com/FabianaRibas).
 
-# Referências
+## Referências
 
-*O que é briefing? Definição, importância e como fazer em 8 passos. Acessado 21/08/2019 em: <https://mindminers.com/blog/o-que-e-briefing/>
-
-*Modelo de referência para a montagem do documento: <https://docs.google.com/document/d/1Ce_W5hReHlpsoIqiCrv84c7o8TK4QY2BpxQS9PnzjZc/edit>
+- MATHIAS, Lucas. **O que é briefing?**: Definição, importância e como fazer em 8 passos. [S. l.], 6 ago. 2018. Disponível em: https://mindminers.com/blog/o-que-e-briefing/. Acesso em: 21 ago. 2019.

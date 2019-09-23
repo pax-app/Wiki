@@ -19,5 +19,5 @@ O back-end será construído por serviços feitos com o microframework Flask em 
 
 ## Referências
 
-- The Easy Guide to UML Deployment Diagrams. Acessado em 19/09/2019. Em: <https://creately.com/blog/diagrams/deployment-diagram-tutorial/>
-- Deployment Diagrams Overview. Acessado em 19/09/2019. Em: <https://www.uml-diagrams.org/deployment-diagrams-overview.html>
+- **The Easy Guide to UML Deployment Diagrams**. [S. l.], 2019. Disponível em: https://creately.com/blog/diagrams/deployment-diagram-tutorial/. Acesso em: 19 set. 2019.
+- UML. **Deployment Diagrams Overview**. [S. l.], 2019. Disponível em: https://www.uml-diagrams.org/deployment-diagrams-overview.html. Acesso em: 19 set. 2019.

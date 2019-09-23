@@ -8,7 +8,7 @@ Abaixo segue o diagrama com os casos de uso da aplicação, visando expor alguns
 | :--: | :----: | :-------: | :-------: |
 | 18/09/2017     |  1.0       |  Criação do documento         |      Marcos Nery    |
 | 18/09/2017     |  1.1       |  Adição de novas versões do diagrama       |      Marcos Nery    |
-
+| 22/09/2019 |  1.2   |         Formatando referências ABNT         |                 Rogério Júnior               |
 
 ### Descrição dos atores envolvidos
 
@@ -28,28 +28,28 @@ Como definido no Léxico [L2](docs/DS/dinamica-e-seminario-2/lexico.md#L2), é o
 
 <p style="text-align:justify">&emsp;&emsp;Organizações bancarias responsáveis pelo processamento dos pagamentos feitos pelo aplicativo.</p>
 
-
-### DCU-V1
-Primeira versão do diagrama
-
-![CasosDeUsoV1](../../../assets/arquitetura/PAXCasosDeUsoV0.png)
-
-**Autor:** [Marcos Nery](https://github.com/marcosnbj)
-
-### DCU-V2
-Adição de relação entre usuário prestador e usuário consumidor e de outros dois atores do sistema, além de um outro caso de uso.
-
-![CasosDeUsoV2](../../../assets/arquitetura/PAXCasosDeUsoV1.png)
-
-**Autor:** [Marcos Nery](https://github.com/marcosnbj)
-
-### DCU-V3
+### Versão 3.0
 Numeração dos casos de uso.
 
 ![CasosDeUsoV3](../../../assets/arquitetura/PAXCasosDeUsoV2.png)
 
 **Autor:** [Marcos Nery](https://github.com/marcosnbj)
 
+
+### Versão 2.0
+Adição de relação entre usuário prestador e usuário consumidor e de outros dois atores do sistema, além de um outro caso de uso.
+
+![CasosDeUsoV2](../../../assets/arquitetura/PAXCasosDeUsoV1.png)
+
+**Autor:** [Marcos Nery](https://github.com/marcosnbj)
+
+### Versão 1.0
+Primeira versão do diagrama
+
+![CasosDeUsoV1](../../../assets/arquitetura/PAXCasosDeUsoV0.png)
+
+**Autor:** [Marcos Nery](https://github.com/marcosnbj)
+
 ## Referências
 
-* UML Use Case Diagrams. Acessado em 15/09/2019. Em: https://www.uml-diagrams.org/use-case-diagrams.html
+* UML. **Use Case Diagrams**. [S. l.]. Disponível em: https://www.uml-diagrams.org/use-case-diagrams.html. Acesso em: 15 set. 2019.

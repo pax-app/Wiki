@@ -24,4 +24,4 @@ Em desenvolvimento de sistemas, ele é considerado o diagrama de fluxo de dados 
 
 ## Referências
 
-- Diagrama de contexto. Acessado 22/09/2019. Em <https://escritoriodeprojetos.com.br/diagrama-de-contexto>
+- MONTER, Eduardo. **Diagrama de contexto**. [S. l.], 2017. Disponível em: https://escritoriodeprojetos.com.br/diagrama-de-contexto. Acesso em: 19 set. 2019.
