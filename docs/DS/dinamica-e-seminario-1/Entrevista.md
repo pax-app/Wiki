@@ -116,4 +116,4 @@ O áudio dessa entrevista pode ser encontrado no nossos arquivos do Drive.
 
 ## Referências
 
-* Materiais didáticos das aulas dos professores Milene Serrano e Mauricio Serrano
+* SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
