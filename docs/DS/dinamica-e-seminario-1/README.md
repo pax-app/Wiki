@@ -11,4 +11,4 @@
 ### 8.[Entrevista](docs/DS/dinamica-e-seminario-1/Entrevista.md)
 ### 9.[Curva de Valor](docs/DS/dinamica-e-seminario-1/CurvadeValor.md)
 ### 10.[Mapa Mental](docs/DS/dinamica-e-seminario-1/MapaMental.md)
-### 11.[Brainstorm](docs/DS/dinamica-e-seminario-1/Brainstorming.md)
+### 11.[Brainstorming](docs/DS/dinamica-e-seminario-1/Brainstorming.md)
