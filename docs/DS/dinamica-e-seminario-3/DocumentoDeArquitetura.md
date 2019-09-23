@@ -14,7 +14,8 @@ Este documento visa especificar de forma básica alguns tópicos referentes ao D
 | 15/09/2019 |  0.6   | Arrumando linkagem para o Léxico "Pax"          | Rogério Júnior |
 | 15/09/2019 |  0.7   | Adição da visão de casos de uso                 | Marcos Nery |
 | 21/09/2019 |  0.8   | v2 do diagrama de contexto dos microsserviços   | Youssef Muhamad e Lucas Dutra |
-| 22/09/2019 |  0.9   |         Formatando referências ABNT         |                 Rogério Júnior               |
+| 22/09/2019 |  0.9   |         Formatando referências ABNT             |   Rogério Júnior  |
+| 23/09/2019 |  1.0   |   v3 do diagrama de contexto dos microsserviços | Youssef Muhamad e Lucas Dutra |
 
 ## 1. Introdução
 
@@ -89,7 +90,7 @@ Modelo de representação dos serviços implementados e as interações estabele
 
 ### 2.4 Diagrama de contexto
 
-![Diagrama de Arquitetura](../../../assets/DiagramaContextoV2.png)
+![Diagrama de Arquitetura](../../../assets/diagrama_contexto/DiagramaContextoV3.png)
 
 ## 3. Restrições e Metas Arquiteturais
 
