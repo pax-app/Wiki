@@ -6,16 +6,17 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 
 |    Data    | Versão |                            Descrição                            |    Autor(es)    |
 | :--------: | :----: | :-------------------------------------------------------------: | :-------------: |
-| 19/09/2019 |  0.0   |   Adição do documento inicial com a referência da introdução    | Youssef Muhamad |
-| 20/09/2019 |  0.1   |    Adição do fluxo de login, cadastro e recuperação de senha    | Youssef Muhamad |
-| 20/09/2019 |  0.2   |        Código para botão principal e do input com borda         | Youssef Muhamad |
-| 21/09/2019 |  0.3   |          Home e Adição de endereço na mesma com fluxo           | Youssef Muhamad |
-| 21/09/2019 |  0.4   |               Código para o Card e o Modal Sheet                | Youssef Muhamad |
-| 22/09/2019 |  0.5   | Seleção de prestador de serviços da área de Assistência Técnica | Youssef Muhamad |
-| 22/09/2019 |  0.6   |       Seleção de prestador de serviços da área de Reforma       | Youssef Muhamad |
-| 23/09/2019 |  0.7   |                      Meus Chats com Fluxo                       | Youssef Muhamad |
-| 23/09/2019 |  0.8   |                   Reportar Serviço com Fluxo                    | Gabriel Albino  |
-| 23/09/2019 | 0.8.1  |                 Histórico de serviços com Fluxo                 | Gabriel Albino  |
+| 19/09/2019 |  0.0   |   Adição do documento inicial com a referência da introdução       | Youssef Muhamad |
+| 20/09/2019 |  0.1   |    Adição do fluxo de login, cadastro e recuperação de senha       | Youssef Muhamad |
+| 20/09/2019 |  0.2   |        Código para botão principal e do input com borda            | Youssef Muhamad |
+| 21/09/2019 |  0.3   |          Home e Adição de endereço na mesma com fluxo              | Youssef Muhamad |
+| 21/09/2019 |  0.4   |               Código para o Card e o Modal Sheet                   | Youssef Muhamad |
+| 22/09/2019 |  0.5   | Seleção de prestador de serviços da área de Assistência Técnica    | Youssef Muhamad |
+| 22/09/2019 |  0.6   |       Seleção de prestador de serviços da área de Reforma          | Youssef Muhamad |
+| 23/09/2019 |  0.7   |                      Meus Chats com Fluxo                          | Youssef Muhamad |
+| 23/09/2019 |  0.8   |                   Reportar Serviço com Fluxo v1                    | Gabriel Albino  |
+| 23/09/2019 |  0.9   |                 Histórico de serviços com Fluxo v1                 | Gabriel Albino  |
+| 23/09/2019 |  1.0   |     v2 da seleção de prestador de serviço em geral     | Youssef Muhamad  |
 
 !> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -85,9 +86,21 @@ showModalBottomSheet(
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
+### Escolher Prestador da Seção de Assistência Técnica v2
+
+<img src="../../../assets/prototipo-alto-nivel/escolher-prestador-assistencia-tecnicav2.png">
+
+!> Remoção da palavra 'Preço' antecedendo o valor nos cards dos prestadores
+
+!> Adição do Preço no perfil do prestador
+
+!> Remoção da text area de Bio e justificando o texto
+
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
 ### Escolher Prestador da Seção de Assistência Técnica v1
 
-<img src="../../../assets/prototipo-alto-nivel/escolher-prestador-assistencia-tecnica.png">
+<img src="../../../assets/prototipo-alto-nivel/escolher-prestador-assistencia-tecnicav1.png">
 
 ### Escolher Prestador da Seção de Assistência Técnica com Fluxo v1
 
