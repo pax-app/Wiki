@@ -72,10 +72,10 @@ showModalBottomSheet(
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
-### Escolher Prestador da seção de Assistência Técnica v1
+### Escolher Prestador da Seção de Assistência Técnica v1
 <img src="../../../assets/prototipo-alto-nivel/escolher-prestador-assistencia-tecnica.png">
 
-### Escolher Prestador da seção de Assistência Técnica com Fluxo v1
+### Escolher Prestador da Seção de Assistência Técnica com Fluxo v1
 <img src="../../../assets/prototipo-alto-nivel/escolher-prestador-assistencia-tecnica-fluxo.png">
 
 
