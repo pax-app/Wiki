@@ -19,8 +19,9 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | 23/09/2019 |  1.0   |     v2 da seleção de prestador de serviço em geral                 | Youssef Muhamad  |
 | 23/09/2019 |  1.1   |     v2 do 'Meus Chats'                                             | Youssef Muhamad  |
 | 23/09/2019 |  1.2   |     v2 do Histórico de Contratações                                | Youssef Muhamad  |
-| 23/09/2019 |  1.3   |     Telas de 'Meus Cartões' com fluxo                                | Youssef Muhamad  |
-| 23/09/2019 |  1.4   |     Perfil do usuário e configurações                                | Youssef Muhamad  |
+| 23/09/2019 |  1.3   |     Telas de 'Meus Cartões' com fluxo                              | Youssef Muhamad  |
+| 23/09/2019 |  1.4   |     Perfil do usuário e configurações                              | Youssef Muhamad  |
+| 23/09/2019 |  1.5   |     Fluxo do usuário se tornando um prestador de serviços          | Youssef Muhamad  |
 
 !> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -218,8 +219,6 @@ Builder(
 **Autor:** [Gabriel Albino](https://github.com/gabrielalbino)
 
 
-
-
 ### Meus Cartões v1
 
 <img src="../../../assets/prototipo-alto-nivel/meus-cartoes.png">
@@ -227,6 +226,17 @@ Builder(
 ### Meus Cartões com Fluxo v1
 
 <img src="../../../assets/prototipo-alto-nivel/meus-cartoes-fluxo.png">
+
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
+
+### Tornar-se um Prestador de Serviço v1
+
+<img src="../../../assets/prototipo-alto-nivel/tornar-prestador.png">
+
+### Tornar-se um Prestador de Serviço com Fluxo v1
+
+<img src="../../../assets/prototipo-alto-nivel/tornar-prestador-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
