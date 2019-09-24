@@ -244,4 +244,6 @@ Builder(
 
 ## Referências
 
-- Baixa, média ou alta fidelidade? Conheça as diferenças entre os tipos de protótipos. Acessado dia **19/09/2019** em: <https://dextra.com.br/pt/baixa-media-ou-alta-fidelidade-conheca-as-diferencas-entre-os-tipos-de-prototipos/>
+- NIELSEN, Jakob. **10 Usability Heuristics for User Interface Design**. 24 abr. 1994. Disponível em: https://www.nngroup.com/articles/ten-usability-heuristics/. Acesso em: 1 set. 2019.
+
+- **Baixa, média ou alta fidelidade? Conheça as diferenças entre os tipos de protótipos**. Acessado dia 19/09/2019** em: <https://dextra.com.br/pt/baixa-media-ou-alta-fidelidade-conheca-as-diferencas-entre-os-tipos-de-prototipos/>
