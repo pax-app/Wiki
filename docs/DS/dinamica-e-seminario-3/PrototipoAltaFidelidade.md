@@ -24,6 +24,7 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | 23/09/2019 |  1.5   |     Fluxo do usuário se tornando um prestador de serviços          | Youssef Muhamad  |
 | 24/09/2019 |  1.6   |     v2 da Home do Consumidor e Adição de Endereço                  | Youssef Muhamad e Kaique Borges  |
 | 24/09/2019 |  1.7   |     Categorias/Formação de Prestadores de Serviços          | Youssef Muhamad  |
+| 25/09/2019 |  1.8   |     v3 do histórico de contratações          | Youssef Muhamad  |
 
 !> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -201,6 +202,17 @@ Builder(
 )
 ```
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
+
+### Histórico de Serviços v3
+
+<img src="../../../assets/prototipo-alto-nivel/historico-servicosv3.png">
+
+### Histórico de Serviços com Fluxo v3
+
+<img src="../../../assets/prototipo-alto-nivel/historico-servicos-fluxov3.png">
+
+!> Adição de serviços cancelados e sua visualização detalhada
 
 ### Histórico de Serviços v2
 
