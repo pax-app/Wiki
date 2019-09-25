@@ -22,6 +22,7 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | 23/09/2019 |  1.3   |     Telas de 'Meus Cartões' com fluxo                              | Youssef Muhamad  |
 | 23/09/2019 |  1.4   |     Perfil do usuário e configurações                              | Youssef Muhamad  |
 | 23/09/2019 |  1.5   |     Fluxo do usuário se tornando um prestador de serviços          | Youssef Muhamad  |
+| 24/09/2019 |  1.6   |     v2 da Home do Consumidor e Adição de Endereço                  | Youssef Muhamad e Kaique Borges  |
 
 !> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -71,13 +72,27 @@ TextField(
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
-### Home e Adição de Endereço v1
+### Home do Consumidor de Serviços e Adição de Endereço v2
 
-<img src="../../../assets/prototipo-alto-nivel/add-endereco.png">
+<img src="../../../assets/prototipo-alto-nivel/add-enderecov2.png">
 
-### Home e Adição de Endereço com Fluxo v1
+### Home do Consumidor de Serviços e Adição de Endereço com Fluxo v2
 
-<img src="../../../assets/prototipo-alto-nivel/add-endereco-fluxo.png">
+<img src="../../../assets/prototipo-alto-nivel/add-endereco-fluxov2.png">
+
+
+!> Nova home do consumidor de serviços com o título dentro dos respectivos cards
+
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
+
+### Home do Consumidor de Serviços e Adição de Endereço v1
+
+<img src="../../../assets/prototipo-alto-nivel/add-enderecov1.png">
+
+### Home do Consumidor de Serviços e Adição de Endereço com Fluxo v1
+
+<img src="../../../assets/prototipo-alto-nivel/add-endereco-fluxov1.png">
 
 #### Código para um Card
 
