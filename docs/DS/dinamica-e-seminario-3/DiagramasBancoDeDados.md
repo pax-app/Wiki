@@ -30,10 +30,11 @@ O **ME-R** é um modelo conceitual utilizado na *Engenharia de Software* para de
 | 18/09/2019 |  2.3   | Mudando o nome de *photos* da tabela REPORT para *report_photos*                     |        Rogério Júnior e Youssef Muhamad       |
 | 18/09/2019 |  2.4   | Adicionando atributo *pax_photos* à tabela PAX                                       |        Rogério Júnior e Youssef Muhamad       |
 | 18/09/2019 |  3.0   | Atualizando o MER, DER e DL com novas modificações                                   |        Rogério Júnior e Youssef Muhamad       |
+| 18/09/2019 |  3.1   | Adicionando *price_range* à tabela *PROVIDER*                                        |        Rogério Júnior e Youssef Muhamad       |
 
 ## Versão 3.0
 
-!> Adição da tabela para fotos do *PAX* e referência entre *SERVICE* e *REVIEW*
+!> Adição da tabela para fotos do *PAX*, adição do campo *price_range* do *PROVIDER* e referência entre *SERVICE* e *REVIEW*
 
 ### Modelo Entidade-Relacionamento(ME-R)
 
