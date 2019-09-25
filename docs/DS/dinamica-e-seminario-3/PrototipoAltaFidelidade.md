@@ -23,6 +23,7 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | 23/09/2019 |  1.4   |     Perfil do usuário e configurações                              | Youssef Muhamad  |
 | 23/09/2019 |  1.5   |     Fluxo do usuário se tornando um prestador de serviços          | Youssef Muhamad  |
 | 24/09/2019 |  1.6   |     v2 da Home do Consumidor e Adição de Endereço                  | Youssef Muhamad e Kaique Borges  |
+| 24/09/2019 |  1.7   |     Categorias/Formação de Prestadores de Serviços          | Youssef Muhamad  |
 
 !> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -80,7 +81,6 @@ TextField(
 
 <img src="../../../assets/prototipo-alto-nivel/add-endereco-fluxov2.png">
 
-
 !> Nova home do consumidor de serviços com o título dentro dos respectivos cards
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
@@ -114,6 +114,12 @@ showModalBottomSheet(
   builder: (_) => SeuWidgetAqui()
 );
 ```
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
+### Categorias/Formação dos Prestadores de Serviços v1
+
+<img src="../../../assets/prototipo-alto-nivel/categoria-prestador-servico.png">
+
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
