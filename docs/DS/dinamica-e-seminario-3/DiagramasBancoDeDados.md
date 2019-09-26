@@ -34,7 +34,7 @@ O **ME-R** é um modelo conceitual utilizado na *Engenharia de Software* para de
 
 ## Versão 3.0
 
-!> Adição da tabela para fotos do *PAX*, adição do campo *price_range* do *PROVIDER* e referência entre *SERVICE* e *REVIEW*
+!> Adição da tabela para fotos do *PAX*, adição do atributo composto *price_range* do *PROVIDER* e referência entre *SERVICE* e *REVIEW*
 
 ### Modelo Entidade-Relacionamento(ME-R)
 
@@ -55,7 +55,7 @@ O **ME-R** é um modelo conceitual utilizado na *Engenharia de Software* para de
 - #### Atributos:
 
   * USER ( <u>user_id</u>, name, email, cpf, password, url_avatar )
-    * PROVIDER( provider_id, rg( issuing_organ, state, number ), url_rg_photo, bio )
+    * PROVIDER( provider_id, rg( issuing_organ, state, number ), url_rg_photo, bio, price_range( minimum_price, maximum_price ) )
   * ADDRESS ( <u>address_id</u>, cep, street, neighborhood, city, state, number, complement, reference_point )
   * REVIEW ( <u>review_id</u>, evaluated_id, evaluator_id, charisma_rate, commentary )
     * SERVICE ( <u>review_service_id</u>, evaluated_id, evaluator_id, service_rate )
