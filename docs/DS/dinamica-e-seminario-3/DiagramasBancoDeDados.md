@@ -60,7 +60,7 @@ O **ME-R** é um modelo conceitual utilizado na *Engenharia de Software* para de
   * REVIEW ( <u>review_id</u>, evaluated_id, evaluator_id, charisma_rate, commentary )
     * SERVICE ( <u>review_service_id</u>, evaluated_id, evaluator_id, service_rate )
   * PAX ( <u>pax_id</u>, user_id, provider_id, chat_id, address_id, price, status, name, description, date, { pax_photos } )
-  * REPORT ( <u>report_id</u>, user_id, pax_id, status, description, { report_photos } )
+    * REPORT ( <u>report_id</u>, pax_id, status, description, { report_photos } )
   * PROVIDER_CATEGORY ( <u>provider_category_id</u>, name )
   * GENERAL_CATEGORY ( <u>general_category_id</u>, name )
   * CHAT ( <u>chat_id</u>, user_id, provider_id  )
