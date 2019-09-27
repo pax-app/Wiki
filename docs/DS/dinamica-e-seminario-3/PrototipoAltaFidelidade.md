@@ -26,6 +26,7 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | 24/09/2019 |  1.7   |     Categorias/Formação de Prestadores de Serviços          | Youssef Muhamad  |
 | 25/09/2019 |  1.8   |     v3 do histórico de contratações          | Youssef Muhamad  |
 | 27/09/2019 |  1.9   |    Home do Prestador de Serviço e seu Perfil         | Youssef Muhamad  |
+| 27/09/2019 |  2.0   |    v2 das telas de Reportar um Serviço         | Youssef Muhamad  |
 
 !> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -242,13 +243,25 @@ Builder(
 
 **Autor:** [Gabriel Albino](https://github.com/gabrielalbino)
 
+
+### Reportar Serviço v2
+
+<img src="../../../assets/prototipo-alto-nivel/reportar-servicov2.png">
+
+### Reportar Serviço com Fluxo v2
+
+<img src="../../../assets/prototipo-alto-nivel/reportar-servico-fluxov2.png">
+
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
+
 ### Reportar Serviço v1
 
-<img src="../../../assets/prototipo-alto-nivel/reportar-servico.png">
+<img src="../../../assets/prototipo-alto-nivel/reportar-servicov1.png">
 
 ### Reportar Serviço com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/reportar-servico-fluxo.png">
+<img src="../../../assets/prototipo-alto-nivel/reportar-servico-fluxov1.png">
 
 **Autor:** [Gabriel Albino](https://github.com/gabrielalbino)
 
