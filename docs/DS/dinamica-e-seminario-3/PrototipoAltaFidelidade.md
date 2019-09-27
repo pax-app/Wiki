@@ -25,6 +25,7 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | 24/09/2019 |  1.6   |     v2 da Home do Consumidor e Adição de Endereço                  | Youssef Muhamad e Kaique Borges  |
 | 24/09/2019 |  1.7   |     Categorias/Formação de Prestadores de Serviços          | Youssef Muhamad  |
 | 25/09/2019 |  1.8   |     v3 do histórico de contratações          | Youssef Muhamad  |
+| 27/09/2019 |  1.9   |    Home do Prestador de Serviço e seu Perfil         | Youssef Muhamad  |
 
 !> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -270,6 +271,17 @@ Builder(
 ### Tornar-se um Prestador de Serviço com Fluxo v1
 
 <img src="../../../assets/prototipo-alto-nivel/tornar-prestador-fluxo.png">
+
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
+
+### Home do Prestador de Serviço e seu Perfil
+
+<img src="../../../assets/prototipo-alto-nivel/home-prestador-perfil.png">
+
+### Home do Prestador de Serviço e seu Perfil com Fluxo
+
+<img src="../../../assets/prototipo-alto-nivel/home-prestador-perfil-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
