@@ -29,6 +29,7 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | 27/09/2019 |  2.0   |    v2 das telas de Reportar um Serviço         | Youssef Muhamad  |
 | 27/09/2019 |  2.1   |    Chat com envio de fotos         | Youssef Muhamad  |
 | 27/09/2019 |  2.2   |    Chat com envio do endereço         | Youssef Muhamad  |
+| 28/09/2019 |  2.3   |    Chat com envio do Pax         | Youssef Muhamad  |
 
 !> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -224,9 +225,20 @@ Builder(
 
 <img src="../../../assets/prototipo-alto-nivel/chat-com-endereco.png">
 
-### Chat com Envio de Foto com Fluxo
+### Chat com Envio de Endereço com Fluxo
 
 <img src="../../../assets/prototipo-alto-nivel/chat-com-endereco-fluxo.png">
+
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
+
+### Chat com Envio do Pax
+
+<img src="../../../assets/prototipo-alto-nivel/chat-com-pax.png">
+
+### Chat com Envio do Pax com Fluxo
+
+<img src="../../../assets/prototipo-alto-nivel/chat-com-pax-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
