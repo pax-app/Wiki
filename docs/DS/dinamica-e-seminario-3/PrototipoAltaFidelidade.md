@@ -31,6 +31,7 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | 27/09/2019 |  2.2   |    Chat com envio do endereço         | Youssef Muhamad  |
 | 28/09/2019 |  2.3   |    Chat com envio do Pax         | Youssef Muhamad  |
 | 29/09/2019 |  2.4   |    v4 do histórico de serviços devido a mudanças no card         | Youssef Muhamad  |
+| 29/09/2019 |  2.5   |    Telas com os status dos serviços que o prestador de serviços está relacionado         | Youssef Muhamad  |
 
 !> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -343,6 +344,18 @@ Builder(
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
+
+### Telas dos Status dos Serviços do Prestador
+
+<img src="../../../assets/prototipo-alto-nivel/status-servicos-prestador.png">
+
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
+### Telas dos Status dos Serviços do Prestador com Fluxo
+
+<img src="../../../assets/prototipo-alto-nivel/status-servicos-prestador-fluxo.png">
+
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
 ## Referências
