@@ -16,11 +16,15 @@ Como o time tinha problema para se encontrar, criamos um pré-pontuação o qual
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTskapj0tFs04xK-WxR6Kji2kz4mNsaYR2TYPDN2qg4AJfIjOgmi9-qIkeaeUlWouciFLkGMVB-KFes/pubhtml?widget=true&amp;headers=false" width="100%" height="700px"></iframe>
 
-## Pontuação Final
+## Pontuação V1
 
 Em reunião, o grupo discutiu e decidiu a pontuação final, levantando a opinião de todos.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTskapj0tFs04xK-WxR6Kji2kz4mNsaYR2TYPDN2qg4AJfIjOgmi9-qIkeaeUlWouciFLkGMVB-KFes/pubhtml?gid=1778976415&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="700px"></iframe>
+
+## Pontuação V2
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTskapj0tFs04xK-WxR6Kji2kz4mNsaYR2TYPDN2qg4AJfIjOgmi9-qIkeaeUlWouciFLkGMVB-KFes/pubhtml?widget=true&amp;headers=false" width="100%" height="700px"></iframe>
 
 ## Referências
 
