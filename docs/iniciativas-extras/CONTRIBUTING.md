@@ -15,21 +15,21 @@ Para contribuir com o projeto é muito fácil e cada pouquinho conta! Basta segu
 
 As *issues* devem possuir título, descrição, no mínimo um assinante responsável, *labels*,  *milestone*(a *sprint* que deve ser concluída).
 
-Para criação de issue o [template Issue](ISSUE_TEMPLATE.md) deve ser seguido.
+Para criação de issue o [template Issue](.github/issue_template.md) deve ser seguido.
 
 ### Política de Branches  
 
 #### *master*
 
-A branch *master* é a branch de produção, onde ficará a versão estável do projeto. Ela estará bloqueada para commits e para pushs.
-Veja a política de merges no tópico [Merges para *master*](CONTRIBUTING.md#merges-para-master).
+A branch *master* é a branch de produção, onde ficará a versão estável do projeto. Ela estará bloqueada para commits e para pushs. As alterações serão disponibilizadas a medida que os critérios necessários para a nova versão estável estiverem concluídos. 
 
 #### *development*
 
 A branch *development* é a branch de desenvolvimento, onde o trabalho das outras branchs será unificado e onde será criada uma versão estável para mesclar com a *master*.
+
 Assim como a *master* ela está bloqueada para commits e pushs.
-Veja a política de merges no tópico [Merges para development](CONTRIBUTING.md#merges-para-development)
-merges para *development*</a> .
+
+Para adicionar novas alterações estáveis é necessário abrir um *pull request*, seguindo o [modelo padrão](.github/pull_request_template.md), que deve ser submetido, obrigatoriamente, a algum gerente, *PO* ou *SM*, que revisará e avaliará se as modificações podem ser agregadas ao projeto.
 
 #### Nome das Branches  
 
@@ -37,57 +37,49 @@ As branchs de desenvolvimento de features serão criadas a partir da branch *dev
 
 ### Política de Commits
 
-Os commits devem ser feitos usando o parâmetro `-s` para indicar sua assinatura no commit e em inglês.
+Os commits devem ser feitos usando o *script* [*paxmmit*](https://github.com/pax-app/Wiki/blob/master/paxmmit) disponibilizado na pasta raiz do repositório da *Wiki*.
 
-```
-git commit -s
-```
-A issue em questão deve ser citada no commit, para isso, basta adicionar `#<issue_number>`.
+Para disponibilizá-lo como um commando nativo do terminal basta seguir os seguintes passos:
 
-```
- #5 Adding contribuition guide
+```bash
+cd ~
 ```
 
-** \*\*Por padrão, o caracter `#` define uma linha de comentário no arquivo da mensagem do commit. Para resolver este problema, use o commando:**
-```
-git config --local core.commentChar '!'
-```
-
-Igualmente, para commits em dupla deve ser usado o comando `-s` , e deve ser adicionado a assinatura da sua dupla.
-
-```
-git commit -s
-```
-Comentário do commit:
-```
-#5 Adding contribuition guide
-
-Signed-off-by: Alex Turner <alex.turner@gmail.com>
+```bash
+mkdir bin
 ```
 
-Para que ambos envolvidos no commit sejam incluidos como contribuintes no gráfico de commits do GitHub, basta incluir a instrução `Co-authored-by:` na mensagem:
+!> Para o próximo commando é necessário que o [*paxmmit*](https://github.com/pax-app/Wiki/blob/master/paxmmit) esteja dentro deste diretório.
 
-```
-#5 Adding contribuition guide
-
-Signed-off-by: Alex Turner <alex.turner@gmail.com>
-Co-authored-by: Matthew Helders <matt.helders@gmail.com>
+```bash 
+chmod u+x paxmmit
 ```
 
+Agora abra o seu *bashrc / zshrc* é adicione a seguinte linha de comando ao arquivo:
 
-Para commits que encerram a resolução de uma issue, deve-se iniciar a mensagem do commit com `Fix #<issue_number> <mensagem>`, para que a issue seja [encerrada automaticamente](https://help.github.com/articles/closing-issues-using-keywords/) quando mesclada na `master`.
-
-Exemplo de comentário do commit:
-```
-Fix #5 Setting project's contribuition guide
+```bash 
+nano ~/zshrc
 ```
 
-Para commits que incluem uma pequena mudança em uma issue que já teve sua resolução encerrada, deve-se iniciar a mensagem do commit com `HOTFIX #<issue_number> <message>`
+```bash 
+export PATH=$PATH:~/bin
+```
 
-Exemplo de comentário do commit:
+Basta instalar seu arquivo *bashrc*/*zshrc* com as novas modificações:
+
+```bash 
+source ~/zshrc
 ```
-HOTFIX #5 Updating project's contribuition guide
+
+Para executar o commando de *commit* use o comando abaixo seguinte o passo-a-passo do que o *script* pede
+
+```bash 
+paxmmit
 ```
+
+O *paxmmit* possui uma comunicação bem simples e direta: basta inserir a mensagem do *commit*, dizer se o commit é em pareamento ou não (ele já possui a linha de co-authored para todos os membros da organização com seus devidos **apelidos minúsculos**) e ele vai te mostrar a mensagem formatada, caso esteja correta, basta confirmar que ele faz o *commit*. Segue um exemplo a baixo:
+
+![example](../../assets/commit-script.gif)
 
 ### Política de Merges e Pull Requests
 
@@ -95,11 +87,7 @@ HOTFIX #5 Updating project's contribuition guide
 
 Pull requests devem ser feitos para a branch *master* seguindo as regras e os passos do tópico [*Merges para master*](CONTRIBUTING.md#merges-para-master). No conteúdo do pull request deve haver uma descrição clara do que foi feito.
 
-Deve ser seguido o [template Pull Request](PULL_REQUEST_TEMPLATE.md).
-
-##### Work in Progress
-
-Caso haja a necessidade de atualizar a branch *master* antes de concluir a issue, o nome do pull request deve conter WIP:<X_nome_da_branch> para que a branch não seja deletada.
+Deve ser seguido o [template *pull request*](.github/pull_request_template.md).
 
 #### Merges para *master*
 Os merges para *master* deverão ser feitos quando a funcionalidade ou refatoração estiverem de acordo com os seguintes aspectos:  
@@ -120,4 +108,3 @@ O code review deve ser feito por um ou mais membros da equipe que não participa
 Após pelo menos uma aprovação de Code Review,Pull Request poderá ser aceito;
 
 Para aceitar o Pull Request, deve-se usar a opção *merge* no Github.
-
