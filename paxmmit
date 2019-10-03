@@ -3,54 +3,61 @@
 # Then add all changes in unstaged and commit with the respective message
 # Author: Rogério Júnior
 
-read -p "Message: " message
-
 declare number
 number=$(git branch | grep '*' | sed 's/.*\([0-9]\{3\}\).*/\1/') 
-message="pax-app/Wiki#$name $message"
 
-echo -e "\n"
-read -p "Are you pairing? (y/n) " pairing
+if [ $number -eq $number 2> /dev/null ]; then
 
-if [ $pairing == "y" ]; then
+   read -p "Message: " message
 
-   declare -A map
-
-   map["albino"]="Co-authored-by: GabrielAlbino <enggabrielalbino@gmail.com>"
-   map["dutra"]="Co-authored-by: Lucas Dutra <ldutra98@gmail.com>"
-   map["esio"]="Co-authored-by: EsioFreitas <esio.gustavo@gmail.com>"
-   map["fabi"]="Co-authored-by: FabianaRibas <fabianalv.ribas@gmail.com>"
-   map["fepas"]="Co-authored-by: Felipe Campos <fepas.unb@gmail.com>"
-   map["kaique"]="Co-authored-by: KaiqueBorges <rique.kaique@gmail.com>"
-   map["marcos"]="Co-authored-by: Marcos Nery <marcosnery.comp@gmail.com>"
-   map["matheus"]="Co-authored-by: MatheusPimenta <ultra10vascaino@gmail.com>"
-   map["roger"]="Co-authored-by: Rogério Júnior <junior.rogerio8@gmail.com>"
-   map["youssef"]="Co-authored-by: YoussefMuhamad <emaildeyoussefmuhamad@gmail.com>"
-
-   declare flag="y"
+   message="pax-app/Wiki#$number $message"
+   
    echo -e "\n"
+   read -p "Are you pairing? (y/n) " pairing
 
-   while [ $flag == 'y' ]; do
-      read -p "With who? " pairing_name
+   if [ $pairing == "y" ]; then
 
-      message+="\n\n${map[${pairing_name}]}"
+      declare -A map
 
+      map["albino"]="Co-authored-by: Gabriel Albino <enggabrielalbino@gmail.com>"
+      map["dutra"]="Co-authored-by: Lucas Dutra <ldutra98@gmail.com>"
+      map["esio"]="Co-authored-by: Esio Freitas <esio.gustavo@gmail.com>"
+      map["fabi"]="Co-authored-by: Fabiana Ribas <fabianalv.ribas@gmail.com>"
+      map["fepas"]="Co-authored-by: Felipe Campos <fepas.unb@gmail.com>"
+      map["kaique"]="Co-authored-by: Kaique Borges <rique.kaique@gmail.com>"
+      map["marcos"]="Co-authored-by: Marcos Nery <marcosnery.comp@gmail.com>"
+      map["matheus"]="Co-authored-by: Matheus Pimenta <ultra10vascaino@gmail.com>"
+      map["roger"]="Co-authored-by: Rogério Júnior <junior.rogerio8@gmail.com>"
+      map["youssef"]="Co-authored-by: Youssef Muhamad <emaildeyoussefmuhamad@gmail.com>"
+
+      declare flag="y"
       echo -e "\n"
-      read -p "Anyone else? (y/n) " flag
-      echo -e "\n"
-   done
 
-fi
+      while [ $flag == 'y' ]; do
+         read -p "With who? " pairing_name
 
-echo -e "\nCan I commit all changes with this message?(y/n)\n\n\n$message\n"
-read flag
+         message+="\n\n${map[${pairing_name}]}"
 
-if [ $flag == 'y' ]; then
-   git add .
-   git commit -m"$(echo -e $message)"
-   echo -e "\n\n\n"
-   echo -e "\n\nEverything commited!! ;)"
+         echo -e "\n"
+         read -p "Anyone else? (y/n) " flag
+         echo -e "\n"
+      done
+
+   fi
+
+   echo -e "\nCan I commit all changes with this message?(y/n)\n\n\n$message\n"
+   read flag
+
+   if [ $flag == 'y' ]; then
+      git add .
+      git commit -m"$(echo -e $message)"
+      echo -e "\n\n\n"
+      echo -e "\n\nEverything commited!! ;)"
+   else
+      echo -e "\n\n\n"
+      echo "Run me again! :("
+   fi
+
 else
-   echo -e "\n\n\n"
-   echo "Run me again! :("
+   echo -e "\nWhere's the issue number dumbass??? :s \n"
 fi
