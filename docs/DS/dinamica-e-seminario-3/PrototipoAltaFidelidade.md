@@ -33,6 +33,8 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 | 29/09/2019 |  2.4   |    v4 do histórico de serviços devido a mudanças no card         | Youssef Muhamad  |
 | 29/09/2019 |  2.5   |    Telas com os status dos serviços que o prestador de serviços está relacionado         | Youssef Muhamad  |
 | 29/09/2019 |  2.6   |    Prestador enviando Pax via chat         | Youssef Muhamad  |
+| 07/10/2019 |  2.7   |    v2 do fluxo de tornar-se prestador de serviço         | Youssef Muhamad  |
+
 
 !> O presente protótipo pode ser acessado [neste Figma](https://www.figma.com/file/lSRDfsDUZeiL3YiUGhEV6k/pax-prot%C3%B3tipo-alta-fidelidade?node-id=0%3A1)
 
@@ -213,33 +215,33 @@ Builder(
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
-### Chat com Envio de Foto 
+### Chat com Envio de Foto v1
 
 <img src="../../../assets/prototipo-alto-nivel/chat-com-foto.png">
 
-### Chat com Envio de Foto com Fluxo
+### Chat com Envio de Foto com Fluxo v1
 
 <img src="../../../assets/prototipo-alto-nivel/chat-com-foto-flux.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
-### Chat com Envio de Endereço 
+### Chat com Envio de Endereço v1
 
 <img src="../../../assets/prototipo-alto-nivel/chat-com-endereco.png">
 
-### Chat com Envio de Endereço com Fluxo
+### Chat com Envio de Endereço com Fluxo v1
 
 <img src="../../../assets/prototipo-alto-nivel/chat-com-endereco-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
-### Chat com Envio do Pax
+### Chat com Envio do Pax v1
 
 <img src="../../../assets/prototipo-alto-nivel/chat-com-pax.png">
 
-### Chat com Envio do Pax com Fluxo
+### Chat com Envio do Pax com Fluxo v1
 
 <img src="../../../assets/prototipo-alto-nivel/chat-com-pax-fluxo.png">
 
@@ -350,37 +352,37 @@ Builder(
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
-### Home do Prestador de Serviço e seu Perfil
+### Home do Prestador de Serviço e seu Perfil v1
 
 <img src="../../../assets/prototipo-alto-nivel/home-prestador-perfil.png">
 
-### Home do Prestador de Serviço e seu Perfil com Fluxo
+### Home do Prestador de Serviço e seu Perfil com Fluxo v1
 
 <img src="../../../assets/prototipo-alto-nivel/home-prestador-perfil-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
-### Telas dos Status dos Serviços do Prestador
+### Telas dos Status dos Serviços do Prestador v1
 
 <img src="../../../assets/prototipo-alto-nivel/status-servicos-prestador.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
-### Telas dos Status dos Serviços do Prestador com Fluxo
+### Telas dos Status dos Serviços do Prestador com Fluxo v1
 
 <img src="../../../assets/prototipo-alto-nivel/status-servicos-prestador-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
-### Prestador Envia Pax
+### Prestador Envia Pax v1
 
 <img src="../../../assets/prototipo-alto-nivel/prestador-envia-pax.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
-### Prestador Envia Pax com Fluxo
+### Prestador Envia Pax com Fluxo v1
 
 <img src="../../../assets/prototipo-alto-nivel/prestador-envia-pax-fluxo.png">
 
