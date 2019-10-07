@@ -8,6 +8,7 @@ Curva de valor é um gráfico criado pelos autores W. Chan Kim e Renee Mauborgne
 | :--------: | :----: | :------------------: | :----------------------------: |
 | 21/08/2019 |  1.0   | Adicionando conteudo |          Ésio Freitas e Lucas Dutra       |
 | 22/08/2019 |  1.1   | Adicionando referencias |          Ésio Freitas      |
+| 20/09/2019 |  1.2   | Formatando referências ABNT | Rogério Júnior |
 
 ## Curva de Valor v1.0
 
@@ -41,8 +42,8 @@ A partir de análises das necessidades do público alvo, foi identificada a nece
 
 ## Referências
 
-* O Que é e Para Que Serve Uma Curva de Valor (Strategy Canvas)?. Acessado dia **20/08/2019** em: <https://blog.luz.vc/o-que-e/curva-de-valor-strategy-canvas/> 
+- OLIVEIRA, Leandro. **Curva de Valor**: saiba como definir sua estratégia e se diferenciar da concorrência. [S. l.], 23 mar. 2017. Disponível em: https://capitalsocial.cnt.br/curva-de-valor/. Acesso em: 20 ago. 2019.
 
-* Curva de Valor: Saiba como definir sua estratégia e se diferenciar da concorrência (garantido). Acessado dia **20/08/2019** em: <https://capitalsocial.cnt.br/curva-de-valor/> 
+- OLIVEIRA, Diogo. **Curva de Valor**: construa a sua passo a passo. [S. l.], 23 mar. 2017. Disponível em: https://blog.softensistemas.com.br/curva-de-valor/. Acesso em: 20 ago. 2019.
 
-* Curva de Valor: Construa a sua passo a passo. Acessado dia **20/08/2019** em: <https://blog.softensistemas.com.br/curva-de-valor/> 
+- PEREIRA, Daniel. **O que é e para que Serve uma Curva de Valor?**. [S. l.], 16 jun. 2011. Disponível em: https://blog.luz.vc/o-que-e/curva-de-valor-strategy-canvas/. Acesso em: 20 ago. 2019.

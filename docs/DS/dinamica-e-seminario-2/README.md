@@ -19,3 +19,5 @@
 ### 9. [Guia de Estilo](docs/DS/dinamica-e-seminario-2/style_guide.md)
 
 ### 10. [Protótipos de Baixa Fidelidade](docs/DS/dinamica-e-seminario-2/PrototipoBaixaFidelidade.md)
+
+### 11. [Protótipo de Média Fidelidade](docs/DS/dinamica-e-seminario-2/PrototipoMediaFidelidade.md)

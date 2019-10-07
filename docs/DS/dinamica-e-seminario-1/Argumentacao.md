@@ -8,6 +8,7 @@ O **documento de argumentação** tem o intuito de manter a rastreabilidade e co
 | :--------: | :----: | :-----------------------: | :----------------------------: |
 | 18/08/2019 |  0.1   |   Criação do documento    | Felipe Campos e Rogério Júnior |
 | 21/08/2019 |  1.0   | Adicionando argumentações |          Ésio Freitas          |
+| 20/09/2019 |  1.1   | Formatando referências ABNT | Rogério Júnior |
 
 ## Argumentação em torno da escolha do aplicativo
 
@@ -66,18 +67,22 @@ App pra idosos;
 Plataforma de trabalhos voluntários.
 **ganhou:** Rappi de serviços;
 
-### Argumentação V1
-
-![ArgV1](../../../assets/Artumentacaov1.png)
-
 ### Argumentação V2
 
 ![ArgV1](../../../assets/Artumentacaov2.png)
 
 **Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
 
+### Argumentação V1
+
+![ArgV1](../../../assets/Artumentacaov1.png)
+
+**Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
+
 ## Referências
 
-* ACE-CAST: Uma Ferramenta de Apoio à Argumentação Colaborativa. André Cruz Alves Cavalcante. <br/>
+- CAVALCANTE, André C. A. **ACE-CAST**: Uma Ferramenta de Apoio à Argumentação Colaborativa. Orientador: Dr. Maurício Serrano. 2014. Trabalho de Conclusão de Curso (Bacharelado em Engenharia de Software) - Universidade de Brasília / Faculdade do Gama, Brasília, 2014.
 
-* Materiais didáticos das aulas dos professores Milene Serrano e Mauricio Serrano
+- JURETA, Ivan; MYLOPOULOS, John; FAULKNER, Stéphane. **Analysis of Multi-Party Agreement in Requirements Validation**, Proceedings of the 17th IEEE International Requirements Engineering Conference IEEE Computer Society, pp. 57-66, 2009.
+
+- Materiais didáticos das aulas de *Requisitos de Software* dos professores Milene Serrano e Mauricio Serrano.

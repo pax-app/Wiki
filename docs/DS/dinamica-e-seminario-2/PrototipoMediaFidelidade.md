@@ -12,6 +12,7 @@ O **Protótipo de Média Fidelidade** é um pouco mais refinado que o de baixa f
 | 08/09/2019 |  1.5   |    Adição da Feature FE04 do protótipo com fluxos    | Youssef Muhamad |
 | 08/09/2019 |  1.6   |    Adição da Feature FE06 do protótipo com fluxos    | Gabriel Albino  |
 | 08/09/2019 |  1.7   |    Adição da Feature FE08 do protótipo com fluxos    | Gabriel Albino  |
+| 22/09/2019 |  1.8   |         Formatando referências ABNT         |                 Rogério Júnior               |
 
 O Protótipo a seguir tem como finalidade condensar todos os artefatos e brainstorms que a equipe produziu. Este artefato se provou necessário já que até então tínhamos bastante dúvidas de como seria o funcionamento de uma determinada feature e se ela teria um nível de usabilidade aceitável para o usuário final. Portanto, este documento está separado nas features presentes no [backlog v2](docs/DS/dinamica-e-seminario-2/Backlog.md#versão-20) e está disponível [neste Figma](https://www.figma.com/file/cmUWUCrBPoO11hGFuuNu7z/Prot%C3%B3tipo-de-M%C3%A9dia-Fidelidade?node-id=0%3A1) para a realização de testes de usabilidade.
 
@@ -52,6 +53,6 @@ O Protótipo a seguir tem como finalidade condensar todos os artefatos e brainst
 
 ### Referências:
 
+- ALEX, Jefferson. **Protótipos de baixa, média e alta fidelidade**. [S. l.], 2017. Disponível em: http://jeffersonalex.com.br/design/prototipos-de-baixa-media-e-alta-fidelidade/. Acesso em: 9 set. 2019.
+- FRANCISCO, Tatiane. **Baixa, média ou alta fidelidade?**. [S. l.], 2019. Disponível em: https://dextra.com.br/pt/baixa-media-ou-alta-fidelidade-conheca-as-diferencas-entre-os-tipos-de-prototipos/. Acesso em: 9 set. 2019.
 - [Protótipos de Baixa Fidelidade](docs/DS/dinamica-e-seminario-2/PrototipoBaixaFidelidade.md)
-- Protótipos de baixa, média e alta fidelidade. Acessado dia **09/09/2019** em: <http://jeffersonalex.com.br/design/prototipos-de-baixa-media-e-alta-fidelidade/>
-- Baixa, média ou alta fidelidade? Conheça as diferenças entre os tipos de protótipos. Acessado dia **09/09/2019** em: <https://dextra.com.br/pt/baixa-media-ou-alta-fidelidade-conheca-as-diferencas-entre-os-tipos-de-prototipos/>

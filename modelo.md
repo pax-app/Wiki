@@ -13,4 +13,4 @@ Todos documentos devem ter os autores registrados
 
 ## Referências
 
-- Suas referencias OBRIGATORIO
+- Suas referencias OBRIGATORIO em formato [ABNT](https://referenciabibliografica.net/a/pt-br/ref/abnt)
