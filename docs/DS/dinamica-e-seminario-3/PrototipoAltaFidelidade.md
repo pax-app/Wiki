@@ -324,6 +324,21 @@ Builder(
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
+### Tornar-se um Prestador de Serviço v2
+!> Reaproveitamento do que já foi preenchido pelo usuário como o nome e cpf
+
+!> Redução das telas para simplificar o fluxo
+
+<img src="../../../assets/prototipo-alto-nivel/tornar-prestadorv2.png">
+
+### Tornar-se um Prestador de Serviço com Fluxo v2
+
+<img src="../../../assets/prototipo-alto-nivel/tornar-prestador-fluxov2.png">
+
+
+**Autor:** [Youssef Muhamad](https://github.com/youssef-md)
+
+
 ### Tornar-se um Prestador de Serviço v1
 
 <img src="../../../assets/prototipo-alto-nivel/tornar-prestador.png">
