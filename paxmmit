@@ -1,63 +1,100 @@
 #!/bin/bash
+# paxmmit V3
 # Create message with proper reference to rep issue based on branch name ddd_issueName
 # Then add all changes in unstaged and commit with the respective message
 # Author: Rogério Júnior
 
-declare number
-number=$(git branch | grep '*' | sed 's/.*\([0-9]\{3\}\).*/\1/') 
+if [ ! -z "$1" -a "$1" != " " ]; then
+   bold=$(tput bold)
+   normal=$(tput sgr0)
 
-if [ $number -eq $number 2> /dev/null ]; then
 
-   read -p "Message: " message
+   declare number
+   number=$(git branch | grep '*' | sed 's/.*\([0-9]\{3\}\).*/\1/') 
 
-   message="pax-app/Wiki#$number $message"
-   
-   echo -e "\n"
-   read -p "Are you pairing? (y/n) " pairing
+   if [ $number -eq $number 2> /dev/null ]; then
+      number=number
+   else
+      echo -e "${bold}@@@@@@@@@@@@@@@@@@@@@@@@@@@ W A R N I N G @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@${normal}"  
+      echo -e "\nYou're out of a issue branch, the only way of contibuiting to Pax Org! :X "
+      echo -e "\nAre you ${bold}absolutely${normal} certain to try to commit in ${bold}$(git branch | grep '*' | sed 's|[*]||g')${normal} ? (it maybe be ${bold}refused${normal} on Github)\n"
 
-   if [ $pairing == "y" ]; then
+      read -p "(${bold}y/n${normal}) " flag
+
+      if [ $flag == "n" ]; then
+         exit 1
+      fi
+
+      echo ""
+      read -p "What's the ${bold}issue number${normal}? " number
+      echo ""
+   fi
+
+   message="pax-app/Wiki#$number $1"
+
+   read -p "Are you ${bold}pairing${normal}? (${bold}y/n${normal}) " pairing
+   echo ""
+
+   if [ $pairing != "n" ]; then
 
       declare -A map
 
-      map["albino"]="Co-authored-by: Gabriel Albino <enggabrielalbino@gmail.com>"
-      map["dutra"]="Co-authored-by: Lucas Dutra <ldutra98@gmail.com>"
-      map["esio"]="Co-authored-by: Esio Freitas <esio.gustavo@gmail.com>"
-      map["fabi"]="Co-authored-by: Fabiana Ribas <fabianalv.ribas@gmail.com>"
-      map["fepas"]="Co-authored-by: Felipe Campos <fepas.unb@gmail.com>"
-      map["kaique"]="Co-authored-by: Kaique Borges <rique.kaique@gmail.com>"
-      map["marcos"]="Co-authored-by: Marcos Nery <marcosnery.comp@gmail.com>"
-      map["matheus"]="Co-authored-by: Matheus Pimenta <ultra10vascaino@gmail.com>"
-      map["roger"]="Co-authored-by: Rogério Júnior <junior.rogerio8@gmail.com>"
-      map["youssef"]="Co-authored-by: Youssef Muhamad <emaildeyoussefmuhamad@gmail.com>"
+      map["a"]="Co-authored-by: Gabriel Albino <enggabrielalbino@gmail.com>"
+      map["d"]="Co-authored-by: Lucas Dutra <ldutra98@gmail.com>"
+      map["e"]="Co-authored-by: Esio Freitas <esio.gustavo@gmail.com>"
+      map["fa"]="Co-authored-by: Fabiana Ribas <fabianalv.ribas@gmail.com>"
+      map["fe"]="Co-authored-by: Felipe Campos <fepas.unb@gmail.com>"
+      map["k"]="Co-authored-by: Kaique Borges <rique.kaique@gmail.com>"
+      map["mar"]="Co-authored-by: Marcos Nery <marcosnery.comp@gmail.com>"
+      map["mat"]="Co-authored-by: Matheus Pimenta <ultra10vascaino@gmail.com>"
+      map["r"]="Co-authored-by: Rogério Júnior <junior.rogerio8@gmail.com>"
+      map["y"]="Co-authored-by: Youssef Muhamad <emaildeyoussefmuhamad@gmail.com>"
 
       declare flag="y"
-      echo -e "\n"
 
-      while [ $flag == 'y' ]; do
-         read -p "With who? " pairing_name
+      message+="\n"
 
-         message+="\n\n${map[${pairing_name}]}"
+      while [ $flag != 'n' ]; do
+         echo -e "With who?\n"
+         read -p "(${bold}a${normal})lbino/(${bold}d${normal})utra/(${bold}e${normal})sio/(${bold}fa${normal})bi/(${bold}fe${normal})pas/(${bold}k${normal})aique/(${bold}mar${normal})cos/(${bold}mat${normal})heus/(${bold}r${normal})oger/(${bold}y${normal})oussef " pairing_name
+         echo ""
 
-         echo -e "\n"
-         read -p "Anyone else? (y/n) " flag
-         echo -e "\n"
+         message+="\n${map[${pairing_name}]}"
+
+         read -p "Anyone else? (${bold}y/n${normal}) " flag
+         echo ""
       done
 
    fi
 
-   echo -e "\nCan I commit all changes with this message?(y/n)\n\n\n$message\n"
-   read flag
+   echo -e "That's the correct message ?\n\n\n$message\n\n"
+   read -p "(${bold}y/n${normal}): " flag
 
-   if [ $flag == 'y' ]; then
-      git add .
+   if [ $flag != 'n' ]; then
+      echo ""
+
+      read -p "What do you want do stage? (${bold}e${normal})verything/(${bold}s${normal})omethings/(${bold}n${normal})othing " flag
+
+      echo ""
+
+      if [ $flag == 'e' ]; then
+         git add .
+      else 
+         if [ $flag == 's' ]; then
+            echo -e "Let's ${bold}stage${normal} the changes!\n\n"
+            git add -i
+
+            echo ""
+         fi
+      fi
+
       git commit -m"$(echo -e $message)"
-      echo -e "\n\n\n"
-      echo -e "\n\nEverything commited!! ;)"
+      echo -e "\n\n"
+      echo -e "${bold}Everything commited!! ;)"
    else
-      echo -e "\n\n\n"
-      echo "Run me again! :("
+      echo -e "\n\n"
+      echo "${bold}Run me again! :("
    fi
-
 else
-   echo -e "\nWhere's the issue number dumbass??? :s \n"
+   echo -e "Wheres the message?! Run me again"
 fi
