@@ -40,11 +40,11 @@ Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visua
 
 ### Login v1
 
-<img src="../../../assets/prototipo-alto-nivel/login.png">
+<img src="assets/prototipo-alto-nivel/login.png">
 
 ### Login com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/login-fluxo.png">
+<img src="assets/prototipo-alto-nivel/login-fluxo.png">
 
 #### Código para o botão principal
 
@@ -75,22 +75,22 @@ TextField(
 
 ### Perfil do Usuário e Configurações v1
 
-<img src="../../../assets/prototipo-alto-nivel/perfil-usuario-e-config.png">
+<img src="assets/prototipo-alto-nivel/perfil-usuario-e-config.png">
 
 ### Perfil do Usuário e Configurações v1 com Fluxo
 
-<img src="../../../assets/prototipo-alto-nivel/perfil-usuario-e-config-fluxo.png">
+<img src="assets/prototipo-alto-nivel/perfil-usuario-e-config-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
 ### Home do Consumidor de Serviços e Adição de Endereço v2
 
-<img src="../../../assets/prototipo-alto-nivel/add-enderecov2.png">
+<img src="assets/prototipo-alto-nivel/add-enderecov2.png">
 
 ### Home do Consumidor de Serviços e Adição de Endereço com Fluxo v2
 
-<img src="../../../assets/prototipo-alto-nivel/add-endereco-fluxov2.png">
+<img src="assets/prototipo-alto-nivel/add-endereco-fluxov2.png">
 
 !> Nova home do consumidor de serviços com o título dentro dos respectivos cards
 
@@ -99,11 +99,11 @@ TextField(
 
 ### Home do Consumidor de Serviços e Adição de Endereço v1
 
-<img src="../../../assets/prototipo-alto-nivel/add-enderecov1.png">
+<img src="assets/prototipo-alto-nivel/add-enderecov1.png">
 
 ### Home do Consumidor de Serviços e Adição de Endereço com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/add-endereco-fluxov1.png">
+<img src="assets/prototipo-alto-nivel/add-endereco-fluxov1.png">
 
 #### Código para um Card
 
@@ -129,14 +129,14 @@ showModalBottomSheet(
 
 ### Categorias/Formação dos Prestadores de Serviços v1
 
-<img src="../../../assets/prototipo-alto-nivel/categoria-prestador-servico.png">
+<img src="assets/prototipo-alto-nivel/categoria-prestador-servico.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
 ### Escolher Prestador de Serviços v2
 
-<img src="../../../assets/prototipo-alto-nivel/escolher-prestadorv2.png">
+<img src="assets/prototipo-alto-nivel/escolher-prestadorv2.png">
 
 !> Remoção da palavra 'Preço' antecedendo o valor nos cards dos prestadores
 
@@ -149,11 +149,11 @@ showModalBottomSheet(
 
 ### Escolher Prestador de Serviços v1
 
-<img src="../../../assets/prototipo-alto-nivel/escolher-prestadorv1.png">
+<img src="assets/prototipo-alto-nivel/escolher-prestadorv1.png">
 
 ### Escolher Prestador de Serviços com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/escolher-prestador-fluxo.png">
+<img src="assets/prototipo-alto-nivel/escolher-prestador-fluxo.png">
 
 #### Código para o Dialog
 
@@ -179,7 +179,7 @@ RaisedButton(
 
 ### Meus Chats v2
 
-<img src="../../../assets/prototipo-alto-nivel/meus-chatsv2.png">
+<img src="assets/prototipo-alto-nivel/meus-chatsv2.png">
 
 !> Melhorando a previsibilidade do sistema, alertando o usuário da ação
 
@@ -187,11 +187,11 @@ RaisedButton(
 
 ### Meus Chats v1
 
-<img src="../../../assets/prototipo-alto-nivel/meus-chatsv1.png">
+<img src="assets/prototipo-alto-nivel/meus-chatsv1.png">
 
 ### Meus Chats com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/meus-chats-fluxo.png">
+<img src="assets/prototipo-alto-nivel/meus-chats-fluxo.png">
 
 #### Código para o Toast
 
@@ -217,61 +217,61 @@ Builder(
 
 ### Chat com Envio de Foto v1
 
-<img src="../../../assets/prototipo-alto-nivel/chat-com-foto.png">
+<img src="assets/prototipo-alto-nivel/chat-com-foto.png">
 
 ### Chat com Envio de Foto com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/chat-com-foto-flux.png">
+<img src="assets/prototipo-alto-nivel/chat-com-foto-flux.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
 ### Chat com Envio de Endereço v1
 
-<img src="../../../assets/prototipo-alto-nivel/chat-com-endereco.png">
+<img src="assets/prototipo-alto-nivel/chat-com-endereco.png">
 
 ### Chat com Envio de Endereço com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/chat-com-endereco-fluxo.png">
+<img src="assets/prototipo-alto-nivel/chat-com-endereco-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
 ### Chat com Envio do Pax v1
 
-<img src="../../../assets/prototipo-alto-nivel/chat-com-pax.png">
+<img src="assets/prototipo-alto-nivel/chat-com-pax.png">
 
 ### Chat com Envio do Pax com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/chat-com-pax-fluxo.png">
+<img src="assets/prototipo-alto-nivel/chat-com-pax-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
 ### Histórico de Serviços v4
 
-<img src="../../../assets/prototipo-alto-nivel/historico-servicosv4.png">
+<img src="assets/prototipo-alto-nivel/historico-servicosv4.png">
 
 !> Melhoria no layout dos cards para ter mais espaço no título do serviço
 
 ### Histórico de Serviços v3
 
-<img src="../../../assets/prototipo-alto-nivel/historico-servicosv3.png">
+<img src="assets/prototipo-alto-nivel/historico-servicosv3.png">
 
 
 ### Histórico de Serviços com Fluxo v3
 
-<img src="../../../assets/prototipo-alto-nivel/historico-servicos-fluxov3.png">
+<img src="assets/prototipo-alto-nivel/historico-servicos-fluxov3.png">
 
 !> Adição de serviços cancelados e sua visualização detalhada
 
 ### Histórico de Serviços v2
 
-<img src="../../../assets/prototipo-alto-nivel/historico-servicosv2.png">
+<img src="assets/prototipo-alto-nivel/historico-servicosv2.png">
 
 ### Histórico de Serviços com Fluxo v2
 
-<img src="../../../assets/prototipo-alto-nivel/historico-servicos-fluxov2.png">
+<img src="assets/prototipo-alto-nivel/historico-servicos-fluxov2.png">
 
 !> Padronização do sistema com Chat v2, alertando usuário para agir com cautela
 
@@ -284,44 +284,44 @@ Builder(
 
 ### Histórico de Serviços v1
 
-<img src="../../../assets/prototipo-alto-nivel/historico-servicosv1.png">
+<img src="assets/prototipo-alto-nivel/historico-servicosv1.png">
 
 ### Histórico de Serviços com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/historico-servicos-fluxov1.png">
+<img src="assets/prototipo-alto-nivel/historico-servicos-fluxov1.png">
 
 **Autor:** [Gabriel Albino](https://github.com/gabrielalbino)
 
 
 ### Reportar Serviço v2
 
-<img src="../../../assets/prototipo-alto-nivel/reportar-servicov2.png">
+<img src="assets/prototipo-alto-nivel/reportar-servicov2.png">
 
 ### Reportar Serviço com Fluxo v2
 
-<img src="../../../assets/prototipo-alto-nivel/reportar-servico-fluxov2.png">
+<img src="assets/prototipo-alto-nivel/reportar-servico-fluxov2.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
 ### Reportar Serviço v1
 
-<img src="../../../assets/prototipo-alto-nivel/reportar-servicov1.png">
+<img src="assets/prototipo-alto-nivel/reportar-servicov1.png">
 
 ### Reportar Serviço com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/reportar-servico-fluxov1.png">
+<img src="assets/prototipo-alto-nivel/reportar-servico-fluxov1.png">
 
 **Autor:** [Gabriel Albino](https://github.com/gabrielalbino)
 
 
 ### Meus Cartões v1
 
-<img src="../../../assets/prototipo-alto-nivel/meus-cartoes.png">
+<img src="assets/prototipo-alto-nivel/meus-cartoes.png">
 
 ### Meus Cartões com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/meus-cartoes-fluxo.png">
+<img src="assets/prototipo-alto-nivel/meus-cartoes-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
@@ -331,11 +331,11 @@ Builder(
 
 !> Redução das telas para simplificar o fluxo
 
-<img src="../../../assets/prototipo-alto-nivel/tornar-prestadorv2.png">
+<img src="assets/prototipo-alto-nivel/tornar-prestadorv2.png">
 
 ### Tornar-se um Prestador de Serviço com Fluxo v2
 
-<img src="../../../assets/prototipo-alto-nivel/tornar-prestador-fluxov2.png">
+<img src="assets/prototipo-alto-nivel/tornar-prestador-fluxov2.png">
 
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
@@ -343,48 +343,48 @@ Builder(
 
 ### Tornar-se um Prestador de Serviço v1
 
-<img src="../../../assets/prototipo-alto-nivel/tornar-prestador.png">
+<img src="assets/prototipo-alto-nivel/tornar-prestador.png">
 
 ### Tornar-se um Prestador de Serviço com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/tornar-prestador-fluxo.png">
+<img src="assets/prototipo-alto-nivel/tornar-prestador-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
 ### Home do Prestador de Serviço e seu Perfil v1
 
-<img src="../../../assets/prototipo-alto-nivel/home-prestador-perfil.png">
+<img src="assets/prototipo-alto-nivel/home-prestador-perfil.png">
 
 ### Home do Prestador de Serviço e seu Perfil com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/home-prestador-perfil-fluxo.png">
+<img src="assets/prototipo-alto-nivel/home-prestador-perfil-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
 ### Telas dos Status dos Serviços do Prestador v1
 
-<img src="../../../assets/prototipo-alto-nivel/status-servicos-prestador.png">
+<img src="assets/prototipo-alto-nivel/status-servicos-prestador.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 ### Telas dos Status dos Serviços do Prestador com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/status-servicos-prestador-fluxo.png">
+<img src="assets/prototipo-alto-nivel/status-servicos-prestador-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 
 ### Prestador Envia Pax v1
 
-<img src="../../../assets/prototipo-alto-nivel/prestador-envia-pax.png">
+<img src="assets/prototipo-alto-nivel/prestador-envia-pax.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
 ### Prestador Envia Pax com Fluxo v1
 
-<img src="../../../assets/prototipo-alto-nivel/prestador-envia-pax-fluxo.png">
+<img src="assets/prototipo-alto-nivel/prestador-envia-pax-fluxo.png">
 
 **Autor:** [Youssef Muhamad](https://github.com/youssef-md)
 
