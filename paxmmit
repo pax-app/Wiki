@@ -8,12 +8,11 @@ if [ ! -z "$1" -a "$1" != " " ]; then
    bold=$(tput bold)
    normal=$(tput sgr0)
 
-
    declare number
    number=$(git branch | grep '*' | sed 's/.*\([0-9]\{3\}\).*/\1/') 
 
    if [ $number -eq $number 2> /dev/null ]; then
-      number=number
+      number=$number
    else
       echo -e "${bold}@@@@@@@@@@@@@@@@@@@@@@@@@@@ W A R N I N G @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@${normal}"  
       echo -e "\nYou're out of a issue branch, the only way of contibuiting to Pax Org! :X "
