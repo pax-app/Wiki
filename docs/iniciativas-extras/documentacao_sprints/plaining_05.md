@@ -1,6 +1,6 @@
 # Planejamento Sprint 05
 
-*Sprint* marcada pelas evolução dos últimos diagramas necessários ao processo de desenvolvimento, embasado, do sistema. Definição da interface visual definitiva da aplicação. Configuração dos ambientes de desenvolvimento.
+*Sprint* marcada pela evolução dos últimos diagramas necessários ao processo de desenvolvimento, embasado, do sistema. Definição da interface visual definitiva da aplicação. Configuração dos ambientes de desenvolvimento.
 
 ## Tamanho da Sprint 05      
 **Início:** 16/09/2019
