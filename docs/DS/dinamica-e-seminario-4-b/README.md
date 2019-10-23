@@ -1,7 +1,5 @@
-# Dinámica e Seminário IV b
+# Dinâmica e Seminário IV b
 
-!> Mensagem para obs
-
-### 1.  [Artefato 1](https://google.com)
-### 2.  [Artefato 2](https://google.com)
-### 3.  [Artefato 3](https://google.com)
+### 1.  [GoF's Criacionais](docs/DS/dinamica-e-seminario-4-b/criacionais.md)
+### 2.  [GoF's Estruturais](docs/DS/dinamica-e-seminario-4-b/estruturais.md)
+### 3.  [GoF's Comportamentais](docs/DS/dinamica-e-seminario-4-b/comportamentais.md)
