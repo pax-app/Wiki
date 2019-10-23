@@ -19,6 +19,8 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 
 - [index()](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#index)
 
+- [front](docs/DS/dinamica-e-seminario-4-b/servicos/front.md)
+
 # Abstract Factory
 
 [Descrição]
