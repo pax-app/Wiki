@@ -11,40 +11,53 @@ Os **Padrões de Design Comportamentais** (*Behavioral Patterns*) se preocupam d
 | 21/10/2019 |  0.1   |        Cria a estrutura do documento        | Rogério Júnior |
 | 21/10/2019 |  0.2   | Adiciona definição de GoF's Comportamentais | Rogério Júnior |
 
-# Command
+## Command
 [Descrição]
 
-# Iterator
-
-[Descrição]
-
-# Mediator
+## Iterator
 
 [Descrição]
 
-# Observer
+## Mediator
 
 [Descrição]
 
-# Strategy
+## Observer
+
+Observer é um padrão de design comportamental que permite definir um mecanismo de inscrição para notificar vários objetos sobre quaisquer eventos que ocorram no objeto que estão observando.
+
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Observer)
+
+
+## Strategy
+
+Strategy é um padrão de design comportamental que permite definir uma família de algoritmos, colocar cada um deles em uma classe separada e tornar seus objetos intercambiáveis.
+
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Strategy)
+
+## Template Method
 
 [Descrição]
 
-# Template Method
+## Visitor
 
 [Descrição]
 
-# Visitor
+## Memento
+
+Memento é um padrão de design comportamental que permite salvar e restaurar o estado anterior de um objeto sem revelar os detalhes de sua implementação.
+
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Memento)
+
+## Chain of Responsibility
 
 [Descrição]
 
-# Memento
+## State 
 
-[Descrição]
+State é um padrão de design comportamental que permite que um objeto altere seu comportamento quando seu estado interno for alterado. Parece que o objeto mudou de classe.
 
-# Chain of Responsibility
-
-[Descrição]
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#State)
 
 ## Referências
 
