@@ -35,13 +35,43 @@ Nisso, quando alguma delas é alterada no setState(), toda a aplicação é rend
 
 ### Singleton
 
+No Front-End, usamos a classe Api como um singleton para fazer toda a comunição do front com o gateway. 
+
+<iframe
+  src="https://carbon.now.sh/embed/?bg=rgba(171%2C%20184%2C%20195%2C%201)&t=dracula&wt=none&l=auto&ds=true&dsyoff=0px&dsblur=25px&wc=false&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=177%25&si=false&es=2x&wm=false&code=class%2520Api%2520%257B%250A%2520%2520static%2520String%2520url%2520%253D%2520%2522http%253A%252F%252F172.18.0.1%253A5001%252Fauth%252Flogin%2522%253B%250A%2520%2520Future%253Cint%253E%2520logIn()%2520async%2520%257B%250A%2520%2520%2520%2520final%2520email%2520%253D%2520_emailController.value%253B%250A%2520%2520%2520%2520final%2520password%2520%253D%2520_passwordController.value%253B%250A%2520%2520%2520%2520Map%253CString%252C%2520String%253E%2520body%2520%253D%2520%257B'email'%253A%2520email%252C%2520'password'%253A%2520password%257D%253B%250A%2520%2520%2520%2520Map%253CString%252C%2520String%253E%2520header%2520%253D%2520%257B'content-type'%253A%2520'application%252Fjson'%257D%253B%250A%250A%2520%2520%2520%2520var%2520jsonBody%2520%253D%2520json.encode(body)%253B%250A%2520%2520%2520%2520final%2520response%2520%253D%2520await%2520http.post(%250A%2520%2520%2520%2520%2520%2520url%252C%250A%2520%2520%2520%2520%2520%2520headers%253A%2520header%252C%250A%2520%2520%2520%2520%2520%2520body%253A%2520jsonBody%252C%250A%2520%2520%2520%2520)%253B%250A%2520%2520%2520%2520if%2520(response.statusCode%2520%253D%253D%2520200)%2520%257B%250A%2520%2520%2520%2520%2520%2520final%2520responseJson%2520%253D%2520json.decode(response.body)%253B%250A%250A%2520%2520%2520%2520%2520%2520saveCurrentLogin(responseJson)%253B%250A%2520%2520%2520%2520%257D%250A%2520%2520%2520%2520return%2520response.statusCode%253B%250A%2520%2520%257D%250A%257D"
+  style="transform:scale(1); width:100%; height:580px; border:0; overflow:hidden;"
+  sandbox="allow-scripts allow-same-origin">
+</iframe>
+
+**Acesso ao padrão:** [Api](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/services/api.dart)
+
 ### Strategy
+
+No Front usámos uma lógica o qual teria uma pagina base, isso é, um pagina que teria tudo que uma pagina deveria ter. Nisso, dependendo do o que é passado para ela como parâmetro, ela 
+se adaptaria aos argumentos. 
+
+<iframe
+  src="https://carbon.now.sh/embed/?bg=rgba(171%2C%20184%2C%20195%2C%201)&t=dracula&wt=none&l=auto&ds=true&dsyoff=0px&dsblur=25px&wc=false&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=177%25&si=false&es=2x&wm=false&code=class%2520BaseScreen%2520extends%2520StatelessWidget%2520%257B%250A%2520%2520final%2520String%2520pageTitle%252C%2520appBarTitle%253B%250A%2520%2520final%2520Widget%2520body%252C%2520drawer%253B%250A%2520%2520final%2520bool%2520padding%253B%250A%2520%2520BaseScreen(this.appBarTitle%252C%2520this.pageTitle%252C%2520this.body%252C%2520this.drawer%252C%250A%2520%2520%2520%2520%2520%2520%257Bthis.padding%2520%253D%2520true%257D)%253B%250A%250A%2520%2520%2540override%250A%2520%2520Widget%2520build(BuildContext%2520context)%2520%257B%250A%2520%2520%2520%2520%252F%252FN%25C3%25A3o%2520h%25C3%25A1%2520o%2520c%25C3%25B3digo%2520do%2520componente%2520para%2520melhor%2520visualizar%2520a%2520classe%250A%2520%2520%2520%2520return%2520componente()%253B%250A%2520%2520%257D%250A%257D"
+  style="transform:scale(1); width:100%; height:580px; border:0; overflow:hidden;"
+  sandbox="allow-scripts allow-same-origin">
+</iframe>
+
+**Acesso ao padrão:** [BaseScreen](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/components/base_screen/base_screen.dart)
 
 ### Observer
 
 ### Decorator
 
-[Porque usou esse padrão / Porque não usou outro]
+### Memento
 
+O Flutter usa o padrão memento na pilha de navegação.
+
+<iframe
+  src="https://carbon.now.sh/embed/?bg=rgba(171%2C%20184%2C%20195%2C%201)&t=dracula&wt=none&l=auto&ds=true&dsyoff=0px&dsblur=25px&wc=false&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=177%25&si=false&es=2x&wm=false&code=Navigator.of(context).push(%250A%2509MaterialPageRoute(%250A%2509%2509builder%253A%2520(context)%2520%253D%253E%2520BaseScreen(%250A%2520%2520%2520%2520%2520%2520%2520%2520%2509%2522%2522%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520%2509%2522%2522%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520%2509EditPerfilTab()%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520%2509null%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520)%252C%250A%2520%2520%2520%2520)%252C%250A)%253B"
+  style="transform:scale(0.7); width:1024px; height:473px; border:0; overflow:hidden;"
+  sandbox="allow-scripts allow-same-origin">
+</iframe>
+
+**Acesso ao padrão:** [ConfigScreen](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/config_screen/config_screen.dart)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#factory-method)
