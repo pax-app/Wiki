@@ -59,8 +59,21 @@ se adaptaria aos argumentos.
 **Acesso ao padrão:** [BaseScreen](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/components/base_screen/base_screen.dart)
 
 ### Observer
+O Flutter usa uma classe StreamBuilder o qual fica observando a alteração de alguma variável
+do bloc e com issom, renderiza a tela de acordo com a alteração.
+
+<iframe
+  src="https://carbon.now.sh/embed/?bg=rgba(171%2C%20184%2C%20195%2C%201)&t=dracula&wt=none&l=auto&ds=true&dsyoff=0px&dsblur=25px&wc=false&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=177%25&si=false&es=2x&wm=false&code=child%253A%2520StreamBuilder(%250A%2520%2520%2520%2520stream%253A%2520_firestore%250A%2520%2520%2520%2520%2520%2520%2520%2520.collection(chat_id)%250A%2520%2520%2520%2520%2520%2520%2520%2520.orderBy('date_time_sent'%252C%2520descending%253A%2520true)%250A%2520%2520%2520%2520%2520%2520%2520%2520.snapshots()%252C%250A%2520%2520%2520%2520builder%253A%2520(context%252C%2520snapshot)%2520%257B%250A%2520%2520%2520%2520%2520%2520%252F%252F%2520Strategy%250A%2520%2520%2520%2520%2520%2520if%2520(!snapshot.hasData)%250A%2520%2520%2520%2520%2520%2520%2520%2520return%2520Center(child%253A%2520CircularProgressIndicator())%253B%250A%250A%2520%2520%2520%2520%2520%2520if%2520(snapshot.data.documents.length%2520%253C%253D%25200)%2520%257B%250A%2520%2520%2520%2520%2520%2520%2520%2520return%2520Center(%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520child%253A%2520Text(%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520'Inicie%2520a%2520conversa%2520%253A)'%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520style%253A%2520Theme.of(context).textTheme.title%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520)%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520)%253B%250A%2520%2520%2520%2520%2520%2520%257D%250A%250A%2520%2520%2520%2520%2520%2520return%2520ChatList(%250A%2520%2520%2520%2520%2520%2520%2520%2520snapshot%253A%2520snapshot.data.documents%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520isProvider%253A%2520isProvider%252C%250A%2520%2520%2520%2520%2520%2520)%253B%250A%2520%2520%2520%2520%257D%252C%250A%2520%2520)%252C%250A)%252C"
+  style="transform:scale(1); width:100%; height:580px; border:0; overflow:hidden;"
+  sandbox="allow-scripts allow-same-origin">
+</iframe>
+
+**Acesso ao padrão:** [ChatScreen](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/chat_screen/chat_screen.dart)
 
 ### Decorator
+
+
+
 
 ### Memento
 
@@ -68,7 +81,7 @@ O Flutter usa o padrão memento na pilha de navegação.
 
 <iframe
   src="https://carbon.now.sh/embed/?bg=rgba(171%2C%20184%2C%20195%2C%201)&t=dracula&wt=none&l=auto&ds=true&dsyoff=0px&dsblur=25px&wc=false&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=177%25&si=false&es=2x&wm=false&code=Navigator.of(context).push(%250A%2509MaterialPageRoute(%250A%2509%2509builder%253A%2520(context)%2520%253D%253E%2520BaseScreen(%250A%2520%2520%2520%2520%2520%2520%2520%2520%2509%2522%2522%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520%2509%2522%2522%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520%2509EditPerfilTab()%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520%2509null%252C%250A%2520%2520%2520%2520%2520%2520%2520%2520)%252C%250A%2520%2520%2520%2520)%252C%250A)%253B"
-  style="transform:scale(0.7); width:1024px; height:473px; border:0; overflow:hidden;"
+  style="transform:scale(1); width:100%; height:580px; border:0; overflow:hidden;"
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
