@@ -17,7 +17,7 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 
 É um padrão de projeto que permite às classes delegar para subclasses decidirem, isso é feito através da criação de objetos que chamam o método fabrica especificado numa interface e implementado por um classe filha ou implementado numa classe abstrata e opcionalmente sobrescrito por classes derivadas.
 
-- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/Front.md#factory-method)
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#factory-method)
 
 ## Abstract Factory
 

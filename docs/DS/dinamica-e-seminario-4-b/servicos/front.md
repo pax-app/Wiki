@@ -1,12 +1,13 @@
 # [Front-End](https://github.com/pax-app/Frontend)
 
-Esse serviço se encontra toda a interface que os usuários do aplicativo vai interagir.
+Camada da aplicação responsável pela interação com o usuário.
 
 ## Padrões usádos:
 
 ### Factory Method
-O Flutter tem uma arquitetura chamada BLoC (Business Logic Component), o qual tem
-a função de separar a logica de negócio da UI através do uso de Streams. Em suma, stream 
+
+O _Flutter_ possui uma arquitetura chamada BLoC (_Business Logic Component_), a qual tem
+a função de separar a lógica de negócio da UI através do uso de _Streams_. Em suma, _stream_
 é uma fonte de eventos assíncronos.
 
 > Em termos práticos, essa arquitetura BLoC pode ser comparada com o padrão de projeto ‘factory method’.
@@ -17,11 +18,11 @@ a função de separar a logica de negócio da UI através do uso de Streams. Em 
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
-**Acesso ao padrão:** [GeralCategoryBloc](https://github.com/pax-app/Frontend/blob/devel/lib/blocs/general_category_bloc.dart)
+**Acesso ao padrão:** [general_category_bloc.dart](https://github.com/pax-app/Frontend/blob/devel/lib/blocs/general_category_bloc.dart)
 
 ### State
 
-O Flutter por default vem com a arqitetura Lifting State Up (Vanilla), o qual 
+O Flutter por default vem com a arqitetura Lifting State Up (Vanilla), o qual
 é uma derivação do state. Todas as variáveis dentro da classe fazem parte do estado do widget.
 Nisso, quando alguma delas é alterada no setState(), toda a aplicação é renderizada.
 
@@ -31,11 +32,11 @@ Nisso, quando alguma delas é alterada no setState(), toda a aplicação é rend
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
-**Acesso ao padrão:** [BecameProviderScreen](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/became_provider_screen/became_provider_screen.dart)
+**Acesso ao padrão:** [became_provider_screen.dart](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/became_provider_screen/became_provider_screen.dart)
 
 ### Singleton
 
-No Front-End, usamos a classe Api como um singleton para fazer toda a comunição do front com o gateway. 
+No Front-End, usamos a classe Api como um singleton para fazer toda a comunição do front com o gateway.
 
 <iframe
   src="https://carbon.now.sh/embed/?bg=rgba(171%2C%20184%2C%20195%2C0)&t=dracula&wt=none&l=auto&ds=true&dsyoff=0px&dsblur=25px&wc=false&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=177%25&si=false&es=2x&wm=false&code=class%2520Api%2520%257B%250A%2520%2520static%2520String%2520url%2520%253D%2520%2522http%253A%252F%252F172.18.0.1%253A5001%252Fauth%252Flogin%2522%253B%250A%2520%2520Future%253Cint%253E%2520logIn()%2520async%2520%257B%250A%2520%2520%2520%2520final%2520email%2520%253D%2520_emailController.value%253B%250A%2520%2520%2520%2520final%2520password%2520%253D%2520_passwordController.value%253B%250A%2520%2520%2520%2520Map%253CString%252C%2520String%253E%2520body%2520%253D%2520%257B'email'%253A%2520email%252C%2520'password'%253A%2520password%257D%253B%250A%2520%2520%2520%2520Map%253CString%252C%2520String%253E%2520header%2520%253D%2520%257B'content-type'%253A%2520'application%252Fjson'%257D%253B%250A%250A%2520%2520%2520%2520var%2520jsonBody%2520%253D%2520json.encode(body)%253B%250A%2520%2520%2520%2520final%2520response%2520%253D%2520await%2520http.post(%250A%2520%2520%2520%2520%2520%2520url%252C%250A%2520%2520%2520%2520%2520%2520headers%253A%2520header%252C%250A%2520%2520%2520%2520%2520%2520body%253A%2520jsonBody%252C%250A%2520%2520%2520%2520)%253B%250A%2520%2520%2520%2520if%2520(response.statusCode%2520%253D%253D%2520200)%2520%257B%250A%2520%2520%2520%2520%2520%2520final%2520responseJson%2520%253D%2520json.decode(response.body)%253B%250A%250A%2520%2520%2520%2520%2520%2520saveCurrentLogin(responseJson)%253B%250A%2520%2520%2520%2520%257D%250A%2520%2520%2520%2520return%2520response.statusCode%253B%250A%2520%2520%257D%250A%257D"
@@ -43,12 +44,12 @@ No Front-End, usamos a classe Api como um singleton para fazer toda a comuniçã
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
-**Acesso ao padrão:** [Api](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/services/api.dart)
+**Acesso ao padrão:** [api.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/services/api.dart)
 
 ### Strategy
 
-No Front usamos uma lógica o qual teria uma página base, isto é, um página que teria tudo que uma página deveria ter. Nisso, dependendo do o que é passado para ela como parâmetro, ela 
-se adaptaria aos argumentos. 
+No Front usamos uma lógica o qual teria uma página base, isto é, um página que teria tudo que uma página deveria ter. Nisso, dependendo do o que é passado para ela como parâmetro, ela
+se adaptaria aos argumentos.
 
 <iframe
   src="https://carbon.now.sh/embed/?bg=rgba(171%2C%20184%2C%20195%2C0)&t=dracula&wt=none&l=auto&ds=true&dsyoff=0px&dsblur=25px&wc=false&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=177%25&si=false&es=2x&wm=false&code=class%2520BaseScreen%2520extends%2520StatelessWidget%2520%257B%250A%2520%2520final%2520String%2520pageTitle%252C%2520appBarTitle%253B%250A%2520%2520final%2520Widget%2520body%252C%2520drawer%253B%250A%2520%2520final%2520bool%2520padding%253B%250A%2520%2520BaseScreen(this.appBarTitle%252C%2520this.pageTitle%252C%2520this.body%252C%2520this.drawer%252C%250A%2520%2520%2520%2520%2520%2520%257Bthis.padding%2520%253D%2520true%257D)%253B%250A%250A%2520%2520%2540override%250A%2520%2520Widget%2520build(BuildContext%2520context)%2520%257B%250A%2520%2520%2520%2520%252F%252FN%25C3%25A3o%2520h%25C3%25A1%2520o%2520c%25C3%25B3digo%2520do%2520componente%2520para%2520melhor%2520visualizar%2520a%2520classe%250A%2520%2520%2520%2520return%2520componente()%253B%250A%2520%2520%257D%250A%257D"
@@ -56,9 +57,10 @@ se adaptaria aos argumentos.
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
-**Acesso ao padrão:** [BaseScreen](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/components/base_screen/base_screen.dart)
+**Acesso ao padrão:** [base_screen.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/components/base_screen/base_screen.dart)
 
 ### Observer
+
 O Flutter usa uma classe StreamBuilder a qual fica observando a alteração de alguma variável
 do bloc e com isso, renderiza a tela de acordo com a alteração.
 
@@ -68,7 +70,7 @@ do bloc e com isso, renderiza a tela de acordo com a alteração.
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
-**Acesso ao padrão:** [ChatScreen](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/chat_screen/chat_screen.dart)
+**Acesso ao padrão:** [chat_screen.dart](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/chat_screen/chat_screen.dart)
 
 ### Memento
 
@@ -80,6 +82,6 @@ O Flutter usa o padrão memento na pilha de navegação.
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
-**Acesso ao padrão:** [ConfigScreen](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/config_screen/config_screen.dart)
+**Acesso ao padrão:** [config_screen.dart](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/config_screen/config_screen.dart)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#factory-method)
