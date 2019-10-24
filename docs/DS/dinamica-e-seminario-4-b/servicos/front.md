@@ -70,11 +70,6 @@ do bloc e com issom, renderiza a tela de acordo com a alteração.
 
 **Acesso ao padrão:** [ChatScreen](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/chat_screen/chat_screen.dart)
 
-### Decorator
-
-
-
-
 ### Memento
 
 O Flutter usa o padrão memento na pilha de navegação.

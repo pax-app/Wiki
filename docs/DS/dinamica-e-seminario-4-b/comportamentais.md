@@ -15,40 +15,53 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 [Descrição]
 
-# Iterator
+## Iterator
 
 [Descrição]
 
-# Mediator
+## Mediator
+
+n colocou
+[Descrição]
+
+## Observer
+
+Observer é um padrão de design comportamental que permite definir um mecanismo de inscrição para notificar vários objetos sobre quaisquer eventos que ocorram no objeto que estão observando.
+
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Observer)
+
+## Strategy
+
+Strategy é um padrão de design comportamental que permite definir uma família de algoritmos, colocar cada um deles em uma classe separada e tornar seus objetos intercambiáveis.
+
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Strategy)
+
+## Template Method
 
 [Descrição]
 
-# Observer
+## Visitor
 
 [Descrição]
 
-# Strategy
+## Memento
 
-[Descrição]
+Memento é um padrão de design comportamental que permite salvar e restaurar o estado anterior de um objeto sem revelar os detalhes de sua implementação.
 
-# Template Method
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Memento)
 
-[Descrição]
-
-# Visitor
-
-[Descrição]
-
-# Memento
-
-[Descrição]
-
-# Chain of Responsibility
+## Chain of Responsibility
 
 [Descrição]
 
 - [[Chat] ChatList](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chat-list)
 - [[Chat] ChatStore](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chat-store)
+
+## State
+
+State é um padrão de design comportamental que permite que um objeto altere seu comportamento quando seu estado interno for alterado. Parece que o objeto mudou de classe.
+
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#State)
 
 ## Referências
 
