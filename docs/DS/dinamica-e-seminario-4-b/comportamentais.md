@@ -10,6 +10,7 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 | :--------: | :----: | :-----------------------------------------: | :------------: |
 | 21/10/2019 |  0.1   |        Cria a estrutura do documento        | Rogério Júnior |
 | 21/10/2019 |  0.2   | Adiciona definição de GoF's Comportamentais | Rogério Júnior |
+| 23/10/2019 |  0.2   | Adicionando serviço de FrontEnd | Ésio Freitas |
 
 # Command
 

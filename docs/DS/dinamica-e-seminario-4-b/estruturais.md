@@ -11,31 +11,31 @@ Os **Padrões de Design Estruturais**(*Structural Patterns*) estão preocupados 
 | 21/10/2019 |  0.1   |      Cria a estrutura do documento      | Rogério Júnior |
 | 21/10/2019 |  0.2   | Adiciona definição de GoF's Estruturais | Rogério Júnior |
 
-# Adapter
+## Adapter
 
 [Descrição]
 
-# Bridge
+## Bridge
 
 [Descrição]
 
-# Composite
+## Composite
 
 [Descrição]
 
-# Decorator
+## Decorator
 
 [Descrição]
 
-# Facade
+## Facade
 
 [Descrição]
 
-# Flyweight
+## Flyweight
 
 [Descrição]
 
-# Proxy
+## Proxy
 
 [Descrição]
 
