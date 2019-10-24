@@ -6,17 +6,17 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                Descrição                |   Autor(es)    |
-| :--------: | :----: | :-------------------------------------: | :------------: |
-| 21/10/2019 |  0.1   |      Cria a estrutura do documento      | Rogério Júnior |
-| 21/10/2019 |  0.2   | Adiciona definição de GoF's Criacionais | Rogério Júnior |
-| 22/10/2019 |  0.2   | Adiciona definição de Factory Method e o serviço de FrontEnd | Ésio Freitas |
+|    Data    | Versão |                          Descrição                           |   Autor(es)    |
+| :--------: | :----: | :----------------------------------------------------------: | :------------: |
+| 21/10/2019 |  0.1   |                Cria a estrutura do documento                 | Rogério Júnior |
+| 21/10/2019 |  0.2   |           Adiciona definição de GoF's Criacionais            | Rogério Júnior |
+| 22/10/2019 |  0.2   | Adiciona definição de Factory Method e o serviço de FrontEnd |  Ésio Freitas  |
 
 # Factory Method
 
 É um padrão de projeto que permite às classes delegar para subclasses decidirem, isso é feito através da criação de objetos que chamam o método fabrica especificado numa interface e implementado por um classe filha ou implementado numa classe abstrata e opcionalmente sobrescrito por classes derivadas.
 
-- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#factory-method)
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/Front.md#factory-method)
 
 # Abstract Factory
 

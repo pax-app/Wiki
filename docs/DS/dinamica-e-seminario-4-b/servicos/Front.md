@@ -1,13 +1,13 @@
 # [Front-End](https://github.com/pax-app/Frontend)
 
-Esse serviço se encontra toda a interface que os usuários do aplicativo vai interagir.
+Camada da aplicação responsável pela interação com o usuário.
 
 ## Padrões usados:
 
 ### Factory Method
 
-O Flutter tem uma arquitetura chamada BLoC (Business Logic Component), o qual tem
-a função de separar a logica de negócio da UI através do uso de Streams. Em suma, stream
+O _Flutter_ possui uma arquitetura chamada BLoC (_Business Logic Component_), a qual tem
+a função de separar a lógica de negócio da UI através do uso de _Streams_. Em suma, _stream_
 é uma fonte de eventos assíncronos.
 
 > Em termos práticos, essa arquitetura BLoC pode ser comparada com o padrão de projeto Factory Method.
