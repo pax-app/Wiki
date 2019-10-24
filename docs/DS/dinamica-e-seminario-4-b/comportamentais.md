@@ -1,8 +1,8 @@
 # GoF's Comportamentais
 
-Os **GoF**'s (*Gang of Four*) são padrões de *design* que visão prover soluções para problemas comum no desenvolvimento de *software*. No caso de *programação orientada à objetos*, os GoF's se propõem a solucionar problemas de interação e geração de objetos, que podem ser aplicados a contexto de problemas reais.São ferramentas poderosas no desenvolvimento de *softwares*.
+Os **GoF**'s (_Gang of Four_) são padrões de _design_ que visão prover soluções para problemas comum no desenvolvimento de _software_. No caso de _programação orientada à objetos_, os GoF's se propõem a solucionar problemas de interação e geração de objetos, que podem ser aplicados a contexto de problemas reais.São ferramentas poderosas no desenvolvimento de _softwares_.
 
-Os **Padrões de Design Comportamentais** (*Behavioral Patterns*) se preocupam dos algoritmos e tarefas entre objetos. Não são responsáveis apenas pelo comportamento entre os objetos, mas também pela sua comunicação. Esses padrões se caracterizam por cuidar de fluxos complexos que são difíceis de acompanhar em tempo real e permitem que o desenvolvedor se preocupe somente com o jeito que os objetos estão interconectados.
+Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam dos algoritmos e tarefas entre objetos. Não são responsáveis apenas pelo comportamento entre os objetos, mas também pela sua comunicação. Esses padrões se caracterizam por cuidar de fluxos complexos que são difíceis de acompanhar em tempo real e permitem que o desenvolvedor se preocupe somente com o jeito que os objetos estão interconectados.
 
 ## Histórico de Revisões
 
@@ -10,9 +10,10 @@ Os **Padrões de Design Comportamentais** (*Behavioral Patterns*) se preocupam d
 | :--------: | :----: | :-----------------------------------------: | :------------: |
 | 21/10/2019 |  0.1   |        Cria a estrutura do documento        | Rogério Júnior |
 | 21/10/2019 |  0.2   | Adiciona definição de GoF's Comportamentais | Rogério Júnior |
-| 23/10/2019 |  0.2   | Adicionando serviço de FrontEnd | Ésio Freitas |
+| 23/10/2019 |  0.2   |       Adicionando serviço de FrontEnd       |  Ésio Freitas  |
 
 ## Command
+
 [Descrição]
 
 ## Iterator
@@ -28,7 +29,6 @@ Os **Padrões de Design Comportamentais** (*Behavioral Patterns*) se preocupam d
 Observer é um padrão de design comportamental que permite definir um mecanismo de inscrição para notificar vários objetos sobre quaisquer eventos que ocorram no objeto que estão observando.
 
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Observer)
-
 
 ## Strategy
 
@@ -54,7 +54,7 @@ Memento é um padrão de design comportamental que permite salvar e restaurar o 
 
 [Descrição]
 
-## State 
+## State
 
 State é um padrão de design comportamental que permite que um objeto altere seu comportamento quando seu estado interno for alterado. Parece que o objeto mudou de classe.
 
