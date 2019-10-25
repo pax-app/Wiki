@@ -18,7 +18,7 @@ Arquivo: [init.py](https://github.com/pax-app/User/blob/devel/project/__init__.p
 
 ### Decorator
 
-O _decorator_, no contexto do serviço de usuários, é utilizado para implementar uma função que tem como foco alterar o comportamento de determinadas rotas. Assim, executando a validação e requerindo a presença do mesmo naquelas rotas que forem agregadas com o _decorator_.
+O _decorator_, no contexto do serviço de usuários, é utilizado para implementar uma função que tem como foco alterar o comportamento de determinadas rotas. Assim, executando a validação do _token_ e requerindo a presença do mesmo naquelas rotas que forem agregadas com o _decorator_.
 
 ![Decorator](../../../../assets/design-patterns/User/Decorator.png)
 
