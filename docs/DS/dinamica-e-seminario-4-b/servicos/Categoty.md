@@ -2,7 +2,7 @@
 
 Camada da aplicação responsável pelas categorias gerais e de serviço disponíveis no sistema.
 
-## Padrões usádos:
+## Padrões usados:
 
 ### Strategy
 
@@ -42,7 +42,7 @@ Facade pode ser reconhecida em uma classe que possui uma interface simples, mas 
 
 **Acesso ao padrão:** [views.py](https://github.com/pax-app/Category/blob/devel/project/api/views.py)
 
-## Padrões não usádos:
+## Padrões não usados:
 
 ### Composite
 

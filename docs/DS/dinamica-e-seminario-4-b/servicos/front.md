@@ -2,7 +2,7 @@
 
 Camada da aplicação responsável pela interação com o usuário.
 
-## Padrões usádos:
+## Padrões usados:
 
 ### Factory Method
 
