@@ -14,10 +14,12 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 | 23/10/2019 |  0.4   |               Adicionando serviço de FrontEnd                |           Ésio Freitas           |
 | 24/10/2019 |  0.5   |                   Padronizando o documento                   | Rogério Júnior e Youssef Muhamad |
 | 24/10/2019 |  0.6   |            Adição dos patterns do serviço de Chat            | Rogério Júnior e Youssef Muhamad |
+| 24/10/2019 |  0.7 |            Melhoria de algumas descrições e abordagem de GRASPS            | Marcos Nery |
+
 
 ## Factory Method
 
-É um padrão de projeto que permite às classes delegar para subclasses decidirem, isso é feito através da criação de objetos que chamam o método fabrica especificado numa interface e implementado por um classe filha ou implementado numa classe abstrata e opcionalmente sobrescrito por classes derivadas.
+É um padrão de projeto que permite às classes delegar para subclasses decidirem os tipos de objetos que serão criados, isso é feito através da criação de objetos que chamam o método fabrica especificado numa interface e implementado por um classe filha ou implementado numa classe abstrata e opcionalmente sobrescrito por classes derivadas. Esse padrão ajuda a garantir os grasps de baixo acoplamento e creator.
 
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#factory-method)
 - [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#factory-method)
@@ -36,7 +38,7 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 
 ## Singleton
 
-Singleton é um padrão de design criacional que permite garantir que uma classe tenha apenas uma instância, enquanto fornece um ponto de acesso global a essa instância.
+Singleton é um padrão de design criacional que permite garantir que uma classe tenha apenas uma instância, enquanto fornece um ponto de acesso global a essa instância. Garantindo dessa forma que o dado objeto seja inicializado apenas uma vez. 
 
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#Singleton)
 - [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#singleton)
