@@ -66,7 +66,7 @@ Arquivo: [app.js](https://github.com/pax-app/Chat/blob/devel/src/app.js#L11)
 
 ## Controle de Manutenabilidade
 
-Antes da implementações fizemos uso da ferramenta _Code Climate_ para mensurar a manutenabilidade do código deste microsserviço.
+Esse microsserviço foi modelado desde o início com a aplicação desses padrões, dessa forma, é possível ver que o Code Climate aponta uma boa manutenabilidade.
 
 ![Code Climate](../../../../assets/Patterns/Chat/codeclimate_chat.jpg)
 
