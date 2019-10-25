@@ -23,7 +23,9 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 ## Mediator
 
-[Descrição]
+Padrão que visa diminuir a dependência desorganizada entre objetos/serviços estabelecendo uma interface que se responsabiliza por gerir toda a comunicação de um sistema, redirecionado as chamadas que chegam a ele para as camadas que serão responsáveis por trata-las, podendo também haver algum tipo de tratamento adicional na própria passagem da requisição ou da sua resposta. 
+
+- [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#mediator)
 
 ## Observer
 
@@ -54,7 +56,9 @@ Memento é um padrão de design comportamental que permite salvar e restaurar o 
 
 ## Chain of Responsibility
 
-[Descrição]
+Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado. 
+
+- [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#chain-of-responsibility)
 
 ## State
 
