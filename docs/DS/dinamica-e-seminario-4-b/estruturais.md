@@ -1,8 +1,8 @@
 # GoF's Estruturais
 
-Os **GoF**'s (*Gang of Four*) são padrões de *design* que visão prover soluções para problemas comum no desenvolvimento de *software*. No caso de *programação orientada à objetos*, os GoF's se propõem a solucionar problemas de interação e geração de objetos, que podem ser aplicados a contexto de problemas reais.São ferramentas poderosas no desenvolvimento de *softwares*.
+Os **GoF**'s (_Gang of Four_) são padrões de _design_ que visão prover soluções para problemas comum no desenvolvimento de _software_. No caso de _programação orientada à objetos_, os GoF's se propõem a solucionar problemas de interação e geração de objetos, que podem ser aplicados a contexto de problemas reais.São ferramentas poderosas no desenvolvimento de _softwares_.
 
-Os **Padrões de Design Estruturais**(*Structural Patterns*) estão preocupados com como classes e objetos são unidos para formar estruturas maiores. Classes estruturais usam herança para compor interfaces de implementação.
+Os **Padrões de Design Estruturais**(_Structural Patterns_) estão preocupados com como classes e objetos são unidos para formar estruturas maiores. Classes estruturais usam herança para compor interfaces de implementação.
 
 ## Histórico de Revisões
 
@@ -31,6 +31,8 @@ Os **Padrões de Design Estruturais**(*Structural Patterns*) estão preocupados 
 
 [Descrição]
 
+- [[Chat] Routes](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#routes)
+
 # Flyweight
 
 [Descrição]
@@ -38,6 +40,8 @@ Os **Padrões de Design Estruturais**(*Structural Patterns*) estão preocupados 
 # Proxy
 
 [Descrição]
+
+- [[Chat] Express](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#express)
 
 ## Referências
 
