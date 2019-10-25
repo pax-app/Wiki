@@ -1,15 +1,13 @@
 # [Chat](https://github.com/pax-app/Chat)
 
-[Descrição do Serviço]
+O serviço de chat é responsável pelo gerênciamento das salas de chat entre o usuário e o provedor. Se encarrega da comunicação direta com a banco de dados de forma a inserir, consultar e deletar as informações. Provem _endpoints_ que permitem a comunicação entre o sistema.
 
-## [index](https://github.com/pax-app/Chat/blob/devel/src/app/controllers/ChatController.js#L4)
+## Class Database
 
-[Porque usou esse padrão / Porque não usou outro]
+O _Singleton_ é de extrema importância, neste caso, para que a instância de conexão com o Banco seja única e acessível por todo os módulos do serviço que a importar. O _JavaScript_ tem um jeito simples de fazer isso que é o _export default new ClasseDesejada()_ que faz com que o todas as vezes que essa instância for chamada, ela será a mesma em qualquer lugar.
 
-<iframe
-  src="https://carbon.now.sh/embed/?bg=rgba(255%2C255%2C255%2C1)&t=dracula&wt=none&l=auto&ds=true&dsyoff=36px&dsblur=30px&wc=true&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=177%25&si=false&es=4x&wm=false"
-  style="transform:scale(1); width:100%; height:500px; border:0; overflow:hidden;"
-  sandbox="allow-scripts allow-same-origin">
-</iframe>
+![Class Database](../../../../assets/Patterns/Chat/database.svg)
 
-### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#factory-method)
+Arquivo: [database/index.js](https://github.com/pax-app/Chat/blob/devel/src/database/index.js#L7)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)

@@ -1,6 +1,6 @@
 # GoF's Criacionais
 
-Os **GoF**'s (*Gang of Four*) são padrões de *design* que visão prover soluções para problemas comum no desenvolvimento de *software*. No caso de *programação orientada à objetos*, os GoF's se propõem a solucionar problemas de interação e geração de objetos, que podem ser aplicados a contexto de problemas reais.São ferramentas poderosas no desenvolvimento de *softwares*.
+Os **GoF**'s (_Gang of Four_) são padrões de _design_ que visão prover soluções para problemas comum no desenvolvimento de _software_. No caso de _programação orientada à objetos_, os GoF's se propõem a solucionar problemas de interação e geração de objetos, que podem ser aplicados a contexto de problemas reais.São ferramentas poderosas no desenvolvimento de _softwares_.
 
 Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instanciação de objetos. Eles ajudam a criar um sistema independente de como seus objetos são criados, compostos e representados.
 
@@ -33,6 +33,8 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 # Singleton
 
 [Descrição]
+
+- [[Chat] Class Database](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#class-database)
 
 # Multiton
 
