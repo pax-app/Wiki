@@ -42,7 +42,7 @@ De início, foi uma possíbilidade a utilização do _Design Pattern_ Composite,
 
 ## Controle de Manutenabilidade
 
-Antes da implementações fizemos uso da ferramenta _Code Climate_ para mensurar a manutenabilidade do código deste microsserviço.
+É possível ver que mesmo com a aplicação dos padrões o _Code Climate_ indica uma manutenabilidade ruim. Isso porque algumas partes específicas do código ainda estão mais complexas que o necessário, principalmente dentro de algumas estratégias do Strategy. Com isso é possível ver que mesmo tendo bons padrões de design implementados é também necessário seguir boas práticas de código dentro da implementação da resolução dos problemas do contexto em sí. Dito isso, ainda são necessárias melhorias nessa parte, para aplicar bons design pattenrs em um bom código e conseguir atingir boas métricas.
 
 ![Code Climate](../../../../assets/Patterns/codeclimate_category.jpg)
 
