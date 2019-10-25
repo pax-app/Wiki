@@ -52,13 +52,10 @@ Strategy é um padrão de design comportamental que permite definir uma família
 
 ## Memento
 
-Memento é um padrão de design comportamental que permite salvar e restaurar o estado anterior de um objeto sem revelar os detalhes de sua implementação.
-
-- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Memento)
-
 Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado. Dessa forma, o padrão contribuí para o baixo acomplamento, alta coesão e utilização do especialista.
 
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#chain-of-responsibility)
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Memento)
 
 ## State
 
