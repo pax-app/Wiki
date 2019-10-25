@@ -6,25 +6,30 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                  Descrição                  |   Autor(es)    |
-| :--------: | :----: | :-----------------------------------------: | :------------: |
-| 21/10/2019 |  0.1   |        Cria a estrutura do documento        | Rogério Júnior |
-| 21/10/2019 |  0.2   | Adiciona definição de GoF's Comportamentais | Rogério Júnior |
-| 23/10/2019 |  0.2   |       Adicionando serviço de FrontEnd       |  Ésio Freitas  |
-| 24/10/2019 |  0.3   |       Adicionando serviço de Categoty       | Fabiana Ribas  |
+|    Data    | Versão |                         Descrição                          |   Autor(es)    |
+| :--------: | :----: | :--------------------------------------------------------: | :------------: |
+| 21/10/2019 |  0.1   |               Cria a estrutura do documento                | Rogério Júnior |
+| 21/10/2019 |  0.2   |        Adiciona definição de GoF's Comportamentais         | Rogério Júnior |
+| 23/10/2019 |  0.2   |              Adicionando serviço de FrontEnd               |  Ésio Freitas  |
+| 24/10/2019 |  0.3   |              Adicionando serviço de Categoty               | Fabiana Ribas  |
+| 24/10/2019 |  0.5   | Adiciona definição para Mediator e Chain of responsibility |  Marcos Nery   |
+| 24/10/2019 |  0.6   |                Improving some descriptions                 |  Marcos Nery   |
 
-# Command
+## Command
 
 [Descrição]
 
 ## Iterator
 
-[Descrição]
+O iterador é um padrão de projeto comportamental que permite atravessar elementos de uma coleção sem expor sua representação subjacente (lista, pilha, árvore, etc.).
+
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Iterator)
 
 ## Mediator
 
-n colocou
-[Descrição]
+Padrão que visa diminuir a dependência desorganizada entre objetos/serviços estabelecendo uma interface que se responsabiliza por gerir toda a comunicação de um sistema, redirecionado as chamadas que chegam a ele para as camadas que serão responsáveis por trata-las, podendo também haver algum tipo de tratamento adicional na própria passagem da requisição ou da sua resposta. Vindo da invenção pura, esse padrão contribuí para o baixo acomplamento e para alta coesão.
+
+- [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#mediator)
 
 ## Observer
 
@@ -36,8 +41,9 @@ Observer é um padrão de design comportamental que permite definir um mecanismo
 
 Strategy é um padrão de design comportamental que permite definir uma família de algoritmos, colocar cada um deles em uma classe separada e tornar seus objetos intercambiáveis.
 
+- [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#Strategy)
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Strategy)
-- [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Categoty.md#Strategy)
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Strategy)
 
 ## Template Method
 
@@ -55,10 +61,16 @@ Memento é um padrão de design comportamental que permite salvar e restaurar o 
 
 ## Chain of Responsibility
 
-[Descrição]
+Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado. Dessa forma, o padrão contribuí para o baixo acoplamento, alta coesão e utilização do especialista.
 
-- [[Chat] ChatList](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chat-list)
-- [[Chat] ChatStore](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chat-store)
+- [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#chain-of-responsibility)
+- [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chain-of-responsibility)
+
+## State
+
+State é um padrão de design comportamental que permite que um objeto altere seu comportamento quando seu estado interno for alterado. Parece que o objeto mudou de classe.
+
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#State)
 
 ## State
 
@@ -72,4 +84,4 @@ State é um padrão de design comportamental que permite que um objeto altere se
 
 - CARR, Richard. **Gang of Four Design Patterns**. [S. l.], 2009. Disponível em: http://www.blackwasp.co.uk/gofpatterns.aspx. Acesso em: 21 out. 2019.
 
-- Suas referencias OBRIGATORIO em formato [ABNT](https://referenciabibliografica.net/a/pt-br/ref/abnt)
+- Refactoring Guru. **Design Patterns**. [S. l.], 2019. Disponível em: https://refactoring.guru/design-patterns. Acesso em: 21 out. 2019.

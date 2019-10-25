@@ -18,6 +18,7 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 É um padrão de projeto que permite às classes delegar para subclasses decidirem, isso é feito através da criação de objetos que chamam o método fabrica especificado numa interface e implementado por um classe filha ou implementado numa classe abstrata e opcionalmente sobrescrito por classes derivadas.
 
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#factory-method)
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#factory-method)
 
 ## Abstract Factory
 
@@ -35,12 +36,12 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 
 Singleton é um padrão de design criacional que permite garantir que uma classe tenha apenas uma instância, enquanto fornece um ponto de acesso global a essa instância.
 
+- [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#Singleton)
+- [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#singleton)
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Singleton)
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Singleton)
 
-- [[Chat] Class Database](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#class-database)
-- [[Chat] Chat Controller](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chat-controller)
-
-# Multiton
+## Multiton
 
 [Descrição]
 
@@ -54,4 +55,4 @@ Singleton é um padrão de design criacional que permite garantir que uma classe
 
 - CARR, Richard. **Gang of Four Design Patterns**. [S. l.], 2009. Disponível em: http://www.blackwasp.co.uk/gofpatterns.aspx. Acesso em: 21 out. 2019.
 
-- Suas referencias OBRIGATORIO em formato [ABNT](https://referenciabibliografica.net/a/pt-br/ref/abnt)
+- Refactoring Guru. **Design Patterns**. [S. l.], 2019. Disponível em: https://refactoring.guru/design-patterns. Acesso em: 21 out. 2019.
