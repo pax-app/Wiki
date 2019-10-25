@@ -17,6 +17,8 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 | 24/10/2019 |  0.7   |                  Padronizando o documento                  | Rogério Júnior e Youssef Muhamad |
 | 24/10/2019 |  0.8   |           Adição dos patterns do serviço de Chat           | Rogério Júnior e Youssef Muhamad |
 | 24/10/2019 |  0.9   |         Melhorando explicações no uso dos patterns         | Rogério Júnior e Youssef Muhamad |
+| 24/10/2019 |  1.0 |         Melhorando algumas descrições e adicionando citações de GRASPs        | Marcos Nery |
+
 
 <!-- ## Command
 
@@ -24,7 +26,7 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 ## Iterator
 
-O iterador é um padrão de projeto comportamental que permite atravessar elementos de uma coleção sem expor sua representação subjacente (lista, pilha, árvore, etc.).
+O iterador é um padrão de projeto comportamental que permite atravessar elementos de uma coleção sem expor sua representação subjacente (lista, pilha, árvore, etc.). Esse padrão ajuda portanto a garantir os GRASPs de alta coesão e do especialista, já que algoritmos de ordenação e outras coisas do tipo, que não fazem realmente parte da responsabilidade de algumas classes mas que precisam ser implementados para resolver os problemas dela, podem ser passados para classes separadas.
 
 - [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Iterator)
 
@@ -42,7 +44,7 @@ Observer é um padrão de design comportamental que permite definir um mecanismo
 
 ## Strategy
 
-Strategy é um padrão de design comportamental que permite definir uma família de algoritmos, colocar cada um deles em uma classe separada e tornar seus objetos intercambiáveis.
+Strategy é um padrão de design comportamental que permite definir uma família de algoritmos, colocar cada um deles em uma classe separada e tornar seus objetos intercambiáveis. O Strategy contribui para o cumprimento dos GRASPs Alta coesão e especialista, já que cada estratégia é separada em sua própria classe e contém apenas o que lhe é de competência. Também pode ser enquadrado como um caso de implementação do respeito ao GRASP de variações protegidas.
 
 - [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#Strategy)
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Strategy)
@@ -64,14 +66,14 @@ Memento é um padrão de design comportamental que permite salvar e restaurar o 
 
 ## Chain of Responsibility
 
-Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado. Dessa forma, o padrão contribuí para o baixo acoplamento, alta coesão e utilização do especialista.
+Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado. Dessa forma, o padrão contribuí para GRASPs como o o baixo acoplamento, alta coesão e utilização do especialista.
 
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#chain-of-responsibility)
 - [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chain-of-responsibility)
 
 ## State
 
-State é um padrão de design comportamental que permite que um objeto altere seu comportamento quando seu estado interno for alterado. Parece que o objeto mudou de classe.
+State é um padrão de design comportamental que permite que um objeto altere seu comportamento quando seu estado interno for alterado. Quase como se o objeto tivesse mudado de classe. Esse padrão ajuda a manter os GRASPs de alta coesão e especialista, já que o que é referente a cada um dos estados pode ser representado em classes diferentes.
 
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#State)
 
