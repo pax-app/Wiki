@@ -45,7 +45,7 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 # Chain of Responsibility
 
-[Descrição]
+Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado.
 
 - [[Chat] ChatList](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chat-list)
 - [[Chat] ChatStore](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chat-store)
@@ -56,4 +56,4 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 - CARR, Richard. **Gang of Four Design Patterns**. [S. l.], 2009. Disponível em: http://www.blackwasp.co.uk/gofpatterns.aspx. Acesso em: 21 out. 2019.
 
-- Suas referencias OBRIGATORIO em formato [ABNT](https://referenciabibliografica.net/a/pt-br/ref/abnt)
+- Refactoring Guru. **Design Patterns**. [S. l.], 2019. Disponível em: https://refactoring.guru/design-patterns. Acesso em: 21 out. 2019.

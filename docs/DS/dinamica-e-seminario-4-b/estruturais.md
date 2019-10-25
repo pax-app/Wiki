@@ -29,7 +29,7 @@ Os **Padrões de Design Estruturais**(_Structural Patterns_) estão preocupados 
 
 # Facade
 
-[Descrição]
+Facade fornece uma interface simplificada para uma biblioteca, uma estrutura ou qualquer outro conjunto complexo de classes.
 
 - [[Chat] Routes](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#routes)
 
@@ -39,7 +39,7 @@ Os **Padrões de Design Estruturais**(_Structural Patterns_) estão preocupados 
 
 # Proxy
 
-[Descrição]
+Proxy permite prover um substituo ou espaço reservado para outro objeto. Faz o controle de acesso ao objeto original, permitindo que possa realizar alguma coisa mantes ou depois da requisição passar pelo objeto original.
 
 - [[Chat] Express](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#express)
 
@@ -49,4 +49,4 @@ Os **Padrões de Design Estruturais**(_Structural Patterns_) estão preocupados 
 
 - CARR, Richard. **Gang of Four Design Patterns**. [S. l.], 2009. Disponível em: http://www.blackwasp.co.uk/gofpatterns.aspx. Acesso em: 21 out. 2019.
 
-- Suas referencias OBRIGATORIO em formato [ABNT](https://referenciabibliografica.net/a/pt-br/ref/abnt)
+- Refactoring Guru. **Design Patterns**. [S. l.], 2019. Disponível em: https://refactoring.guru/design-patterns. Acesso em: 21 out. 2019.
