@@ -6,12 +6,14 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                          Descrição                           |   Autor(es)    |
-| :--------: | :----: | :----------------------------------------------------------: | :------------: |
-| 21/10/2019 |  0.1   |                Cria a estrutura do documento                 | Rogério Júnior |
-| 21/10/2019 |  0.2   |           Adiciona definição de GoF's Criacionais            | Rogério Júnior |
-| 22/10/2019 |  0.3   | Adiciona definição de Factory Method e o serviço de FrontEnd |  Ésio Freitas  |
-| 23/10/2019 |  0.4   |               Adicionando serviço de FrontEnd                |  Ésio Freitas  |
+|    Data    | Versão |                          Descrição                           |            Autor(es)             |
+| :--------: | :----: | :----------------------------------------------------------: | :------------------------------: |
+| 21/10/2019 |  0.1   |                Cria a estrutura do documento                 |          Rogério Júnior          |
+| 21/10/2019 |  0.2   |           Adiciona definição de GoF's Criacionais            |          Rogério Júnior          |
+| 22/10/2019 |  0.3   | Adiciona definição de Factory Method e o serviço de FrontEnd |           Ésio Freitas           |
+| 23/10/2019 |  0.4   |               Adicionando serviço de FrontEnd                |           Ésio Freitas           |
+| 24/10/2019 |  0.5   |                   Padronizando o documento                   | Rogério Júnior e Youssef Muhamad |
+| 24/10/2019 |  0.6   |            Adição dos patterns do serviço de Chat            | Rogério Júnior e Youssef Muhamad |
 
 ## Factory Method
 
