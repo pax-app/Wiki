@@ -33,7 +33,7 @@ Os **Padrões de Design Estruturais**(_Structural Patterns_) estão preocupados 
 
 Facade é um _Design Pattern_ estrutural que fornece uma interface simplificada para uma biblioteca, uma estrutura ou qualquer outro conjunto complexo de classes.
 
-- [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Categoty.md#Strategy)
+- [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#Facade)
 
 ## Flyweight
 
