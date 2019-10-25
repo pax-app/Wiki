@@ -10,38 +10,41 @@ Os **Padrões de Design Estruturais**(_Structural Patterns_) estão preocupados 
 | :--------: | :----: | :-------------------------------------: | :------------: |
 | 21/10/2019 |  0.1   |      Cria a estrutura do documento      | Rogério Júnior |
 | 21/10/2019 |  0.2   | Adiciona definição de GoF's Estruturais | Rogério Júnior |
+| 24/10/2019 |  0.3   |        Adiciona definição Facade        | Fabiana Ribas  |
+| 24/10/2019 |  0.4   |        Adiciona serviço Category        | Fabiana Ribas  |
 
-# Adapter
-
-[Descrição]
-
-# Bridge
+## Adapter
 
 [Descrição]
 
-# Composite
+## Bridge
 
 [Descrição]
 
-# Decorator
+## Composite
 
 [Descrição]
 
-# Facade
+## Decorator
+
+[Descrição]
+
+## Facade
 
 Facade fornece uma interface simplificada para uma biblioteca, uma estrutura ou qualquer outro conjunto complexo de classes.
 
-- [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#routes)
+- [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#Facade)
+- [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#facade)
 
-# Flyweight
+## Flyweight
 
 [Descrição]
 
-# Proxy
+## Proxy
 
 Proxy permite prover um substituo ou espaço reservado para outro objeto. Faz o controle de acesso ao objeto original, permitindo que possa realizar alguma coisa mantes ou depois da requisição passar pelo objeto original.
 
-- [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#express)
+- [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#proxy)
 
 ## Referências
 

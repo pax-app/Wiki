@@ -6,48 +6,68 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                  Descrição                  |   Autor(es)    |
-| :--------: | :----: | :-----------------------------------------: | :------------: |
-| 21/10/2019 |  0.1   |        Cria a estrutura do documento        | Rogério Júnior |
-| 21/10/2019 |  0.2   | Adiciona definição de GoF's Comportamentais | Rogério Júnior |
+|    Data    | Versão |                         Descrição                          |   Autor(es)    |
+| :--------: | :----: | :--------------------------------------------------------: | :------------: |
+| 21/10/2019 |  0.1   |               Cria a estrutura do documento                | Rogério Júnior |
+| 21/10/2019 |  0.2   |        Adiciona definição de GoF's Comportamentais         | Rogério Júnior |
+| 23/10/2019 |  0.3   |              Adicionando serviço de FrontEnd               |  Ésio Freitas  |
+| 24/10/2019 |  0.4   |              Adicionando serviço de Categoty               | Fabiana Ribas  |
+| 24/10/2019 |  0.5   | Adiciona definição para Mediator e Chain of responsibility |  Marcos Nery   |
+| 24/10/2019 |  0.6   |                Improving some descriptions                 |  Marcos Nery   |
 
-# Command
-
-[Descrição]
-
-# Iterator
-
-[Descrição]
-
-# Mediator
+## Command
 
 [Descrição]
 
-# Observer
+## Iterator
 
 [Descrição]
 
-# Strategy
+## Mediator
+
+Padrão que visa diminuir a dependência desorganizada entre objetos/serviços estabelecendo uma interface que se responsabiliza por gerir toda a comunicação de um sistema, redirecionado as chamadas que chegam a ele para as camadas que serão responsáveis por trata-las, podendo também haver algum tipo de tratamento adicional na própria passagem da requisição ou da sua resposta. Vindo da invenção pura, esse padrão contribuí para o baixo acomplamento e para alta coesão.
+
+- [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#mediator)
+
+## Observer
+
+Observer é um padrão de design comportamental que permite definir um mecanismo de inscrição para notificar vários objetos sobre quaisquer eventos que ocorram no objeto que estão observando.
+
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Observer)
+
+## Strategy
+
+Strategy é um padrão de design comportamental que permite definir uma família de algoritmos, colocar cada um deles em uma classe separada e tornar seus objetos intercambiáveis.
+
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Strategy)
+- [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#Strategy)
+
+## Template Method
 
 [Descrição]
 
-# Template Method
+## Visitor
 
 [Descrição]
 
-# Visitor
+## Memento
 
-[Descrição]
+Memento é um padrão de design comportamental que permite salvar e restaurar o estado anterior de um objeto sem revelar os detalhes de sua implementação.
 
-# Memento
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Memento)
 
-[Descrição]
+## Chain of Responsibility
 
-# Chain of Responsibility
+Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado. Dessa forma, o padrão contribuí para o baixo acoplamento, alta coesão e utilização do especialista.
 
-Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado.
-
+- [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#chain-of-responsibility)
 - [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chain-of-responsibility)
+
+## State
+
+State é um padrão de design comportamental que permite que um objeto altere seu comportamento quando seu estado interno for alterado. Parece que o objeto mudou de classe.
+
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#State)
 
 ## Referências
 

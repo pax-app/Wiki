@@ -44,7 +44,7 @@ Arquivo:
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#chain-of-responsibility)
 
-## Routes
+## Facade
 
 O _Facade_ foi implementado de forma que os _routes_ fiquem com a responsabilidade de redirecionar as requisições para seus devidos tratadores (_middleware_) e para os suas funções principais (_controllers_).
 
@@ -54,7 +54,7 @@ Arquivo: [ChatStore.js](https://github.com/pax-app/Chat/blob/devel/src/routes.js
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/estruturais.md#facade)
 
-## Express
+## Proxy
 
 O _Proxy_ foi usado pela composição de objetos dentro da instância do _express_. Dessa maneira, importamos a forma pura do _express_ e, com base em **composição**, vamos adicionando novas funcionalidades a ele, fazendo com que essas adições sejam _middleware_ a nível de sistema.
 
