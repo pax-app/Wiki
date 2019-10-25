@@ -18,9 +18,9 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 | 24/10/2019 |  0.8   |           Adição dos patterns do serviço de Chat           | Rogério Júnior e Youssef Muhamad |
 | 24/10/2019 |  0.9   |         Melhorando explicações no uso dos patterns         | Rogério Júnior e Youssef Muhamad |
 
-## Command
+<!-- ## Command
 
-[Descrição]
+[Descrição] -->
 
 ## Iterator
 
@@ -48,13 +48,13 @@ Strategy é um padrão de design comportamental que permite definir uma família
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Strategy)
 - [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Strategy)
 
-## Template Method
+<!-- ## Template Method
 
 [Descrição]
 
 ## Visitor
 
-[Descrição]
+[Descrição] -->
 
 ## Memento
 
@@ -68,12 +68,6 @@ Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas tra
 
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#chain-of-responsibility)
 - [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chain-of-responsibility)
-
-## State
-
-State é um padrão de design comportamental que permite que um objeto altere seu comportamento quando seu estado interno for alterado. Parece que o objeto mudou de classe.
-
-- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#State)
 
 ## State
 

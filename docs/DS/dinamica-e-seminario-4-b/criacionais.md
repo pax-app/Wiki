@@ -22,7 +22,7 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#factory-method)
 - [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#factory-method)
 
-## Abstract Factory
+<!-- ## Abstract Factory
 
 [Descrição]
 
@@ -32,7 +32,7 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 
 ## Prototype
 
-[Descrição]
+[Descrição] -->
 
 ## Singleton
 
@@ -43,13 +43,13 @@ Singleton é um padrão de design criacional que permite garantir que uma classe
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Singleton)
 - [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Singleton)
 
-## Multiton
+<!-- ## Multiton
 
 [Descrição]
 
 ## Object Pool
 
-[Descrição]
+[Descrição] -->
 
 ## Referências
 

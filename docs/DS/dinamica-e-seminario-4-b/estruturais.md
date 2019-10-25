@@ -15,7 +15,7 @@ Os **Padrões de Design Estruturais**(_Structural Patterns_) estão preocupados 
 | 24/10/2019 |  0.5   |        Padronizando o documento         | Rogério Júnior e Youssef Muhamad |
 | 24/10/2019 |  0.6   | Adição dos patterns do serviço de Chat  | Rogério Júnior e Youssef Muhamad |
 
-## Adapter
+<!-- ## Adapter
 
 [Descrição]
 
@@ -25,7 +25,7 @@ Os **Padrões de Design Estruturais**(_Structural Patterns_) estão preocupados 
 
 ## Composite
 
-[Descrição]
+[Descrição] -->
 
 ## Decorator
 
@@ -41,9 +41,9 @@ Facade fornece uma interface simplificada para uma biblioteca, uma estrutura ou 
 - [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Facade)
 - [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#facade)
 
-## Flyweight
+<!-- ## Flyweight
 
-[Descrição]
+[Descrição] -->
 
 ## Proxy
 
