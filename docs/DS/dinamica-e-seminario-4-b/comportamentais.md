@@ -48,6 +48,7 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 [Descrição]
 
 - [[Chat] ChatList](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chat-list)
+- [[Chat] ChatStore](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chat-store)
 
 ## Referências
 

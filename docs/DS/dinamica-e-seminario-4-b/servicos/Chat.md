@@ -26,3 +26,18 @@ Arquivos:
 - [Routes.js](https://github.com/pax-app/Chat/blob/devel/src/routes.js#L9)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#chain-of-responsibility)
+
+## Chat Store
+
+O _Chain of Responsibility_ foi implementado para que possa ser feita a validação dos _schema_ recebidos via requisição, atuando como um _middleware_. Caso a validação ocorra com sucesso ele chama a _controller_ responsável pela requisição.
+
+![Chat Store](../../../../assets/Patterns/Chat/chat_store.svg)
+
+![Routes](../../../../assets/Patterns/Chat/routes_store.svg)
+
+Arquivo:
+
+- [ChatStore.js](https://github.com/pax-app/Chat/blob/devel/src/app/validators/ChatStore.js#L3)
+- [Routes.js](https://github.com/pax-app/Chat/blob/devel/src/routes.js#L10)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#chain-of-responsibility)
