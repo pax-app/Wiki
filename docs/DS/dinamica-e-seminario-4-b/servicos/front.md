@@ -18,7 +18,9 @@ a função de separar a lógica de negócio da UI através do uso de _Streams_. 
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
-**Acesso ao padrão:** [general_category_bloc.dart](https://github.com/pax-app/Frontend/blob/devel/lib/blocs/general_category_bloc.dart)
+Arquivo: [general_category_bloc.dart](https://github.com/pax-app/Frontend/blob/devel/lib/blocs/general_category_bloc.dart)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#factory-method)
 
 ### State
 
@@ -32,7 +34,9 @@ Nisso, quando alguma delas é alterada no setState(), toda a aplicação é rend
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
-**Acesso ao padrão:** [became_provider_screen.dart](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/became_provider_screen/became_provider_screen.dart)
+Arquivo: [became_provider_screen.dart](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/became_provider_screen/became_provider_screen.dart)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#state)
 
 ### Singleton
 
@@ -44,7 +48,9 @@ No Front-End, usamos a classe Api como um singleton para fazer toda a comuniçã
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
-**Acesso ao padrão:** [api.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/services/api.dart)
+Arquivo: [api.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/services/api.dart)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)
 
 ### Strategy
 
@@ -57,7 +63,9 @@ se adaptaria aos argumentos.
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
-**Acesso ao padrão:** [base_screen.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/components/base_screen/base_screen.dart)
+Arquivo: [base_screen.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/components/base_screen/base_screen.dart)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#strategy)
 
 ### Observer
 
@@ -70,7 +78,9 @@ do bloc e com isso, renderiza a tela de acordo com a alteração.
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
-**Acesso ao padrão:** [chat_screen.dart](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/chat_screen/chat_screen.dart)
+Arquivo: [chat_screen.dart](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/chat_screen/chat_screen.dart)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#observer)
 
 ### Memento
 
@@ -82,6 +92,6 @@ O Flutter usa o padrão memento na pilha de navegação.
   sandbox="allow-scripts allow-same-origin">
 </iframe>
 
-**Acesso ao padrão:** [config_screen.dart](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/config_screen/config_screen.dart)
+Arquivo: [config_screen.dart](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/config_screen/config_screen.dart)
 
-### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#factory-method)
+### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#memento)

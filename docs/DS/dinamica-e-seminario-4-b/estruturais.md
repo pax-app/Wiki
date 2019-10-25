@@ -33,10 +33,11 @@ O Decorator é um padrão de projeto estrutural que permite anexar novos comport
 
 ## Facade
 
-Facade é um _Design Pattern_ estrutural que fornece uma interface simplificada para uma biblioteca, uma estrutura ou qualquer outro conjunto complexo de classes.
+Facade fornece uma interface simplificada para uma biblioteca, uma estrutura ou qualquer outro conjunto complexo de classes.
 
 - [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#Facade)
 - [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Facade)
+- [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#facade)
 
 ## Flyweight
 
@@ -44,7 +45,9 @@ Facade é um _Design Pattern_ estrutural que fornece uma interface simplificada 
 
 ## Proxy
 
-[Descrição]
+Proxy permite prover um substituo ou espaço reservado para outro objeto. Faz o controle de acesso ao objeto original, permitindo que possa realizar alguma coisa mantes ou depois da requisição passar pelo objeto original.
+
+- [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#proxy)
 
 ## Referências
 
@@ -52,4 +55,4 @@ Facade é um _Design Pattern_ estrutural que fornece uma interface simplificada 
 
 - CARR, Richard. **Gang of Four Design Patterns**. [S. l.], 2009. Disponível em: http://www.blackwasp.co.uk/gofpatterns.aspx. Acesso em: 21 out. 2019.
 
-- Suas referencias OBRIGATORIO em formato [ABNT](https://referenciabibliografica.net/a/pt-br/ref/abnt)
+- Refactoring Guru. **Design Patterns**. [S. l.], 2019. Disponível em: https://refactoring.guru/design-patterns. Acesso em: 21 out. 2019.

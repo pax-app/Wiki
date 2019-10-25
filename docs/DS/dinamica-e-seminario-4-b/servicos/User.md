@@ -12,7 +12,9 @@ Este padrão é aplicado na criação da instância de um _app_ proveniente da b
 
 ![ApplicationFactory](../../../../assets/design-patterns/User/ApplicationFactory.png)
 
-**Acesso ao padrão:** [init.py](https://github.com/pax-app/User/blob/devel/project/__init__.py)
+Arquivo: [init.py](https://github.com/pax-app/User/blob/devel/project/__init__.py)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#factory-method)
 
 ### Decorator
 
@@ -20,7 +22,9 @@ O _decorator_, no contexto do serviço de usuários, é utilizado para implement
 
 ![Decorator](../../../../assets/design-patterns/User/Decorator.png)
 
-**Acesso ao padrão:** [auth_utils.py](https://github.com/pax-app/User/blob/devel/project/api/utils/auth_utils.py)
+Arquivo: [auth_utils.py](https://github.com/pax-app/User/blob/devel/project/api/utils/auth_utils.py)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/estruturais.md#decorator)
 
 ### Facade
 
@@ -28,7 +32,9 @@ O padrão de faixada é implementado por padrão em uma ferramenta do _Micro-Fra
 
 ![Facade](../../../../assets/design-patterns/User/Facade.png)
 
-**Acesso ao padrão:** [init.py](https://github.com/pax-app/User/blob/devel/project/__init__.py)
+Arquivo: [init.py](https://github.com/pax-app/User/blob/devel/project/__init__.py)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/estruturais.md#facade)
 
 ### Iterator
 
@@ -38,7 +44,9 @@ A aplicação deste padrão é dada no ato de percorrer listas de dicionários p
 
 ![Iterator](../../../../assets/design-patterns/User/Iterator.png)
 
-**Acesso ao padrão:** [creation_utils.py](https://github.com/pax-app/User/blob/devel/project/api/utils/creation_utils.py)
+Arquivo: [creation_utils.py](https://github.com/pax-app/User/blob/devel/project/api/utils/creation_utils.py)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#iterator)
 
 ### Singleton
 
@@ -46,7 +54,9 @@ O Singleton foi utilizado para garantirmos a instância única da aplicação co
 
 ![Singleton](../../../../assets/design-patterns/User/Singleton.png)
 
-**Acesso ao padrão:** [creation_utils.py](https://github.com/pax-app/User/blob/devel/project/database_singleton.py)
+Arquivo: [creation_utils.py](https://github.com/pax-app/User/blob/devel/project/database_singleton.py)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)
 
 ### Strategy
 
@@ -54,7 +64,9 @@ Utilizamos do Strategy para implementar a diferenciação entre duas rotas que, 
 
 ![Strategy](../../../../assets/design-patterns/User/Strategy.png)
 
-**Acesso ao padrão:** [display_strategy.py](https://github.com/pax-app/User/blob/devel/project/api/utils/display_strategy.py)
+Arquivo: [display_strategy.py](https://github.com/pax-app/User/blob/devel/project/api/utils/display_strategy.py)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#strategy)
 
 ## Controle de Manutenabilidade
 

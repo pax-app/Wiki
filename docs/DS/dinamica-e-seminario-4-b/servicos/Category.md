@@ -16,6 +16,8 @@ O Strategy foi utilizado como forma de usar diferentes variações do método de
 
 **Arquivo:** [models.py](https://github.com/pax-app/Category/blob/devel/project/api/models.py)
 
+### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#strategy)
+
 ### Facade
 
 O Facade é especialmente útil ao trabalhar com bibliotecas e APIs complexas.
@@ -29,6 +31,8 @@ Facade pode ser reconhecida em uma classe que possui uma interface simples, mas 
 <img src="https://i.imgur.com/4NwwZhh.png">
 
 **Arquivo:** [views.py](https://github.com/pax-app/Category/blob/devel/project/api/views.py)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/estruturais.md#facade)
 
 ## Padrões não usados:
 
