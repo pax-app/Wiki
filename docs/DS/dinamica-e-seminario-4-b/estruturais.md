@@ -1,8 +1,8 @@
 # GoF's Estruturais
 
-Os **GoF**'s (*Gang of Four*) são padrões de *design* que visão prover soluções para problemas comum no desenvolvimento de *software*. No caso de *programação orientada à objetos*, os GoF's se propõem a solucionar problemas de interação e geração de objetos, que podem ser aplicados a contexto de problemas reais.São ferramentas poderosas no desenvolvimento de *softwares*.
+Os **GoF**'s (_Gang of Four_) são padrões de _design_ que visão prover soluções para problemas comum no desenvolvimento de _software_. No caso de _programação orientada à objetos_, os GoF's se propõem a solucionar problemas de interação e geração de objetos, que podem ser aplicados a contexto de problemas reais.São ferramentas poderosas no desenvolvimento de _softwares_.
 
-Os **Padrões de Design Estruturais**(*Structural Patterns*) estão preocupados com como classes e objetos são unidos para formar estruturas maiores. Classes estruturais usam herança para compor interfaces de implementação.
+Os **Padrões de Design Estruturais**(_Structural Patterns_) estão preocupados com como classes e objetos são unidos para formar estruturas maiores. Classes estruturais usam herança para compor interfaces de implementação.
 
 ## Histórico de Revisões
 
@@ -10,32 +10,36 @@ Os **Padrões de Design Estruturais**(*Structural Patterns*) estão preocupados 
 | :--------: | :----: | :-------------------------------------: | :------------: |
 | 21/10/2019 |  0.1   |      Cria a estrutura do documento      | Rogério Júnior |
 | 21/10/2019 |  0.2   | Adiciona definição de GoF's Estruturais | Rogério Júnior |
+| 24/10/2019 |  0.3   |        Adiciona definição Facade        | Fabiana Ribas  |
+| 24/10/2019 |  0.4   |        Adiciona serviço Category        | Fabiana Ribas  |
 
-# Adapter
-
-[Descrição]
-
-# Bridge
+## Adapter
 
 [Descrição]
 
-# Composite
+## Bridge
 
 [Descrição]
 
-# Decorator
+## Composite
 
 [Descrição]
 
-# Facade
+## Decorator
 
 [Descrição]
 
-# Flyweight
+## Facade
+
+Facade é um _Design Pattern_ estrutural que fornece uma interface simplificada para uma biblioteca, uma estrutura ou qualquer outro conjunto complexo de classes.
+
+- [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Categoty.md#Strategy)
+
+## Flyweight
 
 [Descrição]
 
-# Proxy
+## Proxy
 
 [Descrição]
 
