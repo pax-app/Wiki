@@ -55,3 +55,28 @@ Utilizamos do Strategy para implementar a diferenciação entre duas rotas que, 
 ![Strategy](../../../../assets/design-patterns/User/Strategy.png)
 
 **Acesso ao padrão:** [display_strategy.py](https://github.com/pax-app/User/blob/devel/project/api/utils/display_strategy.py)
+
+## Controle de Manutenabilidade
+
+Antes da implementações fizemos uso da ferramenta _Code Climate_ para mensurar a manutenabilidade do código deste microsserviço.
+
+![Code Climate](../../../../assets/design-patterns/User/Before.jpg)
+
+Este resultado leva em conta fatores como:
+
+- Quantidade de argumentos de uma função
+- Complexidade lógica
+- Tamanho do arquivo
+- Replicação de código
+- Complexidade de métodos
+- Quantidade de métodos
+- Tamanho dos métodos
+- Estruturas com muitos _if_ e _switch_
+- Retorno dos métodos
+
+Após a refatoração o resultado foi de imensa melhora da avaliação do serviço, principalmente no arquivo _views.py_ onde, previamente, continha toda lógica aninhada.
+
+![Code Climate](../../../../assets/design-patterns/User/After.png)
+
+O arquivo _views.py_ subiu de nota "D" para nota "A" com base nos critérios de avaliação e, além disso, teve sua quantidade de linhas diminuída em quase 100.
+![Code Climate](../../../../assets/design-patterns/User/After-views.jpg)
