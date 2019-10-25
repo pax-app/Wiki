@@ -34,8 +34,7 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 
 Singleton é um padrão de design criacional que permite garantir que uma classe tenha apenas uma instância, enquanto fornece um ponto de acesso global a essa instância.
 
-- [[Chat] Class Database](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#class-database)
-- [[Chat] Chat Controller](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chat-controller)
+- [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#singleton)
 
 # Multiton
 

@@ -31,7 +31,7 @@ Os **Padrões de Design Estruturais**(_Structural Patterns_) estão preocupados 
 
 Facade fornece uma interface simplificada para uma biblioteca, uma estrutura ou qualquer outro conjunto complexo de classes.
 
-- [[Chat] Routes](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#routes)
+- [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#routes)
 
 # Flyweight
 
@@ -41,7 +41,7 @@ Facade fornece uma interface simplificada para uma biblioteca, uma estrutura ou 
 
 Proxy permite prover um substituo ou espaço reservado para outro objeto. Faz o controle de acesso ao objeto original, permitindo que possa realizar alguma coisa mantes ou depois da requisição passar pelo objeto original.
 
-- [[Chat] Express](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#express)
+- [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#express)
 
 ## Referências
 

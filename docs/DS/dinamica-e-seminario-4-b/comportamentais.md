@@ -47,8 +47,7 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado.
 
-- [[Chat] ChatList](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chat-list)
-- [[Chat] ChatStore](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chat-store)
+- [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chain-of-responsibility)
 
 ## Referências
 
