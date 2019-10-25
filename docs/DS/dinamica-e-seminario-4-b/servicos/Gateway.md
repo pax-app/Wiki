@@ -49,7 +49,5 @@ No contexto da Gateway, construída em Node, o singleton é utilizado para traba
 ![ChainCode2](../../../../assets/design-patterns/Gateway/gatewaySingletone.png)
 
 **Arquivo:** [routes.js](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
-<<<<<<< HEAD
-=======
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)
