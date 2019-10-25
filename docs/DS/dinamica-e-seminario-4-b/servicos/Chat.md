@@ -63,3 +63,21 @@ O _Proxy_ foi usado pela composição de objetos dentro da instância do _expres
 Arquivo: [app.js](https://github.com/pax-app/Chat/blob/devel/src/app.js#L11)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/estruturais.md#proxy)
+
+## Controle de Manutenabilidade
+
+Antes da implementações fizemos uso da ferramenta _Code Climate_ para mensurar a manutenabilidade do código deste microsserviço.
+
+![Code Climate](../../../../assets/Patterns/Chat/codeclimate_chat.jpg)
+
+Este resultado leva em conta fatores como:
+
+- Quantidade de argumentos de uma função
+- Complexidade lógica
+- Tamanho do arquivo
+- Replicação de código
+- Complexidade de métodos
+- Quantidade de métodos
+- Tamanho dos métodos
+- Estruturas com muitos _if_ e _switch_
+- Retorno dos métodos

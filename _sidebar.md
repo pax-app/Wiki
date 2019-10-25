@@ -49,7 +49,7 @@
   - [Microsserviços](docs/DS/dinamica-e-seminario-4-b/servicos/README.md)
     - [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md)
     - [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md)
-    - [Front](docs/DS/dinamica-e-seminario-4-b/servicos/front.md)
+    - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md)
     - [Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md)
     - [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md)
 - [**Gerência**](docs/iniciativas-extras/README.md)

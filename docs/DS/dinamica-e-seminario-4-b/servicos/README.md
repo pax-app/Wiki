@@ -4,7 +4,7 @@
 
 ### 2. [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md)
 
-### 3. [Front](docs/DS/dinamica-e-seminario-4-b/servicos/front.md)
+### 3. [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md)
 
 ### 4. [Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md)
 

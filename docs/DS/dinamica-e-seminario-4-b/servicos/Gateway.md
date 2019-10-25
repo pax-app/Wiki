@@ -51,3 +51,21 @@ No contexto da Gateway, construída em Node, o singleton é utilizado para traba
 **Arquivo:** [routes.js](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)
+
+## Controle de Manutenabilidade
+
+Antes da implementações fizemos uso da ferramenta _Code Climate_ para mensurar a manutenabilidade do código deste microsserviço.
+
+![Code Climate](../../../../assets/design-patterns/Gateway/codeclimate_gateway.jpg)
+
+Este resultado leva em conta fatores como:
+
+- Quantidade de argumentos de uma função
+- Complexidade lógica
+- Tamanho do arquivo
+- Replicação de código
+- Complexidade de métodos
+- Quantidade de métodos
+- Tamanho dos métodos
+- Estruturas com muitos _if_ e _switch_
+- Retorno dos métodos
