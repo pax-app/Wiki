@@ -12,6 +12,16 @@ Arquivo: [database/index.js](https://github.com/pax-app/Chat/blob/devel/src/data
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)
 
+## Chat Controller
+
+Para garantir que a instância é única, pois não é necessária várias instâncias dessa _controller_, foi usado o _Singleton_. Dessa forma, usando a estrutura do _JavaScript_ de _export default new ClasseDesejada()_, faz com que o todas as vezes que for dado o _import_ dessa _Controller_, será chamada a mesma instância em qualquer lugar.
+
+![Class Database](../../../../assets/Patterns/Chat/chat_controller.svg)
+
+Arquivo: [ChatController.js](https://github.com/pax-app/Chat/blob/devel/src/app/controllers/ChatController.js#L42)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)
+
 ## Chat List
 
 O _Chain of Responsibility_ foi implementado para que possa ser feita a validação dos _schema_ recebidos via requisição, atuando como um _middleware_. Caso a validação ocorra com sucesso ele chama a _controller_ responsável pela requisição.

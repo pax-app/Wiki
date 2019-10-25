@@ -35,6 +35,7 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 [Descrição]
 
 - [[Chat] Class Database](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#class-database)
+- [[Chat] Chat Controller](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chat-controller)
 
 # Multiton
 
