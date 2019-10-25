@@ -20,7 +20,7 @@ Padrão central da Gateway, cuja definição é quase a mesma da definição do 
 
 ![Mediator](./../../../../assets/gofs/gatewayMediator.png)
 
-**Arquivo:** [general_category_bloc.dart](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
+**Arquivo:** [routes.js](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
 
 
 Aqui um outro padrão que poderia ser fácilmente visto é o faxada, no entanto, ao contrário do faxada o mediator é um atuador ativo na comunicação e faz mais do que simplesmente encaminhar os requests, se enquadrando melhor portanto no caso da Gateway.
@@ -39,7 +39,7 @@ Já Aqui podemos ver uma das funções contidas na cadeia, ela trata do que lhe 
 
 ![ChainCode2](./../../../../assets/gofs/gatewayChain2.png)
 
-**Arquivo:** [general_category_bloc.dart](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
+**Arquivo:** [routes.js](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
 
 
 Outros patterns que poderiam ser utilizados nesse caso são o Decorator, Strategy e o Template Method. Porém, o que mais combina com o contexto é o Chain of Responsibility, pois permite que cada função cumpra apenas com o que é de sua responsabilidade, o que em alguns casos pode ser nada, e então chame a próxima função a atuar até que a requisição seja tratada, dinamismo que os outros padrões não trariam.
@@ -51,6 +51,6 @@ No contexto da Gateway, construída em Node, o singleton é utilizado para traba
 
 ![ChainCode2](./../../../../assets/gofs/gatewaySingletone.png)
 
-**Arquivo:** [general_category_bloc.dart](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
+**Arquivo:** [routes.js](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
 
 
