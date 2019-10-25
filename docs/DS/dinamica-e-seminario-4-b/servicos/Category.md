@@ -12,13 +12,9 @@ O Strategy é um _Design Pattern_ comportamental que permite definir uma famíli
 
 O Strategy foi utilizado como forma de usar diferentes variações do método de retorno da API de acordo com cada tipo de categoria definida.
 
-<img
-  src="https://i.imgur.com/oPSgBlQ.png"
-  style="transform:scale(1); width:100%; border:0; overflow:hidden;"
-  sandbox="allow-scripts allow-same-origin">
-</img>
+<img src="https://i.imgur.com/oPSgBlQ.png">
 
-**Acesso ao padrão:** [models.py](https://github.com/pax-app/Category/blob/devel/project/api/models.py)
+**Arquivo:** [models.py](https://github.com/pax-app/Category/blob/devel/project/api/models.py)
 
 ### Facade
 
@@ -26,21 +22,13 @@ O Facade é especialmente útil ao trabalhar com bibliotecas e APIs complexas.
 
 Facade pode ser reconhecida em uma classe que possui uma interface simples, mas delega a maior parte do trabalho para outras classes. Geralmente, as fachadas gerenciam o ciclo de vida completo dos objetos que à usam.
 
-<img
-  src="https://i.imgur.com/P0ypUkk.png"
-  style="transform:scale(1); width:100%; border:0; overflow:hidden;"
-  sandbox="allow-scripts allow-same-origin">
-</img>
+<img src="https://i.imgur.com/P0ypUkk.png">
 
-**Acesso ao padrão:** [**init**.py](https://github.com/pax-app/Category/blob/devel/project/__init__.py)
+**Arquivo:** [init.py](https://github.com/pax-app/Category/blob/devel/project/__init__.py)
 
-<img
-  src="https://i.imgur.com/4NwwZhh.png"
-  style="transform:scale(1); width:100%; border:0; overflow:hidden;"
-  sandbox="allow-scripts allow-same-origin">
-</img>
+<img src="https://i.imgur.com/4NwwZhh.png">
 
-**Acesso ao padrão:** [views.py](https://github.com/pax-app/Category/blob/devel/project/api/views.py)
+**Arquivo:** [views.py](https://github.com/pax-app/Category/blob/devel/project/api/views.py)
 
 ## Padrões não usados:
 
