@@ -32,6 +32,26 @@ O padrão de faixada é implementado por padrão em uma ferramenta do _Micro-Fra
 
 ### Iterator
 
+Os iterators, por mais que sua implementação purista não esteja presente, a abstração feita pela linguagem de programação _Python_ atráves dos loops como _for_, _while_, está implentada no serviço de Usuários.
+
+A aplicação deste padrão é dada no ato de percorrer listas de dicionários para adicionarmos valores a cada um deles.
+
+![Iterator](../../../../assets/design-patterns/User/Iterator.png)
+
+**Acesso ao padrão:** [creation_utils.py](https://github.com/pax-app/User/blob/devel/project/api/utils/creation_utils.py)
+
 ### Singleton
 
+O Singleton foi utilizado para garantirmos a instância única da aplicação com o banco de dados.
+
+![Singleton](../../../../assets/design-patterns/User/Singleton.png)
+
+**Acesso ao padrão:** [creation_utils.py](https://github.com/pax-app/User/blob/devel/project/database_singleton.py)
+
 ### Strategy
+
+Utilizamos do Strategy para implementar a diferenciação entre duas rotas que, previamente, eram muito semelhantes. Assim, refatoramos o comportamento das mesmas de acordo com o padrão, possuindo assim uma estratégia para ordenação de prestadores de serviço por menor preço e por maior nota na avaliação de seu serviço.
+
+![Strategy](../../../../assets/design-patterns/User/Strategy.png)
+
+**Acesso ao padrão:** [display_strategy.py](https://github.com/pax-app/User/blob/devel/project/api/utils/display_strategy.py)
