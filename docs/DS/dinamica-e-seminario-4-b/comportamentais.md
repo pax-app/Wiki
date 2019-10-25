@@ -6,12 +6,13 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                  Descrição                  |   Autor(es)    |
-| :--------: | :----: | :-----------------------------------------: | :------------: |
-| 21/10/2019 |  0.1   |        Cria a estrutura do documento        | Rogério Júnior |
-| 21/10/2019 |  0.2   | Adiciona definição de GoF's Comportamentais | Rogério Júnior |
-| 23/10/2019 |  0.2   |       Adicionando serviço de FrontEnd       |  Ésio Freitas  |
-| 24/10/2019 |  0.3   |       Adicionando serviço de Categoty       | Fabiana Ribas  |
+|    Data    | Versão |                         Descrição                          |   Autor(es)    |
+| :--------: | :----: | :--------------------------------------------------------: | :------------: |
+| 21/10/2019 |  0.1   |               Cria a estrutura do documento                | Rogério Júnior |
+| 21/10/2019 |  0.2   |        Adiciona definição de GoF's Comportamentais         | Rogério Júnior |
+| 23/10/2019 |  0.3   |              Adicionando serviço de FrontEnd               |  Ésio Freitas  |
+| 24/10/2019 |  0.4   |              Adicionando serviço de Categoty               | Fabiana Ribas  |
+| 24/10/2019 |  0.5   | Adiciona definição para Mediator e Chain of responsibility |  Marcos Nery   |
 
 ## Command
 
@@ -23,7 +24,7 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 ## Mediator
 
-Padrão que visa diminuir a dependência desorganizada entre objetos/serviços estabelecendo uma interface que se responsabiliza por gerir toda a comunicação de um sistema, redirecionado as chamadas que chegam a ele para as camadas que serão responsáveis por trata-las, podendo também haver algum tipo de tratamento adicional na própria passagem da requisição ou da sua resposta. 
+Padrão que visa diminuir a dependência desorganizada entre objetos/serviços estabelecendo uma interface que se responsabiliza por gerir toda a comunicação de um sistema, redirecionado as chamadas que chegam a ele para as camadas que serão responsáveis por trata-las, podendo também haver algum tipo de tratamento adicional na própria passagem da requisição ou da sua resposta.
 
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#mediator)
 
@@ -56,7 +57,7 @@ Memento é um padrão de design comportamental que permite salvar e restaurar o 
 
 ## Chain of Responsibility
 
-Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado. 
+Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado.
 
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#chain-of-responsibility)
 
