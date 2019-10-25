@@ -13,6 +13,7 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 | 23/10/2019 |  0.3   |              Adicionando serviço de FrontEnd               |  Ésio Freitas  |
 | 24/10/2019 |  0.4   |              Adicionando serviço de Categoty               | Fabiana Ribas  |
 | 24/10/2019 |  0.5   | Adiciona definição para Mediator e Chain of responsibility |  Marcos Nery   |
+| 24/10/2019 |  0.6   |                Improving some descriptions                 |  Marcos Nery   |
 
 ## Command
 
@@ -24,7 +25,7 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 ## Mediator
 
-Padrão que visa diminuir a dependência desorganizada entre objetos/serviços estabelecendo uma interface que se responsabiliza por gerir toda a comunicação de um sistema, redirecionado as chamadas que chegam a ele para as camadas que serão responsáveis por trata-las, podendo também haver algum tipo de tratamento adicional na própria passagem da requisição ou da sua resposta.
+Padrão que visa diminuir a dependência desorganizada entre objetos/serviços estabelecendo uma interface que se responsabiliza por gerir toda a comunicação de um sistema, redirecionado as chamadas que chegam a ele para as camadas que serão responsáveis por trata-las, podendo também haver algum tipo de tratamento adicional na própria passagem da requisição ou da sua resposta. Vindo da invensão pura, esse padrão contribuí para o baixo acomplamento e para alta coesão.
 
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#mediator)
 
@@ -55,9 +56,7 @@ Memento é um padrão de design comportamental que permite salvar e restaurar o 
 
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Memento)
 
-## Chain of Responsibility
-
-Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado.
+Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado. Dessa forma, o padrão contribuí para o baixo acomplamento, alta coesão e utilização do especialista.
 
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#chain-of-responsibility)
 
