@@ -21,7 +21,9 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 ## Iterator
 
-[Descrição]
+O iterador é um padrão de projeto comportamental que permite atravessar elementos de uma coleção sem expor sua representação subjacente (lista, pilha, árvore, etc.).
+
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Iterator)
 
 ## Mediator
 

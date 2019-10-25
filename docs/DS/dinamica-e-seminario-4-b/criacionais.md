@@ -18,6 +18,7 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 É um padrão de projeto que permite às classes delegar para subclasses decidirem, isso é feito através da criação de objetos que chamam o método fabrica especificado numa interface e implementado por um classe filha ou implementado numa classe abstrata e opcionalmente sobrescrito por classes derivadas.
 
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#factory-method)
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#factory-method)
 
 ## Abstract Factory
 
@@ -36,6 +37,7 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 Singleton é um padrão de design criacional que permite garantir que uma classe tenha apenas uma instância, enquanto fornece um ponto de acesso global a essa instância.
 
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Singleton)
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Singleton)
 
 [Descrição]
 
