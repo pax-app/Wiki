@@ -16,7 +16,7 @@ Camada da aplicação responsável por redirecionar as requisições do front-en
 
 Padrão central da Gateway, cuja definição é quase a mesma da definição do próprio serviço. Nesse caso utilizado para direcionar cada requisição ao microsserviço adequado para trata-la, além de cumprir nas rotas necessárias a tarefa de autenticação e formatação da resposta recebida do back-end. O Mediador aqui é de alto valor pois permite que o front não tenha que saber como se comunicar com cada microsserviço, além de simplificar a evolução/manutenção de toda a comunicação entre os módulos do sistema e fomentar o baixo acomplamento.
 
-![Mediator](./../../../../assets/gofs/gatewayMediator.png)
+![Mediator](../../../../assets/design-patterns/Gateway/gatewayMediator.png)
 
 **Arquivo:** [routes.js](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
 
@@ -30,11 +30,11 @@ No tratamento dos requests vindos para a Gateway existem alguns passos para dete
 
 Aqui podemos ver uma parte do código de uma determinada rota que define a cadeia de funções pela qual a requisição passará.
 
-![ChainCode1](./../../../../assets/gofs/gatewayChain1.png)
+![ChainCode1](../../../../assets/design-patterns/Gateway/gatewayChain1.png)
 
 Já Aqui podemos ver uma das funções contidas na cadeia, ela trata do que lhe é responsabilidade e então chama a próxima
 
-![ChainCode2](./../../../../assets/gofs/gatewayChain2.png)
+![ChainCode2](../../../../assets/design-patterns/Gateway/gatewayChain2.png)
 
 **Arquivo:** [routes.js](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
 
@@ -46,8 +46,10 @@ Outros patterns que poderiam ser utilizados nesse caso são o Decorator, Strateg
 
 No contexto da Gateway, construída em Node, o singleton é utilizado para trabalhar com os módulos adicionais, garantindo que apenas uma instância dele seja criada
 
-![ChainCode2](./../../../../assets/gofs/gatewaySingletone.png)
+![ChainCode2](../../../../assets/design-patterns/Gateway/gatewaySingletone.png)
 
 **Arquivo:** [routes.js](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
+<<<<<<< HEAD
+=======
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)

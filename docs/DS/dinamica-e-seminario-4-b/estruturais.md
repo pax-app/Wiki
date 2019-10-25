@@ -27,13 +27,16 @@ Os **Padrões de Design Estruturais**(_Structural Patterns_) estão preocupados 
 
 ## Decorator
 
-[Descrição]
+O Decorator é um padrão de projeto estrutural que permite anexar novos comportamentos aos objetos, colocando-os dentro de objetos especiais do empacotamento que contêm os comportamentos.
+
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Decorator)
 
 ## Facade
 
 Facade fornece uma interface simplificada para uma biblioteca, uma estrutura ou qualquer outro conjunto complexo de classes.
 
 - [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#Facade)
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Facade)
 - [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#facade)
 
 ## Flyweight

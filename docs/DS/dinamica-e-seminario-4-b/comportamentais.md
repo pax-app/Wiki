@@ -21,7 +21,9 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 ## Iterator
 
-[Descrição]
+O iterador é um padrão de projeto comportamental que permite atravessar elementos de uma coleção sem expor sua representação subjacente (lista, pilha, árvore, etc.).
+
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Iterator)
 
 ## Mediator
 
@@ -39,8 +41,9 @@ Observer é um padrão de design comportamental que permite definir um mecanismo
 
 Strategy é um padrão de design comportamental que permite definir uma família de algoritmos, colocar cada um deles em uma classe separada e tornar seus objetos intercambiáveis.
 
-- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Strategy)
 - [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#Strategy)
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Strategy)
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Strategy)
 
 ## Template Method
 
