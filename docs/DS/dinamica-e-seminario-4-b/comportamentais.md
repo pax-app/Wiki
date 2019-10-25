@@ -10,8 +10,8 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 | :--------: | :----: | :--------------------------------------------------------: | :------------: |
 | 21/10/2019 |  0.1   |               Cria a estrutura do documento                | Rogério Júnior |
 | 21/10/2019 |  0.2   |        Adiciona definição de GoF's Comportamentais         | Rogério Júnior |
-| 23/10/2019 |  0.3   |              Adicionando serviço de FrontEnd               |  Ésio Freitas  |
-| 24/10/2019 |  0.4   |              Adicionando serviço de Categoty               | Fabiana Ribas  |
+| 23/10/2019 |  0.2   |              Adicionando serviço de FrontEnd               |  Ésio Freitas  |
+| 24/10/2019 |  0.3   |              Adicionando serviço de Categoty               | Fabiana Ribas  |
 | 24/10/2019 |  0.5   | Adiciona definição para Mediator e Chain of responsibility |  Marcos Nery   |
 | 24/10/2019 |  0.6   |                Improving some descriptions                 |  Marcos Nery   |
 
@@ -65,6 +65,12 @@ Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas tra
 
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#chain-of-responsibility)
 - [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chain-of-responsibility)
+
+## State
+
+State é um padrão de design comportamental que permite que um objeto altere seu comportamento quando seu estado interno for alterado. Parece que o objeto mudou de classe.
+
+- [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#State)
 
 ## State
 

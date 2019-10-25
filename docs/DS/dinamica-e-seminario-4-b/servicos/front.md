@@ -40,15 +40,17 @@ Arquivo: [became_provider_screen.dart](https://github.com/pax-app/Frontend/blob/
 
 ### Singleton
 
-No Front-End, usamos a classe Api como um singleton para fazer toda a comunição do front com o gateway.
+No Front-End, usamos a classe Api como um singleton para fazer toda a comunição do front com o gateway, além de utilizar o singleton para lidar com informações de autenticação e utilizar o singleton nativo do flutter.
 
-<iframe
-  src="https://carbon.now.sh/embed/?bg=rgba(171%2C%20184%2C%20195%2C0)&t=dracula&wt=none&l=auto&ds=true&dsyoff=0px&dsblur=25px&wc=false&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Hack&fs=14px&lh=177%25&si=false&es=2x&wm=false&code=class%2520Api%2520%257B%250A%2520%2520static%2520String%2520url%2520%253D%2520%2522http%253A%252F%252F172.18.0.1%253A5001%252Fauth%252Flogin%2522%253B%250A%2520%2520Future%253Cint%253E%2520logIn()%2520async%2520%257B%250A%2520%2520%2520%2520final%2520email%2520%253D%2520_emailController.value%253B%250A%2520%2520%2520%2520final%2520password%2520%253D%2520_passwordController.value%253B%250A%2520%2520%2520%2520Map%253CString%252C%2520String%253E%2520body%2520%253D%2520%257B'email'%253A%2520email%252C%2520'password'%253A%2520password%257D%253B%250A%2520%2520%2520%2520Map%253CString%252C%2520String%253E%2520header%2520%253D%2520%257B'content-type'%253A%2520'application%252Fjson'%257D%253B%250A%250A%2520%2520%2520%2520var%2520jsonBody%2520%253D%2520json.encode(body)%253B%250A%2520%2520%2520%2520final%2520response%2520%253D%2520await%2520http.post(%250A%2520%2520%2520%2520%2520%2520url%252C%250A%2520%2520%2520%2520%2520%2520headers%253A%2520header%252C%250A%2520%2520%2520%2520%2520%2520body%253A%2520jsonBody%252C%250A%2520%2520%2520%2520)%253B%250A%2520%2520%2520%2520if%2520(response.statusCode%2520%253D%253D%2520200)%2520%257B%250A%2520%2520%2520%2520%2520%2520final%2520responseJson%2520%253D%2520json.decode(response.body)%253B%250A%250A%2520%2520%2520%2520%2520%2520saveCurrentLogin(responseJson)%253B%250A%2520%2520%2520%2520%257D%250A%2520%2520%2520%2520return%2520response.statusCode%253B%250A%2520%2520%257D%250A%257D"
-  style="transform:scale(1); width:100%; height:680px; border:0; overflow:hidden;"
-  sandbox="allow-scripts allow-same-origin">
-</iframe>
+![](../../../../assets/Patterns/Front/singleton_api.svg)
+![](../../../../assets/Patterns/Front/singleton_usuario.svg)
+![](../../../../assets/Patterns/Front/singleton_preferences.svg)
 
-Arquivo: [api.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/services/api.dart)
+Arquivos:
+
+- [api.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/services/api.dart)
+- [loggedUser.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/services/loggedUser.dart)
+- [shared_preferences.dart](https://github.com/flutter/plugins/blob/6deda07662e420d747896a886518fd2855451fde/packages/shared_preferences/lib/shared_preferences.dart)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)
 
