@@ -6,12 +6,14 @@ Os **Padrões de Design Estruturais**(_Structural Patterns_) estão preocupados 
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                Descrição                |   Autor(es)    |
-| :--------: | :----: | :-------------------------------------: | :------------: |
-| 21/10/2019 |  0.1   |      Cria a estrutura do documento      | Rogério Júnior |
-| 21/10/2019 |  0.2   | Adiciona definição de GoF's Estruturais | Rogério Júnior |
-| 24/10/2019 |  0.3   |        Adiciona definição Facade        | Fabiana Ribas  |
-| 24/10/2019 |  0.4   |        Adiciona serviço Category        | Fabiana Ribas  |
+|    Data    | Versão |                Descrição                |            Autor(es)             |
+| :--------: | :----: | :-------------------------------------: | :------------------------------: |
+| 21/10/2019 |  0.1   |      Cria a estrutura do documento      |          Rogério Júnior          |
+| 21/10/2019 |  0.2   | Adiciona definição de GoF's Estruturais |          Rogério Júnior          |
+| 24/10/2019 |  0.3   |        Adiciona definição Facade        |          Fabiana Ribas           |
+| 24/10/2019 |  0.4   |        Adiciona serviço Category        |          Fabiana Ribas           |
+| 24/10/2019 |  0.5   |        Padronizando o documento         | Rogério Júnior e Youssef Muhamad |
+| 24/10/2019 |  0.6   | Adição dos patterns do serviço de Chat  | Rogério Júnior e Youssef Muhamad |
 
 ## Adapter
 

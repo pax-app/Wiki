@@ -6,14 +6,17 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                         Descrição                          |   Autor(es)    |
-| :--------: | :----: | :--------------------------------------------------------: | :------------: |
-| 21/10/2019 |  0.1   |               Cria a estrutura do documento                | Rogério Júnior |
-| 21/10/2019 |  0.2   |        Adiciona definição de GoF's Comportamentais         | Rogério Júnior |
-| 23/10/2019 |  0.2   |              Adicionando serviço de FrontEnd               |  Ésio Freitas  |
-| 24/10/2019 |  0.3   |              Adicionando serviço de Categoty               | Fabiana Ribas  |
-| 24/10/2019 |  0.5   | Adiciona definição para Mediator e Chain of responsibility |  Marcos Nery   |
-| 24/10/2019 |  0.6   |                Improving some descriptions                 |  Marcos Nery   |
+|    Data    | Versão |                         Descrição                          |            Autor(es)             |
+| :--------: | :----: | :--------------------------------------------------------: | :------------------------------: |
+| 21/10/2019 |  0.1   |               Cria a estrutura do documento                |          Rogério Júnior          |
+| 21/10/2019 |  0.2   |        Adiciona definição de GoF's Comportamentais         |          Rogério Júnior          |
+| 23/10/2019 |  0.3   |              Adicionando serviço de FrontEnd               |           Ésio Freitas           |
+| 24/10/2019 |  0.4   |              Adicionando serviço de Category               |          Fabiana Ribas           |
+| 24/10/2019 |  0.5   | Adiciona definição para Mediator e Chain of responsibility |           Marcos Nery            |
+| 24/10/2019 |  0.6   |                   Melhorando descrições                    |           Marcos Nery            |
+| 24/10/2019 |  0.7   |                  Padronizando o documento                  | Rogério Júnior e Youssef Muhamad |
+| 24/10/2019 |  0.8   |           Adição dos patterns do serviço de Chat           | Rogério Júnior e Youssef Muhamad |
+| 24/10/2019 |  0.9   |         Melhorando explicações no uso dos patterns         | Rogério Júnior e Youssef Muhamad |
 
 ## Command
 
@@ -27,7 +30,7 @@ O iterador é um padrão de projeto comportamental que permite atravessar elemen
 
 ## Mediator
 
-Padrão que visa diminuir a dependência desorganizada entre objetos/serviços estabelecendo uma interface que se responsabiliza por gerir toda a comunicação de um sistema, redirecionado as chamadas que chegam a ele para as camadas que serão responsáveis por trata-las, podendo também haver algum tipo de tratamento adicional na própria passagem da requisição ou da sua resposta. Vindo da invenção pura, esse padrão contribuí para o baixo acomplamento e para alta coesão.
+Padrão que visa diminuir a dependência desorganizada entre objetos/serviços estabelecendo uma interface que se responsabiliza por gerir toda a comunicação de um sistema, redirecionado as chamadas que chegam a ele para as camadas que serão responsáveis por trata-las, podendo também haver algum tipo de tratamento adicional na própria passagem da requisição ou da sua resposta. Vindo da invenção pura, esse padrão contribuí para o baixo acoplamento e para alta coesão.
 
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#mediator)
 
