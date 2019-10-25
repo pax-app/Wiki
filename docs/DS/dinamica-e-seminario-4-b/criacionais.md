@@ -37,8 +37,6 @@ Singleton é um padrão de design criacional que permite garantir que uma classe
 
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Singleton)
 
-[Descrição]
-
 - [[Chat] Class Database](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#class-database)
 - [[Chat] Chat Controller](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chat-controller)
 
