@@ -11,6 +11,7 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 | 21/10/2019 |  0.1   |        Cria a estrutura do documento        | Rogério Júnior |
 | 21/10/2019 |  0.2   | Adiciona definição de GoF's Comportamentais | Rogério Júnior |
 | 23/10/2019 |  0.2   |       Adicionando serviço de FrontEnd       |  Ésio Freitas  |
+| 24/10/2019 |  0.3   |       Adicionando serviço de Categoty       | Fabiana Ribas  |
 
 # Command
 
@@ -36,6 +37,7 @@ Observer é um padrão de design comportamental que permite definir um mecanismo
 Strategy é um padrão de design comportamental que permite definir uma família de algoritmos, colocar cada um deles em uma classe separada e tornar seus objetos intercambiáveis.
 
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Strategy)
+- [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Categoty.md#Strategy)
 
 ## Template Method
 

@@ -10,6 +10,8 @@ Os **Padrões de Design Estruturais**(_Structural Patterns_) estão preocupados 
 | :--------: | :----: | :-------------------------------------: | :------------: |
 | 21/10/2019 |  0.1   |      Cria a estrutura do documento      | Rogério Júnior |
 | 21/10/2019 |  0.2   | Adiciona definição de GoF's Estruturais | Rogério Júnior |
+| 24/10/2019 |  0.3   |        Adiciona definição Facade        | Fabiana Ribas  |
+| 24/10/2019 |  0.4   |        Adiciona serviço Category        | Fabiana Ribas  |
 
 ## Adapter
 
@@ -29,7 +31,9 @@ Os **Padrões de Design Estruturais**(_Structural Patterns_) estão preocupados 
 
 ## Facade
 
-[Descrição]
+Facade é um _Design Pattern_ estrutural que fornece uma interface simplificada para uma biblioteca, uma estrutura ou qualquer outro conjunto complexo de classes.
+
+- [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Categoty.md#Strategy)
 
 ## Flyweight
 
