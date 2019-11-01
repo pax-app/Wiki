@@ -54,7 +54,7 @@ O Singleton foi utilizado para garantirmos a instância única da aplicação co
 
 ![Singleton](../../../../assets/design-patterns/User/Singleton.png)
 
-Arquivo: [creation_utils.py](https://github.com/pax-app/User/blob/devel/project/database_singleton.py)
+Arquivo: [database_singleton.py](https://github.com/pax-app/User/blob/devel/database_singleton.py)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)
 
