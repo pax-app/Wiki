@@ -9,3 +9,5 @@
 ### 4. [Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md)
 
 ### 5. [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md)
+
+### 6. [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md)

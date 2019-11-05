@@ -6,19 +6,18 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                         Descrição                          |            Autor(es)             |
-| :--------: | :----: | :--------------------------------------------------------: | :------------------------------: |
-| 21/10/2019 |  0.1   |               Cria a estrutura do documento                |          Rogério Júnior          |
-| 21/10/2019 |  0.2   |        Adiciona definição de GoF's Comportamentais         |          Rogério Júnior          |
-| 23/10/2019 |  0.3   |              Adicionando serviço de FrontEnd               |           Ésio Freitas           |
-| 24/10/2019 |  0.4   |              Adicionando serviço de Category               |          Fabiana Ribas           |
-| 24/10/2019 |  0.5   | Adiciona definição para Mediator e Chain of responsibility |           Marcos Nery            |
-| 24/10/2019 |  0.6   |                   Melhorando descrições                    |           Marcos Nery            |
-| 24/10/2019 |  0.7   |                  Padronizando o documento                  | Rogério Júnior e Youssef Muhamad |
-| 24/10/2019 |  0.8   |           Adição dos patterns do serviço de Chat           | Rogério Júnior e Youssef Muhamad |
-| 24/10/2019 |  0.9   |         Melhorando explicações no uso dos patterns         | Rogério Júnior e Youssef Muhamad |
-| 24/10/2019 |  1.0 |         Melhorando algumas descrições e adicionando citações de GRASPs        | Marcos Nery |
-
+|    Data    | Versão |                           Descrição                            |            Autor(es)             |
+| :--------: | :----: | :------------------------------------------------------------: | :------------------------------: |
+| 21/10/2019 |  0.1   |                 Cria a estrutura do documento                  |          Rogério Júnior          |
+| 21/10/2019 |  0.2   |          Adiciona definição de GoF's Comportamentais           |          Rogério Júnior          |
+| 23/10/2019 |  0.3   |                Adicionando serviço de FrontEnd                 |           Ésio Freitas           |
+| 24/10/2019 |  0.4   |                Adicionando serviço de Category                 |          Fabiana Ribas           |
+| 24/10/2019 |  0.5   |   Adiciona definição para Mediator e Chain of responsibility   |           Marcos Nery            |
+| 24/10/2019 |  0.6   |                     Melhorando descrições                      |           Marcos Nery            |
+| 24/10/2019 |  0.7   |                    Padronizando o documento                    | Rogério Júnior e Youssef Muhamad |
+| 24/10/2019 |  0.8   |             Adição dos patterns do serviço de Chat             | Rogério Júnior e Youssef Muhamad |
+| 24/10/2019 |  0.9   |           Melhorando explicações no uso dos patterns           | Rogério Júnior e Youssef Muhamad |
+| 24/10/2019 |  1.0   | Melhorando algumas descrições e adicionando citações de GRASPs |           Marcos Nery            |
 
 <!-- ## Command
 
@@ -29,6 +28,7 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 O iterador é um padrão de projeto comportamental que permite atravessar elementos de uma coleção sem expor sua representação subjacente (lista, pilha, árvore, etc.). Esse padrão ajuda portanto a garantir os GRASPs de alta coesão e do especialista, já que algoritmos de ordenação e outras coisas do tipo, que não fazem realmente parte da responsabilidade de algumas classes mas que precisam ser implementados para resolver os problemas dela, podem ser passados para classes separadas.
 
 - [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Iterator)
+- [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md#Iterator)
 
 ## Mediator
 
@@ -49,6 +49,7 @@ Strategy é um padrão de design comportamental que permite definir uma família
 - [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#Strategy)
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Strategy)
 - [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Strategy)
+- [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md#Strategy)
 
 <!-- ## Template Method
 
