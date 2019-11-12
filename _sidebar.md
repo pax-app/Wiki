@@ -53,6 +53,7 @@
     - [Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md)
     - [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md)
     - [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md)
+  - [DAS - Documento de Arquitetura de Software](docs/DS/dinamica-e-seminario-4-b/DAS.md)
 - [**Gerência**](docs/iniciativas-extras/README.md)
   - [Código de Conduta](docs/iniciativas-extras/CODE_OF_CONDUCT.md)
   - [Guia de Contribuição](docs/iniciativas-extras/CONTRIBUTING.md)
