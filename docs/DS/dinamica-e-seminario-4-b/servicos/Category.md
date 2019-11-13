@@ -2,6 +2,13 @@
 
 Camada da aplicação responsável pelas categorias gerais e de serviço disponíveis no sistema.
 
+## Histórico de Revisões
+
+|    Data    | Versão |           Descrição           |           Autor(es)           |
+| :--------: | :----: | :---------------------------: | :---------------------------: |
+| 25/10/2019 |  1.0   |     Criação do documento      | Fabiana Ribas e Felipe Campos |
+| 13/11/2019 |  1.1   | Adição de Singleton e Factory |          Lucas Dutra          |
+
 ## Padrões usados:
 
 ### Factory method

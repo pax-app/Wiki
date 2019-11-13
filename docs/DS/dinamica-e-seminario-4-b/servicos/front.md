@@ -2,6 +2,10 @@
 
 Camada da aplicação responsável pela interação com o usuário.
 
+|    Data    | Versão |      Descrição       |                           Autor(es)                            |
+| :--------: | :----: | :------------------: | :------------------------------------------------------------: |
+| 25/10/2019 |  1.0   | Criação do documento | Ésio Freitas, Gabriel Albino, Youssef Muhamad e Rogério Júnior |
+
 ## Padrões usados:
 
 ### Factory Method

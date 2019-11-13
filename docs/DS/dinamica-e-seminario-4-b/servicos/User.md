@@ -2,6 +2,10 @@
 
 Microsserviço responsável por toda interação do usuário, como login, registro.
 
+|    Data    | Versão |      Descrição       |  Autor(es)  |
+| :--------: | :----: | :------------------: | :---------: |
+| 25/10/2019 |  1.0   | Criação do documento | Lucas Dutra |
+
 ## Padrões usados:
 
 ### Factory method
