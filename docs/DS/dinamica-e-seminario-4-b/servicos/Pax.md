@@ -2,6 +2,12 @@
 
 Microsserviço responsável pelos contratos cliente-prestador.
 
+## Histórico de Revisões
+
+|    Data    | Versão |      Descrição       |  Autor(es)  |
+| :--------: | :----: | :------------------: | :---------: |
+| 01/11/2019 |  1.0   | Criação do Documento | Lucas Dutra |
+
 ## Padrões usados:
 
 ### Factory method
