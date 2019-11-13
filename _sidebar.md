@@ -72,3 +72,7 @@
     - [Review Sprint 04](docs/iniciativas-extras/documentacao_sprints/review_04.md)
     - [Planejamento Sprint 05](docs/iniciativas-extras/documentacao_sprints/plaining_05.md)
     - [Review Sprint 05](docs/iniciativas-extras/documentacao_sprints/review_05.md)
+    - [Planejamento Sprint 07](docs/iniciativas-extras/documentacao_sprints/plaining_07.md)
+    - [Planejamento Sprint 08](docs/iniciativas-extras/documentacao_sprints/plaining_08.md)
+    - [Planejamento Sprint 09](docs/iniciativas-extras/documentacao_sprints/plaining_09.md)
+    - [Planejamento Sprint 10](docs/iniciativas-extras/documentacao_sprints/plaining_10.md)
