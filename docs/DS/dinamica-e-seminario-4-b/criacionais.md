@@ -15,6 +15,7 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 | 24/10/2019 |  0.5   |                   Padronizando o documento                   | Rogério Júnior e Youssef Muhamad |
 | 24/10/2019 |  0.6   |            Adição dos patterns do serviço de Chat            | Rogério Júnior e Youssef Muhamad |
 | 24/10/2019 |  0.7   |     Melhoria de algumas descrições e abordagem de GRASPS     |           Marcos Nery            |
+| 12/11/2019 |  1.1   |          Adicionando patterns do serviço de review           |           Lucas Dutra            |
 
 ## Factory Method
 

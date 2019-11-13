@@ -18,6 +18,7 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 | 24/10/2019 |  0.8   |             Adição dos patterns do serviço de Chat             | Rogério Júnior e Youssef Muhamad |
 | 24/10/2019 |  0.9   |           Melhorando explicações no uso dos patterns           | Rogério Júnior e Youssef Muhamad |
 | 24/10/2019 |  1.0   | Melhorando algumas descrições e adicionando citações de GRASPs |           Marcos Nery            |
+| 12/11/2019 |  1.1   |           Adicionando patterns do serviço de review            |           Lucas Dutra            |
 
 <!-- ## Command
 
@@ -27,8 +28,9 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 
 O iterador é um padrão de projeto comportamental que permite atravessar elementos de uma coleção sem expor sua representação subjacente (lista, pilha, árvore, etc.). Esse padrão ajuda portanto a garantir os GRASPs de alta coesão e do especialista, já que algoritmos de ordenação e outras coisas do tipo, que não fazem realmente parte da responsabilidade de algumas classes mas que precisam ser implementados para resolver os problemas dela, podem ser passados para classes separadas.
 
-- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Iterator)
 - [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md#Iterator)
+- [Review](docs/DS/dinamica-e-seminario-4-b/servicos/Review.md#Iterator)
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Iterator)
 
 ## Mediator
 
@@ -48,8 +50,8 @@ Strategy é um padrão de design comportamental que permite definir uma família
 
 - [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#Strategy)
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Strategy)
-- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Strategy)
 - [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md#Strategy)
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Strategy)
 
 <!-- ## Template Method
 
