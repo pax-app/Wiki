@@ -11,18 +11,6 @@ Camada da aplicação responsável pelas categorias gerais e de serviço dispon�
 
 ## Padrões usados:
 
-### Factory method
-
-O Application Factory, é uma evolução do design _Pattern Factory_, sendo essa evolução proposta em plataformas emergentes orientadas à convenção, e adaptada à tecnologia de Micro-framework _Flask_. Por um lado é um padrão emergente, mas por outro tem em sua base o original conceito de fábrica do padrão de projeto GoF.
-
-Este padrão é aplicado na criação da instância de um _app_ proveniente da biblioteca padrão do _Flask_.
-
-![ApplicationFactory](../../../../assets/design-patterns/Category/Factory.png)
-
-Arquivo: [init.py](https://github.com/pax-app/Category/blob/devel/project/__init__.py)
-
-### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#factory-method)
-
 ### Facade
 
 O Facade é especialmente útil ao trabalhar com bibliotecas e APIs complexas.
@@ -38,6 +26,18 @@ Facade pode ser reconhecida em uma classe que possui uma interface simples, mas 
 **Arquivo:** [views.py](https://github.com/pax-app/Category/blob/devel/project/api/views.py)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/estruturais.md#facade)
+
+### Factory method
+
+O Application Factory, é uma evolução do design _Pattern Factory_, sendo essa evolução proposta em plataformas emergentes orientadas à convenção, e adaptada à tecnologia de Micro-framework _Flask_. Por um lado é um padrão emergente, mas por outro tem em sua base o original conceito de fábrica do padrão de projeto GoF.
+
+Este padrão é aplicado na criação da instância de um _app_ proveniente da biblioteca padrão do _Flask_.
+
+![ApplicationFactory](../../../../assets/design-patterns/Category/Factory.png)
+
+Arquivo: [init.py](https://github.com/pax-app/Category/blob/devel/project/__init__.py)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#factory-method)
 
 ### Singleton
 

@@ -10,22 +10,6 @@ O serviço de chat é responsável pelo gerênciamento das salas de chat entre o
 
 ## Padrões utilizados:
 
-### Singleton
-
-O _Singleton_ foi usado na **Class Database** pois é de extrema importância que a instância de conexão seja única e acessível por todo os módulos do serviço que a importarem. O _JavaScript_ tem um jeito simples de fazer isso que é o _export default new ClasseDesejada()_ que faz com que o todas as vezes que essa instância for chamada, ela será a mesma em qualquer lugar.
-
-![Class Database](../../../../assets/Patterns/Chat/database.svg)
-
-Arquivo: [database/index.js](https://github.com/pax-app/Chat/blob/devel/src/database/index.js#L7)
-
-Foi usado também para garantir que a instância do **Chat Controller** seja única, pois não é necessária várias instâncias dessa _controller_. Dessa forma, usando a estrutura do _JavaScript_ de _export default new ClasseDesejada()_, faz com que o todas as vezes que for dado o _import_ dessa _Controller_, será chamada a mesma instância em qualquer lugar.
-
-![Class Database](../../../../assets/Patterns/Chat/chat_controller.svg)
-
-Arquivo: [ChatController.js](https://github.com/pax-app/Chat/blob/devel/src/app/controllers/ChatController.js#L42)
-
-### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)
-
 ### Chain of Responsibility
 
 O **Chat List** foi modelado sobre o _Chain of Responsibility_ para que possa ser feita a validação dos _schemas_ recebidos via requisição, atuando como um _middleware_. Caso a validação ocorra com sucesso ele chama a _controller_ responsável pela requisição.
@@ -71,6 +55,22 @@ O _Proxy_ foi usado pela composição de objetos dentro da instância do _expres
 Arquivo: [app.js](https://github.com/pax-app/Chat/blob/devel/src/app.js#L11)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/estruturais.md#proxy)
+
+### Singleton
+
+O _Singleton_ foi usado na **Class Database** pois é de extrema importância que a instância de conexão seja única e acessível por todo os módulos do serviço que a importarem. O _JavaScript_ tem um jeito simples de fazer isso que é o _export default new ClasseDesejada()_ que faz com que o todas as vezes que essa instância for chamada, ela será a mesma em qualquer lugar.
+
+![Class Database](../../../../assets/Patterns/Chat/database.svg)
+
+Arquivo: [database/index.js](https://github.com/pax-app/Chat/blob/devel/src/database/index.js#L7)
+
+Foi usado também para garantir que a instância do **Chat Controller** seja única, pois não é necessária várias instâncias dessa _controller_. Dessa forma, usando a estrutura do _JavaScript_ de _export default new ClasseDesejada()_, faz com que o todas as vezes que for dado o _import_ dessa _Controller_, será chamada a mesma instância em qualquer lugar.
+
+![Class Database](../../../../assets/Patterns/Chat/chat_controller.svg)
+
+Arquivo: [ChatController.js](https://github.com/pax-app/Chat/blob/devel/src/app/controllers/ChatController.js#L42)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)
 
 ## Controle de Manutenabilidade
 

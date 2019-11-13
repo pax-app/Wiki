@@ -12,18 +12,6 @@ Camada da aplicação responsável por redirecionar as requisições do front-en
 
 ## Padrões utilizados:
 
-### Mediator
-
-Padrão central da Gateway, cuja definição é quase a mesma da definição do próprio serviço. Nesse caso utilizado para direcionar cada requisição ao microsserviço adequado para trata-la, além de cumprir nas rotas necessárias a tarefa de autenticação e formatação da resposta recebida do back-end. O Mediador aqui é de alto valor pois permite que o front não tenha que saber como se comunicar com cada microsserviço, além de simplificar a evolução/manutenção de toda a comunicação entre os módulos do sistema e fomentar o baixo acomplamento.
-
-![Mediator](../../../../assets/design-patterns/Gateway/gatewayMediator.png)
-
-**Arquivo:** [routes.js](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
-
-### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#mediator)
-
-Aqui um outro padrão que poderia ser fácilmente visto é o faxada, no entanto, ao contrário do faxada o mediator é um atuador ativo na comunicação e faz mais do que simplesmente encaminhar os requests, se enquadrando melhor portanto no caso da Gateway.
-
 ### Chain of Responsibility
 
 No tratamento dos requests vindos para a Gateway existem alguns passos para determinados casos precisam ser realizados, como autenticação e tratamento das informações recebidas, além do encaminhamento do request em sí. Dessa forma, o Chain of Responsibility é utilizado para que quando necessário essas funções adicionais possam realizar esse tratamento adicional necessário, com uma ordem controlada de ações e ajudando a manter o princípio da responsabilidade singular
@@ -42,6 +30,18 @@ Outros patterns que poderiam ser utilizados nesse caso são o Decorator, Strateg
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#chain-of-responsibility)
 
+### Mediator
+
+Padrão central da Gateway, cuja definição é quase a mesma da definição do próprio serviço. Nesse caso utilizado para direcionar cada requisição ao microsserviço adequado para trata-la, além de cumprir nas rotas necessárias a tarefa de autenticação e formatação da resposta recebida do back-end. O Mediador aqui é de alto valor pois permite que o front não tenha que saber como se comunicar com cada microsserviço, além de simplificar a evolução/manutenção de toda a comunicação entre os módulos do sistema e fomentar o baixo acomplamento.
+
+![Mediator](../../../../assets/design-patterns/Gateway/gatewayMediator.png)
+
+**Arquivo:** [routes.js](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#mediator)
+
+Aqui um outro padrão que poderia ser fácilmente visto é o faxada, no entanto, ao contrário do faxada o mediator é um atuador ativo na comunicação e faz mais do que simplesmente encaminhar os requests, se enquadrando melhor portanto no caso da Gateway.
+
 ### Singleton
 
 No contexto da Gateway, construída em Node, o singleton é utilizado para trabalhar com os módulos adicionais, garantindo que apenas uma instância dele seja criada
@@ -54,7 +54,7 @@ No contexto da Gateway, construída em Node, o singleton é utilizado para traba
 
 ## Controle de Manutenabilidade
 
-Esse microsserviço foi modelado desde o início com a aplicação desses padrões, dessa forma, é possível ver que o _Code Climate_ aponta uma boa manutenabilidade.  
+Esse microsserviço foi modelado desde o início com a aplicação desses padrões, dessa forma, é possível ver que o _Code Climate_ aponta uma boa manutenabilidade.
 
 ![Code Climate](../../../../assets/design-patterns/Gateway/codeclimate_gateway.jpg)
 

@@ -10,6 +10,16 @@ Microsserviço responsável pelos contratos cliente-prestador.
 
 ## Padrões usados:
 
+### Facade
+
+O padrão de faixada é implementado por padrão em uma ferramenta do _Micro-Framework_ _Flask_ chamada _Blueprint_. Isso acontece pois, essa estrutura, tem como papel destribuir para as rotas uma _URL_ base e ao mesmo tempo, ao instanciá-la, cria-se um vínculo da rota que faz uso dessa _Blueprint_ com todas as outras que implementam ela.
+
+![Facade](../../../../assets/design-patterns/Review/Facade.png)
+
+Arquivo: [init.py](https://github.com/pax-app/Review/blob/devel/project/__init__.py)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/estruturais.md#facade)
+
 ### Factory method
 
 O Application Factory, é uma evolução do design _Pattern Factory_, sendo essa evolução proposta em plataformas emergentes orientadas à convenção, e adaptada à tecnologia de Micro-framework _Flask_. Por um lado é um padrão emergente, mas por outro tem em sua base o original conceito de fábrica do padrão de projeto GoF.
@@ -21,16 +31,6 @@ Este padrão é aplicado na criação da instância de um _app_ proveniente da b
 Arquivo: [init.py](https://github.com/pax-app/Review/blob/devel/project/__init__.py)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#factory-method)
-
-### Facade
-
-O padrão de faixada é implementado por padrão em uma ferramenta do _Micro-Framework_ _Flask_ chamada _Blueprint_. Isso acontece pois, essa estrutura, tem como papel destribuir para as rotas uma _URL_ base e ao mesmo tempo, ao instanciá-la, cria-se um vínculo da rota que faz uso dessa _Blueprint_ com todas as outras que implementam ela.
-
-![Facade](../../../../assets/design-patterns/Review/Facade.png)
-
-Arquivo: [init.py](https://github.com/pax-app/Review/blob/devel/project/__init__.py)
-
-### [⬅](docs/DS/dinamica-e-seminario-4-b/estruturais.md#facade)
 
 ### Iterator
 
