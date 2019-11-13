@@ -16,20 +16,6 @@ Arquivo: [init.py](https://github.com/pax-app/Category/blob/devel/project/__init
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#factory-method)
 
-### Strategy
-
-O Strategy é um _Design Pattern_ comportamental que permite definir uma família de algoritmos, colocar cada um deles em uma classe separada e tornar seus objetos intercambiáveis.
-
-É frequentemente usado em várias estruturas para fornecer aos usuários uma maneira de alterar o comportamento de uma classe sem estendê-lo.
-
-O Strategy foi utilizado como forma de usar diferentes variações do método de retorno da API de acordo com cada tipo de categoria definida.
-
-<img src="https://i.imgur.com/oPSgBlQ.png">
-
-**Arquivo:** [models.py](https://github.com/pax-app/Category/blob/devel/project/api/models.py)
-
-### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#strategy)
-
 ### Facade
 
 O Facade é especialmente útil ao trabalhar com bibliotecas e APIs complexas.
@@ -45,6 +31,30 @@ Facade pode ser reconhecida em uma classe que possui uma interface simples, mas 
 **Arquivo:** [views.py](https://github.com/pax-app/Category/blob/devel/project/api/views.py)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/estruturais.md#facade)
+
+### Singleton
+
+O Singleton foi utilizado para garantirmos a instância única da aplicação com o banco de dados.
+
+![Singleton](../../../../assets/design-patterns/User/Singleton.png)
+
+Arquivo: [database_singleton.py](https://github.com/pax-app/Category/blob/devel/database_singleton.py)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)
+
+### Strategy
+
+O Strategy é um _Design Pattern_ comportamental que permite definir uma família de algoritmos, colocar cada um deles em uma classe separada e tornar seus objetos intercambiáveis.
+
+É frequentemente usado em várias estruturas para fornecer aos usuários uma maneira de alterar o comportamento de uma classe sem estendê-lo.
+
+O Strategy foi utilizado como forma de usar diferentes variações do método de retorno da API de acordo com cada tipo de categoria definida.
+
+<img src="https://i.imgur.com/oPSgBlQ.png">
+
+**Arquivo:** [models.py](https://github.com/pax-app/Category/blob/devel/project/api/models.py)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#strategy)
 
 ## Padrões não usados:
 
