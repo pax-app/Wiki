@@ -44,6 +44,7 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 Singleton é um padrão de design criacional que permite garantir que uma classe tenha apenas uma instância, enquanto fornece um ponto de acesso global a essa instância. Garantindo dessa forma que o dado objeto seja inicializado apenas uma vez.
 
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#Singleton)
+- [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#singleton)
 - [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#singleton)
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Singleton)
 - [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md#Singleton)
