@@ -20,9 +20,11 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 
 É um padrão de projeto que permite às classes delegar para subclasses decidirem os tipos de objetos que serão criados, isso é feito através da criação de objetos que chamam o método fabrica especificado numa interface e implementado por um classe filha ou implementado numa classe abstrata e opcionalmente sobrescrito por classes derivadas. Esse padrão ajuda a garantir os grasps de baixo acoplamento e creator.
 
+- [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#factory-method)
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#factory-method)
-- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#factory-method)
 - [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md#factory-method)
+- [Review](docs/DS/dinamica-e-seminario-4-b/servicos/Review.md#factory-method)
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#factory-method)
 
 <!-- ## Abstract Factory
 
@@ -43,8 +45,9 @@ Singleton é um padrão de design criacional que permite garantir que uma classe
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#Singleton)
 - [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#singleton)
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Singleton)
-- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Singleton)
 - [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md#Singleton)
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Singleton)
+- [Review](docs/DS/dinamica-e-seminario-4-b/servicos/Review.md#Singleton)
 
 <!-- ## Multiton
 
