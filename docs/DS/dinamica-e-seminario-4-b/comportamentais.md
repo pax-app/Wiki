@@ -20,10 +20,6 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 | 24/10/2019 |  1.0   | Melhorando algumas descrições e adicionando citações de GRASPs |           Marcos Nery            |
 | 12/11/2019 |  1.1   |           Adicionando patterns do serviço de review            |           Lucas Dutra            |
 
-<!-- ## Command
-
-[Descrição] -->
-
 ## Iterator
 
 O iterador é um padrão de projeto comportamental que permite atravessar elementos de uma coleção sem expor sua representação subjacente (lista, pilha, árvore, etc.). Esse padrão ajuda portanto a garantir os GRASPs de alta coesão e do especialista, já que algoritmos de ordenação e outras coisas do tipo, que não fazem realmente parte da responsabilidade de algumas classes mas que precisam ser implementados para resolver os problemas dela, podem ser passados para classes separadas.
@@ -53,14 +49,6 @@ Strategy é um padrão de design comportamental que permite definir uma família
 - [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md#Strategy)
 - [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Strategy)
 
-<!-- ## Template Method
-
-[Descrição]
-
-## Visitor
-
-[Descrição] -->
-
 ## Memento
 
 Memento é um padrão de design comportamental que permite salvar e restaurar o estado anterior de um objeto sem revelar os detalhes de sua implementação.
@@ -73,6 +61,7 @@ Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas tra
 
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#chain-of-responsibility)
 - [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chain-of-responsibility)
+- [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md#chain-of-responsibility)
 
 ## State
 
