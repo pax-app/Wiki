@@ -24,6 +24,7 @@
 | :--------: | :----: | :-----------------------------------: | :-------------: |
 | 08/11/2019 |  1.0   |  Inicialização e estruturação do DAS  | Matheus Pimenta |
 | 09/11/2019 |  1.1   | Descrição das visões presentes no DAS | Matheus Pimenta |
+| 14/11/2019 |  1.2   | Inserção das descrições das visões do DAS | Matheus Pimenta |
 
 ## 1. Introdução
 
@@ -36,6 +37,11 @@ Este documento de arquitetura tem a função de especificar e documentar decisõ
 Este documento se aplica ao processo de desenvolvimento do Pax App, aplicação desenvolvida na disciplina Arquitetura e Desenho de Software, na Universidade de Brasília.
 
 Projetos desenvolvidos mediante estruturação do _RUP_ (_Rational Unified Process_) costumam utilizar o Documento de Arquitetura de Software, dividido em visões, chamada de modelo de visualização 4+1.
+
+![Imgur](https://i.imgur.com/jGHunDJ.png)
+
+Autor: [Matheus Figueiredo](https://github.com/Matheusss03)
+
 Como mostra a imagem acima, as visão contempladas por esse modelo são:
 
 - Visão de Casos de Uso;
@@ -115,7 +121,7 @@ Flutter</i>, que é consideravelmente maior em relação á seu principal concor
 
 ## 1. Visão de Casos de Uso
 
-Descrição
+
 
 > @MarcosNBJ
 
@@ -129,7 +135,7 @@ Diagrama final do Caso de Uso e link da rastreabilidade do mesmo
 
 ## 2. Visão Lógica
 
-Descrição
+A _Visão Lógica_ mostra como está a organização conceitual do sistema em termos de **camadas**, **pacotes**, **classes** e **interfaces**.
 
 ### 2.1 Diagrama de Camadas
 
@@ -141,6 +147,8 @@ Descrição
 
 ## 3. Visão de Implementação
 
+A _Visão de Implementação_ mostra como, de fato, o sistema proposto será implementado. Uma de suas principais características é a visão geral do _Diagrama de Classes_ final do projeto.
+
 ### 3.1 Diagrama de Classes
 
 > @EsioFreitas @Matheusss03 @gabrielalbino
@@ -151,13 +159,19 @@ Descrição
 
 ## 4. Visão de Dados (banco)
 
+A _Visão de Dados_ mostra como está arquiteturada a camada de persistência do projeto, mapeando os objetos e os modelos de dados.
+
 > @youssef-md e @rogerioo
 
 ## 5. Visão de Implantação
 
+A _Visão de Implantação_ mostra como será feita a implantação dos processos e componentes para o processamento dos nós do sistema.
+
 ### 5.1 Diagrama de Implantação
 
 ## 6. Visão de Processos
+
+A _Visão de Processos_ mostra como será feito o modelo de projeto, tendo como base uma visualização em _sequência_.
 
 ### 6.1 Diagrama de Sequencia/Classe focada nos processos existentes
 
