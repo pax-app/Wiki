@@ -71,3 +71,6 @@
     - [Review Sprint 04](docs/iniciativas-extras/documentacao_sprints/review_04.md)
     - [Planejamento Sprint 05](docs/iniciativas-extras/documentacao_sprints/plaining_05.md)
     - [Review Sprint 05](docs/iniciativas-extras/documentacao_sprints/review_05.md)
+- [**Apresentações**](docs/apresentacoes/README.md)
+  - [Lean Development](docs/apresentacoes/lean_development.md)
+  - [GoFs criacionais](docs/apresentacoes/gofs_criacionais.md)
