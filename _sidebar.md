@@ -42,6 +42,7 @@
   - [Pontuação do Backlog](docs/DS/dinamica-e-seminario-3/PontuacaoBacklog.md)
   - [Roadmap do Produto](docs/DS/dinamica-e-seminario-3/Roadmap.md)
 - [**Dinâmica e Seminário IV a**](docs/DS/dinamica-e-seminario-4-a/README.md)
+  - [GoF's Criacionais](docs/DS/dinamica-e-seminario-4-a/gofs_criacionais.md)
 - [**Dinâmica e Seminário IV b**](docs/DS/dinamica-e-seminario-4-b/README.md)
   - [GoF's Criacionais](docs/DS/dinamica-e-seminario-4-b/criacionais.md)
   - [GoF's Estruturais](docs/DS/dinamica-e-seminario-4-b/estruturais.md)
@@ -73,4 +74,3 @@
     - [Review Sprint 05](docs/iniciativas-extras/documentacao_sprints/review_05.md)
 - [**Apresentações**](docs/apresentacoes/README.md)
   - [Lean Development](docs/apresentacoes/lean_development.md)
-  - [GoFs criacionais](docs/apresentacoes/gofs_criacionais.md)
