@@ -20,6 +20,8 @@ Aqui estão listados os léxicos, sendo estes termos específicos do contexto do
 | 04/09/2019 |  1.8   |                    Inclusão do termo L8                    |    Marcos Nery     |
 | 05/09/2019 |  2.0   |                   Refinamento dos termos                   |    Marcos Nery     |
 | 22/09/2019 |  2.1   |                Formatando referências ABNT                 |  Rogério Júnior    |
+| 14/11/2019 |  2.2   |                Atualizando algumas descrições               |  Marcos Nery    |
+| 14/11/2019 |  2.3   |                Adicionando referências diretas ao protótipo                 |  Marcos Nery    |
 
 <br>
 
@@ -29,6 +31,7 @@ Para cada termo estão listadas as seguintes definições:
 * Impacto: ações que podem ser realizadas pelo sujeito referenciado pelo termo ou sobre ele
 * Sinônimos: outros termos que possuem os mesmos atributos deste
 * Classificação: se o termo se refere a um sujeito, objeto, verbo ou estado. Sujeito para os que se referem a atores que podem realizar ações, verbo para os termos que indicam ações, estado para os que indicam alguma condição temporária, e objeto para aqueles que não se encaixam em nenhum dos dois casos anteriores.
+* Protótipo: Linkagem para os fragmentos do protótipo do aplicativo que mostram as funcionalidades citadas.
 
 Para facilitar a visibilidade de cada uma dessas informações para cada termo, será usado o seguinte template tabular:
 
@@ -46,6 +49,8 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | - Impacto 2 ...|
 |**Sinônimos**|
 |  Sinônimos |
+|**Protótipo**|
+|_[Ocorrência no protótipo](../dinamica-e-seminario-3/PrototipoAltaFidelidade.md#)_|
 
 ### L1 
 <h3 style="text-align: left;">Serviço</h3>
@@ -60,9 +65,13 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |- Se divide em várias áreas e categorias|
 |**Impacto** |
 |- Um [serviço](#l1) pode ser realizado por um [prestador](#l2)|
+|- Um [serviço](#l1) é parte de uma categoria que contem serviços de domínio similar|
 |- Um [serviço](#l1) pode ser cadastrado por um [prestador](#l2) em seu perfil como um dos seus [serviços](#l1) disponíveis |
 |**Sinônimos**|
 | - |
+|**Protótipo**|
+|_[Categorias e Serviços](../dinamica-e-seminario-3/PrototipoAltaFidelidade.md#categoriasformação-dos-prestadores-de-serviços-v1)_|
+
 
 ### L2 
 
@@ -84,8 +93,11 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |- Um [prestador](#l2) de [serviços](#l1) pode negociar via [chat](#l7) com um [consumidor](#l3) acerca de um [serviço](#l1) a ser contratado|
 |- Um [prestador](#l2) de [serviços](#l1) pode receber pela aplicação o [pagamento](#l5) por um [serviço](#l1) prestado|
 |- Um [prestador](#l2) de [serviços](#l1) pode [avaliar](#l6) um [consumidor](#l3) ao qual prestou [serviços](#l1)|
+|- Um [prestador](#l2) de [serviços](#l1) pode ver a lista de chats atualmente em curso com seus [consumidores](#l3)|
 |**Sinônimos**|
 |Autônomo|
+|**Protótipo**|
+|_[Telas referentes ao prestador](../dinamica-e-seminario-3/PrototipoAltaFidelidade.md#tornar-se-um-prestador-de-serviço-v1)_|
 
 ### L3
 
@@ -106,7 +118,8 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |- Um [consumidor](#l3) de [serviços](#l1) pode [avaliar](#l6) um [prestador](#l2) do qual contratou [serviços](#l1)|
 |**Sinônimos**|
 |-|
-
+|**Protótipo**|
+|_[Telas referentes ao consumidor](../dinamica-e-seminario-3/PrototipoAltaFidelidade.md#home-do-consumidor-de-serviços-e-adição-de-endereço-v2)_|
 
 ### L4 
 
@@ -125,6 +138,8 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |- Um usuário [consumidor](#l3) pode filtrar sua pesquisa para mostrar apenas [prestador](#l2)es validados|
 |**Sinônimos**|
 |- [prestador](#l2) verificado|
+|**Protótipo**|
+|Não incluso|
 
 ### L5 
 
@@ -142,6 +157,8 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | - O valor a ser pago poderá ser combinado entre [consumidor](#l3) e [prestador](#l2) de [serviço](#l1) através do [pax](#l8), pelo chat do aplicativo|
 |**Sinônimos**|
 |  - |
+|**Protótipo**|
+|_[Telas de seleção de cartões](../dinamica-e-seminario-3/PrototipoAltaFidelidade.md#meus-cartões-v1)_|
 
 ### L6 
 
@@ -160,7 +177,8 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | - Após o serviço ser realizado pelo [prestador](#l2), o [consumidor](#l3) poderá então avalia-lo e avaliar o [serviço](#l1) realizado, assim como o [prestador](#l2) poderá avalia-lo|
 |**Sinônimos**|
 |  - |
-
+|**Protótipo**|
+|Não incluso|
 
 ### L7 
 
@@ -179,7 +197,8 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | - Pelo chat é enviado o [pax](#l8) criado pelo [prestador](#l2) para o [consumidor](#l3)|
 |**Sinônimos**|
 |  - |
-
+|**Protótipo**|
+|_[Telas referentes ao chat](../dinamica-e-seminario-3/PrototipoAltaFidelidade.md#chat-com-envio-de-foto-v1)_|
 
 
 ### L8 
@@ -191,7 +210,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | Objeto |
 |**Noção**|
 | - É um termo no calendário maia que se refere a tempo de plantio, portanto remetendo a troca de um esforço por uma recompensa, motivo pelo qual foi escolhido como nome para a aplicação|
-| - É também o nome dado ao contrato firmado e documentado na aplicação entre o [consumidor](#l3) e o [prestador](#l2) de [serviço](#l1). No qual constam coisas como a descrição do [serviço](#l1) a ser prestado e o valor a ser pago.|
+| - É também o nome dado ao contrato firmado e documentado na aplicação entre o [consumidor](#l3) e o [prestador](#l2) de [serviço](#l1). No qual constam coisas como a descrição do [serviço](#l1) a ser prestado, localização, valor a ser pago e outras informações relevantes.|
 |**Impacto** |
 | - O pax é criado pelo [prestador](#l2) quando este recebe do usuário [consumidor](#l3) um convite pelo [chat](#l7) para realizar um [serviço](#l1). |
 | - O consumidor recebe dentro do chat o pax criado pelo prestador e pode confirma-lo ou não|
@@ -199,6 +218,8 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | - Caso o pax seja negado as duas partes podem tentar, caso queiram, negociar novamente e editar ou criar um novo pax|
 |**Sinônimos**|
 |  contrato |
+|**Protótipo**|
+|_[Telas referentes ao envio do PAX](../dinamica-e-seminario-3/PrototipoAltaFidelidade.md#chat-com-envio-do-pax-v1)_|
 
 ## Referências
 
