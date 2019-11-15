@@ -32,10 +32,12 @@ O **ME-R** é um modelo conceitual utilizado na _Engenharia de Software_ para de
 | 18/09/2019 |  3.0   |                  Atualizando o MER, DER e DL com novas modificações                  |       Rogério Júnior e Youssef Muhamad        |
 | 18/09/2019 |  3.1   |                    Adicionando _price_range_ à tabela _PROVIDER_                     |       Rogério Júnior e Youssef Muhamad        |
 | 15/11/2019 |  3.2   |                Atualização dos atributos do GENERAL_CATEGORY                                                                      |                 Fabiana Ribas                 |
+| 15/11/2019 |  3.3   |                Exclusão da tabela MESSAGE                                                                      |                 Fabiana Ribas                 |
+
 
 ## Versão 4.0
 
-!> Edição dos atributos da tabela GENERAL_CATEGORY,
+!> Edição dos atributos da tabela GENERAL_CATEGORY, Exclusão da tabela MESSAGE
 
 ### Modelo Entidade-Relacionamento(ME-R)
 
@@ -51,7 +53,6 @@ O **ME-R** é um modelo conceitual utilizado na _Engenharia de Software_ para de
   - PROVIDER_CATEGORY
   - GENERAL_CATEGORY
   - CHAT
-  - MESSAGE
 
 - #### Atributos:
 
@@ -65,7 +66,6 @@ O **ME-R** é um modelo conceitual utilizado na _Engenharia de Software_ para de
   - PROVIDER_CATEGORY ( <u>provider_category_id</u>, name )
   - GENERAL_CATEGORY ( <u>general_category_id</u>, name , description)
   - CHAT ( <u>chat_id</u>, user_id, provider_id )
-  - MESSAGE ( <u>message_id</u>, chat_id, sender_id, date_time_sent, text_message )
 
 - #### Relacionamentos:
 
@@ -108,9 +108,6 @@ O **ME-R** é um modelo conceitual utilizado na _Engenharia de Software_ para de
   - REPORT - reports - PAX
     - Um REPORT reporta um único PAX(es) e um PAX é reportado por um único REPORT.
     - Cardinalidade: **1 : 1**
-  - CHAT - has - MESSAGE
-    - Um CHAT tem várias MESSAGE(s) e uma MESSAGE é de um único CHAT.
-    - Cardinalidade: **1 : N**
   - GENERAL_CATEGORY - contains - PROVIDER_CATEGORY
     - Um GENERAL_CATEGORY contém um ou vários PROVIDER_CATEGORY(ies) e um PROVIDER_CATEGORY está contido em um único GENERAL_CATEGORY.
     - Cardinalidade: **1 : N**
