@@ -1,9 +1,16 @@
 # Post Mortem
 
+## Histórico de Revisões
+
+|    Data    | Versão |             Descrição             |  Autor(es)  |
+| :--------: | :----: | :-------------------------------: | :---------: |
+| 13/11/2019 |  0.5   | Criação da estrutura do documento | Lucas Dutra |
+| 15/11/2019 |  1.0   |     Finalização do documento      | Lucas Dutra |
+
 ## Introdução
 
 <p align="justify"> 
-Durante a execução do projeto, a equipe teve que lidar com diversos riscos e acontecimentos que constantemente abalaram a produtividade geral. Porém, a equipe se mostrou sempre unida, e foi capaz de lapidar uma ideia de produto que inicialmente parecia inconcebível. Apesar de todos os desafios, a equipe trabalhou harmoniosamente, e ao final da disciplina foi capaz de entregar o produto a que se propôs.
+Durante a execução do projeto, a equipe teve que lidar com diversos riscos e acontecimentos que constantemente abalaram a produtividade geral. Porém, a equipe se mostrou sempre unida, e foi capaz de lapidar uma ideia de produto que pudesse agradar a todos e fizesse sentido para tanta dedicação que estaria por vir. Apesar de todos os desafios, a equipe trabalhou harmoniosamente, e ao final da disciplina foi capaz de entregar o produto a que se propôs.
 </p>
 
 <p align="justify">
@@ -41,17 +48,18 @@ Durante a execução do projeto, a equipe teve que lidar com diversos riscos e a
 ## Lições Aprendidas
 
 <p align="justify"> 
-As equipes agora têm liberdade para definir e lapidar o escopo dos projetos, mudança na execução da disciplina, que também propõe a atribuição de papeis fixos para cada membro da equipe de EPS <i>(Scrum Master, DevOps, Product Manager e Arquiteto de Software)</i>, já se mostrando um grande desafio, dado que EPS não tem experiência prévia em gerenciamento de projetos, e MDS não possui em desenvolvimento ágil. 
+A matéria de Arquitetura e Desenho de <i>Software</i> se mostra como um desafio para os alunos pois ela requere, principalmente, as habilidades de gestão de projeto, elaboração de um produto, desenvolvimento de <i>software</i> e aplicação de padrões de projeto. Todas essas juntas são vistas como novidades para maioria dos integrantes, tornando assim, a entrega de um produto final bem lapidado e consistente, ainda mais difícil, porém, o maior impasse para equipe foi quanto a tomada de decisões e planejamento. Avaliando onde a equipe conseguiu chegar e da maneira que o processo de desenvolvimento de um <i>software</i> complexo foi executado, pode-se perceber o quanto possuir a elaboração do <i>Roadmap</i> de forma bem planejada e, também, do <i>Product Backlog</i>, afetam no bom andamento de um projeto. Entretanto, graças ao esforço mútuo da equipe foi possível chegar ao que foi proposto.
 </p>
 
 <p align="justify"> 
-Com o amadurecimento da disciplina, agora mais focada em visão de produto, nota-se ótimos níveis de absorção por MDS, e o amadurecimento desta por parte de EPS. Ainda que a visão de produto seja o foco da disciplina, a equipe evoluiu muito em conhecimento técnico e na engenharia de <i>software</i> como um todo, principalmente MDS, que está nos estágios iniciais do curso, e pôde vivenciá-la na prática, enquanto EPS pôde criar "especialistas" em cada área, graças à nova abordagem de papeis fixos.
+É notável o amadurecimento da equipe com a evolução do projeto, que no começo se mostrava receosa para tomar decisões que pudessem impactar drásticamente em todo o produto, chegada a etapa final, a equipe se mostra mais uniforme e madura, tanto quanto a tomada de decisões, quanto as discussões que levam a uma decisão contreta e aceita por todos os membros. Isso se deu ao movimento adotado por todo o grupo nas últimas semanas, onde era preciso analisar nossa situação quanto a <i>deadline</i> proposta na disciplina e também quais partes principais ainda estavam faltantes para concretização de um produto final que condizesse com o nível esperado da equipe.
 </p>
 
 <p align="justify"> 
-O contato constante entre MDS e EPS também favorece melhoras no relacionamento interpessoal, e criação de uma visão profissional da engenharia de <i>software</i>, ainda que a carga da disciplina seja cansativa.
+Faz-se necessário ressaltar o ímpeto e a dedicação de todos os membros, que apesar de todos os problemas enfrentados com o decorrer da disciplina, mantiveram e cumpriram o que havia sido proposto inicialmente. Fica claro que com o comprometimento da equipe e a homogeneidade da mesma, é possível entregar um produto de qualidade.
 </p>
+<br></br>
 
-<p align="justify">
-Durante o projeto foram vários riscos enfrentados, como inexperiência, falta de tempo, cansaço e falhas de comunicação. Fica claro que com uma boa gestão, e comprometimento da equipe é possível entregar um produto de qualidade.
-</p>
+<center>
+Grupo 1 - Pax
+</center>
