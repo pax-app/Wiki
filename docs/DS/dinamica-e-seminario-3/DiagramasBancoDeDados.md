@@ -33,6 +33,7 @@ O **ME-R** é um modelo conceitual utilizado na _Engenharia de Software_ para de
 | 18/09/2019 |  3.1   |                    Adicionando _price_range_ à tabela _PROVIDER_                     |       Rogério Júnior e Youssef Muhamad        |
 | 15/11/2019 |  3.2   |                Atualização dos atributos do GENERAL_CATEGORY                                                                      |                 Fabiana Ribas                 |
 | 15/11/2019 |  3.3   |                Exclusão da tabela MESSAGE                                                                      |                 Fabiana Ribas                 |
+| 15/11/2019 |  3.3   |  Atualizando o MER, DER e DL com novas modificações                                                                   |                 Fabiana Ribas                 |
 
 
 ## Versão 4.0
