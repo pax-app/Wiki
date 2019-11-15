@@ -2,11 +2,13 @@
 
 Microsserviço responsável por toda interação do usuário, como login, registro.
 
+## Histórico de Revisões
+
 |    Data    | Versão |      Descrição       |  Autor(es)  |
 | :--------: | :----: | :------------------: | :---------: |
 | 25/10/2019 |  1.0   | Criação do documento | Lucas Dutra |
 
-## Padrões usados:
+## Padrões usados
 
 ### Decorator
 

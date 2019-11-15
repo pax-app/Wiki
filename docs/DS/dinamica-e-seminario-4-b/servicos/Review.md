@@ -8,7 +8,7 @@ Microsserviço responsável pelos contratos cliente-prestador.
 | :--------: | :----: | :------------------: | :---------: |
 | 12/11/2019 |  1.0   | Criação do documento | Lucas Dutra |
 
-## Padrões usados:
+## Padrões usados
 
 ### Facade
 
