@@ -8,7 +8,7 @@ Microsserviço responsável pelos contratos cliente-prestador.
 | :--------: | :----: | :------------------: | :---------: |
 | 01/11/2019 |  1.0   | Criação do Documento | Lucas Dutra |
 
-## Padrões usados:
+## Padrões usados
 
 ### Chain of Responsibility
 

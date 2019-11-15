@@ -9,10 +9,9 @@ Camada da aplicação responsável por redirecionar as requisições do front-en
 | 23/10/2019 |  0.1   |             Abertura do documento             | Marcos Nery |
 | 24/10/2019 |  0.2   |               Adiciona Mediator               | Marcos Nery |
 | 24/10/2019 |  1.0   | Adiciona Chain of Responsibility e singletone | Marcos Nery |
-| 13/11/2019 |  1.1   | Atualizando descrição do Singletone | Marcos Nery |
+| 13/11/2019 |  1.1   |      Atualizando descrição do Singletone      | Marcos Nery |
 
-
-## Padrões utilizados:
+## Padrões utilizados
 
 ### Chain of Responsibility
 
@@ -50,7 +49,6 @@ No contexto da Gateway, construída em Node, o singleton é utilizado para traba
 
 ![SingleToneCode1](../../../../assets/design-patterns/Gateway/gatewaySingletone.png)
 ![SingleToneCode2](../../../../assets/design-patterns/Gateway/gatewaySingletone2.png)
-
 
 **Arquivo:** [routes.js](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
 
