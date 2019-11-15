@@ -2,19 +2,11 @@
 
 Microsserviço responsável por toda interação do usuário, como login, registro.
 
+|    Data    | Versão |      Descrição       |  Autor(es)  |
+| :--------: | :----: | :------------------: | :---------: |
+| 25/10/2019 |  1.0   | Criação do documento | Lucas Dutra |
+
 ## Padrões usados:
-
-### Factory method
-
-O Application Factory, é uma evolução do design _Pattern Factory_, sendo essa evolução proposta em plataformas emergentes orientadas à convenção, e adaptada à tecnologia de Micro-framework _Flask_. Por um lado é um padrão emergente, mas por outro tem em sua base o original conceito de fábrica do padrão de projeto GoF.
-
-Este padrão é aplicado na criação da instância de um _app_ proveniente da biblioteca padrão do _Flask_.
-
-![ApplicationFactory](../../../../assets/design-patterns/User/ApplicationFactory.png)
-
-Arquivo: [init.py](https://github.com/pax-app/User/blob/devel/project/__init__.py)
-
-### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#factory-method)
 
 ### Decorator
 
@@ -35,6 +27,18 @@ O padrão de faixada é implementado por padrão em uma ferramenta do _Micro-Fra
 Arquivo: [init.py](https://github.com/pax-app/User/blob/devel/project/__init__.py)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/estruturais.md#facade)
+
+### Factory method
+
+O Application Factory, é uma evolução do design _Pattern Factory_, sendo essa evolução proposta em plataformas emergentes orientadas à convenção, e adaptada à tecnologia de Micro-framework _Flask_. Por um lado é um padrão emergente, mas por outro tem em sua base o original conceito de fábrica do padrão de projeto GoF.
+
+Este padrão é aplicado na criação da instância de um _app_ proveniente da biblioteca padrão do _Flask_.
+
+![ApplicationFactory](../../../../assets/design-patterns/User/ApplicationFactory.png)
+
+Arquivo: [init.py](https://github.com/pax-app/User/blob/devel/project/__init__.py)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#factory-method)
 
 ### Iterator
 

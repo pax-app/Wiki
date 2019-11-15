@@ -15,14 +15,17 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 | 24/10/2019 |  0.5   |                   Padronizando o documento                   | Rogério Júnior e Youssef Muhamad |
 | 24/10/2019 |  0.6   |            Adição dos patterns do serviço de Chat            | Rogério Júnior e Youssef Muhamad |
 | 24/10/2019 |  0.7   |     Melhoria de algumas descrições e abordagem de GRASPS     |           Marcos Nery            |
+| 12/11/2019 |  1.1   |          Adicionando patterns do serviço de review           |           Lucas Dutra            |
 
 ## Factory Method
 
 É um padrão de projeto que permite às classes delegar para subclasses decidirem os tipos de objetos que serão criados, isso é feito através da criação de objetos que chamam o método fabrica especificado numa interface e implementado por um classe filha ou implementado numa classe abstrata e opcionalmente sobrescrito por classes derivadas. Esse padrão ajuda a garantir os grasps de baixo acoplamento e creator.
 
+- [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#factory-method)
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#factory-method)
-- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#factory-method)
 - [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md#factory-method)
+- [Review](docs/DS/dinamica-e-seminario-4-b/servicos/Review.md#factory-method)
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#factory-method)
 
 <!-- ## Abstract Factory
 
@@ -41,10 +44,12 @@ Os **Padrões de Design Criacionais** (Creational Patterns) abstraem a instancia
 Singleton é um padrão de design criacional que permite garantir que uma classe tenha apenas uma instância, enquanto fornece um ponto de acesso global a essa instância. Garantindo dessa forma que o dado objeto seja inicializado apenas uma vez.
 
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#Singleton)
+- [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#singleton)
 - [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#singleton)
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Singleton)
-- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Singleton)
 - [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md#Singleton)
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Singleton)
+- [Review](docs/DS/dinamica-e-seminario-4-b/servicos/Review.md#Singleton)
 
 <!-- ## Multiton
 

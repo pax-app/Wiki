@@ -2,7 +2,38 @@
 
 Microsserviço responsável pelos contratos cliente-prestador.
 
+## Histórico de Revisões
+
+|    Data    | Versão |      Descrição       |  Autor(es)  |
+| :--------: | :----: | :------------------: | :---------: |
+| 01/11/2019 |  1.0   | Criação do Documento | Lucas Dutra |
+
 ## Padrões usados:
+
+### Chain of Responsibility
+
+O padrão Chain of Responsibility foi utilizado com o intuito de desacoplar a lógica de escolha de três tipos diferentes de _requests_, que embora servissem para fins diferentes, se assemelhavam muito em sua sintaxe e comportamento. Dessa maneira, foi criado o [Create Handler](https://github.com/pax-app/Pax/blob/devel/project/api/utils/chain_of_responsibility/handlers.py#L11), o [Update Handler](https://github.com/pax-app/Pax/blob/devel/project/api/utils/chain_of_responsibility/handlers.py#L34) e o [Update State Handler](https://github.com/pax-app/Pax/blob/devel/project/api/utils/chain_of_responsibility/handlers.py#L52) para criar um novo Pax, atualizar um Pax existente e atualizar o status de um Pax, respectivamente.
+
+![Facade](../../../../assets/design-patterns/Pax/Chain.png)
+
+Arquivo:
+
+- [chain.py](https://github.com/pax-app/Pax/blob/devel/project/api/utils/chain_of_responsibility/chain.py)
+- [definitions.py](https://github.com/pax-app/Pax/blob/devel/project/api/utils/chain_of_responsibility/definitions.py)
+- [handlers.py](https://github.com/pax-app/Pax/blob/devel/project/api/utils/chain_of_responsibility/handlers.py)
+- [views.py](https://github.com/pax-app/Pax/blob/devel/project/api/views.py#L14)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#chain-of-responsibility)
+
+### Facade
+
+O padrão de faixada é implementado por padrão em uma ferramenta do _Micro-Framework_ _Flask_ chamada _Blueprint_. Isso acontece pois, essa estrutura, tem como papel destribuir para as rotas uma _URL_ base e ao mesmo tempo, ao instanciá-la, cria-se um vínculo da rota que faz uso dessa _Blueprint_ com todas as outras que implementam ela.
+
+![Facade](../../../../assets/design-patterns/Pax/Facade.png)
+
+Arquivo: [init.py](https://github.com/pax-app/Pax/blob/devel/project/__init__.py)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/estruturais.md#facade)
 
 ### Factory method
 
@@ -15,16 +46,6 @@ Este padrão é aplicado na criação da instância de um _app_ proveniente da b
 Arquivo: [init.py](https://github.com/pax-app/Pax/blob/devel/project/__init__.py)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#factory-method)
-
-### Facade
-
-O padrão de faixada é implementado por padrão em uma ferramenta do _Micro-Framework_ _Flask_ chamada _Blueprint_. Isso acontece pois, essa estrutura, tem como papel destribuir para as rotas uma _URL_ base e ao mesmo tempo, ao instanciá-la, cria-se um vínculo da rota que faz uso dessa _Blueprint_ com todas as outras que implementam ela.
-
-![Facade](../../../../assets/design-patterns/Pax/Facade.png)
-
-Arquivo: [init.py](https://github.com/pax-app/Pax/blob/devel/project/__init__.py)
-
-### [⬅](docs/DS/dinamica-e-seminario-4-b/estruturais.md#facade)
 
 ### Iterator
 
