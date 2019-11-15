@@ -19,6 +19,7 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 | 24/10/2019 |  0.9   |           Melhorando explicações no uso dos patterns           | Rogério Júnior e Youssef Muhamad |
 | 24/10/2019 |  1.0   | Melhorando algumas descrições e adicionando citações de GRASPs |           Marcos Nery            |
 | 12/11/2019 |  1.1   |           Adicionando patterns do serviço de review            |           Lucas Dutra            |
+| 13/11/2019 |  1.2   |           Atualizando descrição do Chain of Responsibility            |           Marcos Nery            |
 
 ## Iterator
 
@@ -58,6 +59,8 @@ Memento é um padrão de design comportamental que permite salvar e restaurar o 
 ## Chain of Responsibility
 
 Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado. Dessa forma, o padrão contribuí para GRASPs como o o baixo acoplamento, alta coesão e utilização do especialista.
+
+Uma observação relevante é que em Node com o framework express, caso de todos os serviços abaixo, o chain of responsibility é implementado em uma forma que ficou conhecida como Middleware, que já é chamado por alguns autores de um padrão emergente que surge a partir do chain of responsibility.
 
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#chain-of-responsibility)
 - [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chain-of-responsibility)

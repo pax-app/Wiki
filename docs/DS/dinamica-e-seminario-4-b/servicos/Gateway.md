@@ -9,6 +9,8 @@ Camada da aplicação responsável por redirecionar as requisições do front-en
 | 23/10/2019 |  0.1   |             Abertura do documento             | Marcos Nery |
 | 24/10/2019 |  0.2   |               Adiciona Mediator               | Marcos Nery |
 | 24/10/2019 |  1.0   | Adiciona Chain of Responsibility e singletone | Marcos Nery |
+| 13/11/2019 |  1.1   | Atualizando descrição do Singletone | Marcos Nery |
+
 
 ## Padrões utilizados:
 
@@ -44,9 +46,11 @@ Aqui um outro padrão que poderia ser fácilmente visto é o faxada, no entanto,
 
 ### Singleton
 
-No contexto da Gateway, construída em Node, o singleton é utilizado para trabalhar com os módulos adicionais, garantindo que apenas uma instância dele seja criada
+No contexto da Gateway, construída em Node, o singleton é utilizado para trabalhar com os módulos adicionais, garantindo que apenas uma instância dele seja criada. No primeiro fragmento de código abaixo é possível ver o uso do _require_, que é a keyword responsável por criar a instância, já no segundo vê-se o uso da keyword _exports_, que dá acesso público ao método da classe pelo uso do _require_ e garante o singleton, tendo em vista que o construtor da dada classe em sí é privado.
 
-![ChainCode2](../../../../assets/design-patterns/Gateway/gatewaySingletone.png)
+![SingleToneCode1](../../../../assets/design-patterns/Gateway/gatewaySingletone.png)
+![SingleToneCode2](../../../../assets/design-patterns/Gateway/gatewaySingletone2.png)
+
 
 **Arquivo:** [routes.js](https://github.com/pax-app/Gateway/blob/devel/src/routes.js)
 
