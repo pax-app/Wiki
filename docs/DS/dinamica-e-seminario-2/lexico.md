@@ -60,6 +60,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |- Se divide em várias áreas e categorias|
 |**Impacto** |
 |- Um [serviço](#l1) pode ser realizado por um [prestador](#l2)|
+|- Um [serviço](#l1) é parte de uma categoria que contem serviços de domínio similar|
 |- Um [serviço](#l1) pode ser cadastrado por um [prestador](#l2) em seu perfil como um dos seus [serviços](#l1) disponíveis |
 |**Sinônimos**|
 | - |
@@ -84,6 +85,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 |- Um [prestador](#l2) de [serviços](#l1) pode negociar via [chat](#l7) com um [consumidor](#l3) acerca de um [serviço](#l1) a ser contratado|
 |- Um [prestador](#l2) de [serviços](#l1) pode receber pela aplicação o [pagamento](#l5) por um [serviço](#l1) prestado|
 |- Um [prestador](#l2) de [serviços](#l1) pode [avaliar](#l6) um [consumidor](#l3) ao qual prestou [serviços](#l1)|
+|- Um [prestador](#l2) de [serviços](#l1) pode ver a lista de chats atualmente em curso com seus [consumidores](#l3)|
 |**Sinônimos**|
 |Autônomo|
 
@@ -191,7 +193,7 @@ Para facilitar a visibilidade de cada uma dessas informações para cada termo, 
 | Objeto |
 |**Noção**|
 | - É um termo no calendário maia que se refere a tempo de plantio, portanto remetendo a troca de um esforço por uma recompensa, motivo pelo qual foi escolhido como nome para a aplicação|
-| - É também o nome dado ao contrato firmado e documentado na aplicação entre o [consumidor](#l3) e o [prestador](#l2) de [serviço](#l1). No qual constam coisas como a descrição do [serviço](#l1) a ser prestado e o valor a ser pago.|
+| - É também o nome dado ao contrato firmado e documentado na aplicação entre o [consumidor](#l3) e o [prestador](#l2) de [serviço](#l1). No qual constam coisas como a descrição do [serviço](#l1) a ser prestado, localização, valor a ser pago e outras informações relevantes.|
 |**Impacto** |
 | - O pax é criado pelo [prestador](#l2) quando este recebe do usuário [consumidor](#l3) um convite pelo [chat](#l7) para realizar um [serviço](#l1). |
 | - O consumidor recebe dentro do chat o pax criado pelo prestador e pode confirma-lo ou não|
