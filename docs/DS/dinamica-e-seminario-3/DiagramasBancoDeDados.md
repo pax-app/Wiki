@@ -31,14 +31,15 @@ O **ME-R** é um modelo conceitual utilizado na _Engenharia de Software_ para de
 | 18/09/2019 |  2.4   |                    Adicionando atributo _pax_photos_ à tabela PAX                    |       Rogério Júnior e Youssef Muhamad        |
 | 18/09/2019 |  3.0   |                  Atualizando o MER, DER e DL com novas modificações                  |       Rogério Júnior e Youssef Muhamad        |
 | 18/09/2019 |  3.1   |                    Adicionando _price_range_ à tabela _PROVIDER_                     |       Rogério Júnior e Youssef Muhamad        |
-| 15/11/2019 |  3.2   |                Atualização dos atributos do GENERAL_CATEGORY                                                                      |                 Fabiana Ribas                 |
-| 15/11/2019 |  3.3   |                Exclusão da tabela MESSAGE                                                                      |                 Fabiana Ribas                 |
-| 15/11/2019 |  3.3   |  Atualizando o MER, DER e DL com novas modificações                                                                   |                 Fabiana Ribas                 |
+| 15/11/2019 |  4.0   |                    Atualização dos atributos do GENERAL_CATEGORY                     |                 Fabiana Ribas                 |
+| 15/11/2019 |  4.1   |                              Exclusão da tabela MESSAGE                              |                 Fabiana Ribas                 |
+| 15/11/2019 |  4.2   |                  Atualizando o MER, DER e DL com novas modificações                  |                 Fabiana Ribas                 |
+| 17/11/2019 |  4.3   |       Adiciona canceled_motive ao PAX e o relacionamento entre CHAT e ADDRESS        |       Rogério Júnior e Youssef Muhamad        |
 
-
+ 
 ## Versão 4.0
 
-!> Edição dos atributos da tabela GENERAL_CATEGORY, Exclusão da tabela MESSAGE
+!> Edição dos atributos da tabela GENERAL_CATEGORY, Exclusão da tabela MESSAGE e adição de canceled_motive a tabela PAX
 
 ### Modelo Entidade-Relacionamento(ME-R)
 
@@ -63,7 +64,7 @@ O **ME-R** é um modelo conceitual utilizado na _Engenharia de Software_ para de
   - REVIEW ( <u>review_id</u>, evaluated_id, evaluator_id, charisma_rate, commentary )
     - SERVICE ( <u>review_service_id</u>, evaluated_id, evaluator_id, service_rate )
   - PAX ( <u>pax_id</u>, user_id, provider_id, chat_id, address_id, price, status, name, description, date, { pax_photos } )
-    - REPORT ( <u>report_id</u>, pax_id, status, description, { report_photos } )
+  - REPORT ( <u>report_id</u>, pax_id, status, description, { report_photos } )
   - PROVIDER_CATEGORY ( <u>provider_category_id</u>, name )
   - GENERAL_CATEGORY ( <u>general_category_id</u>, name , description)
   - CHAT ( <u>chat_id</u>, user_id, provider_id )
@@ -105,6 +106,9 @@ O **ME-R** é um modelo conceitual utilizado na _Engenharia de Software_ para de
     - Cardinalidade: **N : 1**
   - PAX - references - CHAT
     - Um PAX referencia um único CHAT e um CHAT é referenciado em um único PAX.
+    - Cardinalidade: **1 : 1**
+  - ADDRESS - references - CHAT
+    - Um ADDRESS referência o endereço do usuário que será usado para fazer o pax no CHAT e um CHAT tem a referência de um ADDRESS que é usado no pax
     - Cardinalidade: **1 : 1**
   - REPORT - reports - PAX
     - Um REPORT reporta um único PAX(es) e um PAX é reportado por um único REPORT.
