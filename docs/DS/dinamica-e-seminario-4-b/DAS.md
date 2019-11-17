@@ -25,6 +25,7 @@
 | 08/11/2019 |  1.0   |  Inicialização e estruturação do DAS  | Matheus Pimenta |
 | 09/11/2019 |  1.1   | Descrição das visões presentes no DAS | Matheus Pimenta |
 | 14/11/2019 |  1.2   | Inserção das descrições das visões do DAS | Matheus Pimenta |
+| 17/11/2019 |  1.3   | Inserção do diagrama de classe do susário e do diagrama de processos | Matheus Pimenta |
 
 ## 1. Introdução
 
@@ -151,7 +152,14 @@ A _Visão de Implementação_ mostra como, de fato, o sistema proposto será imp
 
 ### 3.1 Diagrama de Classes
 
-> @EsioFreitas @Matheusss03 @gabrielalbino
+A rastreabilidade do diagrama de classe pode ser visto em [Diagrama de Classes](docs/DS/dinamica-e-seminario-3/DiagramaClasses.md).
+
+Todos os modelos aqui disponíveis, são as versões atualizadas com a implementação dos _Design Patterns_.
+
+#### 3.1.1 Microsserviço de Usuário
+
+![Imgur](https://i.imgur.com/Iz5emtP.png)
+Autor: [Matheus Figueiredo](https://github.com/Matheusss03)
 
 ### 3.2 Diagrama de Sequências
 
@@ -173,9 +181,11 @@ A _Visão de Implantação_ mostra como será feita a implantação dos processo
 
 A _Visão de Processos_ mostra como será feito o modelo de projeto, tendo como base uma visualização em _sequência_.
 
-### 6.1 Diagrama de Sequencia/Classe focada nos processos existentes
+### 6.1 Diagrama de Sequência
 
-> Está feito @Matheusss03
+![Imgur](https://i.imgur.com/SA4mLAB.png)
+
+Autor: [Matheus Figueiredo](https://github.com/Matheusss03)
 
 ## 7. Qualidade
 
