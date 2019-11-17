@@ -1,6 +1,6 @@
 # Planejamento Sprint 06
 
-*Sprint* planejada visando descer o nível de abstração do processo de modelagem dos requisitos de forma deixar mais concreto e palpável àquilo que deve ser desenvolvido. Todos os artefatos escolhidos, serão posteriormente adicionados ao Documento de Arquitetura, o qual já começa a ser desenvolvido para que as dúvidas possam surgir e, dessa forma, se confeccionado da forma mais embasada possível.
+*Sprint* dedicada ao início do desenvolvimento do produto. Inicialmente as funcionalidades mais básicas serão feitas, como _login_, configuração do _banco de dados_, desenvolvimento de algumas telas "base" do sistema, além da configuração inicial do serviço de _gateway_.
 
 ## Tamanho da Sprint 06      
 **Início:** 23/09/2019
@@ -11,7 +11,11 @@
 
 ## Pareamentos   
 
--
+- [Kaique Borges](https://github.com/kaiqueborges), [Matheus Figueiredo](https://github.com/Matheusss03) e [Gabriel Albino](https://github.com/gabrielalbino)
+- [Marcos Nery](https://github.com/MarcosNBJ) e[Felipe Campos](https://github.com/fepas)
+- [Youssef Muhamad](https://github.com/youssef-md) e [Lucas Dutra](https://github.com/lucasdutraf)
+- [Youssef Muhamad](https://github.com/youssef-md) e [Rogério Júnior](https://github.com/rogerioo)
+- [Esio Gustavo](https://github.com/EsioFreitas) e [Fabiana Ribas](https://github.com/FabianaRibas)
 
 ## Objetivos   
 
@@ -32,7 +36,7 @@
 | V3 do Banco de Dados |   3    |          Roger           |
 |  Configurar Gateway  |   5    |          Dutra           |
 
-<b>Total de pontos planejados: 54</b>  
+<b>Total de pontos planejados: 57</b>  
 
 ### Dívida    
 
@@ -43,27 +47,12 @@
 
 <b>Total: 8</b>
 
-### Issues Acrescentadas Durante a Sprint  
-
-|      _Issue_       | Pontos |         *Assign*         |
-| :----------------: | :----: | :----------------------: |
-|       US 53 (Back)        |   8    | Youssef, Dutra e Rogério |
-|        US12        |   5    |     Kaique e Albino      |
-|        US13        |   3    |     Kaique e Albino      |
-|        US14        |   2    |     Kaique e Albino      |
-|        US17        |   5    |       Ésio e Fepas       |
-|        US18        |   2    |       Ésio e Fepas       |
-|        US21        |   3    |       Ésio e Fepas       |
-|        US20        |   5    |           Fabi           |
-|        US22        |   2    |           Fabi           |
-| Configurar Gateway |   5    |     Marcos e Matheus     |
-
-<div style="text-align: center"> Total de pontos da <i>sprint</i>:  </div> <br>
+<div style="text-align: center"> Total de pontos da <i>sprint</i>: 65 </div> <br>
 
 <!---Colocar no link abaixo as issues alocadas no milestone da Sprint--->
-> [_Sprint_ _Backlog_](https://github.com/pax-app/Wiki/milestone/4?closed=1 )  
+> [_Sprint_ _Backlog_](https://github.com/pax-app/Wiki/milestone/6?closed=1 )  
 
-## Papeis
+## Papéis
 
 
 **Product Manager:** [Ésio Gustavo](https://github.com/EsioFreitas) e [Lucas Dutra](https://github.com/lucasdutraf) 
@@ -82,4 +71,4 @@
 - [Rogério Júnior](https://github.com/rogerioo)
 - [Youssef Muhamad](https://github.com/youssef-md)
 
-*Autor:* **[Rogério Júnior](https://github.com/rogerioo)**
+*Autores:* **[Rogério Júnior](https://github.com/rogerioo) e [Matheus Pimenta](https://github.com/Matheusss03)**
