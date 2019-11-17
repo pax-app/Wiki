@@ -3,9 +3,9 @@
 *Sprint* focada no começo do desenvolvimento das funcionalidades voltadas ao prestador de serviços, como _listar os serviços disponíveis_, _atribuição da faixa de preço dos serviços_, além de funcionalidades que envolvem o contato entre consumidor e prestador de serviço, após a busca do mesmo.
 
 ## Tamanho da Sprint 07      
-**Início:** 30/09/2019
+**Início:** 07/10/2019
    
-**Término:** 06/10/2019   
+**Término:** 13/10/2019   
 
 **Duração:** Sete dias   
 
