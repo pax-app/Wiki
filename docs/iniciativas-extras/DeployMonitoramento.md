@@ -8,7 +8,18 @@
 | 16/11/2019 |  0.1   | Abertura do documento | Marcos Nery |
 | 17/11/2019 |  1.0   |     Inclusão do Travis      | Marcos Nery |
 | 17/11/2019 |  1.1   |     Inclusão do Sentry DSN      | Marcos Nery |
+| 17/11/2019 |  1.2   |     Inclusão do CodeClimate      | Marcos Nery |
 
+
+Durante todo andamento do projeto uma preocupação constante do grupo foi como monitorar o funcionamento e a qualidade do código feito. Isso porque com métricas que permitem que desenvolvedores avaliem esses pontos fica fácil perceber o que precisa ser melhorado  e o que está em boas condições. Dessa forma, as seguintes ações foram tomadas para suprir essa necessidade.
+
+### Codeclimate
+
+Em relação a qualidade de código, como pode ser visto no módulo de design patterns, foi utilizado o code climate para monitorar a qualidade do código construído.
+
+![Code climate](../../assets/design-patterns/Gateway/codeclimate_gateway.jpg)
+
+### Travis + Github + Heroku
 
 Para tornar o trabalho de desenvolvimento e evolução do aplicativo mais ágil foi construída por meio Travis uma pipeline automatizada de deploy para o nosso ambiente de produção no heroku. Dessa forma, todo commit chega a branch estável de qualquer um dos repositórios dos nossos microsserviços são automaticamente colocados em produção, de tal forma que ficam acessíveis nas nossas URLs do Heroku pouco após o commit ter sido enviado ao GitHub.  
 
@@ -24,6 +35,7 @@ Também foram configuradas integrações com o Travis para checarem as builds de
 ![travisPR](../../assets/travisPR.png)
 ![travisTelegram](../../assets/travisTelegram.png)
 
+### Sentry DSN
 
 Por fim, para os serviços da Gateway e do Chat, que pelo modo como funcional estão mais sujeitos a erros e podem comprometer outras partes do sistema caso parem de funcionar, também foi configurada integração com o [Sentry Dsn](https://blog.sentry.io/2018/03/06/the-sentry-workflow). Esse serviço monitora o backend rodando em produção e notifica a equipe de desenvolvimento através dos nossos canais de comunicação quando ocorre algum erro após um endpoint ser acessado. Com esse complemento temos não apenas o monitoramento de todo o pipeline de deploy da aplicação mas também do código atualmente em curso.
 
