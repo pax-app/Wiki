@@ -20,12 +20,14 @@
 
 ## Histórico de Revisões
 
-|    Data    | Versão |               Descrição               |    Autor(es)    |
-| :--------: | :----: | :-----------------------------------: | :-------------: |
-| 08/11/2019 |  1.0   |  Inicialização e estruturação do DAS  | Matheus Pimenta |
-| 09/11/2019 |  1.1   | Descrição das visões presentes no DAS | Matheus Pimenta |
-| 14/11/2019 |  1.2   | Inserção das descrições das visões do DAS | Matheus Pimenta |
-| 17/11/2019 |  1.3   | Inserção do diagrama de classe do susário e do diagrama de processos | Matheus Pimenta |
+|    Data    | Versão |                              Descrição                               |                          Autor(es)                           |
+| :--------: | :----: | :------------------------------------------------------------------: | :----------------------------------------------------------: |
+| 08/11/2019 |  1.0   |                 Inicialização e estruturação do DAS                  |                       Matheus Pimenta                        |
+| 09/11/2019 |  1.1   |                Descrição das visões presentes no DAS                 |                       Matheus Pimenta                        |
+| 10/11/2019 |  1.2   |                      Descrição das técnologias                       |                        Felipe Campos                         |
+| 14/11/2019 |  1.3   |              Inserção das descrições das visões do DAS               |                       Matheus Pimenta                        |
+| 17/11/2019 |  1.4   | Inserção do diagrama de classe do usuário e do diagrama de processos |                       Matheus Pimenta                        |
+| 17/11/2019 |  1.5   |                Inserção do diagrama de banco de dados                | Felipe Campos e Fabiana Luiza Vasconcelos Pfeilsticker Ribas |
 
 ## 1. Introdução
 
@@ -122,8 +124,6 @@ Flutter</i>, que é consideravelmente maior em relação á seu principal concor
 
 ## 1. Visão de Casos de Uso
 
-
-
 > @MarcosNBJ
 
 ### 1.1 Lista dos Casos de Uso
@@ -179,7 +179,13 @@ Autor: [Marcos Nery](https://github.com/MarcosNBJ)
 
 A _Visão de Dados_ mostra como está arquiteturada a camada de persistência do projeto, mapeando os objetos e os modelos de dados.
 
-> @youssef-md e @rogerioo
+![DiagramaConceitual](https://raw.githubusercontent.com/pax-app/Wiki/master/assets/database/Conceitual_Pax_v4.png)
+Modelo Conceitual
+Autora: [Fabiana Luiza Vasconcelos Pfeilsticker Ribas](https://github.com/FabianaRibas)
+
+![DiagramaConceitual](https://raw.githubusercontent.com/pax-app/Wiki/master/assets/database/Logico_Pax_v4.png)
+Modelo Lógico
+Autora: [Fabiana Luiza Vasconcelos Pfeilsticker Ribas](https://github.com/FabianaRibas)
 
 ## 5. Visão de Implantação
 
