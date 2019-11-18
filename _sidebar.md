@@ -58,6 +58,7 @@
   - [DAS - Documento de Arquitetura de Software](docs/DS/dinamica-e-seminario-4-b/DAS.md)
 - [**Iniciativas Extras**](docs/iniciativas-extras/README.md)
   - [Post Mortem](docs/iniciativas-extras/PostMortem.md)
+  - [Monitoramento de código](docs/iniciativas-extras/DeployMonitoramento.md)
   - [Código de Conduta](docs/iniciativas-extras/CODE_OF_CONDUCT.md)
   - [Guia de Contribuição](docs/iniciativas-extras/CONTRIBUTING.md)
   - [Plano de Organização](docs/iniciativas-extras/Organizacao.md)
