@@ -20,7 +20,6 @@
 
 ## Histórico de Revisões
 
-<<<<<<< HEAD
 | Data | Versão | Descrição | Autor(es) |
 | :--------: | :----: | :------------------------------------------------------------------: |
 | 08/11/2019 | 1.0 | Inicialização e estruturação do DAS | Matheus Pimenta |
