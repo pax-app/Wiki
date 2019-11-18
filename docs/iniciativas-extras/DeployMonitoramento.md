@@ -13,3 +13,8 @@ Também foram configuradas integrações com o Travis para checarem as builds de
 
 ![travisPR](../../assets/travisPR.png)
 ![travisTelegram](../../assets/travisTelegram.png)
+
+
+Por fim, para os serviços da Gateway e do Chat, que pelo modo como funcional estão mais sujeitos a erros e podem comprometer outras partes do sistema caso parem de funcionar, também foi configurada integração com o [Sentry Dsn](https://blog.sentry.io/2018/03/06/the-sentry-workflow). Esse serviço monitora o backend rodando em produção e notifica a equipe de desenvolvimento através dos nossos canais de comunicação quando ocorre algum erro após um endpoint ser acessado. Com esse complemento temos não apenas o monitoramento de todo o pipeline de deploy da aplicação mas também do código atualmente em curso.
+
+![sentry](../../assets/sentry2.jpeg)
