@@ -155,6 +155,14 @@ Porém, a versão mais atualizada pode ser vista abaixo:
 
 ### 2.2 Diagrama de Pacotes
 
+O _Diagrama de Pactoes_ tem como objetivo estruturar hierarquicamente as pastas que compõem o projeto.
+
+A versão mais atualizada do mesmo pode ser vista abaixo, e sua rastreabilidade pode ser acompanhada em [Diagrama de Pacotes](docs/DS/dinamica-e-seminario-3/DiagramaPacotes.md) .
+
+![flask](https://i.imgur.com/Nb8mgg8.png)
+
+**Autor:** [Felipe Campos](https://github.com/fepas)
+
 ## 3. Visão de Implementação
 
 A _Visão de Implementação_ mostra como, de fato, o sistema proposto será implementado. Uma de suas principais características é a visão geral do _Diagrama de Classes_ final do projeto.
