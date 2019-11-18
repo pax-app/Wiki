@@ -194,11 +194,11 @@ A _Visão de Dados_ mostra como está arquiteturada a camada de persistência do
 
 ![DiagramaConceitual](https://raw.githubusercontent.com/pax-app/Wiki/master/assets/database/Conceitual_Pax_v4.png)
 Modelo Conceitual
-Autora: [Fabiana Luiza Vasconcelos Pfeilsticker Ribas](https://github.com/FabianaRibas)
+Autores: [Fabiana Ribas](https://github.com/FabianaRibas),[Lucas Dutra](@lucasdutraf),[Rogério Junior](@rogerioo),[Youssef Muhamad](@youssef-md)
 
 ![DiagramaConceitual](https://raw.githubusercontent.com/pax-app/Wiki/master/assets/database/Logico_Pax_v4.png)
 Modelo Lógico
-Autora: [Fabiana Luiza Vasconcelos Pfeilsticker Ribas](https://github.com/FabianaRibas)
+Autores: [Fabiana Ribas](https://github.com/FabianaRibas),[Lucas Dutra](@lucasdutraf),[Rogério Junior](@rogerioo),[Youssef Muhamad](@youssef-md)
 
 ## 5. Visão de Implantação
 
