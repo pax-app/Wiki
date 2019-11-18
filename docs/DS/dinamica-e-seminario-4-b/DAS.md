@@ -161,6 +161,16 @@ Todos os modelos aqui disponíveis, são as versões atualizadas com a implement
 ![Imgur](https://i.imgur.com/Iz5emtP.png)
 Autor: [Matheus Figueiredo](https://github.com/Matheusss03)
 
+#### 3.1.2 Microsserviço de Categorias
+
+![Category](../../../assets/classDiagramCategory.png)
+Autor: [Marcos Nery](https://github.com/MarcosNBJ)
+
+#### 3.1.3 Microsserviço PAX
+
+![Pax](../../../assets/classDiagramPAX.png)
+Autor: [Marcos Nery](https://github.com/MarcosNBJ)
+
 ### 3.2 Diagrama de Sequências
 
 > @Matheusss03
