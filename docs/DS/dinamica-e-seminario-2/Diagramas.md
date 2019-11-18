@@ -13,6 +13,7 @@ Para realizar a disciplina de _Arquitetura e Desenho de Software_ foi decidido r
 | 06/09/2019 |  1.1   |              Colocando autores              |                Rogério Júnior                |
 | 05/09/2019 |  1.2   | Adição da V2 do fluxo - usando notação BPMN |                Kaique Borges                 |
 | 22/09/2019 |  1.3   |         Formatando referências ABNT         |                 Rogério Júnior               |
+| 11/11/2019 |  2.0   |         Inserindo modelagens finais do projeto         |                 Matheus Pimenta               |
 
 ## Versões 1.0
 
@@ -68,7 +69,19 @@ Autores: [Fabiana Ribas](https://github.com/FabianaRibas) e [Matheus Figueiredo]
 
 ![Imgur](https://i.imgur.com/4nswLVC.png)
 
-Autor: [Matheus Figueiredo]([Imgur](https://i.imgur.com/4nswLVC.png))
+Autor: [Matheus Figueiredo](https://github.com/Matheusss03)
+
+## Processo - Implementação de Design Patterns
+
+![Imgur](https://i.imgur.com/zp3sxCo.png)
+
+Autor: [Matheus Figueiredo](https://github.com/Matheusss03)
+
+## Processo - Descrição da Arquitetura do Sistema
+
+![Imgur](https://i.imgur.com/aBJFYf4.png)
+
+Autor: [Matheus Figueiredo](https://github.com/Matheusss03)
 
 ### User flow
 

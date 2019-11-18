@@ -12,3 +12,6 @@
 - ### Sprint 04
   - #### [Planejamento](docs/iniciativas-extras/documentacao_sprints/plaining_04.md)
   - #### [Revisão e Retrospectiva](docs/iniciativas-extras/documentacao_sprints/review_04.md)
+- ### Sprint 05
+  - #### [Planejamento](docs/iniciativas-extras/documentacao_sprints/plaining_05.md)
+  - #### [Revisão e Retrospectiva](docs/iniciativas-extras/documentacao_sprints/review_05.md)
