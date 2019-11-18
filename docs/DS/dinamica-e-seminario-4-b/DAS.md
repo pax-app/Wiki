@@ -20,15 +20,15 @@
 
 ## Histórico de Revisões
 
-| Data | Versão | Descrição | Autor(es) |
-| :--------: | :----: | :------------------------------------------------------------------: |
-| 08/11/2019 | 1.0 | Inicialização e estruturação do DAS | Matheus Pimenta |
-| 09/11/2019 | 1.1 | Descrição das visões presentes no DAS | Matheus Pimenta |
-| 10/11/2019 | 1.2 | Descrição das técnologias | Felipe Campos |
-| 14/11/2019 | 1.3 | Inserção das descrições das visões do DAS | Matheus Pimenta |
-| 17/11/2019 | 1.4 | Atualizando as visões de Caso de Uso, Implantação e Implementação | Matheus Pimenta e Marcos Nery |
-| 17/11/2019 | 1.5 | Inserção do diagrama de classe do usuário e do diagrama de processos | Matheus Pimenta |
-| 17/11/2019 | 1.6 | Inserção do diagrama de banco de dados | Felipe Campos e Fabiana Luiza Vasconcelos Pfeilsticker Ribas |
+|    Data    | Versão |                              Descrição                               | Autor(es)                                                    |
+| :--------: | :----: | :------------------------------------------------------------------: | ------------------------------------------------------------ |
+| 08/11/2019 |  1.0   |                 Inicialização e estruturação do DAS                  | Matheus Pimenta                                              |
+| 09/11/2019 |  1.1   |                Descrição das visões presentes no DAS                 | Matheus Pimenta                                              |
+| 10/11/2019 |  1.2   |                      Descrição das técnologias                       | Felipe Campos                                                |
+| 14/11/2019 |  1.3   |              Inserção das descrições das visões do DAS               | Matheus Pimenta                                              |
+| 17/11/2019 |  1.4   |  Atualizando as visões de Caso de Uso, Implantação e Implementação   | Matheus Pimenta e Marcos Nery                                |
+| 17/11/2019 |  1.5   | Inserção do diagrama de classe do usuário e do diagrama de processos | Matheus Pimenta                                              |
+| 17/11/2019 |  1.6   |                Inserção do diagrama de banco de dados                | Felipe Campos e Fabiana Luiza Vasconcelos Pfeilsticker Ribas |
 
 ## 1. Introdução
 
