@@ -20,14 +20,24 @@
 
 ## Histórico de Revisões
 
-|    Data    | Versão |                              Descrição                               |                          Autor(es)                           |
+<<<<<<< HEAD
+| Data | Versão | Descrição | Autor(es) |
 | :--------: | :----: | :------------------------------------------------------------------: | :----------------------------------------------------------: |
-| 08/11/2019 |  1.0   |                 Inicialização e estruturação do DAS                  |                       Matheus Pimenta                        |
-| 09/11/2019 |  1.1   |                Descrição das visões presentes no DAS                 |                       Matheus Pimenta                        |
-| 10/11/2019 |  1.2   |                      Descrição das técnologias                       |                        Felipe Campos                         |
-| 14/11/2019 |  1.3   |              Inserção das descrições das visões do DAS               |                       Matheus Pimenta                        |
-| 17/11/2019 |  1.4   | Inserção do diagrama de classe do usuário e do diagrama de processos |                       Matheus Pimenta                        |
-| 17/11/2019 |  1.5   |                Inserção do diagrama de banco de dados                | Felipe Campos e Fabiana Luiza Vasconcelos Pfeilsticker Ribas |
+| 08/11/2019 | 1.0 | Inicialização e estruturação do DAS | Matheus Pimenta |
+| 09/11/2019 | 1.1 | Descrição das visões presentes no DAS | Matheus Pimenta |
+| 10/11/2019 | 1.2 | Descrição das técnologias | Felipe Campos |
+| 14/11/2019 | 1.3 | Inserção das descrições das visões do DAS | Matheus Pimenta |
+| 17/11/2019 | 1.4 | Inserção do diagrama de classe do usuário e do diagrama de processos | Matheus Pimenta |
+| 17/11/2019 | 1.5 | Inserção do diagrama de banco de dados | Felipe Campos e Fabiana Luiza Vasconcelos Pfeilsticker Ribas |
+=======
+| Data | Versão | Descrição | Autor(es) |
+| :--------: | :----: | :-----------------------------------: | :-------------: |
+| 08/11/2019 | 1.0 | Inicialização e estruturação do DAS | Matheus Pimenta |
+| 09/11/2019 | 1.1 | Descrição das visões presentes no DAS | Matheus Pimenta |
+| 14/11/2019 | 1.2 | Inserção das descrições das visões do DAS | Matheus Pimenta |
+| 17/11/2019 | 1.3 | Atualizando as visões de Caso de Uso, Implantação e Implementação | Matheus Pimenta e Marcos Nery |
+
+> > > > > > > 9d9c126079e3af57a6c49ea442cbc58eff097188
 
 ## 1. Introdução
 
@@ -101,8 +111,6 @@ Flutter</i>, que é consideravelmente maior em relação á seu principal concor
 
 ## Requisitos e Restrições Arquiteturais
 
-> Aqui vai ficar a versão mais atualizada do antigo _Documento de Arquitetura_ @FabianaRibas e @fepas
-
 ### Requisitos
 
 |   Requisitos   |                                                                            |
@@ -124,27 +132,37 @@ Flutter</i>, que é consideravelmente maior em relação á seu principal concor
 
 ## 1. Visão de Casos de Uso
 
-> @MarcosNBJ
+A _Visão de Casos de Uso_ descreve um modelo com alta significância de alto nível em relação às funcionalidades do sistema. Normalmente feito através do _Diagrama de Casos de Uso_.
 
-### 1.1 Lista dos Casos de Uso
+### 1.1 Diagrama de Casos de Uso
 
-Lista resumida com os links dos casos de Uso
+O Diagrama de Casos de Uso descreve as principais funcionalidades que o sistema pretende ter. Ele é constotuído de atores, que representam os reais usuários do sistema e as funcionalidade (presentes em _balões_) do aplicativo proposto.
 
-### 1.2 Diagrama de Casos de Uso
+Ao longo do desenvolvimento do projeto, já foram criados versões do diagrama, que pode ser visto em [Diagrama de Casos De Uso](docs/DS/dinamica-e-seminario-3/DiagramaCasosDeUso.md).
 
-Diagrama final do Caso de Uso e link da rastreabilidade do mesmo
+Porém, a versão mais atual pode ser vista abaixo:
+
+![CasosDeUsoV3](../../../assets/arquitetura/PAXCasosDeUsoV2.png)
+
+**Autor:** [Marcos Nery](https://github.com/marcosnbj)
 
 ## 2. Visão Lógica
 
 A _Visão Lógica_ mostra como está a organização conceitual do sistema em termos de **camadas**, **pacotes**, **classes** e **interfaces**.
 
-### 2.1 Diagrama de Camadas
+### 2.1 Diagrama de Contexto
 
-> Não sei se será necessário
+Focado em representar o escopo através de um diagrama de fluxo de dados de maior nível, ou seja, que consiga representar todo o sistema.
 
-### 2.2 Diagrama de Pacotes (back e front)
+Tal diagrama já foi feito ao longo do desenvolvimento, e sua rastreabilidade pode ser vista em [Diagrama de Contexto](docs/DS/dinamica-e-seminario-3/DiagramaContexto.md).
 
-> @Matheusss03 vai fazer
+Porém, a versão mais atualizada pode ser vista abaixo:
+
+![DiagramaContextov3](../../../assets/diagrama_contexto/DiagramaContextoV3.png)
+
+**Autor:** [Lucas Dutra](https://github.com/lucasdutraf) e [Youssef Muhamad](https://github.com/youssef-md).
+
+### 2.2 Diagrama de Pacotes
 
 ## 3. Visão de Implementação
 
@@ -171,10 +189,6 @@ Autor: [Marcos Nery](https://github.com/MarcosNBJ)
 ![Pax](../../../assets/classDiagramPAX.png)
 Autor: [Marcos Nery](https://github.com/MarcosNBJ)
 
-### 3.2 Diagrama de Sequências
-
-> @Matheusss03
-
 ## 4. Visão de Dados (banco)
 
 A _Visão de Dados_ mostra como está arquiteturada a camada de persistência do projeto, mapeando os objetos e os modelos de dados.
@@ -193,6 +207,16 @@ A _Visão de Implantação_ mostra como será feita a implantação dos processo
 
 ### 5.1 Diagrama de Implantação
 
+O _Diagrama de Implantação_ descreve como o sistema será implantando, tendo foco a visualização dos componentes em si.
+
+Já foi feita uma análise dessa visão ao longo do projeto, que pode ser vista em [Diagrama de Implantação](docs/DS/dinamica-e-seminario-3/DiagramaImplantacao.md).
+
+Mas, a versão mais atualizado se encontra abaixo:
+
+<iframe frameborder="0 " style="width:100%;height:500px;" src="https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20de%20Implanta%C3%A7%C3%A3o#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1832yt9BMR2vhcZU0Oton_NxZ7tkq957q%26export%3Ddownload"></iframe>
+
+**Autor:** [Kaique Borges](https://github.com/kaiqueborges)
+
 ## 6. Visão de Processos
 
 A _Visão de Processos_ mostra como será feito o modelo de projeto, tendo como base uma visualização em _sequência_.
@@ -210,9 +234,6 @@ Autor: [Matheus Figueiredo](https://github.com/Matheusss03)
 > @youssef-md e @rogerioo
 
 ## 8. Referencial Teórico
-
-Philippe Kruchten 1995, "The 4+1 view model of architecture," IEEE Software. 12(6), novembro de 1995.
-A origem das visões 4+1 utilizadas para descrição de arquitetura no RUP.
 
 - DONG, Tao. **Flutter**. [S. l.], 2019. Disponível em: https://medium.com/flutter. Acesso em: 15 set. 2019.
 - **FLASK (FRAMEWORK WEB)**. In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2019. Disponível em: <https://pt.wikipedia.org/w/index.php?title=Flask_(framework_web)&oldid=55329171>. Acesso em: 15 set. 2019.
