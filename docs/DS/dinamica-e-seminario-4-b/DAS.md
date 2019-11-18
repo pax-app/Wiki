@@ -149,13 +149,13 @@ Tal diagrama já foi feito ao longo do desenvolvimento, e sua rastreabilidade po
 
 Porém, a versão mais atualizada pode ser vista abaixo:
 
-![DiagramaContextov3](../../../assets/diagrama_contexto/DiagramaContextoV3.png)
+![DiagramaContextov3](../../../assets/diagramadeContextovFinal.jpg)
 
 **Autor:** [Lucas Dutra](https://github.com/lucasdutraf) e [Youssef Muhamad](https://github.com/youssef-md).
 
 ### 2.2 Diagrama de Pacotes
 
-O _Diagrama de Pactoes_ tem como objetivo estruturar hierarquicamente as pastas que compõem o projeto.
+O _Diagrama de Pacotes_ tem como objetivo estruturar hierarquicamente as pastas que compõem o projeto.
 
 A versão mais atualizada do mesmo pode ser vista abaixo, e sua rastreabilidade pode ser acompanhada em [Diagrama de Pacotes](docs/DS/dinamica-e-seminario-3/DiagramaPacotes.md) .
 
