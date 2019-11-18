@@ -2,7 +2,13 @@
 
 Camada da aplicação responsável pela interação com o usuário.
 
-## Padrões usados:
+## Histórico de Revisões
+
+|    Data    | Versão |      Descrição       |                           Autor(es)                            |
+| :--------: | :----: | :------------------: | :------------------------------------------------------------: |
+| 25/10/2019 |  1.0   | Criação do documento | Ésio Freitas, Gabriel Albino, Youssef Muhamad e Rogério Júnior |
+
+## Padrões usados
 
 ### Factory Method
 
@@ -17,44 +23,6 @@ a função de separar a lógica de negócio da UI através do uso de _Streams_. 
 Arquivo: [general_category_bloc.dart](https://github.com/pax-app/Frontend/blob/devel/lib/blocs/general_category_bloc.dart)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#factory-method)
-
-### State
-
-O Flutter por default vem com a arqitetura Lifting State Up (Vanilla), o qual
-é uma derivação do state. Todas as variáveis dentro da classe fazem parte do estado do widget.
-Nisso, quando alguma delas é alterada no setState(), toda a aplicação é renderizada.
-
-![State](../../../../assets/Patterns/Frontend/state.svg)
-
-Arquivo: [became_provider_screen.dart](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/became_provider_screen/became_provider_screen.dart)
-
-### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#state)
-
-### Singleton
-
-No Front-End, usamos a classe Api como um singleton para fazer toda a comunição do front com o gateway, além de utilizar o singleton para lidar com informações de autenticação e utilizar o singleton nativo do flutter.
-
-![](../../../../assets/Patterns/Front/singleton_api.svg)
-![](../../../../assets/Patterns/Front/singleton_usuario.svg)
-![](../../../../assets/Patterns/Front/singleton_preferences.svg)
-
-Arquivos:
-
-- [api.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/services/api.dart)
-- [loggedUser.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/services/loggedUser.dart)
-- [shared_preferences.dart](https://github.com/flutter/plugins/blob/6deda07662e420d747896a886518fd2855451fde/packages/shared_preferences/lib/shared_preferences.dart)
-
-### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)
-
-### Strategy
-
-A BaseScreen é o padrão que toda tela deve seguir, ela possui o contexto para o resto da página _Widget_ body, e como toda tela no flutter herda de _Widget_ existe a garantia de que esse contexto sempre existirá.
-
-![Strategy](../../../../assets/Patterns/Frontend/strategy.svg)
-
-Arquivo: [base_screen.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/components/base_screen/base_screen.dart)
-
-### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#strategy)
 
 ### Memento
 
@@ -79,3 +47,41 @@ O método _update_ abaixo é responsável por atualizar esta classe com base nas
 Arquivo: [chat_screen.dart](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/chat_screen/chat_screen.dart)
 
 ### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#observer)
+
+### Singleton
+
+No Front-End, usamos a classe Api como um singleton para fazer toda a comunição do front com o gateway, além de utilizar o singleton para lidar com informações de autenticação e utilizar o singleton nativo do flutter.
+
+![](../../../../assets/Patterns/Front/singleton_api.svg)
+![](../../../../assets/Patterns/Front/singleton_usuario.svg)
+![](../../../../assets/Patterns/Front/singleton_preferences.svg)
+
+Arquivos:
+
+- [api.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/services/api.dart)
+- [loggedUser.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/services/loggedUser.dart)
+- [shared_preferences.dart](https://github.com/flutter/plugins/blob/6deda07662e420d747896a886518fd2855451fde/packages/shared_preferences/lib/shared_preferences.dart)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/criacionais.md#singleton)
+
+### State
+
+O Flutter por default vem com a arqitetura Lifting State Up (Vanilla), o qual
+é uma derivação do state. Todas as variáveis dentro da classe fazem parte do estado do widget.
+Nisso, quando alguma delas é alterada no setState(), toda a aplicação é renderizada.
+
+![State](../../../../assets/Patterns/Frontend/state.svg)
+
+Arquivo: [became_provider_screen.dart](https://github.com/pax-app/Frontend/blob/e17214d9cbd13c0a9801042e556069c6cf8d616c/lib/screens/became_provider_screen/became_provider_screen.dart)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#state)
+
+### Strategy
+
+A BaseScreen é o padrão que toda tela deve seguir, ela possui o contexto para o resto da página _Widget_ body, e como toda tela no flutter herda de _Widget_ existe a garantia de que esse contexto sempre existirá.
+
+![Strategy](../../../../assets/Patterns/Frontend/strategy.svg)
+
+Arquivo: [base_screen.dart](https://github.com/pax-app/Frontend/blob/142_faixas_de_preco/lib/components/base_screen/base_screen.dart)
+
+### [⬅](docs/DS/dinamica-e-seminario-4-b/comportamentais.md#strategy)

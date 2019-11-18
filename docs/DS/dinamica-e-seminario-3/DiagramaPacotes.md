@@ -4,11 +4,11 @@ Nos últimos tempos, surgem sistemas cada vez mais complexos, com estruturas de 
 
 ## Histórico de Revisões
 
-| Data | Versão | Descrição | Autor(es) |
-| :--: | :----: | :-------: | :-------: |
-| 12/09/2017     |  1.0       |  Criação do documento         |      Ésio Freitas     |
-| 13/09/2017     |  1.1       |  Adicionando pacote do backend         |      Ésio Freitas     |
-| 22/09/2019 |  1.2   |         Formatando referências ABNT         |                 Rogério Júnior               |
+|    Data    | Versão |           Descrição           |   Autor(es)    |
+| :--------: | :----: | :---------------------------: | :------------: |
+| 12/09/2017 |  1.0   |     Criação do documento      |  Ésio Freitas  |
+| 13/09/2017 |  1.1   | Adicionando pacote do backend |  Ésio Freitas  |
+| 22/09/2019 |  1.2   |  Formatando referências ABNT  | Rogério Júnior |
 
 ## Front-end
 
@@ -34,6 +34,14 @@ O back-end será construído por serviços feitos com o microframework Flask em 
 ![front](../../../assets/pacotesBackFlask2.png)
 
 **Autor:** [Esio Gustavo](https://github.com/EsioFreitas)
+
+
+### Serviços em Flask V3
+
+![flask](https://i.imgur.com/Nb8mgg8.png)
+
+**Autor:** [Felipe Campos](https://github.com/fepas)
+
 
 ### Serviços em NodeJs V1
 

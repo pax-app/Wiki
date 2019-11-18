@@ -18,17 +18,16 @@ Os **Padrões de Design Comportamentais** (_Behavioral Patterns_) se preocupam d
 | 24/10/2019 |  0.8   |             Adição dos patterns do serviço de Chat             | Rogério Júnior e Youssef Muhamad |
 | 24/10/2019 |  0.9   |           Melhorando explicações no uso dos patterns           | Rogério Júnior e Youssef Muhamad |
 | 24/10/2019 |  1.0   | Melhorando algumas descrições e adicionando citações de GRASPs |           Marcos Nery            |
-
-<!-- ## Command
-
-[Descrição] -->
+| 12/11/2019 |  1.1   |           Adicionando patterns do serviço de review            |           Lucas Dutra            |
+| 13/11/2019 |  1.2   |           Atualizando descrição do Chain of Responsibility            |           Marcos Nery            |
 
 ## Iterator
 
 O iterador é um padrão de projeto comportamental que permite atravessar elementos de uma coleção sem expor sua representação subjacente (lista, pilha, árvore, etc.). Esse padrão ajuda portanto a garantir os GRASPs de alta coesão e do especialista, já que algoritmos de ordenação e outras coisas do tipo, que não fazem realmente parte da responsabilidade de algumas classes mas que precisam ser implementados para resolver os problemas dela, podem ser passados para classes separadas.
 
-- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Iterator)
 - [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md#Iterator)
+- [Review](docs/DS/dinamica-e-seminario-4-b/servicos/Review.md#Iterator)
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Iterator)
 
 ## Mediator
 
@@ -48,16 +47,8 @@ Strategy é um padrão de design comportamental que permite definir uma família
 
 - [Category](docs/DS/dinamica-e-seminario-4-b/servicos/Category.md#Strategy)
 - [Front-End](docs/DS/dinamica-e-seminario-4-b/servicos/front.md#Strategy)
-- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Strategy)
 - [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md#Strategy)
-
-<!-- ## Template Method
-
-[Descrição]
-
-## Visitor
-
-[Descrição] -->
+- [User](docs/DS/dinamica-e-seminario-4-b/servicos/User.md#Strategy)
 
 ## Memento
 
@@ -69,8 +60,11 @@ Memento é um padrão de design comportamental que permite salvar e restaurar o 
 
 Nesse padrão cada chamada passa por uma cadeia de funções, cada uma delas trata do que é de sua competência e em sequência passa a chamada para próxima função da cadeia, até que finalmente uma delas decide que a requisição foi totalmente tratada e então encerra o caminho e retorna o resultado. Dessa forma, o padrão contribuí para GRASPs como o o baixo acoplamento, alta coesão e utilização do especialista.
 
+Uma observação relevante é que em Node com o framework express, caso de todos os serviços abaixo, o chain of responsibility é implementado em uma forma que ficou conhecida como Middleware, que já é chamado por alguns autores de um padrão emergente que surge a partir do chain of responsibility.
+
 - [API Gateway](docs/DS/dinamica-e-seminario-4-b/servicos/Gateway.md#chain-of-responsibility)
 - [Chat](docs/DS/dinamica-e-seminario-4-b/servicos/Chat.md#chain-of-responsibility)
+- [Pax](docs/DS/dinamica-e-seminario-4-b/servicos/Pax.md#chain-of-responsibility)
 
 ## State
 
