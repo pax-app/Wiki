@@ -1,6 +1,6 @@
 # Documento de Arquitetura de Software
 
-|              <td colspan=2>PAX               |                                 |                |
+|                                              |                                 |                |
 | :------------------------------------------: | :-----------------------------: | :------------: |
 |                     Nome                     |             E-mail              |     Github     |
 |         Ésio Gustavo Pereira Freitas         |     esio.gustavo@gmail.com      |  @EsioFreitas  |
@@ -12,7 +12,7 @@
 |          Marcos Nery Borges Júnior           |    marcosnery.comp@gmail.com    |   @MarcosNBJ   |
 |          Matheus Figueiredo Pimenta          |    ultra10vascaino@gmail.com    |  @Matheusss03  |
 |       Rogério Silva dos Santos Júnior        |    junior.rogerio8@gmail.com    |   @rogerioo    |
-|            Youssef Muhamad Jacob             | emaildeyoussefmuhamad@gmail.com |  @youssef-md   |
+|               Youssef Muhamad                | emaildeyoussefmuhamad@gmail.com |  @youssef-md   |
 
 > Este documento tem como objetivo registrar a estrutura arquitetural do aplicativo _PAX_, desenvolvido como produto final da disciplina de ADS (Arquitetura e Desenho de Software), no campus do Gama, da Universidade de Brasília.
 
@@ -143,11 +143,7 @@ A _Visão Lógica_ mostra como está a organização conceitual do sistema em te
 
 ### 2.1 Diagrama de Contexto
 
-Focado em representar o escopo através de um diagrama de fluxo de dados de maior nível, ou seja, que consiga representar todo o sistema.
-
-Tal diagrama já foi feito ao longo do desenvolvimento, e sua rastreabilidade pode ser vista em [Diagrama de Contexto](docs/DS/dinamica-e-seminario-3/DiagramaContexto.md).
-
-Porém, a versão mais atualizada pode ser vista abaixo:
+Focado em representar o escopo através de um diagrama de fluxo de dados de maior nível, ou seja, que consiga representar todo o sistema. Tal diagrama já foi feito ao longo do desenvolvimento, e sua rastreabilidade pode ser vista em [Diagrama de Contexto](docs/DS/dinamica-e-seminario-3/DiagramaContexto.md). Porém, a versão mais atualizada pode ser vista abaixo:
 
 ![DiagramaContextov3](../../../assets/diagramadeContextovFinal.jpg)
 
@@ -228,9 +224,13 @@ Autor: [Matheus Figueiredo](https://github.com/Matheusss03)
 
 ## 7. Qualidade
 
-### 7.1 NFR (completo com marcadores)
+### 7.1 NFR
 
-> @youssef-md e @rogerioo
+O _NFR_ rastreia os requisitos não funcionais em requisitos funcionais e mostra o impacto que um _hardgoal_ causa em um _softgal_, deixando claro a rastreabilidade e o propósito de uma determinada _feature_ para um bom aplicativo _mobile_, todos os níveis respeitaram os _claims_ da _ISO 9241_ e das _Heurísticas de Nielsen_.
+
+<iframe frameborder="0" style="width:100%;height:800px;" src="https://www.draw.io/?lightbox=1&highlight=0000ff&layers=1&nav=1&title=NFRPax_V1#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1KoII2kh5Y-B4AOt6XzJemD4w-nuXQn_7%26export%3Ddownload"></iframe>
+
+**Autores**: [Rogério Júnior](https://github.com/rogerioo) e [Youssef Muhamad](https://github.com/youssef-md)
 
 ## 8. Referencial Teórico
 
