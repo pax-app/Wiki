@@ -2,6 +2,7 @@
     <img src="assets/assets/pax-full-black-font.svg" class="sidebar-pax-logo">
 </a>
 
+- [**Veja o App Funcionando ->**](https://drive.google.com/drive/folders/19Hgk-rZJ2wgEJc_Ya4ZpcsMz-sMmfrD2?usp=sharing)
 - [**Dinâmica e Seminário I**](docs/DS/dinamica-e-seminario-1/README.md)
   - [Definições de Projeto](docs/DS/dinamica-e-seminario-1/DefinicoesDeProjeto.md)
   - [Argumentação](docs/DS/dinamica-e-seminario-1/Argumentacao.md)
